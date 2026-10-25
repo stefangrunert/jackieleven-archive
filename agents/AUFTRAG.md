@@ -25,6 +25,8 @@ Diese Vorlage gilt für jede Sitzung, die einen Auftrag aus `jobs/` bearbeitet. 
    - Zeitangaben als EDTF: `1975?` unsicher, `1975~` ungefähr, `[1976,1977]` eines von beiden, `2004-10/2004-11` Zeitraum, `198X` Jahrzehnt.
    - Widersprüchliche Angaben werden nicht aufgelöst. Jede wird eine eigene Aussage mit ihren Belegen; `rank` bleibt `normal`, außer der Auftrag sagt anderes.
    - Ein Konzertkalender belegt nur die Ankündigung (`announced`). `took_place` braucht einen Bericht, ein Foto, einen Mitschnitt oder eine spätere Erwähnung.
+   - Ereignisse, die nur aus Ankündigungen oder Vorberichten bekannt sind, werden erfasst, tragen aber nur `announced` und die Notiz „Nur angekündigt; Durchführung nicht belegt.“
+   - Autor eines Dokuments: Nennt der Text einen Namen, während der Kopf der Quelldatei „anonym“ angibt, gilt der Name im Text. Schreibt die Quelldatei, der Name gehöre vermutlich zu einem anderen Artikel, bleibt der Autor leer.
    - `recorded_by` an jeder Entität: `agent: claude-code`, `model`, `job`.
 2. **Einen Eintrag im Abdeckungsregister** unter `coverage/<schlüssel>.yaml`: was durchgesehen wurde, mit welchem Verfahren, mit welchem Ergebnis, auch wenn nichts gefunden wurde. Nicht lesbare oder fehlende Teile unter `items_unavailable`.
 
