@@ -1,0 +1,30 @@
+job_id: job/meldungen
+goal: >-
+  Konzerte, Auftritte und Beteiligte aus den Meldungen erschließen und dabei
+  den Bestand aus dem Pilot ergänzen: bekannte Konzerte, Spielstätten, Orte
+  und Personen erhalten zusätzliche Belege statt neuer Datensätze.
+job_scope:
+  materials:
+    - research/quellen/meldungen/*.md
+  classes: [Event, Place, Person, Group, Organization, Document, Publication]
+method: extraction
+output: [candidates, coverage]
+budget:
+  page_fetches: 0
+  web_searches: 0
+  subtasks: 6
+model: claude-sonnet-5-5
+status: running
+instructions: >-
+  Ohne Webzugriff; Grundlage sind nur die Dateien im Website-Repository.
+  Vor jedem Anlegen in data/ suchen (Bezeichnung, Namensvarianten, Datum und
+  Ort bei Ereignissen) und Treffer ergänzen; im Bericht ergänzte und neue
+  Datensätze getrennt zählen. Einzelmeldungen werden je ein Dokument.
+  Sammeldateien (Nasjonalbiblioteket-Jahresdateien und andere) werden nicht
+  als Ganzes ein Dokument: ein Dokument entsteht nur für eine Fundstelle mit
+  eigenem Permalink, die eine erfasste Aussage belegt. Fundstellen, die nicht
+  frei lesbar sind oder nur eine Programm- oder Listennennung enthalten,
+  werden nicht einzeln erfasst, sondern im Registereintrag gezählt. Konzerte
+  aus Ankündigungen tragen nur announced. Veröffentlichungen (Alben, Singles)
+  werden nicht als Entitäten angelegt, da das Schema dafür noch keine Klasse
+  hat; auffällige Angaben dazu kommen in den Bericht.
