@@ -10,8 +10,8 @@ time:
   references:
   - document: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
     locator: Record Mirror, 28.07.1979, S. 4
-    quote: A European tour is fixed for October
     evidence_type: third_party
+    scope: Europatour für Oktober als fest geplant gemeldet.
 participants:
 - statement_id: st-220356788041
   agent_ref: group/doll-by-doll

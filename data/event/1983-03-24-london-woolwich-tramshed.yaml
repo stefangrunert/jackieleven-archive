@@ -9,16 +9,16 @@ time:
   references:
   - document: document/1983-03-19-nme-bred-by-leven
     locator: NME, 19.03.1983, Forthcoming Visitors
-    quote: Woolwich Tramshed on March 24
     evidence_type: third_party
+    scope: Auftritt im Woolwich Tramshed am 24. März angekündigt.
 took_place_at:
 - statement_id: st-a41723b42c32
   entity_value: place/woolwich-tramshed-london
   references:
   - document: document/1983-03-19-nme-bred-by-leven
     locator: NME, 19.03.1983, Forthcoming Visitors
-    quote: Woolwich Tramshed on March 24
     evidence_type: third_party
+    scope: Auftritt im Woolwich Tramshed am 24. März angekündigt.
 participants:
 - statement_id: st-fb2222dfd0e8
   agent_ref: group/jackie-leven-band-1983
@@ -27,8 +27,8 @@ participants:
   references:
   - document: document/1983-03-19-nme-bred-by-leven
     locator: NME, 19.03.1983, Forthcoming Visitors
-    quote: Woolwich Tramshed on March 24
     evidence_type: third_party
+    scope: Auftritt im Woolwich Tramshed am 24. März angekündigt.
 performance_status:
 - statement_id: st-6f2f27155465
   status_value: announced
@@ -36,8 +36,8 @@ performance_status:
   references:
   - document: document/1983-03-19-nme-bred-by-leven
     locator: NME, 19.03.1983, Forthcoming Visitors
-    quote: Woolwich Tramshed on March 24
     evidence_type: third_party
+    scope: Auftritt im Woolwich Tramshed am 24. März angekündigt.
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

@@ -10,8 +10,8 @@ time:
   references:
   - document: document/1981-10-03-record-mirror-tour-by-doll-line-up-change
     locator: Record Mirror, 03.10.1981
-    quote: about to set off on a major British tour
     evidence_type: third_party
+    scope: Große Großbritannien-Tour „in Kürze“ angekündigt.
 participants:
 - statement_id: st-0722461d83ae
   agent_ref: group/doll-by-doll

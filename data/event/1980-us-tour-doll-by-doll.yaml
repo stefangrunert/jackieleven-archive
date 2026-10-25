@@ -10,8 +10,8 @@ time:
   references:
   - document: document/1980-05-10-sounds-doll-by-doll-without-label
     locator: Sounds, 10.05.1980
-    quote: before heading for the States early June
     evidence_type: third_party
+    scope: Reise in die USA für Anfang Juni angekündigt.
 - statement_id: st-ab8188810194
   edtf_value: 1980-08
   note: Laut Record Mirror im August.

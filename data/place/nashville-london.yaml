@@ -12,8 +12,8 @@ located_in:
     evidence_type: third_party
   - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
     locator: Record Mirror, 08.12.1979
-    quote: play two more shows before Christmas
     evidence_type: third_party
+    scope: Zwei weitere Konzerte vor Weihnachten angekündigt (17.12. Nashville, 21.12. Marquee).
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

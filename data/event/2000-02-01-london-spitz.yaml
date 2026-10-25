@@ -10,16 +10,16 @@ time:
   references:
   - document: document/2000-01-cooking-vinyl-defending-ancient-springs-brand-new-studio-album
     locator: Cooking Vinyl, 2000-01
-    quote: Release-Konzert 1. Februar 2000, Spitz, Commercial Street
     evidence_type: primary_document
+    scope: Release-Konzert am Dienstag, 1. Februar 2000, im Spitz (Commercial Street) genannt.
 took_place_at:
 - statement_id: st-83ec36b6b54a
   entity_value: place/spitz-london
   references:
   - document: document/2000-01-cooking-vinyl-defending-ancient-springs-brand-new-studio-album
     locator: Cooking Vinyl, 2000-01
-    quote: Release-Konzert 1. Februar 2000, Spitz, Commercial Street
     evidence_type: primary_document
+    scope: Release-Konzert am Dienstag, 1. Februar 2000, im Spitz (Commercial Street) genannt.
 participants:
 - statement_id: st-156fe9c89824
   agent_ref: person/jackie-leven
@@ -29,8 +29,8 @@ participants:
   references:
   - document: document/2000-01-cooking-vinyl-defending-ancient-springs-brand-new-studio-album
     locator: Cooking Vinyl, 2000-01
-    quote: Release-Konzert 1. Februar 2000, Spitz, Commercial Street
     evidence_type: primary_document
+    scope: Release-Konzert am Dienstag, 1. Februar 2000, im Spitz (Commercial Street) genannt.
 performance_status:
 - statement_id: st-1309d96d90b5
   status_value: announced
@@ -38,8 +38,8 @@ performance_status:
   references:
   - document: document/2000-01-cooking-vinyl-defending-ancient-springs-brand-new-studio-album
     locator: Cooking Vinyl, 2000-01
-    quote: Release-Konzert 1. Februar 2000, Spitz, Commercial Street
     evidence_type: primary_document
+    scope: Release-Konzert am Dienstag, 1. Februar 2000, im Spitz (Commercial Street) genannt.
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

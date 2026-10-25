@@ -9,16 +9,16 @@ time:
   references:
   - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
     locator: Record Mirror, 08.12.1979
-    quote: play two more shows before Christmas
     evidence_type: third_party
+    scope: Zwei weitere Konzerte vor Weihnachten angekündigt (17.12. Nashville, 21.12. Marquee).
 took_place_at:
 - statement_id: st-91477469afc8
   entity_value: place/marquee-london
   references:
   - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
     locator: Record Mirror, 08.12.1979
-    quote: play two more shows before Christmas
     evidence_type: third_party
+    scope: Zwei weitere Konzerte vor Weihnachten angekündigt (17.12. Nashville, 21.12. Marquee).
 participants:
 - statement_id: st-0138192fb94e
   agent_ref: group/doll-by-doll
@@ -27,8 +27,8 @@ participants:
   references:
   - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
     locator: Record Mirror, 08.12.1979
-    quote: play two more shows before Christmas
     evidence_type: third_party
+    scope: Zwei weitere Konzerte vor Weihnachten angekündigt (17.12. Nashville, 21.12. Marquee).
 performance_status:
 - statement_id: st-5bffed4d3cc5
   status_value: announced
@@ -36,8 +36,8 @@ performance_status:
   references:
   - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
     locator: Record Mirror, 08.12.1979
-    quote: play two more shows before Christmas
     evidence_type: third_party
+    scope: Zwei weitere Konzerte vor Weihnachten angekündigt (17.12. Nashville, 21.12. Marquee).
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

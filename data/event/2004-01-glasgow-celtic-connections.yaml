@@ -11,16 +11,18 @@ time:
   references:
   - document: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
     locator: Pressemitteilung, 27.01.2004
-    quote: world premiere of Jackie Leven Said
     evidence_type: inferred
+    scope: Uraufführung von Jackie Leven Said am 27. Januar 2004 in der Strathclyde Suite der Royal Concert
+      Hall Glasgow, im Rahmen von Celtic Connections.
 took_place_at:
 - statement_id: st-3d504105d630
   entity_value: place/glasgow
   references:
   - document: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
     locator: Pressemitteilung, 27.01.2004
-    quote: world premiere of Jackie Leven Said
     evidence_type: primary_document
+    scope: Uraufführung von Jackie Leven Said am 27. Januar 2004 in der Strathclyde Suite der Royal Concert
+      Hall Glasgow, im Rahmen von Celtic Connections.
 performance_status:
 - statement_id: st-bff4a1bbd331
   status_value: announced
@@ -28,8 +30,9 @@ performance_status:
   references:
   - document: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
     locator: Pressemitteilung, 27.01.2004
-    quote: world premiere of Jackie Leven Said
     evidence_type: primary_document
+    scope: Uraufführung von Jackie Leven Said am 27. Januar 2004 in der Strathclyde Suite der Royal Concert
+      Hall Glasgow, im Rahmen von Celtic Connections.
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

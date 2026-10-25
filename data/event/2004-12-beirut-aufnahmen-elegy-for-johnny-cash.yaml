@@ -45,8 +45,8 @@ participants:
   references:
   - document: document/2005-08-01-jackieleven-com-elegy-for-johnny-cash-albuminfo
     locator: jackieleven.com, 01.08.2005
-    quote: produced by Leven and his engineer David Wrench
     evidence_type: primary_document
+    scope: Produktion durch Leven und seinen Toningenieur David Wrench.
 - statement_id: st-606566a4b773
   agent_ref: person/mixalis-kataxanis
   roles:

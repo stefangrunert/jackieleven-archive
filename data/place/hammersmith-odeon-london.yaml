@@ -8,8 +8,8 @@ located_in:
   references:
   - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
     locator: Record Mirror, 08.12.1979
-    quote: after their appearance at the Hammersmith Odeon on Sunday
     evidence_type: third_party
+    scope: Trennung von der Hawkwind-Tour nach dem Auftritt am Sonntag im Hammersmith Odeon.
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

@@ -8,8 +8,8 @@ located_in:
   references:
   - document: document/2000-01-cooking-vinyl-defending-ancient-springs-brand-new-studio-album
     locator: Cooking Vinyl, 2000-01
-    quote: Release-Konzert 1. Februar 2000, Spitz, Commercial Street
     evidence_type: primary_document
+    scope: Release-Konzert am Dienstag, 1. Februar 2000, im Spitz (Commercial Street) genannt.
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

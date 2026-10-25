@@ -10,16 +10,16 @@ time:
   references:
   - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
     locator: Record Mirror, 08.12.1979
-    quote: after their appearance at the Hammersmith Odeon on Sunday
     evidence_type: inferred
+    scope: Trennung von der Hawkwind-Tour nach dem Auftritt am Sonntag im Hammersmith Odeon.
 took_place_at:
 - statement_id: st-e9c864538a7d
   entity_value: place/hammersmith-odeon-london
   references:
   - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
     locator: Record Mirror, 08.12.1979
-    quote: after their appearance at the Hammersmith Odeon on Sunday
     evidence_type: third_party
+    scope: Trennung von der Hawkwind-Tour nach dem Auftritt am Sonntag im Hammersmith Odeon.
 participants:
 - statement_id: st-fd3725c7040b
   agent_ref: group/doll-by-doll
@@ -28,8 +28,8 @@ participants:
   references:
   - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
     locator: Record Mirror, 08.12.1979
-    quote: after their appearance at the Hammersmith Odeon on Sunday
     evidence_type: third_party
+    scope: Trennung von der Hawkwind-Tour nach dem Auftritt am Sonntag im Hammersmith Odeon.
 - statement_id: st-6ae8964fe5ff
   agent_ref: group/hawkwind
   roles:
@@ -37,16 +37,16 @@ participants:
   references:
   - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
     locator: Record Mirror, 08.12.1979
-    quote: after their appearance at the Hammersmith Odeon on Sunday
     evidence_type: third_party
+    scope: Trennung von der Hawkwind-Tour nach dem Auftritt am Sonntag im Hammersmith Odeon.
 performance_status:
 - statement_id: st-9e8caacacf1d
   status_value: took_place
   references:
   - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
     locator: Record Mirror, 08.12.1979
-    quote: after their appearance at the Hammersmith Odeon on Sunday
     evidence_type: third_party
+    scope: Trennung von der Hawkwind-Tour nach dem Auftritt am Sonntag im Hammersmith Odeon.
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5
