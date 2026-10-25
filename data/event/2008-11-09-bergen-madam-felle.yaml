@@ -29,11 +29,10 @@ performance_status:
   references:
   - document: document/2008-08-29-bergensavisen-jackie-leven-tilbake
     locator: Bergensavisen, 29.08.2008
-    quote: Her har han gjort noen magiske konserter før, og det er duket for nok en høytidsstund med nydelige
-      låter og absurde historier.
     evidence_type: third_party
-note: Veranstaltungskalender der Bergensavisen vom 07.11.2008 und Studvest führen Leven laut Quellendatei
-  offenbar schon am Freitag, 07.11.2008 (nicht geprüft); die Datierung ist offen.
+note: Nur angekündigt; Durchführung nicht belegt. Veranstaltungskalender der Bergensavisen vom 07.11.2008
+  und Studvest führen Leven laut Quellendatei offenbar schon am Freitag, 07.11.2008 (nicht geprüft); die
+  Datierung ist offen.
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

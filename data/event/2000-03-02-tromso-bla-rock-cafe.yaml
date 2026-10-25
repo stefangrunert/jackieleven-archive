@@ -58,8 +58,8 @@ performance_status:
     locator: Tromsø, 04.03.2000
     quote: Jackie Leven har utstråling.
     evidence_type: third_party
-note: Der Vorbericht nennt das Blå Rock Café als Spielort; das Konzert im Grand Hotel Tromsø ist im Text
-  nur als Plattendank erwähnt.
+note: Das Grand Hotel Tromsø erscheint im Vorbericht nur als Dank der Grand-Bar auf einem Album Levens,
+  nicht als Konzert.
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

@@ -1,6 +1,6 @@
-id: person/kevin-ofoster
+id: person/alex-skorecki
 type: Person
-label: Kevin O’Foster
+label: Alex Skorecki
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

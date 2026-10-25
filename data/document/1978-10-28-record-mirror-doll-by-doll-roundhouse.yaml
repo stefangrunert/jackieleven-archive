@@ -3,6 +3,10 @@ type: Document
 label: Doll By Doll – London Roundhouse
 document_type: concert_review
 language: en
+participants:
+- agent_ref: person/alex-skorecki
+  roles:
+  - author
 published:
 - edtf_value: '1978-10-28'
 published_in:

@@ -44,9 +44,8 @@ performance_status:
   references:
   - document: document/2006-08-the-list-fisher-king-leven
     locator: The List, August 2006
-    quote: The three will trade each others’ songs in a show that, according to Weston King, will be full
-      of ‘dark perverse humour, song and stories, maybe some poetry’.
     evidence_type: third_party
+note: Nur angekündigt; Durchführung nicht belegt.
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

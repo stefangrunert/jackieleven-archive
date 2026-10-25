@@ -36,9 +36,8 @@ performance_status:
   references:
   - document: document/2007-08-01-vaganavisa-jan-age-johansen-henter-jackie-leven
     locator: Våganavisa, 01.08.2007
-    quote: Jackie Leven er en av svært få artister jeg vet om som er i stand til å trollbinde publikum
-      bare med stemmen, tekstene og en gitar.
     evidence_type: third_party
+note: Nur angekündigt; Durchführung nicht belegt.
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

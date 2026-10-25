@@ -36,8 +36,8 @@ performance_status:
   references:
   - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
     locator: Dalane Tidende, 21.04.2010
-    quote: Skotten forteller så mange skrøner under konsertene sine
     evidence_type: third_party
+note: Nur angekündigt; Durchführung nicht belegt.
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

@@ -36,8 +36,8 @@ performance_status:
   references:
   - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
     locator: Halden Arbeiderblad, 15.09.2005
-    quote: Jackie Leven liker seg best i små, intime lokaler der nærheten til publikum er stor
     evidence_type: third_party
+note: Nur angekündigt; Durchführung nicht belegt.
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

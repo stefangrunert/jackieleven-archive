@@ -30,6 +30,7 @@ performance_status:
   - document: document/2007-09-24-drammens-tidende-jackie-pa-buddy
     locator: Drammens Tidende, 24.09.2007
     evidence_type: third_party
+note: Nur angekündigt; Durchführung nicht belegt.
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

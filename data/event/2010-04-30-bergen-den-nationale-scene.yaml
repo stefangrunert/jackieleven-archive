@@ -38,9 +38,8 @@ performance_status:
   references:
   - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
     locator: Laagendalsposten, 13.04.2010
-    quote: Da konstellasjonen Leven-Buen så dagens lys for første gang på Kongsberg Jazz Festival i 2009
-      var det en umiddelbar suksess med utsolgt konsert.
     evidence_type: third_party
+note: Nur angekündigt; Durchführung nicht belegt.
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

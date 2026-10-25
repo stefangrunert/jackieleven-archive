@@ -30,10 +30,12 @@ participants:
   - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
     locator: musicOMH, Kopfzeile der Kritik
     evidence_type: third_party
-- agent_ref: person/kevin-ofoster
+- agent_ref: person/kevin-foster
   roles:
   - guitar
   credited_as: Kevin O’Foster
+  note: Schreibweise der Quelle; als dieselbe Person wie der Bassist Kevin Foster (1997) geführt (Entscheidung
+    der Koordination)
   references:
   - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
     locator: musicOMH, Kopfzeile der Kritik
