@@ -1,0 +1,24 @@
+id: document/2002-01-wondrous-stories-experiencing-jackie-leven
+type: Document
+label: 'Experiencing Jackie Leven (Rock Review: Jackie Leven)'
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/doug-anderson
+  roles:
+  - author
+published:
+- edtf_value: 2002-01
+published_in:
+- entity_value: publication/wondrous-stories
+reviews:
+- event/2001-10-germany-tour
+url: http://s159645853.websitehome.co.uk/rockreviews/leven/02CRS-120.html
+archive_url: https://web.archive.org/web/20070221081434/http://s159645853.websitehome.co.uk:80/rockreviews/leven/02CRS-120.html
+access: live
+note: Tourbericht eines Fans, der als Merchandiser mitreiste; Kontaktdaten Dritter wurden nicht übernommen.
+  Die Einzeltermine der Tour stehen auf einer Indexseite derselben Website, nicht im Dokument.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

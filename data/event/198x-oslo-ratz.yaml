@@ -1,0 +1,38 @@
+id: event/198x-oslo-ratz
+type: Event
+label: Doll by Doll, Ratz, Oslo
+event_type: concert
+time:
+- edtf_value: 198X
+  note: Nur als Erinnerung des Klubbetreibers belegt („Anfang der Achtziger“); weder Tag noch Jahr genannt.
+  references:
+  - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
+    locator: Halden Arbeiderblad, 15.09.2005 (Erinnerung von Tom Skjeklesæther)
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/ratz-oslo
+  references:
+  - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
+    locator: Halden Arbeiderblad, 15.09.2005 (Erinnerung von Tom Skjeklesæther)
+    evidence_type: third_party
+participants:
+- agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
+    locator: Halden Arbeiderblad, 15.09.2005 (Erinnerung von Tom Skjeklesæther)
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
+    locator: Halden Arbeiderblad, 15.09.2005 (Erinnerung von Tom Skjeklesæther)
+    quote: Doll by Doll var det første bandet vi hadde på Ratz
+    evidence_type: third_party
+note: Hinweis auf ein Norwegen-Konzert von Doll by Doll in den frühen 1980ern; nur in dieser Erinnerung
+  belegt.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

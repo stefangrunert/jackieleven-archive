@@ -1,0 +1,14 @@
+id: place/korks-otley
+type: Place
+label: Korks
+place_type: venue
+located_in:
+- entity_value: place/otley
+  references:
+  - document: document/2003-02-03-the-guardian-jackie-leven-korks-otley
+    locator: The Guardian, 03.02.2003
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

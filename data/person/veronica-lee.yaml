@@ -1,0 +1,7 @@
+id: person/veronica-lee
+type: Person
+label: Veronica Lee
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

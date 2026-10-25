@@ -1,0 +1,19 @@
+id: document/2003-05-uncut-jackie-leven-the-borderline-london
+type: Document
+label: Jackie Leven – The Borderline, London
+document_type: concert_review
+language: en
+published:
+- edtf_value: 2003-05
+published_in:
+- entity_value: publication/uncut
+reviews:
+- event/2003-02-17-london-the-borderline
+url: https://www.uncut.co.uk/features/jackie-leven-the-borderline-london-24998/
+archive_url: https://web.archive.org/web/20250323213126/https://www.uncut.co.uk/features/jackie-leven-the-borderline-london-24998/
+access: live
+note: Die Quellendatei stuft die Sicherheit der Angaben als „unsicher“ ein.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

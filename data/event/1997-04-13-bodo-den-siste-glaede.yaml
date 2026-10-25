@@ -1,0 +1,51 @@
+id: event/1997-04-13-bodo-den-siste-glaede
+type: Event
+label: Jackie Leven, Den Siste Glæde, Bodø (1997-04-13)
+event_type: concert
+time:
+- edtf_value: '1997-04-13'
+  note: Sonntag, 13. April 1997 laut Kritik.
+  references:
+  - document: document/1997-04-15-nordlands-framtid-en-poetisk-grisegutt
+    locator: Nordlands Framtid, 15.04.1997
+    evidence_type: third_party
+  - document: document/1997-04-15-nordlandsposten-leven-pa-glaeden
+    locator: Nordlandsposten, 15.04.1997
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/den-siste-glaede-bodo
+  references:
+  - document: document/1997-04-15-nordlands-framtid-en-poetisk-grisegutt
+    locator: Nordlands Framtid, 15.04.1997
+    evidence_type: third_party
+  - document: document/1997-04-15-nordlandsposten-leven-pa-glaeden
+    locator: Nordlandsposten, 15.04.1997
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1997-04-15-nordlands-framtid-en-poetisk-grisegutt
+    locator: Nordlands Framtid, 15.04.1997
+    evidence_type: third_party
+  - document: document/1997-04-15-nordlandsposten-leven-pa-glaeden
+    locator: Nordlandsposten, 15.04.1997
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1997-04-15-nordlands-framtid-en-poetisk-grisegutt
+    locator: Nordlands Framtid, 15.04.1997
+    quote: Med gitaren som både gitar og tromme, venstrefoten som en manuell rytmeboks og stemmen som
+      en sjelfull høylandslur, fylte han lokalet med skotsk høylandssoul.
+    evidence_type: third_party
+  - document: document/1997-04-15-nordlandsposten-leven-pa-glaeden
+    locator: Nordlandsposten, 15.04.1997
+    quote: Og vitsene mellom sangene bidro like mye som musikken til å lage en vellykket kveld.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

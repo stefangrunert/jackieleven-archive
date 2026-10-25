@@ -1,0 +1,21 @@
+id: document/2005-10-01-lofotposten-bla-leven
+type: Document
+label: Blå Leven
+document_type: concert_review
+language: 'no'
+participants:
+- agent_ref: person/anki-gerhardsen
+  roles:
+  - author
+published:
+- edtf_value: '2005-10-01'
+published_in:
+- entity_value: publication/lofotposten
+reviews:
+- event/2005-09-29-kabelvag-praestengbrygga
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_lofotposten_null_null_20051001_110_227_1
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

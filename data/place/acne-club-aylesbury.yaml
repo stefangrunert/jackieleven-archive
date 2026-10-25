@@ -1,0 +1,15 @@
+id: place/acne-club-aylesbury
+type: Place
+label: Acne Club
+place_type: venue
+located_in:
+- entity_value: place/aylesbury
+  references:
+  - document: document/1978-06-zigzag-doll-by-doll-acne-club-aylesbury
+    locator: ZigZag Nr. 84, Juni 1978
+    evidence_type: third_party
+note: Mittwochsabend-Disco im Hinterzimmer eines Pubs, laut ZigZag als „Acne Club“ für Bands genutzt.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

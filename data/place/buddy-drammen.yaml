@@ -1,0 +1,17 @@
+id: place/buddy-drammen
+type: Place
+label: Buddy
+place_type: venue
+located_in:
+- entity_value: place/drammen
+  references:
+  - document: document/2007-09-24-drammens-tidende-jackie-pa-buddy
+    locator: Drammens Tidende, 24.09.2007
+    evidence_type: third_party
+  - document: document/2008-11-14-drammens-tidende-en-bamseklem-av-en-konsert
+    locator: Drammens Tidende, 14.11.2008
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

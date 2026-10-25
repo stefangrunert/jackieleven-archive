@@ -1,0 +1,22 @@
+id: document/2009-07-03-dalane-tidende-jackie-leven-dalane-brygghus
+type: Document
+label: '[Visefestivalen Egersund 2009: Jackie Leven, Dalane Brygghus]'
+document_type: news
+language: 'no'
+participants:
+- agent_ref: person/ingve-aalbu
+  roles:
+  - author
+published:
+- edtf_value: '2009-07-03'
+published_in:
+- entity_value: publication/dalane-tidende
+about:
+- event/2009-07-egersund-dalane-brygghus
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_dalanetidende_null_null_20090703_125_75_1
+access: live
+note: Porträt im Festivalprogramm; Lebensgeschichte als Hörensagen („etter sigende“) wiedergegeben.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

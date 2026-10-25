@@ -1,0 +1,18 @@
+id: document/2008-08-29-bergensavisen-jackie-leven-tilbake
+type: Document
+label: Jackie Leven tilbake
+document_type: news
+language: 'no'
+published:
+- edtf_value: '2008-08-29'
+published_in:
+- entity_value: publication/bergensavisen
+about:
+- event/2008-11-09-bergen-madam-felle
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_20080829_81_233_1
+access: live
+note: Kurze Konzertankündigung ohne eigene Wertung.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

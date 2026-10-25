@@ -1,0 +1,23 @@
+id: document/1980-08-09-record-mirror-doll-by-doll-torrington-london
+type: Document
+label: Doll By Doll – Torrington, London
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/graham-stevens
+  roles:
+  - author
+published:
+- edtf_value: '1980-08-09'
+published_in:
+- entity_value: publication/record-mirror
+reviews:
+- event/1980-08-london-torrington
+url: https://www.worldradiohistory.com/UK/Record-Mirror/80s/80/Record-Mirror-1980-08-09.pdf
+archive_url: https://web.archive.org/web/20260211130324/https://www.worldradiohistory.com/UK/Record-Mirror/80s/80/Record-Mirror-1980-08-09.pdf
+access: live
+note: Die Quellendatei stuft die Sicherheit der Angaben als „unsicher“ ein.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

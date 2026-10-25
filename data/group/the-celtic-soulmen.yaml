@@ -1,0 +1,27 @@
+id: group/the-celtic-soulmen
+type: Group
+label: The Celtic Soulmen
+members:
+- agent_ref: person/michael-cosgrave
+  roles:
+  - keyboards
+  - member
+  references:
+  - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
+    locator: Bergensavisen, 01.11.1998
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+- agent_ref: person/steafan-hannigan
+  roles:
+  - other
+  - member
+  instrument: Perkussion, Uilleann Pipes
+  references:
+  - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
+    locator: Bergensavisen, 01.11.1998
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

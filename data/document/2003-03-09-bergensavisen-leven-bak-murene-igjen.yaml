@@ -1,0 +1,22 @@
+id: document/2003-03-09-bergensavisen-leven-bak-murene-igjen
+type: Document
+label: Leven bak murene igjen
+document_type: concert_review
+language: 'no'
+participants:
+- agent_ref: person/kaspar-synnevag
+  roles:
+  - author
+published:
+- edtf_value: '2003-03-09'
+published_in:
+- entity_value: publication/bergensavisen
+reviews:
+- event/2003-03-08-bergen-fengsel
+- event/2003-03-07-bergen-madam-felle
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_20030309_77_67_1
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

@@ -1,0 +1,7 @@
+id: publication/the-list-festivalausgabe
+type: Publication
+label: The List , Festivalausgabe
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

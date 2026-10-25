@@ -1,0 +1,14 @@
+id: place/richmond
+type: Place
+label: Richmond
+place_type: district
+located_in:
+- entity_value: place/london
+  references:
+  - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
+    locator: Melody Maker, 13.09.1980
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

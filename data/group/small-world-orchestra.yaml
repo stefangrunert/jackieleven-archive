@@ -1,0 +1,36 @@
+id: group/small-world-orchestra
+type: Group
+label: Small World Orchestra
+members:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  - member
+  references:
+  - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
+    locator: Drammens Tidende, 30.08.2005
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/2005-09-26-drammens-tidende-naervaer-av-tredje-grad
+    locator: Drammens Tidende, 26.09.2005
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+- agent_ref: person/eivind-kloverod
+  roles:
+  - other
+  - member
+  instrument: Perkussion/Schlagzeug
+  references:
+  - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
+    locator: Drammens Tidende, 30.08.2005
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/2005-09-26-drammens-tidende-naervaer-av-tredje-grad
+    locator: Drammens Tidende, 26.09.2005
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

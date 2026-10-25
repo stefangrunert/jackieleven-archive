@@ -1,0 +1,40 @@
+id: event/1976-01-madrid-la-boite
+type: Event
+label: John St. Field, La Boîte, Madrid (1976-01?)
+event_type: concert
+time:
+- edtf_value: 1976-01?
+  note: Konzert vor dem Erscheinungsdatum 28.01.1976; Tag nicht genannt.
+  references:
+  - document: document/1976-01-28-ya-folk-rock-escoces-john-st-field-la-boite
+    locator: Ya, 28.01.1976, S. 42
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/la-boite-madrid
+  references:
+  - document: document/1976-01-28-ya-folk-rock-escoces-john-st-field-la-boite
+    locator: Ya, 28.01.1976, S. 42
+    evidence_type: third_party
+participants:
+- agent_ref: persona/john-st-field
+  roles:
+  - performer
+  - vocals
+  - guitar
+  references:
+  - document: document/1976-01-28-ya-folk-rock-escoces-john-st-field-la-boite
+    locator: Ya, 28.01.1976, S. 42
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1976-01-28-ya-folk-rock-escoces-john-st-field-la-boite
+    locator: Ya, 28.01.1976, S. 42
+    quote: Está en España precisamente para presentar ese disco
+    evidence_type: third_party
+note: Der Bericht nennt nur den Namen John St. Field. Dass dahinter Jackie Leven steht, stammt aus den
+  Recherchenotizen der Quellendatei, nicht aus dem Bericht.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

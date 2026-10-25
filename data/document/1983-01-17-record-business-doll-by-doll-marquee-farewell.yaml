@@ -1,0 +1,22 @@
+id: document/1983-01-17-record-business-doll-by-doll-marquee-farewell
+type: Document
+label: 'Doll By Doll – London: Marquee'
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/john-hayward
+  roles:
+  - author
+published:
+- edtf_value: '1983-01-17'
+published_in:
+- entity_value: publication/record-business
+reviews:
+- event/1983-01-london-marquee
+url: https://www.worldradiohistory.com/UK/Record-Business-UK/1983/Record-Business-1983-01-17-S-OCR.pdf
+archive_url: https://web.archive.org/web/20251016014213/https://worldradiohistory.com/UK/Record-Business-UK/1983/Record-Business-1983-01-17-S-OCR.pdf
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

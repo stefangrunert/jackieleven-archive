@@ -1,0 +1,37 @@
+id: event/1998-10-21-kabelvag-praestengbrygga
+type: Event
+label: Jackie Leven, Præstengbrygga, Kabelvåg (1998-10-21)
+event_type: concert
+time:
+- edtf_value: '1998-10-21'
+  note: Mittwochabend, 21. Oktober 1998 laut Kritik.
+  references:
+  - document: document/1998-10-23-lofotposten-en-perfekt-kveld
+    locator: Lofotposten, 23.10.1998
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/praestengbrygga-kabelvag
+  references:
+  - document: document/1998-10-23-lofotposten-en-perfekt-kveld
+    locator: Lofotposten, 23.10.1998
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1998-10-23-lofotposten-en-perfekt-kveld
+    locator: Lofotposten, 23.10.1998
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1998-10-23-lofotposten-en-perfekt-kveld
+    locator: Lofotposten, 23.10.1998
+    quote: Leven er en autoritet på scenen, og med en kombinasjon av galgenhumor
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

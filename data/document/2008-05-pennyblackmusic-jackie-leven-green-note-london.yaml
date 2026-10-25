@@ -1,0 +1,23 @@
+id: document/2008-05-pennyblackmusic-jackie-leven-green-note-london
+type: Document
+label: Jackie Leven - Green Note, London 28/5/2008
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/ben-howarth
+  roles:
+  - author
+published:
+- edtf_value: 2008-05
+published_in:
+- entity_value: publication/pennyblackmusic
+reviews:
+- event/2008-05-28-london-green-note
+url: https://pennyblackmusic.co.uk/Home/Details?id=15789
+archive_url: https://web.archive.org/web/20250708141713/https://pennyblackmusic.co.uk/Home/Details?id=15789
+access: archive
+note: Die Quellendatei stuft die Sicherheit der Angaben als „unsicher“ ein.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

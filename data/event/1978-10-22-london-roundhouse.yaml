@@ -1,0 +1,60 @@
+id: event/1978-10-22-london-roundhouse
+type: Event
+label: Doll by Doll, Roundhouse, London (1978-10-22)
+event_type: concert
+time:
+- edtf_value: '1978-10-22'
+  note: Der Bericht sagt nur „Sunday night“; Sonntag vor dem Erscheinungsdatum 28.10.1978. Die Konzertliste
+    der Recherche nennt ebenfalls den 22.10.1978 (nicht geprüft).
+  references:
+  - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
+    locator: Record Mirror, 28.10.1978, S. 51/52
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/roundhouse-london
+  references:
+  - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
+    locator: Record Mirror, 28.10.1978, S. 51/52
+    evidence_type: third_party
+participants:
+- agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
+    locator: Record Mirror, 28.10.1978, S. 51/52
+    evidence_type: third_party
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  references:
+  - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
+    locator: Record Mirror, 28.10.1978, S. 51/52
+    evidence_type: third_party
+- agent_ref: person/jo-shaw
+  roles:
+  - guitar
+  references:
+  - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
+    locator: Record Mirror, 28.10.1978, S. 51/52
+    evidence_type: third_party
+- agent_ref: person/dave-mcintosh
+  roles:
+  - drums
+  credited_as: Dave McIntosh
+  references:
+  - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
+    locator: Record Mirror, 28.10.1978, S. 51/52
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
+    locator: Record Mirror, 28.10.1978, S. 51/52
+    quote: Though not top of this Sunday night bill, Doll by Doll were far and away the most interesting
+      band of the evening.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

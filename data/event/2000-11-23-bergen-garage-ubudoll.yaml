@@ -1,0 +1,74 @@
+id: event/2000-11-23-bergen-garage-ubudoll
+type: Event
+label: UbuDoll (Jackie Leven und David Thomas), Garage, Bergen
+event_type: concert
+time:
+- edtf_value: '2000-11-23'
+  references:
+  - document: document/2000-09-29-bergensavisen-kulttreff-pa-garage-med-leven-og-thomas
+    locator: Bergensavisen, 29.09.2000
+    evidence_type: third_party
+  - document: document/2000-11-25-bergensavisen-trivelig-pa-garage
+    locator: Bergensavisen, 25.11.2000
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/garage-bergen
+  references:
+  - document: document/2000-09-29-bergensavisen-kulttreff-pa-garage-med-leven-og-thomas
+    locator: Bergensavisen, 29.09.2000
+    evidence_type: third_party
+  - document: document/2000-11-25-bergensavisen-trivelig-pa-garage
+    locator: Bergensavisen, 25.11.2000
+    evidence_type: third_party
+participants:
+- agent_ref: group/ubudoll
+  roles:
+  - performer
+  references:
+  - document: document/2000-09-29-bergensavisen-kulttreff-pa-garage-med-leven-og-thomas
+    locator: Bergensavisen, 29.09.2000
+    evidence_type: third_party
+  - document: document/2000-11-25-bergensavisen-trivelig-pa-garage
+    locator: Bergensavisen, 25.11.2000
+    evidence_type: third_party
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2000-09-29-bergensavisen-kulttreff-pa-garage-med-leven-og-thomas
+    locator: Bergensavisen, 29.09.2000
+    evidence_type: third_party
+  - document: document/2000-11-25-bergensavisen-trivelig-pa-garage
+    locator: Bergensavisen, 25.11.2000
+    evidence_type: third_party
+- agent_ref: person/david-thomas
+  roles:
+  - vocals
+  - other
+  instrument: Akkordeon
+  references:
+  - document: document/2000-09-29-bergensavisen-kulttreff-pa-garage-med-leven-og-thomas
+    locator: Bergensavisen, 29.09.2000
+    evidence_type: third_party
+  - document: document/2000-11-25-bergensavisen-trivelig-pa-garage
+    locator: Bergensavisen, 25.11.2000
+    evidence_type: third_party
+performance_status:
+- status_value: announced
+  references:
+  - document: document/2000-09-29-bergensavisen-kulttreff-pa-garage-med-leven-og-thomas
+    locator: Bergensavisen, 29.09.2000
+    quote: en happening med vokal, gitarer og trekkspill
+    evidence_type: third_party
+- status_value: took_place
+  references:
+  - document: document/2000-11-25-bergensavisen-trivelig-pa-garage
+    locator: Bergensavisen, 25.11.2000
+    quote: Den nysmidde duoen UbuDoll leverte en lavmælt, bittersøt, morsom og vakker kosestund på Garage
+      torsdag kveld.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

@@ -1,0 +1,7 @@
+id: person/johnny-andreassen
+type: Person
+label: Johnny Andreassen
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

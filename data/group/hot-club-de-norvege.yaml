@@ -1,0 +1,7 @@
+id: group/hot-club-de-norvege
+type: Group
+label: Hot Club de Norvège
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

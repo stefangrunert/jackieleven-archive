@@ -1,0 +1,23 @@
+id: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
+type: Document
+label: '[Vorbericht: Jackie Leven zurück in Egersund – Konzert im Grand Kjelleren zum Verdens bokdag]'
+document_type: news
+language: 'no'
+participants:
+- agent_ref: person/ingve-aalbu
+  roles:
+  - author
+published:
+- edtf_value: '2010-04-21'
+published_in:
+- entity_value: publication/dalane-tidende
+about:
+- event/2009-07-egersund-dalane-brygghus
+- event/2010-04-23-egersund-grand-kjelleren
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_dalanetidende_null_null_20100421_125_45_1
+access: live
+note: Konzertvorbericht mit Porträt.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

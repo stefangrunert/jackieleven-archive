@@ -1,0 +1,65 @@
+id: event/2009-07-egersund-dalane-brygghus
+type: Event
+label: Jackie Leven, Egersund Visefestival, Dalane Brygghus
+event_type: festival_appearance
+time:
+- edtf_value: 2009-07
+  note: Festival im Juli 2009; die Quellendatei vermutet 03./04.07.2009, der Text nennt keine Tage.
+  references:
+  - document: document/2009-07-03-dalane-tidende-jackie-leven-dalane-brygghus
+    locator: Dalane Tidende, 03.07.2009
+    evidence_type: third_party
+  - document: document/2009-07-06-dalane-tidende-fantastisk-historieforteller
+    locator: Dalane Tidende, 06.07.2009
+    evidence_type: third_party
+  - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
+    locator: Dalane Tidende, 21.04.2010 (Rückblick des Festivalleiters)
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/dalane-brygghus-egersund
+  references:
+  - document: document/2009-07-03-dalane-tidende-jackie-leven-dalane-brygghus
+    locator: Dalane Tidende, 03.07.2009
+    evidence_type: third_party
+  - document: document/2009-07-06-dalane-tidende-fantastisk-historieforteller
+    locator: Dalane Tidende, 06.07.2009
+    evidence_type: third_party
+  - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
+    locator: Dalane Tidende, 21.04.2010 (Rückblick des Festivalleiters)
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2009-07-03-dalane-tidende-jackie-leven-dalane-brygghus
+    locator: Dalane Tidende, 03.07.2009
+    evidence_type: third_party
+  - document: document/2009-07-06-dalane-tidende-fantastisk-historieforteller
+    locator: Dalane Tidende, 06.07.2009
+    evidence_type: third_party
+  - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
+    locator: Dalane Tidende, 21.04.2010 (Rückblick des Festivalleiters)
+    evidence_type: third_party
+performance_status:
+- status_value: announced
+  references:
+  - document: document/2009-07-03-dalane-tidende-jackie-leven-dalane-brygghus
+    locator: Dalane Tidende, 03.07.2009
+    quote: En spesiell mann med en spesiell stemme og en høyst spesiell livshistorie.
+    evidence_type: third_party
+- status_value: took_place
+  references:
+  - document: document/2009-07-06-dalane-tidende-fantastisk-historieforteller
+    locator: Dalane Tidende, 06.07.2009
+    quote: Leven er en stor mann på flere måter.
+    evidence_type: third_party
+  - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
+    locator: Dalane Tidende, 21.04.2010 (Rückblick des Festivalleiters)
+    evidence_type: third_party
+note: Der Rückblick von 2010 spricht von zwei Konzerten im Dalane Brygghus im Sommer 2009.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

@@ -1,0 +1,44 @@
+id: event/2015-07-12-birmingham-kitchen-garden-cafe
+type: Event
+label: Michael Weston King und Michael Cosgrave, Kitchen Garden Cafe, Kings Heath, Birmingham
+event_type: concert
+time:
+- edtf_value: '2015-07-12'
+  note: Sonntag, 12. Juli 2015 laut Titel des Berichts.
+  references:
+  - document: document/2015-07-13-three-chords-and-the-truth-uk-michael-weston-king-and-michael-cosgrave
+    locator: Three Chords and the Truth UK, 13.07.2015
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/kitchen-garden-cafe-birmingham
+  references:
+  - document: document/2015-07-13-three-chords-and-the-truth-uk-michael-weston-king-and-michael-cosgrave
+    locator: Three Chords and the Truth UK, 13.07.2015
+    evidence_type: third_party
+participants:
+- agent_ref: person/michael-weston-king
+  roles:
+  - vocals
+  references:
+  - document: document/2015-07-13-three-chords-and-the-truth-uk-michael-weston-king-and-michael-cosgrave
+    locator: Three Chords and the Truth UK, 13.07.2015
+    evidence_type: third_party
+- agent_ref: person/michael-cosgrave
+  roles:
+  - other
+  instrument: Gitarre, Klavier, Akkordeon
+  references:
+  - document: document/2015-07-13-three-chords-and-the-truth-uk-michael-weston-king-and-michael-cosgrave
+    locator: Three Chords and the Truth UK, 13.07.2015
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2015-07-13-three-chords-and-the-truth-uk-michael-weston-king-and-michael-cosgrave
+    locator: Three Chords and the Truth UK, 13.07.2015
+    quote: there was a sense that this well attended show was frequented by many of Jackie’s fans
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

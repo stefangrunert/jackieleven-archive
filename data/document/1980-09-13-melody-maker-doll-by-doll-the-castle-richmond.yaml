@@ -1,0 +1,21 @@
+id: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
+type: Document
+label: Doll By Doll, The Castle, Richmond
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/ian-pye
+  roles:
+  - author
+published:
+- edtf_value: '1980-09-13'
+published_in:
+- entity_value: publication/melody-maker
+reviews:
+- event/1980-09-richmond-the-castle
+url: https://www.worldradiohistory.com/UK/Melody-Maker/80s/80/Melody-Maker-1980-09-13.pdf
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

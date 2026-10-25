@@ -1,0 +1,14 @@
+id: place/grand-kjelleren-egersund
+type: Place
+label: Grand Kjelleren
+place_type: venue
+located_in:
+- entity_value: place/egersund
+  references:
+  - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
+    locator: Dalane Tidende, 21.04.2010
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

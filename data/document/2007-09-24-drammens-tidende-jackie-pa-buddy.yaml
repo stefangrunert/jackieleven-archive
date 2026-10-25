@@ -1,0 +1,22 @@
+id: document/2007-09-24-drammens-tidende-jackie-pa-buddy
+type: Document
+label: Jackie på Buddy
+document_type: news
+language: 'no'
+participants:
+- agent_ref: person/bjorn-zarbell-engh
+  roles:
+  - author
+published:
+- edtf_value: '2007-09-24'
+published_in:
+- entity_value: publication/drammens-tidende
+about:
+- event/2007-10-04-drammen-buddy
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_drammenstidende_null_null_20070924_1_257_1
+access: live
+note: Konzertvorbericht.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

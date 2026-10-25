@@ -1,0 +1,7 @@
+id: person/ole-p-refsahl
+type: Person
+label: Ole-P. Refsahl
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

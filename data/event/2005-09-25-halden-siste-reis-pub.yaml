@@ -1,0 +1,44 @@
+id: event/2005-09-25-halden-siste-reis-pub
+type: Event
+label: Jackie Leven, Siste Reis Pub, Halden (2005-09-25)
+event_type: concert
+time:
+- edtf_value: '2005-09-25'
+  note: Angekündigt für Sonntag, 25. September 2005.
+  references:
+  - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
+    locator: Halden Arbeiderblad, 15.09.2005
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/siste-reis-pub-halden
+  references:
+  - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
+    locator: Halden Arbeiderblad, 15.09.2005
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
+    locator: Halden Arbeiderblad, 15.09.2005
+    evidence_type: third_party
+- agent_ref: person/tom-skjeklesaether
+  roles:
+  - promoter
+  references:
+  - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
+    locator: Halden Arbeiderblad, 15.09.2005
+    evidence_type: third_party
+performance_status:
+- status_value: announced
+  references:
+  - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
+    locator: Halden Arbeiderblad, 15.09.2005
+    quote: Jackie Leven liker seg best i små, intime lokaler der nærheten til publikum er stor
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

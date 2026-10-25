@@ -1,0 +1,17 @@
+id: place/den-stundesloese-bergen
+type: Place
+label: Den Stundesløse
+place_type: venue
+located_in:
+- entity_value: place/bergen
+  references:
+  - document: document/2000-03-03-bergensavisen-gudbenadet-kar
+    locator: Bergensavisen, 03.03.2000
+    evidence_type: third_party
+  - document: document/2001-09-08-bergensavisen-altfor-mye-leven
+    locator: Bergensavisen, 08.09.2001
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

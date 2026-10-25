@@ -1,0 +1,23 @@
+id: place/christians-kjeller-kongsberg
+type: Place
+label: Christians Kjeller
+place_type: venue
+located_in:
+- entity_value: place/kongsberg
+  references:
+  - document: document/2009-07-02-drammens-tidende-unikt-musikkmote
+    locator: Drammens Tidende, 02.07.2009
+    evidence_type: third_party
+  - document: document/2009-07-04-laagendalsposten-folkelig-toppmote
+    locator: Laagendalsposten, 04.07.2009
+    evidence_type: third_party
+  - document: document/2009-07-07-varden-buen-og-leven-gi-ut-plate-sammen
+    locator: Varden, 07.07.2009
+    evidence_type: third_party
+  - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
+    locator: Laagendalsposten, 13.04.2010 (Rückblick)
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

@@ -1,0 +1,7 @@
+id: publication/pennyblackmusic
+type: Publication
+label: Pennyblackmusic
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

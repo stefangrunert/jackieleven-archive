@@ -1,0 +1,23 @@
+id: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
+type: Document
+label: '[…] kveld med Jackie Leven'
+document_type: concert_review
+language: 'no'
+participants:
+- agent_ref: person/frank-johnsen
+  roles:
+  - author
+published:
+- edtf_value: '1998-11-01'
+published_in:
+- entity_value: publication/bergensavisen
+reviews:
+- event/1998-10-30-bergen-garage
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_19981101_72_295_1
+access: live
+note: Anfang des Artikels im Zeitungsscan abgeschnitten. Die Quellendatei stuft die Sicherheit der Angaben
+  als „unsicher“ ein.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

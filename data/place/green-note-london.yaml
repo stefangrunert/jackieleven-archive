@@ -1,0 +1,14 @@
+id: place/green-note-london
+type: Place
+label: Green Note
+place_type: venue
+located_in:
+- entity_value: place/london
+  references:
+  - document: document/2008-05-pennyblackmusic-jackie-leven-green-note-london
+    locator: Pennyblackmusic, Titel „Green Note, London 28/5/2008“
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

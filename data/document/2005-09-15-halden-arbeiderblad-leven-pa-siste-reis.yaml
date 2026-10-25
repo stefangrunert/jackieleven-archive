@@ -1,0 +1,23 @@
+id: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
+type: Document
+label: Leven på Siste Reis
+document_type: news
+language: 'no'
+participants:
+- agent_ref: person/oyvind-ottersen
+  roles:
+  - author
+published:
+- edtf_value: '2005-09-15'
+published_in:
+- entity_value: publication/halden-arbeiderblad
+about:
+- event/2005-09-25-halden-siste-reis-pub
+- event/198x-oslo-ratz
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_haldenarbeiderblad_null_null_20050915_77_213_1
+access: live
+note: Konzertvorbericht; Herkunftsangaben zu Levens Biografie sind Angaben der Zeitung.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

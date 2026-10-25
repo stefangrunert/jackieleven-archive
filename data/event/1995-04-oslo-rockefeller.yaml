@@ -1,0 +1,37 @@
+id: event/1995-04-oslo-rockefeller
+type: Event
+label: Jackie Leven, Rockefeller, Oslo (1995-04)
+event_type: concert
+time:
+- edtf_value: 1995-04
+  note: „Magische Woche“ im April 1995 laut Quellendatei; Tag nicht genannt.
+  references:
+  - document: document/1995-05-03-fremtiden-jackie-leven-rockefeller
+    locator: Fremtiden, 03.05.1995
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/rockefeller-oslo
+  references:
+  - document: document/1995-05-03-fremtiden-jackie-leven-rockefeller
+    locator: Fremtiden, 03.05.1995
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1995-05-03-fremtiden-jackie-leven-rockefeller
+    locator: Fremtiden, 03.05.1995
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1995-05-03-fremtiden-jackie-leven-rockefeller
+    locator: Fremtiden, 03.05.1995
+    quote: Det er godt å være tilbake i Norge. Jeg føler meg som hjemme her
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

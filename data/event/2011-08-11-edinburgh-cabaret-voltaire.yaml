@@ -1,0 +1,39 @@
+id: event/2011-08-11-edinburgh-cabaret-voltaire
+type: Event
+label: Jackie Leven, Cabaret Voltaire, Edinburgh (2011-08-11)
+event_type: concert
+time:
+- edtf_value: '2011-08-11'
+  note: Die Kritik nennt weder Ort noch Tag; Cabaret Voltaire, Edinburgh Fringe und 11.08.2011 stammen
+    aus dem Konzertkalender der Recherche (nicht geprüft).
+  references:
+  - document: document/2011-08-13-theartsdesk-edinburgh-fringe-jackie-leven
+    locator: theArtsDesk, 13.08.2011
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/cabaret-voltaire-edinburgh
+  references:
+  - document: document/2011-08-13-theartsdesk-edinburgh-fringe-jackie-leven
+    locator: theArtsDesk, 13.08.2011
+    evidence_type: inferred
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2011-08-13-theartsdesk-edinburgh-fringe-jackie-leven
+    locator: theArtsDesk, 13.08.2011
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2011-08-13-theartsdesk-edinburgh-fringe-jackie-leven
+    locator: theArtsDesk, 13.08.2011
+    quote: A winning mix overall of the sacred and profane.
+    evidence_type: third_party
+note: Laut Quellendatei das letzte eindeutig belegte Konzert Levens.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

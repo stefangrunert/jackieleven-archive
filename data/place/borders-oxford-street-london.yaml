@@ -1,0 +1,14 @@
+id: place/borders-oxford-street-london
+type: Place
+label: Borders, Oxford Street
+place_type: venue
+located_in:
+- entity_value: place/london
+  references:
+  - document: document/2001-10-05-uncut-jackie-leven-borders-oxford-street
+    locator: Uncut (Heft nicht angegeben), Abschrift auf jackieleven.com
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

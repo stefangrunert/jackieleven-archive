@@ -1,0 +1,46 @@
+id: event/2010-05-01-ulvik-harding-folk
+type: Event
+label: Jackie Leven und Knut Buen, Harding Folk, Ulvik
+event_type: festival_appearance
+time:
+- edtf_value: '2010-05-01'
+  note: Angekündigt für Samstag, 1. Mai 2010.
+  references:
+  - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
+    locator: Laagendalsposten, 13.04.2010
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/ulvik
+  references:
+  - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
+    locator: Laagendalsposten, 13.04.2010
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
+    locator: Laagendalsposten, 13.04.2010
+    evidence_type: third_party
+- agent_ref: person/knut-buen
+  roles:
+  - other
+  instrument: Hardingfele
+  references:
+  - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
+    locator: Laagendalsposten, 13.04.2010
+    evidence_type: third_party
+performance_status:
+- status_value: announced
+  references:
+  - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
+    locator: Laagendalsposten, 13.04.2010
+    quote: Da konstellasjonen Leven-Buen så dagens lys for første gang på Kongsberg Jazz Festival i 2009
+      var det en umiddelbar suksess med utsolgt konsert.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

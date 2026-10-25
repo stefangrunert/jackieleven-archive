@@ -1,0 +1,21 @@
+id: document/1997-06-q-bawdy-jackie-leven-shocks-scandinavia
+type: Document
+label: Bawdy – Jackie Leven shocks Scandinavia (Garage, Bergen, April 10, 1997)
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/john-aizlewood
+  roles:
+  - author
+published:
+- edtf_value: 1997-06
+published_in:
+- entity_value: publication/q
+reviews:
+- event/1997-04-10-bergen-garage
+archive_url: https://web.archive.org/web/20010504121647/http://home.xnet.it:80/tout/leven/press/q129.htm
+access: archive
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

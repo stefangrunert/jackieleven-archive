@@ -1,0 +1,7 @@
+id: person/ian-rankin
+type: Person
+label: Ian Rankin
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

@@ -1,0 +1,17 @@
+id: place/union-scene-drammen
+type: Place
+label: Union Scene
+place_type: venue
+located_in:
+- entity_value: place/drammen
+  references:
+  - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
+    locator: Drammens Tidende, 30.08.2005
+    evidence_type: third_party
+  - document: document/2005-09-26-drammens-tidende-naervaer-av-tredje-grad
+    locator: Drammens Tidende, 26.09.2005
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

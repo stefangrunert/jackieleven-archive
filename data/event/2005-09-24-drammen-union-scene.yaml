@@ -1,0 +1,71 @@
+id: event/2005-09-24-drammen-union-scene
+type: Event
+label: Jackie Leven, Eröffnung der Union Scene, Drammen
+event_type: concert
+time:
+- edtf_value: '2005-09-24'
+  note: Angekündigt für Samstag, 24. September 2005.
+  references:
+  - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
+    locator: Drammens Tidende, 30.08.2005
+    evidence_type: third_party
+  - document: document/2005-09-26-drammens-tidende-naervaer-av-tredje-grad
+    locator: Drammens Tidende, 26.09.2005
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/union-scene-drammen
+  references:
+  - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
+    locator: Drammens Tidende, 30.08.2005
+    evidence_type: third_party
+  - document: document/2005-09-26-drammens-tidende-naervaer-av-tredje-grad
+    locator: Drammens Tidende, 26.09.2005
+    evidence_type: third_party
+participants:
+- agent_ref: group/small-world-orchestra
+  roles:
+  - performer
+  references:
+  - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
+    locator: Drammens Tidende, 30.08.2005
+    evidence_type: third_party
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
+    locator: Drammens Tidende, 30.08.2005
+    evidence_type: third_party
+  - document: document/2005-09-26-drammens-tidende-naervaer-av-tredje-grad
+    locator: Drammens Tidende, 26.09.2005
+    evidence_type: third_party
+- agent_ref: person/eivind-kloverod
+  roles:
+  - other
+  instrument: Perkussion/Schlagzeug
+  references:
+  - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
+    locator: Drammens Tidende, 30.08.2005
+    evidence_type: third_party
+  - document: document/2005-09-26-drammens-tidende-naervaer-av-tredje-grad
+    locator: Drammens Tidende, 26.09.2005
+    evidence_type: third_party
+performance_status:
+- status_value: announced
+  references:
+  - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
+    locator: Drammens Tidende, 30.08.2005
+    quote: Han har trommet sammen et band for første gang siden han ledet sagnomsuste Doll By Doll tidlig
+      på 80-tallet.
+    evidence_type: third_party
+- status_value: took_place
+  references:
+  - document: document/2005-09-26-drammens-tidende-naervaer-av-tredje-grad
+    locator: Drammens Tidende, 26.09.2005
+    quote: Jackie Leven er en poet, en historieforteller og en mester på gitar.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

@@ -1,0 +1,39 @@
+id: event/2008-05-28-london-green-note
+type: Event
+label: Jackie Leven, Green Note, London (2008-05-28)
+event_type: concert
+time:
+- edtf_value: '2008-05-28'
+  note: Datum aus dem Titel; die Seitendaten nennen als Veröffentlichung den 24.05.2008, ein Widerspruch,
+    den die Quellendatei offenlässt.
+  references:
+  - document: document/2008-05-pennyblackmusic-jackie-leven-green-note-london
+    locator: Pennyblackmusic, Titel „Green Note, London 28/5/2008“
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/green-note-london
+  references:
+  - document: document/2008-05-pennyblackmusic-jackie-leven-green-note-london
+    locator: Pennyblackmusic, Titel „Green Note, London 28/5/2008“
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2008-05-pennyblackmusic-jackie-leven-green-note-london
+    locator: Pennyblackmusic, Titel „Green Note, London 28/5/2008“
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2008-05-pennyblackmusic-jackie-leven-green-note-london
+    locator: Pennyblackmusic, Titel „Green Note, London 28/5/2008“
+    quote: one of Britain’s most gifted songwriters was giving an outstanding performance to less than
+      thirty people. But I got to see it, so I win.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

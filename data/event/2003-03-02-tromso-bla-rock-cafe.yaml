@@ -1,0 +1,50 @@
+id: event/2003-03-02-tromso-bla-rock-cafe
+type: Event
+label: Jackie Leven, Blå Rock Café, Tromsø (2003-03-02)
+event_type: concert
+time:
+- edtf_value: '2003-03-02'
+  note: Angekündigt für Sonntag, 2. März 2003.
+  references:
+  - document: document/2003-02-28-tromso-jackie-leven-pa-blarock
+    locator: Tromsø, 28.02.2003
+    evidence_type: third_party
+  - document: document/2003-03-01-nordlys-kiltkledd-helt-tilbake-i-byen
+    locator: Nordlys, 01.03.2003
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/bla-rock-cafe-tromso
+  references:
+  - document: document/2003-02-28-tromso-jackie-leven-pa-blarock
+    locator: Tromsø, 28.02.2003
+    evidence_type: third_party
+  - document: document/2003-03-01-nordlys-kiltkledd-helt-tilbake-i-byen
+    locator: Nordlys, 01.03.2003
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2003-02-28-tromso-jackie-leven-pa-blarock
+    locator: Tromsø, 28.02.2003
+    evidence_type: third_party
+  - document: document/2003-03-01-nordlys-kiltkledd-helt-tilbake-i-byen
+    locator: Nordlys, 01.03.2003
+    evidence_type: third_party
+performance_status:
+- status_value: announced
+  references:
+  - document: document/2003-02-28-tromso-jackie-leven-pa-blarock
+    locator: Tromsø, 28.02.2003
+    quote: en gitar og en oppmicka golvplanke (!) og intet mer
+    evidence_type: third_party
+  - document: document/2003-03-01-nordlys-kiltkledd-helt-tilbake-i-byen
+    locator: Nordlys, 01.03.2003
+    quote: Den tøffeste, skotske eksportartikkelen siden maltwhisky
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

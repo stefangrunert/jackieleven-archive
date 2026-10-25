@@ -1,0 +1,71 @@
+id: event/2020-03-06-aberdour-cash-back-in-fife
+type: Event
+label: Cash Back In Fife, Woodside Hotel, Aberdour
+event_type: festival
+time:
+- edtf_value: 2020-03-06/2020-03-08
+  note: Wochenende vom 6. bis 8. März 2020 laut Americana UK; Fife Today nennt nur „2020“ und den Samstag.
+  references:
+  - document: document/2020-03-09-fife-today-why-johnny-cash-would-have-loved-cash-back-in-fife
+    locator: Fife Today, 09.03.2020
+    evidence_type: third_party
+  - document: document/2020-03-13-americana-uk-cash-back-in-fife-woodside-hotel-aberdou
+    locator: Americana UK, 13.03.2020
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/woodside-hotel-aberdour
+  references:
+  - document: document/2020-03-09-fife-today-why-johnny-cash-would-have-loved-cash-back-in-fife
+    locator: Fife Today, 09.03.2020
+    evidence_type: third_party
+  - document: document/2020-03-13-americana-uk-cash-back-in-fife-woodside-hotel-aberdou
+    locator: Americana UK, 13.03.2020
+    evidence_type: third_party
+participants:
+- agent_ref: person/dean-owens
+  roles:
+  - performer
+  references:
+  - document: document/2020-03-09-fife-today-why-johnny-cash-would-have-loved-cash-back-in-fife
+    locator: Fife Today, 09.03.2020
+    evidence_type: third_party
+  - document: document/2020-03-13-americana-uk-cash-back-in-fife-woodside-hotel-aberdou
+    locator: Americana UK, 13.03.2020
+    evidence_type: third_party
+- agent_ref: person/rab-noakes
+  roles:
+  - performer
+  references:
+  - document: document/2020-03-09-fife-today-why-johnny-cash-would-have-loved-cash-back-in-fife
+    locator: Fife Today, 09.03.2020
+    evidence_type: third_party
+  - document: document/2020-03-13-americana-uk-cash-back-in-fife-woodside-hotel-aberdou
+    locator: Americana UK, 13.03.2020
+    evidence_type: third_party
+- agent_ref: person/fay-fife
+  roles:
+  - performer
+  references:
+  - document: document/2020-03-09-fife-today-why-johnny-cash-would-have-loved-cash-back-in-fife
+    locator: Fife Today, 09.03.2020
+    evidence_type: third_party
+  - document: document/2020-03-13-americana-uk-cash-back-in-fife-woodside-hotel-aberdou
+    locator: Americana UK, 13.03.2020
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2020-03-09-fife-today-why-johnny-cash-would-have-loved-cash-back-in-fife
+    locator: Fife Today, 09.03.2020
+    quote: Saturday’s afternoon slot saw Ian Rankin take to the stage with a handful of CD covers, all
+      from the late, great Jackie Leven
+    evidence_type: third_party
+  - document: document/2020-03-13-americana-uk-cash-back-in-fife-woodside-hotel-aberdou
+    locator: Americana UK, 13.03.2020
+    quote: Like Cash, Leven sang of “embittered men” and Rankin, with Owens, brought him briefly back
+      to life this afternoon.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

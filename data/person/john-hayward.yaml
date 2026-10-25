@@ -1,0 +1,7 @@
+id: person/john-hayward
+type: Person
+label: John Hayward
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

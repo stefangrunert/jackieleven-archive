@@ -1,0 +1,18 @@
+id: document/2008-11-08-varden-en-lun-kveld-pa-puben
+type: Document
+label: En lun kveld på puben
+document_type: concert_review
+language: 'no'
+published:
+- edtf_value: '2008-11-08'
+published_in:
+- entity_value: publication/varden
+reviews:
+- event/2008-11-06-skien-lundetangen-pub
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_varden_null_null_20081108_134_262_1
+access: live
+note: Die Quellendatei stuft die Sicherheit der Angaben als „unsicher“ ein.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

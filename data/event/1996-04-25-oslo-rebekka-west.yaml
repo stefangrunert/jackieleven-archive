@@ -1,0 +1,38 @@
+id: event/1996-04-25-oslo-rebekka-west
+type: Event
+label: Jackie Leven, Rebekka West, Oslo (1996-04-25)
+event_type: concert
+time:
+- edtf_value: '1996-04-25'
+  note: Der Bericht nennt kein Datum; 25.04.1996 laut Arbeiderbladet 19.04.1996 (Notiz der Quellendatei,
+    nicht geprüft).
+  references:
+  - document: document/1996-05-09-fremtiden-jackie-leven-kom-tilbake-til-norge
+    locator: Fremtiden, 09.05.1996, Zwischentitel „En kveld i magiens tegn“
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/rebekka-west-oslo
+  references:
+  - document: document/1996-05-09-fremtiden-jackie-leven-kom-tilbake-til-norge
+    locator: Fremtiden, 09.05.1996, Zwischentitel „En kveld i magiens tegn“
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1996-05-09-fremtiden-jackie-leven-kom-tilbake-til-norge
+    locator: Fremtiden, 09.05.1996, Zwischentitel „En kveld i magiens tegn“
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1996-05-09-fremtiden-jackie-leven-kom-tilbake-til-norge
+    locator: Fremtiden, 09.05.1996, Zwischentitel „En kveld i magiens tegn“
+    evidence_type: third_party
+note: OCR der Doppelseite stark durchmischt.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

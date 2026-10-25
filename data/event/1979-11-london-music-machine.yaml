@@ -1,0 +1,36 @@
+id: event/1979-11-london-music-machine
+type: Event
+label: Doll by Doll, Music Machine, London (1979-11?)
+event_type: concert
+time:
+- edtf_value: 1979-11?
+  note: Konzertdatum nicht genannt; Erscheinungsdatum der Kritik 17.11.1979.
+  references:
+  - document: document/1979-11-17-record-mirror-doll-by-doll-music-machine-london
+    locator: Record Mirror, 17.11.1979, S. 31
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/music-machine-london
+  references:
+  - document: document/1979-11-17-record-mirror-doll-by-doll-music-machine-london
+    locator: Record Mirror, 17.11.1979, S. 31
+    evidence_type: third_party
+participants:
+- agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1979-11-17-record-mirror-doll-by-doll-music-machine-london
+    locator: Record Mirror, 17.11.1979, S. 31
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1979-11-17-record-mirror-doll-by-doll-music-machine-london
+    locator: Record Mirror, 17.11.1979, S. 31
+    quote: They are the most real band I've ever seen.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

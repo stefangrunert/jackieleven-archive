@@ -1,0 +1,65 @@
+id: event/1980-09-richmond-the-castle
+type: Event
+label: Doll by Doll, The Castle, Richmond (1980-08/1980-09)
+event_type: concert
+time:
+- edtf_value: 1980-08/1980-09
+  note: Konzerttag nicht genannt; Quellendatei vermutet Ende August/Anfang September 1980.
+  references:
+  - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
+    locator: Melody Maker, 13.09.1980
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/the-castle-richmond
+  references:
+  - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
+    locator: Melody Maker, 13.09.1980
+    evidence_type: third_party
+participants:
+- agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
+    locator: Melody Maker, 13.09.1980
+    evidence_type: third_party
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - keyboards
+  references:
+  - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
+    locator: Melody Maker, 13.09.1980
+    evidence_type: third_party
+- agent_ref: person/jo-shaw
+  roles:
+  - guitar
+  references:
+  - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
+    locator: Melody Maker, 13.09.1980
+    evidence_type: third_party
+- agent_ref: person/dave-mcintosh
+  roles:
+  - drums
+  references:
+  - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
+    locator: Melody Maker, 13.09.1980
+    evidence_type: third_party
+- agent_ref: person/tony-waite
+  roles:
+  - bass
+  references:
+  - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
+    locator: Melody Maker, 13.09.1980
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
+    locator: Melody Maker, 13.09.1980
+    quote: Jo Shaw has evolved into a guitarist of hypnotic intensity and breathtaking range.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

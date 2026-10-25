@@ -1,0 +1,7 @@
+id: person/peter-bartlema
+type: Person
+label: Peter Bartlema
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

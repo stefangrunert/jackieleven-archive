@@ -1,0 +1,19 @@
+id: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
+type: Document
+label: Doll By Doll – London Roundhouse
+document_type: concert_review
+language: en
+published:
+- edtf_value: '1978-10-28'
+published_in:
+- entity_value: publication/record-mirror
+reviews:
+- event/1978-10-22-london-roundhouse
+url: https://www.worldradiohistory.com/UK/Record-Mirror/70s/78/Record-Mirror-1978-10-28.pdf
+archive_url: https://web.archive.org/web/20260216071434/https://www.worldradiohistory.com/UK/Record-Mirror/70s/78/Record-Mirror-1978-10-28.pdf
+access: live
+note: Die Quellendatei stuft die Sicherheit der Angaben als „unsicher“ ein.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

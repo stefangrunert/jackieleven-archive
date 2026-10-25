@@ -1,0 +1,14 @@
+id: place/siste-reis-pub-halden
+type: Place
+label: Siste Reis Pub
+place_type: venue
+located_in:
+- entity_value: place/halden
+  references:
+  - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
+    locator: Halden Arbeiderblad, 15.09.2005
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

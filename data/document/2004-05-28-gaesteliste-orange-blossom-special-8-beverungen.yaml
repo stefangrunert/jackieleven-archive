@@ -1,0 +1,23 @@
+id: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
+type: Document
+label: Orange Blossom Special 8 (1. Teil) – 28.05.2004 – Beverungen, Glitterhouse-Villa
+document_type: concert_review
+language: de
+participants:
+- agent_ref: person/ullrich-maurer
+  roles:
+  - author
+published:
+- edtf_value: '2004-05-29'
+published_in:
+- entity_value: publication/gaesteliste-de
+reviews:
+- event/2004-05-29-beverungen-glitterhouse-villa
+- event/2004-05-29-beverungen-michael-weston-king-decent-men
+url: https://gaesteliste.de/2004/05/28/gig/orange-blossom-special-8-1-teil-28-05-2004-beverungen-glitterhouse-villa/
+archive_url: https://web.archive.org/web/20260609082304/https://gaesteliste.de/2004/05/28/gig/orange-blossom-special-8-1-teil-28-05-2004-beverungen-glitterhouse-villa/
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

@@ -1,0 +1,32 @@
+id: place/garage-bergen
+type: Place
+label: Garage
+place_type: venue
+located_in:
+- entity_value: place/bergen
+  references:
+  - document: document/1995-04-29-bergensavisen-bra-med-leven
+    locator: Bergensavisen, 29.04.1995
+    evidence_type: third_party
+  - document: document/1997-04-12-bergensavisen-historiefortelleren
+    locator: Bergensavisen, 12.04.1997
+    evidence_type: third_party
+  - document: document/1997-06-q-bawdy-jackie-leven-shocks-scandinavia
+    locator: Q Nr. 129, Juni 1997, Überschrift
+    evidence_type: third_party
+  - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
+    locator: Bergensavisen, 31.08.1997
+    evidence_type: third_party
+  - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
+    locator: Bergensavisen, 01.11.1998
+    evidence_type: third_party
+  - document: document/2000-09-29-bergensavisen-kulttreff-pa-garage-med-leven-og-thomas
+    locator: Bergensavisen, 29.09.2000
+    evidence_type: third_party
+  - document: document/2000-11-25-bergensavisen-trivelig-pa-garage
+    locator: Bergensavisen, 25.11.2000
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

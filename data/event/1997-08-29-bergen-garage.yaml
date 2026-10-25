@@ -1,0 +1,72 @@
+id: event/1997-08-29-bergen-garage
+type: Event
+label: Doll by Doll, Reunion-Konzert, Garage, Bergen
+event_type: concert
+time:
+- edtf_value: '1997-08-29'
+  note: Freitag, 29. August 1997 laut Notiz der Quellendatei (Bergensavisen 28./29.08.); der Text sagt
+    „i går“.
+  references:
+  - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
+    locator: Bergensavisen, 31.08.1997
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/garage-bergen
+  references:
+  - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
+    locator: Bergensavisen, 31.08.1997
+    evidence_type: third_party
+participants:
+- agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
+    locator: Bergensavisen, 31.08.1997
+    evidence_type: third_party
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
+    locator: Bergensavisen, 31.08.1997
+    evidence_type: third_party
+- agent_ref: person/jo-shaw
+  roles:
+  - guitar
+  credited_as: Joe Shaw
+  note: Schreibweise der Quelle; „gemeint ist wohl Jo Shaw“ laut Quellendatei
+  references:
+  - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
+    locator: Bergensavisen, 31.08.1997
+    evidence_type: third_party
+- agent_ref: person/kevin-foster
+  roles:
+  - bass
+  credited_as: Kevin Foster
+  references:
+  - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
+    locator: Bergensavisen, 31.08.1997
+    evidence_type: third_party
+- agent_ref: person/dave-mcintosh
+  roles:
+  - drums
+  credited_as: David McIntosh
+  note: Schreibweise der Quelle (im Druck „Mdntern“); Gleichsetzung mit Dave McIntosh nach Quellendatei
+  references:
+  - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
+    locator: Bergensavisen, 31.08.1997
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
+    locator: Bergensavisen, 31.08.1997
+    quote: Vi er fire «living dolls», fleipet Jackie Leven da Doll By Doll holdt sin første konsert på
+      15 år på Garage i går.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

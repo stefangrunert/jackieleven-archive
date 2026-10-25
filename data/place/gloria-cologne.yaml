@@ -1,0 +1,14 @@
+id: place/gloria-cologne
+type: Place
+label: Gloria
+place_type: venue
+located_in:
+- entity_value: place/cologne
+  references:
+  - document: document/2003-02-23-gaesteliste-koeln-gloria-mit-richard-thompson
+    locator: Gaesteliste.de, 23.02.2003
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

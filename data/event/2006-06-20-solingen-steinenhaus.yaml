@@ -1,0 +1,51 @@
+id: event/2006-06-20-solingen-steinenhaus
+type: Event
+label: Jackie Leven, Steinenhaus (Cornish Pub), Solingen (2006-06-20)
+event_type: concert
+time:
+- edtf_value: '2006-06-20'
+  note: Datum aus dem Titel des Berichts; der Abend des WM-Spiels England–Schweden.
+  references:
+  - document: document/2006-06-20-gaesteliste-solingen-steinenhaus-cornish-pub
+    locator: Gaesteliste.de, 20.06.2006
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/steinenhaus-solingen
+  references:
+  - document: document/2006-06-20-gaesteliste-solingen-steinenhaus-cornish-pub
+    locator: Gaesteliste.de, 20.06.2006
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2006-06-20-gaesteliste-solingen-steinenhaus-cornish-pub
+    locator: Gaesteliste.de, 20.06.2006
+    evidence_type: third_party
+- agent_ref: person/michael-cosgrave
+  roles:
+  - keyboards
+  references:
+  - document: document/2006-06-20-gaesteliste-solingen-steinenhaus-cornish-pub
+    locator: Gaesteliste.de, 20.06.2006
+    evidence_type: third_party
+- agent_ref: person/fritz-kappner
+  roles:
+  - promoter
+  references:
+  - document: document/2006-06-20-gaesteliste-solingen-steinenhaus-cornish-pub
+    locator: Gaesteliste.de, 20.06.2006
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2006-06-20-gaesteliste-solingen-steinenhaus-cornish-pub
+    locator: Gaesteliste.de, 20.06.2006
+    quote: Als leichtfüßige Sommerunterhaltung und Alternative zur Fußball-WM war das alles Bestens geeignet
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

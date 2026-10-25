@@ -1,0 +1,17 @@
+id: place/madam-felle-bergen
+type: Place
+label: Madam Felle
+place_type: venue
+located_in:
+- entity_value: place/bergen
+  references:
+  - document: document/2003-03-09-bergensavisen-leven-bak-murene-igjen
+    locator: Bergensavisen, 09.03.2003 (Rückblick)
+    evidence_type: third_party
+  - document: document/2008-08-29-bergensavisen-jackie-leven-tilbake
+    locator: Bergensavisen, 29.08.2008
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

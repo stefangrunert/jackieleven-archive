@@ -1,0 +1,7 @@
+id: person/karina-hagen
+type: Person
+label: Karina Hagen
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

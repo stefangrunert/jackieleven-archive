@@ -1,0 +1,21 @@
+id: document/2008-09-03-the-independent-jackie-leven-the-borderline-london
+type: Document
+label: Jackie Leven, The Borderline, London
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/andy-gill
+  roles:
+  - author
+published:
+- edtf_value: '2008-09-03'
+published_in:
+- entity_value: publication/the-independent
+reviews:
+- event/2008-09-london-the-borderline
+url: https://www.independent.co.uk/arts-entertainment/music/reviews/jackie-leven-the-borderline-london-917077.html
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

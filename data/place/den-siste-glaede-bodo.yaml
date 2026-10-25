@@ -1,0 +1,23 @@
+id: place/den-siste-glaede-bodo
+type: Place
+label: Den Siste Glæde
+place_type: venue
+located_in:
+- entity_value: place/bodo
+  references:
+  - document: document/1997-04-15-nordlands-framtid-en-poetisk-grisegutt
+    locator: Nordlands Framtid, 15.04.1997
+    evidence_type: third_party
+  - document: document/1997-04-15-nordlandsposten-leven-pa-glaeden
+    locator: Nordlandsposten, 15.04.1997
+    evidence_type: third_party
+  - document: document/1998-10-24-nordlands-framtid-takk-for-sist-thor-arne
+    locator: Nordlands Framtid, 24.10.1998
+    evidence_type: third_party
+  - document: document/1998-10-24-nordlandsposten-stakkars-jackie-leven
+    locator: Nordlandsposten, 24.10.1998
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

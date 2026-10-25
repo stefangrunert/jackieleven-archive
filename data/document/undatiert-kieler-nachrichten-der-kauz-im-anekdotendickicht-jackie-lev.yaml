@@ -1,0 +1,19 @@
+id: document/undatiert-kieler-nachrichten-der-kauz-im-anekdotendickicht-jackie-lev
+type: Document
+label: '[Der Kauz im Anekdotendickicht: Jackie Leven im Kieler KulturForum]'
+document_type: concert_review
+language: de
+published_in:
+- entity_value: publication/kieler-nachrichten
+reviews:
+- event/2010-kiel-kulturforum
+url: http://www.kn-online.de/schleswig_holstein/kultur/150847-Der-Kauz-im-Anekdotendickicht-Jackie-Leven.html
+archive_url: https://astrobum.wordpress.com/2010/05/08/jackie-leven-in-kiel-im-konzert/
+access: archive
+note: Nur in einer Weblog-Wiedergabe vom 08.05.2010 überliefert; Originalautor und Zeitungsausgabe fehlen,
+  der Abruf des Originals schlug fehl. Die Quellendatei stuft die Sicherheit der Angaben als „unsicher“
+  ein. Kein Erscheinungsdatum in der Quellendatei.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

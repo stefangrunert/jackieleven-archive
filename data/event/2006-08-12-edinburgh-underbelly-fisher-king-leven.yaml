@@ -1,0 +1,53 @@
+id: event/2006-08-12-edinburgh-underbelly-fisher-king-leven
+type: Event
+label: Fisher King Leven, Underbelly, Edinburgh
+event_type: concert
+time:
+- edtf_value: '2006-08-12'
+  note: Termin „12. August, 21 Uhr“; das Jahr 2006 ist aus dem Album A New Kind of Loneliness erschlossen
+    (Notiz der Quellendatei).
+  references:
+  - document: document/2006-08-the-list-fisher-king-leven
+    locator: The List, August 2006
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/underbelly-edinburgh
+  references:
+  - document: document/2006-08-the-list-fisher-king-leven
+    locator: The List, August 2006
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2006-08-the-list-fisher-king-leven
+    locator: The List, August 2006
+    evidence_type: third_party
+- agent_ref: person/robert-fisher
+  roles:
+  - performer
+  references:
+  - document: document/2006-08-the-list-fisher-king-leven
+    locator: The List, August 2006
+    evidence_type: third_party
+- agent_ref: person/michael-weston-king
+  roles:
+  - performer
+  references:
+  - document: document/2006-08-the-list-fisher-king-leven
+    locator: The List, August 2006
+    evidence_type: third_party
+performance_status:
+- status_value: announced
+  references:
+  - document: document/2006-08-the-list-fisher-king-leven
+    locator: The List, August 2006
+    quote: The three will trade each others’ songs in a show that, according to Weston King, will be full
+      of ‘dark perverse humour, song and stories, maybe some poetry’.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

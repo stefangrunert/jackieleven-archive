@@ -1,0 +1,7 @@
+id: publication/three-chords-and-the-truth-uk
+type: Publication
+label: Three Chords and the Truth UK
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

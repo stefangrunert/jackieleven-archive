@@ -1,0 +1,7 @@
+id: person/fay-fife
+type: Person
+label: Fay Fife
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

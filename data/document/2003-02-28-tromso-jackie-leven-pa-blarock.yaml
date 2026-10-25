@@ -1,0 +1,22 @@
+id: document/2003-02-28-tromso-jackie-leven-pa-blarock
+type: Document
+label: Jackie Leven på Blårock
+document_type: news
+language: 'no'
+participants:
+- agent_ref: person/helge-matland
+  roles:
+  - author
+published:
+- edtf_value: '2003-02-28'
+published_in:
+- entity_value: publication/tromso
+about:
+- event/2003-03-02-tromso-bla-rock-cafe
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromso_null_null_20030228_106_50_1
+access: live
+note: Konzertvorbericht; Autorname im OCR „Helge Mailand“, als Helge Matland gelesen.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

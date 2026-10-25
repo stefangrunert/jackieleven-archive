@@ -1,0 +1,7 @@
+id: group/levi-and-the-rockats
+type: Group
+label: Levi and the Rockats
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

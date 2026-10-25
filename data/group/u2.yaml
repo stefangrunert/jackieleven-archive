@@ -1,0 +1,7 @@
+id: group/u2
+type: Group
+label: U2
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

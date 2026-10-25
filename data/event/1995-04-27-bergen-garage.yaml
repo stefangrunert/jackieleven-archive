@@ -1,0 +1,38 @@
+id: event/1995-04-27-bergen-garage
+type: Event
+label: Jackie Leven, Garage, Bergen (1995-04-27)
+event_type: concert
+time:
+- edtf_value: '1995-04-27'
+  note: Donnerstag, 27. April 1995 laut Bericht.
+  references:
+  - document: document/1995-04-29-bergensavisen-bra-med-leven
+    locator: Bergensavisen, 29.04.1995
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/garage-bergen
+  references:
+  - document: document/1995-04-29-bergensavisen-bra-med-leven
+    locator: Bergensavisen, 29.04.1995
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1995-04-29-bergensavisen-bra-med-leven
+    locator: Bergensavisen, 29.04.1995
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1995-04-29-bergensavisen-bra-med-leven
+    locator: Bergensavisen, 29.04.1995
+    quote: Skotske Leven er en av de få som kan sitte alene på en scene, med kun kassegitar og seg selv
+      å tilby publikum.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

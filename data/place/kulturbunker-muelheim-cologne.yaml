@@ -1,0 +1,14 @@
+id: place/kulturbunker-muelheim-cologne
+type: Place
+label: Kulturbunker Mülheim
+place_type: venue
+located_in:
+- entity_value: place/cologne
+  references:
+  - document: document/2007-11-14-gaesteliste-koeln-kulturbunker-muelheim
+    locator: Gaesteliste.de, 14.11.2007
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

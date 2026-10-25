@@ -1,0 +1,60 @@
+id: event/2004-05-29-beverungen-michael-weston-king-decent-men
+type: Event
+label: Michael Weston King & The Decent Men, Orange Blossom Special 8, Beverungen
+event_type: festival_appearance
+time:
+- edtf_value: '2004-05-29'
+  note: Später am selben Tag (Samstag, 29. Mai 2004).
+  references:
+  - document: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
+    locator: Gaesteliste.de, 29.05.2004
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/glitterhouse-villa-beverungen
+  references:
+  - document: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
+    locator: Gaesteliste.de, 29.05.2004
+    evidence_type: third_party
+participants:
+- agent_ref: group/the-decent-men
+  roles:
+  - performer
+  references:
+  - document: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
+    locator: Gaesteliste.de, 29.05.2004
+    evidence_type: third_party
+- agent_ref: person/michael-weston-king
+  roles:
+  - vocals
+  references:
+  - document: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
+    locator: Gaesteliste.de, 29.05.2004
+    evidence_type: third_party
+- agent_ref: person/jackie-leven
+  roles:
+  - guitar
+  references:
+  - document: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
+    locator: Gaesteliste.de, 29.05.2004
+    evidence_type: third_party
+- agent_ref: person/michael-cosgrave
+  roles:
+  - keyboards
+  - other
+  instrument: Keyboards, Trompete
+  references:
+  - document: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
+    locator: Gaesteliste.de, 29.05.2004
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
+    locator: Gaesteliste.de, 29.05.2004
+    quote: Hinzu kam, dass Michael & Co. – insbesondere Jackie an der Leadgitarre (die an seinem mächtigen
+      Körper zuweilen wie ein bloßes Accessoire wirkte) – mächtig Druck machten.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

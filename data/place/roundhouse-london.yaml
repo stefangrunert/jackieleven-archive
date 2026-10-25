@@ -1,0 +1,14 @@
+id: place/roundhouse-london
+type: Place
+label: Roundhouse
+place_type: venue
+located_in:
+- entity_value: place/london
+  references:
+  - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
+    locator: Record Mirror, 28.10.1978, S. 51/52
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

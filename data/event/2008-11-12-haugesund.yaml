@@ -1,0 +1,37 @@
+id: event/2008-11-12-haugesund
+type: Event
+label: Jackie Leven, Haugesund (Vorprogramm von Madrugada)
+event_type: concert
+time:
+- edtf_value: '2008-11-12'
+  note: Der Bericht nennt kein Datum; 12.11.2008 laut Kalender der Recherche (nicht geprüft).
+  references:
+  - document: document/2008-11-14-drammens-tidende-en-bamseklem-av-en-konsert
+    locator: Drammens Tidende, 14.11.2008 (Anekdote Levens)
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/haugesund
+  references:
+  - document: document/2008-11-14-drammens-tidende-en-bamseklem-av-en-konsert
+    locator: Drammens Tidende, 14.11.2008 (Anekdote Levens)
+    evidence_type: self_statement
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - support_act
+  references:
+  - document: document/2008-11-14-drammens-tidende-en-bamseklem-av-en-konsert
+    locator: Drammens Tidende, 14.11.2008 (Anekdote Levens)
+    evidence_type: self_statement
+performance_status:
+- status_value: cancelled
+  references:
+  - document: document/2008-11-14-drammens-tidende-en-bamseklem-av-en-konsert
+    locator: Drammens Tidende, 14.11.2008 (Anekdote Levens)
+    evidence_type: self_statement
+note: Nach Levens Bühnenerzählung fiel der Auftritt wegen der Halsentzündung von Sivert Høyem aus. Die
+  Angabe stammt aus einer Anekdote auf der Bühne, wie sie der Kritiker wiedergibt.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

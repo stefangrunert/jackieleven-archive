@@ -1,0 +1,7 @@
+id: person/tom-skjeklesaether
+type: Person
+label: Tom Skjeklesæther
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

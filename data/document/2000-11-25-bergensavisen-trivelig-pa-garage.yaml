@@ -1,0 +1,21 @@
+id: document/2000-11-25-bergensavisen-trivelig-pa-garage
+type: Document
+label: Trivelig på Garage
+document_type: concert_review
+language: 'no'
+participants:
+- agent_ref: person/frank-johnsen
+  roles:
+  - author
+published:
+- edtf_value: '2000-11-25'
+published_in:
+- entity_value: publication/bergensavisen
+reviews:
+- event/2000-11-23-bergen-garage-ubudoll
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_20001125_74_320_1
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

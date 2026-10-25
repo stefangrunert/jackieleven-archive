@@ -1,0 +1,23 @@
+id: document/1980-02-23-sounds-doll-by-doll-marquee-london
+type: Document
+label: 'Doll By Doll: Marquee, London – „Shattered Dolls“'
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/hugh-fielder
+  roles:
+  - author
+published:
+- edtf_value: '1980-02-23'
+published_in:
+- entity_value: publication/sounds
+reviews:
+- event/1980-02-london-marquee
+url: https://www.rocksbackpages.com/Library/Article/doll-by-doll-marquee-london
+archive_url: https://web.archive.org/web/20230921101414/https://rocksbackpages.com/Library/Article/doll-by-doll-marquee-london
+access: paywall
+note: Die Quellendatei stuft die Sicherheit der Angaben als „unsicher“ ein.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

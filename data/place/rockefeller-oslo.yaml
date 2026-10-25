@@ -1,0 +1,14 @@
+id: place/rockefeller-oslo
+type: Place
+label: Rockefeller
+place_type: venue
+located_in:
+- entity_value: place/oslo
+  references:
+  - document: document/1995-05-03-fremtiden-jackie-leven-rockefeller
+    locator: Fremtiden, 03.05.1995
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

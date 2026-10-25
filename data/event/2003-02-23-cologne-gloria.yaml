@@ -1,0 +1,60 @@
+id: event/2003-02-23-cologne-gloria
+type: Event
+label: Jackie Leven, Richard Thompson und Midnight Choir, Gloria, Köln
+event_type: concert
+time:
+- edtf_value: '2003-02-23'
+  references:
+  - document: document/2003-02-23-gaesteliste-koeln-gloria-mit-richard-thompson
+    locator: Gaesteliste.de, 23.02.2003
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/gloria-cologne
+  references:
+  - document: document/2003-02-23-gaesteliste-koeln-gloria-mit-richard-thompson
+    locator: Gaesteliste.de, 23.02.2003
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2003-02-23-gaesteliste-koeln-gloria-mit-richard-thompson
+    locator: Gaesteliste.de, 23.02.2003
+    evidence_type: third_party
+- agent_ref: person/michael-cosgrave
+  roles:
+  - keyboards
+  references:
+  - document: document/2003-02-23-gaesteliste-koeln-gloria-mit-richard-thompson
+    locator: Gaesteliste.de, 23.02.2003
+    evidence_type: third_party
+- agent_ref: person/richard-thompson
+  roles:
+  - performer
+  references:
+  - document: document/2003-02-23-gaesteliste-koeln-gloria-mit-richard-thompson
+    locator: Gaesteliste.de, 23.02.2003
+    evidence_type: third_party
+- agent_ref: group/midnight-choir
+  roles:
+  - performer
+  references:
+  - document: document/2003-02-23-gaesteliste-koeln-gloria-mit-richard-thompson
+    locator: Gaesteliste.de, 23.02.2003
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2003-02-23-gaesteliste-koeln-gloria-mit-richard-thompson
+    locator: Gaesteliste.de, 23.02.2003
+    quote: für Jackie Fans war dies eine schöne Gelegenheit, den doch vorwiegend solo agierenden Mann
+      einmal in Kommunikation mit einem anderen Musiker zu erleben.
+    evidence_type: third_party
+note: Gemeinsamer Abend dreier Acts; die Reihenfolge wechselte laut Bericht von Abend zu Abend. Mitschnitt
+  laut Notiz der Quellendatei auf „Only The Ocean Can Forgive“ (nicht geprüft).
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

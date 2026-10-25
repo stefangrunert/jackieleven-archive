@@ -1,0 +1,14 @@
+id: place/rebekka-west-oslo
+type: Place
+label: Rebekka West
+place_type: venue
+located_in:
+- entity_value: place/oslo
+  references:
+  - document: document/1996-05-09-fremtiden-jackie-leven-kom-tilbake-til-norge
+    locator: Fremtiden, 09.05.1996, Zwischentitel „En kveld i magiens tegn“
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

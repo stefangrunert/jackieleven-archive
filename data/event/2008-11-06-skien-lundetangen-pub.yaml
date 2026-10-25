@@ -1,0 +1,44 @@
+id: event/2008-11-06-skien-lundetangen-pub
+type: Event
+label: Jackie Leven, Lundetangen Pub, Skien (2008-11-06)
+event_type: concert
+time:
+- edtf_value: '2008-11-06'
+  note: Donnerstagabend, 6. November 2008 laut Bericht.
+  references:
+  - document: document/2008-11-08-varden-en-lun-kveld-pa-puben
+    locator: Varden, 08.11.2008
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/lundetangen-pub-skien
+  references:
+  - document: document/2008-11-08-varden-en-lun-kveld-pa-puben
+    locator: Varden, 08.11.2008
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2008-11-08-varden-en-lun-kveld-pa-puben
+    locator: Varden, 08.11.2008
+    evidence_type: third_party
+- agent_ref: person/steffen-steffensen
+  roles:
+  - promoter
+  references:
+  - document: document/2008-11-08-varden-en-lun-kveld-pa-puben
+    locator: Varden, 08.11.2008
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2008-11-08-varden-en-lun-kveld-pa-puben
+    locator: Varden, 08.11.2008
+    quote: Det ble en lun aften med god stemning for dem som var kommet for et gjenhør med Jackie Leven.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

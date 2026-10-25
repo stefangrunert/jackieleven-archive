@@ -1,0 +1,46 @@
+id: event/1980-08-london-torrington
+type: Event
+label: Doll by Doll, Torrington, London (1980-07/1980-08)
+event_type: concert
+time:
+- edtf_value: 1980-07/1980-08
+  note: Konzertdatum nicht genannt; Kritik vom 09.08.1980, Konzert in einer Vollmondnacht.
+  references:
+  - document: document/1980-08-09-record-mirror-doll-by-doll-torrington-london
+    locator: Record Mirror, 09.08.1980
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/torrington-north-finchley
+  references:
+  - document: document/1980-08-09-record-mirror-doll-by-doll-torrington-london
+    locator: Record Mirror, 09.08.1980
+    evidence_type: third_party
+participants:
+- agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1980-08-09-record-mirror-doll-by-doll-torrington-london
+    locator: Record Mirror, 09.08.1980
+    evidence_type: third_party
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1980-08-09-record-mirror-doll-by-doll-torrington-london
+    locator: Record Mirror, 09.08.1980
+    evidence_type: third_party
+    scope: Jackie Levens „fast manischen“ Gitarrenstil
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1980-08-09-record-mirror-doll-by-doll-torrington-london
+    locator: Record Mirror, 09.08.1980
+    quote: Doll by Doll are essential listening, are emotions essential?
+    evidence_type: third_party
+note: Die Kritik verortet das Torrington „im Londoner Norden“ (North Finchley laut Thema der Quellendatei).
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

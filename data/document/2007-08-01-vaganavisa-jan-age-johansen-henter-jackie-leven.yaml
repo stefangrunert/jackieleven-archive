@@ -1,0 +1,19 @@
+id: document/2007-08-01-vaganavisa-jan-age-johansen-henter-jackie-leven
+type: Document
+label: '[Vorbericht: Jan Åge Johansen holt Jackie Leven zum sechsten Mal nach Kabelvåg]'
+document_type: news
+language: 'no'
+published:
+- edtf_value: '2007-08-01'
+published_in:
+- entity_value: publication/vaganavisa
+about:
+- event/2007-09-26-kabelvag-praestengbrygga
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_vaaganavisa_null_null_20070801_2_31_1
+access: live
+note: Konzertvorbericht mit Porträt; Autorzeile im OCR nicht lesbar. Die Quellendatei stuft die Sicherheit
+  der Angaben als „unsicher“ ein.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

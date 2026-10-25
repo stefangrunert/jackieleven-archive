@@ -1,0 +1,36 @@
+id: event/2003-03-07-bergen-madam-felle
+type: Event
+label: Jackie Leven, Madam Felle, Bergen (2003-03-07)
+event_type: concert
+time:
+- edtf_value: '2003-03-07'
+  note: Nur als „in der Nacht zuvor“ erwähnt; erschlossen 07.03.2003 (Nacht vor dem Gefängniskonzert).
+  references:
+  - document: document/2003-03-09-bergensavisen-leven-bak-murene-igjen
+    locator: Bergensavisen, 09.03.2003 (Rückblick)
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/madam-felle-bergen
+  references:
+  - document: document/2003-03-09-bergensavisen-leven-bak-murene-igjen
+    locator: Bergensavisen, 09.03.2003 (Rückblick)
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2003-03-09-bergensavisen-leven-bak-murene-igjen
+    locator: Bergensavisen, 09.03.2003 (Rückblick)
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2003-03-09-bergensavisen-leven-bak-murene-igjen
+    locator: Bergensavisen, 09.03.2003 (Rückblick)
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

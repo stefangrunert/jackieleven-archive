@@ -1,0 +1,23 @@
+id: document/2000-09-26-the-independent-jackie-leven-a-cult-artist
+type: Document
+label: Jackie Leven – a cult artist [Jackie Leven, Andy White and Michael Weston King, Purcell Room, South
+  Bank Centre, London]
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/gavin-martin
+  roles:
+  - author
+published:
+- edtf_value: '2000-09-26'
+published_in:
+- entity_value: publication/the-independent
+reviews:
+- event/2000-09-london-purcell-room
+url: http://www.independent.co.uk/enjoyment/Music/live_reviews/2000-09/pop260900.shtml
+archive_url: https://web.archive.org/web/20041226172200/http://home.xnet.it:80/tout/HTML/indie1.htm
+access: archive
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

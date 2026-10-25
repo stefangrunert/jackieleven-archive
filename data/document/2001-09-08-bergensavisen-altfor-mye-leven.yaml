@@ -1,0 +1,21 @@
+id: document/2001-09-08-bergensavisen-altfor-mye-leven
+type: Document
+label: Altfor mye Leven
+document_type: concert_review
+language: 'no'
+participants:
+- agent_ref: person/tore-bo
+  roles:
+  - author
+published:
+- edtf_value: '2001-09-08'
+published_in:
+- entity_value: publication/bergensavisen
+reviews:
+- event/2001-09-06-bergen-den-stundesloese
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_20010908_75_241_1
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

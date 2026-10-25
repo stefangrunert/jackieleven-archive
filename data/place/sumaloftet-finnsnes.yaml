@@ -1,0 +1,14 @@
+id: place/sumaloftet-finnsnes
+type: Place
+label: Sumaloftet
+place_type: venue
+located_in:
+- entity_value: place/finnsnes
+  references:
+  - document: document/1997-04-14-troms-folkeblad-ekte-vare-fra-skotske-leven
+    locator: Troms Folkeblad, 14.04.1997
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

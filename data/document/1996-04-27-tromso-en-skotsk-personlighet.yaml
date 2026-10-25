@@ -1,0 +1,23 @@
+id: document/1996-04-27-tromso-en-skotsk-personlighet
+type: Document
+label: En skotsk personlighet
+document_type: news
+language: 'no'
+participants:
+- agent_ref: person/helge-matland
+  roles:
+  - author
+published:
+- edtf_value: '1996-04-27'
+published_in:
+- entity_value: publication/tromso
+about:
+- event/1996-04-28-tromso-bla-rock-cafe
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromso_null_null_19960427_0_98_1
+access: live
+note: Konzertvorbericht mit Kurzporträt und Plattenkritik; Autorname im OCR unsicher (Helge Matland).
+  Die Quellendatei stuft die Sicherheit der Angaben als „unsicher“ ein.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

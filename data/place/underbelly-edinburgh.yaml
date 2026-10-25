@@ -1,0 +1,14 @@
+id: place/underbelly-edinburgh
+type: Place
+label: Underbelly
+place_type: venue
+located_in:
+- entity_value: place/edinburgh
+  references:
+  - document: document/2006-08-the-list-fisher-king-leven
+    locator: The List, August 2006
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

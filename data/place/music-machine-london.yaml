@@ -1,0 +1,14 @@
+id: place/music-machine-london
+type: Place
+label: Music Machine
+place_type: venue
+located_in:
+- entity_value: place/london
+  references:
+  - document: document/1979-11-17-record-mirror-doll-by-doll-music-machine-london
+    locator: Record Mirror, 17.11.1979, S. 31
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

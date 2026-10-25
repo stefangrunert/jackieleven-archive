@@ -1,0 +1,38 @@
+id: event/2003-03-08-bergen-fengsel
+type: Event
+label: Jackie Leven, Konzert im Bergener Gefängnis
+event_type: concert
+time:
+- edtf_value: '2003-03-08'
+  note: „Am Vortag“ vor der Ausgabe vom 09.03.2003; Frauentag, 8. März.
+  references:
+  - document: document/2003-03-09-bergensavisen-leven-bak-murene-igjen
+    locator: Bergensavisen, 09.03.2003
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/bergen-fengsel
+  references:
+  - document: document/2003-03-09-bergensavisen-leven-bak-murene-igjen
+    locator: Bergensavisen, 09.03.2003
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2003-03-09-bergensavisen-leven-bak-murene-igjen
+    locator: Bergensavisen, 09.03.2003
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2003-03-09-bergensavisen-leven-bak-murene-igjen
+    locator: Bergensavisen, 09.03.2003
+    quote: Han var en fillete sjel i en slitt dongeriskjorte, og la aldri skjul på det.
+    evidence_type: third_party
+note: Konzert für Insassen in der Sporthalle, etwa eine Stunde.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

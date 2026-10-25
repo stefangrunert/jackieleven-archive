@@ -1,0 +1,21 @@
+id: document/1998-10-24-nordlandsposten-stakkars-jackie-leven
+type: Document
+label: Stakkars Jackie Leven
+document_type: concert_review
+language: 'no'
+participants:
+- agent_ref: person/jo-petter-furuhovde
+  roles:
+  - author
+published:
+- edtf_value: '1998-10-24'
+published_in:
+- entity_value: publication/nordlandsposten
+reviews:
+- event/1998-10-22-bodo-den-siste-glaede
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlandsposten_null_null_19981024_136_247_1
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte
