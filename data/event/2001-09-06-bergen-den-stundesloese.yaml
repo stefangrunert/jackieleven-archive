@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Den Stundesløse, Bergen (2001-09-06/2001-09-07)
 event_type: concert
 time:
-- edtf_value: 2001-09-06/2001-09-07
+- statement_id: st-abb860bb5f31
+  edtf_value: 2001-09-06/2001-09-07
   note: „Natt til i går“ in der Ausgabe vom 08.09.2001; die Quellendatei liest „in der Nacht zum 7. September“.
   references:
   - document: document/2001-09-08-bergensavisen-altfor-mye-leven
     locator: Bergensavisen, 08.09.2001
     evidence_type: third_party
 took_place_at:
-- entity_value: place/den-stundesloese-bergen
+- statement_id: st-2f5ed52e7d66
+  entity_value: place/den-stundesloese-bergen
   references:
   - document: document/2001-09-08-bergensavisen-altfor-mye-leven
     locator: Bergensavisen, 08.09.2001
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-ede93397d4a7
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,7 +28,8 @@ participants:
     locator: Bergensavisen, 08.09.2001
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-2a18a9cfbb54
+  status_value: took_place
   references:
   - document: document/2001-09-08-bergensavisen-altfor-mye-leven
     locator: Bergensavisen, 08.09.2001

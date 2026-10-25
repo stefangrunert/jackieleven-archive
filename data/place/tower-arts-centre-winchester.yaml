@@ -3,7 +3,8 @@ type: Place
 label: Tower Arts Centre
 place_type: venue
 located_in:
-- entity_value: place/winchester
+- statement_id: st-24fe791183d1
+  entity_value: place/winchester
   references:
   - document: document/1997-clearspot-jackie-leven-tower-arts-centre-winchester
     locator: Clearspot (Webzine), Überschrift

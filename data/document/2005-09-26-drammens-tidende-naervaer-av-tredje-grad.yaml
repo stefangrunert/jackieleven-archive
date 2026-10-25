@@ -4,13 +4,16 @@ label: Nærvær av tredje grad
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/oyvind-r-gundersen
+- statement_id: st-0e038adc3ac5
+  agent_ref: person/oyvind-r-gundersen
   roles:
   - author
 published:
-- edtf_value: '2005-09-26'
+- statement_id: st-1fefb70a2c39
+  edtf_value: '2005-09-26'
 published_in:
-- entity_value: publication/drammens-tidende
+- statement_id: st-9269937b6889
+  entity_value: publication/drammens-tidende
 reviews:
 - event/2005-09-24-drammen-union-scene
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_drammenstidende_null_null_20050926_1_257_1

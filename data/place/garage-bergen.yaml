@@ -3,7 +3,8 @@ type: Place
 label: Garage
 place_type: venue
 located_in:
-- entity_value: place/bergen
+- statement_id: st-c30361d77d32
+  entity_value: place/bergen
   references:
   - document: document/1995-04-29-bergensavisen-bra-med-leven
     locator: Bergensavisen, 29.04.1995

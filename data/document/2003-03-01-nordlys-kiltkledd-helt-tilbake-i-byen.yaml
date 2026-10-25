@@ -4,13 +4,16 @@ label: Kiltkledd helt tilbake i byen
 document_type: news
 language: 'no'
 participants:
-- agent_ref: person/mariell-tverra-lokas
+- statement_id: st-becf7092584a
+  agent_ref: person/mariell-tverra-lokas
   roles:
   - author
 published:
-- edtf_value: '2003-03-01'
+- statement_id: st-f4c9d74dc1ad
+  edtf_value: '2003-03-01'
 published_in:
-- entity_value: publication/nordlys
+- statement_id: st-b6073cd4df51
+  entity_value: publication/nordlys
 about:
 - event/2003-03-02-tromso-bla-rock-cafe
 - event/1995-04-tromso

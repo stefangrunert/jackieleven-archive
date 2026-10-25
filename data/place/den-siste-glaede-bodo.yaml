@@ -3,7 +3,8 @@ type: Place
 label: Den Siste Glæde
 place_type: venue
 located_in:
-- entity_value: place/bodo
+- statement_id: st-65b1e3d98adc
+  entity_value: place/bodo
   references:
   - document: document/1997-04-15-nordlands-framtid-en-poetisk-grisegutt
     locator: Nordlands Framtid, 15.04.1997

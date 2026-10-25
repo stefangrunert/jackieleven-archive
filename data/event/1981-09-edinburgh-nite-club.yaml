@@ -3,7 +3,8 @@ type: Event
 label: Doll by Doll, Nite Club, Edinburgh (1981-08/1981-09)
 event_type: concert
 time:
-- edtf_value: 1981-08/1981-09
+- statement_id: st-119a8f6d66c3
+  edtf_value: 1981-08/1981-09
   note: Datum nicht genannt; Quellendatei erschließt Ende August/Anfang September 1981 aus Gig-Guide und
     Erscheinungsdatum.
   references:
@@ -11,20 +12,23 @@ time:
     locator: Record Mirror, 12.09.1981, S. 18
     evidence_type: inferred
 took_place_at:
-- entity_value: place/nite-club-edinburgh
+- statement_id: st-7e1abbda0600
+  entity_value: place/nite-club-edinburgh
   references:
   - document: document/1981-09-12-record-mirror-doll-by-doll-nite-club-edinburgh
     locator: Record Mirror, 12.09.1981, S. 18
     evidence_type: third_party
 participants:
-- agent_ref: group/doll-by-doll
+- statement_id: st-9f4a3cda6dc4
+  agent_ref: group/doll-by-doll
   roles:
   - performer
   references:
   - document: document/1981-09-12-record-mirror-doll-by-doll-nite-club-edinburgh
     locator: Record Mirror, 12.09.1981, S. 18
     evidence_type: third_party
-- agent_ref: person/jackie-leven
+- statement_id: st-c6f4742d3575
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   references:
@@ -32,7 +36,8 @@ participants:
     locator: Record Mirror, 12.09.1981, S. 18
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-a9a02e7357b4
+  status_value: took_place
   references:
   - document: document/1981-09-12-record-mirror-doll-by-doll-nite-club-edinburgh
     locator: Record Mirror, 12.09.1981, S. 18

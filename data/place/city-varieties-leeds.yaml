@@ -3,7 +3,8 @@ type: Place
 label: City Varieties
 place_type: venue
 located_in:
-- entity_value: place/leeds
+- statement_id: st-e094413c91fe
+  entity_value: place/leeds
   references:
   - document: document/2005-02-19-whisperin-and-hollerin-twisted-folk-tour-leeds-city-varieties
     locator: Whisperin & Hollerin

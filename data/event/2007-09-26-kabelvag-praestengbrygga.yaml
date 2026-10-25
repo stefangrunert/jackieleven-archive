@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Præstengbrygga, Kabelvåg (2007-09-26)
 event_type: concert
 time:
-- edtf_value: '2007-09-26'
+- statement_id: st-e21aa419ee3e
+  edtf_value: '2007-09-26'
   note: Angekündigt für den 26. September 2007.
   references:
   - document: document/2007-08-01-vaganavisa-jan-age-johansen-henter-jackie-leven
     locator: Våganavisa, 01.08.2007
     evidence_type: third_party
 took_place_at:
-- entity_value: place/praestengbrygga-kabelvag
+- statement_id: st-407ea13bba19
+  entity_value: place/praestengbrygga-kabelvag
   references:
   - document: document/2007-08-01-vaganavisa-jan-age-johansen-henter-jackie-leven
     locator: Våganavisa, 01.08.2007
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-f7baf494b43f
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -24,7 +27,8 @@ participants:
   - document: document/2007-08-01-vaganavisa-jan-age-johansen-henter-jackie-leven
     locator: Våganavisa, 01.08.2007
     evidence_type: third_party
-- agent_ref: person/jan-age-johansen
+- statement_id: st-6b244f6ebf3e
+  agent_ref: person/jan-age-johansen
   roles:
   - promoter
   references:
@@ -32,7 +36,8 @@ participants:
     locator: Våganavisa, 01.08.2007
     evidence_type: third_party
 performance_status:
-- status_value: announced
+- statement_id: st-f8577113f016
+  status_value: announced
   references:
   - document: document/2007-08-01-vaganavisa-jan-age-johansen-henter-jackie-leven
     locator: Våganavisa, 01.08.2007

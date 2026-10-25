@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, John Dee, Oslo (2000-02)
 event_type: concert
 time:
-- edtf_value: 2000-02
+- statement_id: st-e5ae82ab80ed
+  edtf_value: 2000-02
   note: Nur als frühere Station erwähnt („im Februar schon im John Dee“); Tag nicht genannt.
   references:
   - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
     locator: Puls, 28.11.2000 (Rückblick)
     evidence_type: third_party
 took_place_at:
-- entity_value: place/john-dee-oslo
+- statement_id: st-41810ac6ac73
+  entity_value: place/john-dee-oslo
   references:
   - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
     locator: Puls, 28.11.2000 (Rückblick)
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-27bbe81a0722
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,7 +28,8 @@ participants:
     locator: Puls, 28.11.2000 (Rückblick)
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-75e9091604bf
+  status_value: took_place
   references:
   - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
     locator: Puls, 28.11.2000 (Rückblick)

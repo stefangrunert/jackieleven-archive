@@ -3,7 +3,8 @@ type: Event
 label: Doll by Doll, The Venue, London (1981-06-08?)
 event_type: concert
 time:
-- edtf_value: 1981-06-08?
+- statement_id: st-6d1e5b18eb22
+  edtf_value: 1981-06-08?
   note: 'Record Business (Ausgabe Montag, 15.06.1981) schreibt „am Montag“, wohl der 08.06.1981; kein
     Tagesdatum im Text. Die Gleichsetzung mit dem Konzert der Record-Mirror-Kritik vom 20.06.1981 ist
     erschlossen (beide: Venue, Juni 1981, „Main Travelled Roads“).'
@@ -15,7 +16,8 @@ time:
     locator: Record Mirror, 20.06.1981, S. 18
     evidence_type: inferred
 took_place_at:
-- entity_value: place/the-venue-london
+- statement_id: st-10f92d67b870
+  entity_value: place/the-venue-london
   references:
   - document: document/1981-06-15-record-business-doll-by-doll-the-venue-london
     locator: Record Business, 15.06.1981
@@ -24,7 +26,8 @@ took_place_at:
     locator: Record Mirror, 20.06.1981, S. 18
     evidence_type: third_party
 participants:
-- agent_ref: group/doll-by-doll
+- statement_id: st-e0996438073b
+  agent_ref: group/doll-by-doll
   roles:
   - performer
   references:
@@ -34,7 +37,8 @@ participants:
   - document: document/1981-06-20-record-mirror-crystal-balls-up-doll-by-doll-venue
     locator: Record Mirror, 20.06.1981, S. 18
     evidence_type: third_party
-- agent_ref: person/jackie-leven
+- statement_id: st-6b67becaa278
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - performer
@@ -45,7 +49,8 @@ participants:
   - document: document/1981-06-20-record-mirror-crystal-balls-up-doll-by-doll-venue
     locator: Record Mirror, 20.06.1981, S. 18
     evidence_type: third_party
-- agent_ref: person/jo-shaw
+- statement_id: st-1b92d335c4e9
+  agent_ref: person/jo-shaw
   roles:
   - guitar
   references:
@@ -53,7 +58,8 @@ participants:
     locator: Record Business, 15.06.1981
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-1f01e83f8565
+  status_value: took_place
   references:
   - document: document/1981-06-15-record-business-doll-by-doll-the-venue-london
     locator: Record Business, 15.06.1981

@@ -4,13 +4,16 @@ label: En poetisk grisegutt
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/jo-petter-furuhovde
+- statement_id: st-5d2b490fc5ce
+  agent_ref: person/jo-petter-furuhovde
   roles:
   - author
 published:
-- edtf_value: '1997-04-15'
+- statement_id: st-dd4dbce914d5
+  edtf_value: '1997-04-15'
 published_in:
-- entity_value: publication/nordlands-framtid
+- statement_id: st-27023f65a2b9
+  entity_value: publication/nordlands-framtid
 reviews:
 - event/1997-04-13-bodo-den-siste-glaede
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlandsframtid_null_null_19970415_88_85_1

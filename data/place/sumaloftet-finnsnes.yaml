@@ -3,7 +3,8 @@ type: Place
 label: Sumaloftet
 place_type: venue
 located_in:
-- entity_value: place/finnsnes
+- statement_id: st-bd5335092b0b
+  entity_value: place/finnsnes
   references:
   - document: document/1997-04-14-troms-folkeblad-ekte-vare-fra-skotske-leven
     locator: Troms Folkeblad, 14.04.1997

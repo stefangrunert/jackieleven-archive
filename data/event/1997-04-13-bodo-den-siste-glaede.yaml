@@ -3,7 +3,8 @@ type: Event
 label: Jackie Leven, Den Siste Glæde, Bodø (1997-04-13)
 event_type: concert
 time:
-- edtf_value: '1997-04-13'
+- statement_id: st-483d637aef04
+  edtf_value: '1997-04-13'
   note: Sonntag, 13. April 1997 laut Kritik.
   references:
   - document: document/1997-04-15-nordlands-framtid-en-poetisk-grisegutt
@@ -13,7 +14,8 @@ time:
     locator: Nordlandsposten, 15.04.1997
     evidence_type: third_party
 took_place_at:
-- entity_value: place/den-siste-glaede-bodo
+- statement_id: st-8e6066501f8a
+  entity_value: place/den-siste-glaede-bodo
   references:
   - document: document/1997-04-15-nordlands-framtid-en-poetisk-grisegutt
     locator: Nordlands Framtid, 15.04.1997
@@ -22,7 +24,8 @@ took_place_at:
     locator: Nordlandsposten, 15.04.1997
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-50a3fa7e91a3
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -34,7 +37,8 @@ participants:
     locator: Nordlandsposten, 15.04.1997
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-c9f23ef31f6c
+  status_value: took_place
   references:
   - document: document/1997-04-15-nordlands-framtid-en-poetisk-grisegutt
     locator: Nordlands Framtid, 15.04.1997

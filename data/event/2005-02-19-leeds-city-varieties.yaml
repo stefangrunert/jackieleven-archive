@@ -3,7 +3,8 @@ type: Event
 label: Twisted Folk Tour, City Varieties, Leeds
 event_type: concert
 time:
-- edtf_value: '2005-02-19'
+- statement_id: st-f27c4803e494
+  edtf_value: '2005-02-19'
   note: Das Jahr nennt die Rezension nicht; 2005 erschlossen aus Hems Album Eveningland (2004) und der
     Datenbank-ID (Notiz der Quellendatei).
   references:
@@ -11,13 +12,15 @@ time:
     locator: Whisperin & Hollerin
     evidence_type: inferred
 took_place_at:
-- entity_value: place/city-varieties-leeds
+- statement_id: st-3b81ea8e7e5f
+  entity_value: place/city-varieties-leeds
   references:
   - document: document/2005-02-19-whisperin-and-hollerin-twisted-folk-tour-leeds-city-varieties
     locator: Whisperin & Hollerin
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-7cd7c08eac00
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,14 +28,16 @@ participants:
   - document: document/2005-02-19-whisperin-and-hollerin-twisted-folk-tour-leeds-city-varieties
     locator: Whisperin & Hollerin
     evidence_type: third_party
-- agent_ref: group/the-earlies
+- statement_id: st-815e7c52791d
+  agent_ref: group/the-earlies
   roles:
   - performer
   references:
   - document: document/2005-02-19-whisperin-and-hollerin-twisted-folk-tour-leeds-city-varieties
     locator: Whisperin & Hollerin
     evidence_type: third_party
-- agent_ref: group/hem
+- statement_id: st-af423bb3ddf4
+  agent_ref: group/hem
   roles:
   - performer
   references:
@@ -40,7 +45,8 @@ participants:
     locator: Whisperin & Hollerin
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-3f6f2fa97a1c
+  status_value: took_place
   references:
   - document: document/2005-02-19-whisperin-and-hollerin-twisted-folk-tour-leeds-city-varieties
     locator: Whisperin & Hollerin

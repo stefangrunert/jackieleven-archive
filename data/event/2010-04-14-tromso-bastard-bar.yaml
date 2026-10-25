@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Bastard Bar, Tromsø (2010-04-14)
 event_type: concert
 time:
-- edtf_value: '2010-04-14'
+- statement_id: st-5980925f937d
+  edtf_value: '2010-04-14'
   note: Angekündigt für Mittwoch, 14. April 2010.
   references:
   - document: document/2010-04-10-itromso-jackie-leven-pa-bastard
     locator: iTromsø, 10.04.2010
     evidence_type: third_party
 took_place_at:
-- entity_value: place/bastard-bar-tromso
+- statement_id: st-33c1f74f0192
+  entity_value: place/bastard-bar-tromso
   references:
   - document: document/2010-04-10-itromso-jackie-leven-pa-bastard
     locator: iTromsø, 10.04.2010
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-12aebc606390
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -24,7 +27,8 @@ participants:
   - document: document/2010-04-10-itromso-jackie-leven-pa-bastard
     locator: iTromsø, 10.04.2010
     evidence_type: third_party
-- agent_ref: person/egon-holstad
+- statement_id: st-ba36461601a7
+  agent_ref: person/egon-holstad
   roles:
   - promoter
   references:
@@ -32,7 +36,8 @@ participants:
     locator: iTromsø, 10.04.2010
     evidence_type: third_party
 performance_status:
-- status_value: announced
+- statement_id: st-4ae715a3968c
+  status_value: announced
   references:
   - document: document/2010-04-10-itromso-jackie-leven-pa-bastard
     locator: iTromsø, 10.04.2010

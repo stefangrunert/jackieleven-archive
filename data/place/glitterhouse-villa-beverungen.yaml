@@ -3,7 +3,8 @@ type: Place
 label: Glitterhouse-Villa
 place_type: venue
 located_in:
-- entity_value: place/beverungen
+- statement_id: st-958e5d4c5a00
+  entity_value: place/beverungen
   references:
   - document: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
     locator: Gaesteliste.de, 29.05.2004

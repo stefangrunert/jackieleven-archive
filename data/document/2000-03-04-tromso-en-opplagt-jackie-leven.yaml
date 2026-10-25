@@ -4,13 +4,16 @@ label: En opplagt Jackie Leven
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/helge-matland
+- statement_id: st-95e1d1e2f427
+  agent_ref: person/helge-matland
   roles:
   - author
 published:
-- edtf_value: '2000-03-04'
+- statement_id: st-c87bacaf6809
+  edtf_value: '2000-03-04'
 published_in:
-- entity_value: publication/tromso
+- statement_id: st-9484ca1644cc
+  entity_value: publication/tromso
 reviews:
 - event/2000-03-02-tromso-bla-rock-cafe
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromso_null_null_20000304_103_54_1

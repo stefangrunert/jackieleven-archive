@@ -4,13 +4,16 @@ label: Dukker i fint driv
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/lars-olve-hesjedal
+- statement_id: st-461648c0f667
+  agent_ref: person/lars-olve-hesjedal
   roles:
   - author
 published:
-- edtf_value: '1997-08-31'
+- statement_id: st-5fec71b8d153
+  edtf_value: '1997-08-31'
 published_in:
-- entity_value: publication/bergensavisen
+- statement_id: st-ce2e1efd34d4
+  entity_value: publication/bergensavisen
 reviews:
 - event/1997-08-29-bergen-garage
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_19970831_71_233_1

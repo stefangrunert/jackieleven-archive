@@ -4,6 +4,7 @@ coverage_scope:
   materials:
     - research/quellen/konzertberichte/*.md
 method: extraction
+completeness: fully_checked
 searched_on: 2026-10-25
 searched_by:
   agent: claude-code

@@ -4,13 +4,16 @@ label: Hvit soul
 document_type: news
 language: 'no'
 participants:
-- agent_ref: person/ole-p-refsahl
+- statement_id: st-0ddd9df8d85b
+  agent_ref: person/ole-p-refsahl
   roles:
   - author
 published:
-- edtf_value: '1997-04-11'
+- statement_id: st-ee71eaae04c9
+  edtf_value: '1997-04-11'
 published_in:
-- entity_value: publication/lofotposten
+- statement_id: st-f420621298e5
+  entity_value: publication/lofotposten
 about:
 - event/1997-04-06-tromso-bla-rock-cafe
 - event/1997-04-12-kabelvag-praestengbrygga

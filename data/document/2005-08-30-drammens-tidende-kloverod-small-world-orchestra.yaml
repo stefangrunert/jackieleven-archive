@@ -5,9 +5,11 @@ label: '[Eivind Kløverød spielt mit Jackie Leven] (Zwischenzeile „KLØVERØD
 document_type: news
 language: 'no'
 published:
-- edtf_value: '2005-08-30'
+- statement_id: st-7aa612b574d1
+  edtf_value: '2005-08-30'
 published_in:
-- entity_value: publication/drammens-tidende
+- statement_id: st-2e5b8754099a
+  entity_value: publication/drammens-tidende
 about:
 - event/2005-09-24-drammen-union-scene
 - event/2005-05-01-working-class-hero-festival

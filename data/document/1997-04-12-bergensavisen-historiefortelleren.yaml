@@ -4,13 +4,16 @@ label: Historiefortelleren
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/espen-borhaug
+- statement_id: st-c3eddc405bb7
+  agent_ref: person/espen-borhaug
   roles:
   - author
 published:
-- edtf_value: '1997-04-12'
+- statement_id: st-ca8058449a2b
+  edtf_value: '1997-04-12'
 published_in:
-- entity_value: publication/bergensavisen
+- statement_id: st-5bfcda0ced94
+  entity_value: publication/bergensavisen
 reviews:
 - event/1997-04-10-bergen-garage
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_19970412_71_97_1

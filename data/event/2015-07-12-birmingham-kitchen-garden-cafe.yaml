@@ -3,27 +3,31 @@ type: Event
 label: Michael Weston King und Michael Cosgrave, Kitchen Garden Cafe, Kings Heath, Birmingham
 event_type: concert
 time:
-- edtf_value: '2015-07-12'
+- statement_id: st-8469492500fa
+  edtf_value: '2015-07-12'
   note: Sonntag, 12. Juli 2015 laut Titel des Berichts.
   references:
   - document: document/2015-07-13-three-chords-and-the-truth-uk-michael-weston-king-and-michael-cosgrave
     locator: Three Chords and the Truth UK, 13.07.2015
     evidence_type: third_party
 took_place_at:
-- entity_value: place/kitchen-garden-cafe-birmingham
+- statement_id: st-5fa5bc10aa0c
+  entity_value: place/kitchen-garden-cafe-birmingham
   references:
   - document: document/2015-07-13-three-chords-and-the-truth-uk-michael-weston-king-and-michael-cosgrave
     locator: Three Chords and the Truth UK, 13.07.2015
     evidence_type: third_party
 participants:
-- agent_ref: person/michael-weston-king
+- statement_id: st-9af5e2511227
+  agent_ref: person/michael-weston-king
   roles:
   - vocals
   references:
   - document: document/2015-07-13-three-chords-and-the-truth-uk-michael-weston-king-and-michael-cosgrave
     locator: Three Chords and the Truth UK, 13.07.2015
     evidence_type: third_party
-- agent_ref: person/michael-cosgrave
+- statement_id: st-48c37435482f
+  agent_ref: person/michael-cosgrave
   roles:
   - other
   instrument: Gitarre, Klavier, Akkordeon
@@ -32,7 +36,8 @@ participants:
     locator: Three Chords and the Truth UK, 13.07.2015
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-a0817ed89ad5
+  status_value: took_place
   references:
   - document: document/2015-07-13-three-chords-and-the-truth-uk-michael-weston-king-and-michael-cosgrave
     locator: Three Chords and the Truth UK, 13.07.2015

@@ -4,13 +4,16 @@ label: Blå Leven
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/anki-gerhardsen
+- statement_id: st-a001baeed2dc
+  agent_ref: person/anki-gerhardsen
   roles:
   - author
 published:
-- edtf_value: '2005-10-01'
+- statement_id: st-0e9d630aaea2
+  edtf_value: '2005-10-01'
 published_in:
-- entity_value: publication/lofotposten
+- statement_id: st-0a2769ebc914
+  entity_value: publication/lofotposten
 reviews:
 - event/2005-09-29-kabelvag-praestengbrygga
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_lofotposten_null_null_20051001_110_227_1

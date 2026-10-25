@@ -4,13 +4,16 @@ label: Jackie Leven - Green Note, London 28/5/2008
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/ben-howarth
+- statement_id: st-3f5c4f9878f4
+  agent_ref: person/ben-howarth
   roles:
   - author
 published:
-- edtf_value: 2008-05
+- statement_id: st-fd5d0892a30a
+  edtf_value: 2008-05
 published_in:
-- entity_value: publication/pennyblackmusic
+- statement_id: st-38a569d7cfb1
+  entity_value: publication/pennyblackmusic
 reviews:
 - event/2008-05-28-london-green-note
 url: https://pennyblackmusic.co.uk/Home/Details?id=15789

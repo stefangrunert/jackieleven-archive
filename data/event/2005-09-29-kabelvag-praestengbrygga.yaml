@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Præstengbrygga, Kabelvåg (2005-09-29)
 event_type: concert
 time:
-- edtf_value: '2005-09-29'
+- statement_id: st-f3678909aebd
+  edtf_value: '2005-09-29'
   note: Donnerstag, 29. September 2005 laut Kritik.
   references:
   - document: document/2005-10-01-lofotposten-bla-leven
     locator: Lofotposten, 01.10.2005
     evidence_type: third_party
 took_place_at:
-- entity_value: place/praestengbrygga-kabelvag
+- statement_id: st-126c95606885
+  entity_value: place/praestengbrygga-kabelvag
   references:
   - document: document/2005-10-01-lofotposten-bla-leven
     locator: Lofotposten, 01.10.2005
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-f71356b1c6d9
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -24,7 +27,8 @@ participants:
   - document: document/2005-10-01-lofotposten-bla-leven
     locator: Lofotposten, 01.10.2005
     evidence_type: third_party
-- agent_ref: group/hot-club-de-norvege
+- statement_id: st-98b0c2fbc57b
+  agent_ref: group/hot-club-de-norvege
   roles:
   - support_act
   references:
@@ -32,7 +36,8 @@ participants:
     locator: Lofotposten, 01.10.2005
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-dc38575f4ba1
+  status_value: took_place
   references:
   - document: document/2005-10-01-lofotposten-bla-leven
     locator: Lofotposten, 01.10.2005

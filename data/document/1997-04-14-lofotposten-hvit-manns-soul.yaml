@@ -4,13 +4,16 @@ label: Hvit manns «soul»
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/ole-p-refsahl
+- statement_id: st-ebcab51be567
+  agent_ref: person/ole-p-refsahl
   roles:
   - author
 published:
-- edtf_value: '1997-04-14'
+- statement_id: st-38ded157fbd3
+  edtf_value: '1997-04-14'
 published_in:
-- entity_value: publication/lofotposten
+- statement_id: st-dacb47a9048b
+  entity_value: publication/lofotposten
 reviews:
 - event/1997-04-12-kabelvag-praestengbrygga
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_lofotposten_null_null_19970414_102_85_1

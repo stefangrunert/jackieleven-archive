@@ -4,13 +4,16 @@ label: Doll By Doll – Nite Club, Edinburgh
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/bob-flynn
+- statement_id: st-e79c0b858c72
+  agent_ref: person/bob-flynn
   roles:
   - author
 published:
-- edtf_value: '1981-09-12'
+- statement_id: st-3264a37d7e64
+  edtf_value: '1981-09-12'
 published_in:
-- entity_value: publication/record-mirror
+- statement_id: st-19d82b546dd7
+  entity_value: publication/record-mirror
 reviews:
 - event/1981-09-edinburgh-nite-club
 url: https://www.worldradiohistory.com/UK/Record-Mirror/80s/81/Record-Mirror-1981-09-12-OCR.pdf

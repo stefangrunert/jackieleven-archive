@@ -3,7 +3,8 @@ type: Place
 label: Dalane Brygghus
 place_type: venue
 located_in:
-- entity_value: place/egersund
+- statement_id: st-d6331d3a63c4
+  entity_value: place/egersund
   references:
   - document: document/2009-07-03-dalane-tidende-jackie-leven-dalane-brygghus
     locator: Dalane Tidende, 03.07.2009

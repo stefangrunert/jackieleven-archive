@@ -4,9 +4,11 @@ label: En lun kveld på puben
 document_type: concert_review
 language: 'no'
 published:
-- edtf_value: '2008-11-08'
+- statement_id: st-4fc523b2acd4
+  edtf_value: '2008-11-08'
 published_in:
-- entity_value: publication/varden
+- statement_id: st-e6cf92c61857
+  entity_value: publication/varden
 reviews:
 - event/2008-11-06-skien-lundetangen-pub
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_varden_null_null_20081108_134_262_1

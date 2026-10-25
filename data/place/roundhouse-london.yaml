@@ -3,7 +3,8 @@ type: Place
 label: Roundhouse
 place_type: venue
 located_in:
-- entity_value: place/london
+- statement_id: st-14e5c48d10ab
+  entity_value: place/london
   references:
   - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
     locator: Record Mirror, 28.10.1978, S. 51/52

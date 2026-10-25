@@ -3,7 +3,8 @@ type: Place
 label: Borders, Oxford Street
 place_type: venue
 located_in:
-- entity_value: place/london
+- statement_id: st-d1912957a3f2
+  entity_value: place/london
   references:
   - document: document/2001-10-05-uncut-jackie-leven-borders-oxford-street
     locator: Uncut (Heft nicht angegeben), Abschrift auf jackieleven.com

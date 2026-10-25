@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Buddy, Drammen (2007-10-04)
 event_type: concert
 time:
-- edtf_value: '2007-10-04'
+- statement_id: st-615f076d94f6
+  edtf_value: '2007-10-04'
   note: Angekündigt für Donnerstag, 4. Oktober 2007.
   references:
   - document: document/2007-09-24-drammens-tidende-jackie-pa-buddy
     locator: Drammens Tidende, 24.09.2007
     evidence_type: third_party
 took_place_at:
-- entity_value: place/buddy-drammen
+- statement_id: st-859d6799964b
+  entity_value: place/buddy-drammen
   references:
   - document: document/2007-09-24-drammens-tidende-jackie-pa-buddy
     locator: Drammens Tidende, 24.09.2007
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-d9f9df4c5e9a
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,7 +28,8 @@ participants:
     locator: Drammens Tidende, 24.09.2007
     evidence_type: third_party
 performance_status:
-- status_value: announced
+- statement_id: st-3dbcffe33586
+  status_value: announced
   references:
   - document: document/2007-09-24-drammens-tidende-jackie-pa-buddy
     locator: Drammens Tidende, 24.09.2007

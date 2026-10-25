@@ -4,13 +4,16 @@ label: Leven for døve ører
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/ole-p-refsahl
+- statement_id: st-cf0c441581f9
+  agent_ref: person/ole-p-refsahl
   roles:
   - author
 published:
-- edtf_value: '1998-03-16'
+- statement_id: st-e13c6b1f0887
+  edtf_value: '1998-03-16'
 published_in:
-- entity_value: publication/lofotposten
+- statement_id: st-76c597db4474
+  entity_value: publication/lofotposten
 reviews:
 - event/1998-03-14-kabelvag-praestengbrygga
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_lofotposten_null_null_19980316_103_63_1

@@ -4,9 +4,11 @@ label: '[Vorbericht: Jan Åge Johansen holt Jackie Leven zum sechsten Mal nach K
 document_type: news
 language: 'no'
 published:
-- edtf_value: '2007-08-01'
+- statement_id: st-716b222788df
+  edtf_value: '2007-08-01'
 published_in:
-- entity_value: publication/vaganavisa
+- statement_id: st-ab9b307d4fce
+  entity_value: publication/vaganavisa
 about:
 - event/2007-09-26-kabelvag-praestengbrygga
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_vaaganavisa_null_null_20070801_2_31_1

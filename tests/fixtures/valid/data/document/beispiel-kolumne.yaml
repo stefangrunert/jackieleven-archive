@@ -4,7 +4,10 @@ label: Beispielkolumne
 document_type: column
 language: en
 participants:
-  - agent_ref: person/jackie-leven
-    roles: [author]
+- statement_id: st-c0b45a144252
+  agent_ref: person/jackie-leven
+  roles:
+  - author
 published:
-  - edtf_value: 2004-07
+- statement_id: st-a33c698b1b4c
+  edtf_value: 2004-07

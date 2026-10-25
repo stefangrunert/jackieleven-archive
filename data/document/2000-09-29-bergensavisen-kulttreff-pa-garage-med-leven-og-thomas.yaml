@@ -4,13 +4,16 @@ label: Kulttreff på Garage med Leven og Thomas
 document_type: news
 language: 'no'
 participants:
-- agent_ref: person/frank-johnsen
+- statement_id: st-888d162e69c8
+  agent_ref: person/frank-johnsen
   roles:
   - author
 published:
-- edtf_value: '2000-09-29'
+- statement_id: st-12a3bbafc440
+  edtf_value: '2000-09-29'
 published_in:
-- entity_value: publication/bergensavisen
+- statement_id: st-fd562aa37c20
+  entity_value: publication/bergensavisen
 about:
 - event/2000-11-23-bergen-garage-ubudoll
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_20000929_74_263_1

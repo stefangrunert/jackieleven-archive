@@ -3,7 +3,8 @@ type: Place
 label: Marquee
 place_type: venue
 located_in:
-- entity_value: place/london
+- statement_id: st-63da7ab1df5e
+  entity_value: place/london
   references:
   - document: document/1980-02-23-sounds-doll-by-doll-marquee-london
     locator: Sounds, 23.02.1980

@@ -4,9 +4,11 @@ label: Jackie Leven tilbake
 document_type: news
 language: 'no'
 published:
-- edtf_value: '2008-08-29'
+- statement_id: st-349836adf54c
+  edtf_value: '2008-08-29'
 published_in:
-- entity_value: publication/bergensavisen
+- statement_id: st-81b1311f552f
+  entity_value: publication/bergensavisen
 about:
 - event/2008-11-09-bergen-madam-felle
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_20080829_81_233_1

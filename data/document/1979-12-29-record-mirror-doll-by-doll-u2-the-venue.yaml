@@ -4,13 +4,16 @@ label: Doll By Doll / U-2 – London, The Venue
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/chris-westwood
+- statement_id: st-1f912b8f3f1e
+  agent_ref: person/chris-westwood
   roles:
   - author
 published:
-- edtf_value: '1979-12-29'
+- statement_id: st-19e6d6957f92
+  edtf_value: '1979-12-29'
 published_in:
-- entity_value: publication/record-mirror
+- statement_id: st-1fe926f2d35c
+  entity_value: publication/record-mirror
 reviews:
 - event/1979-12-18-london-the-venue
 url: https://www.worldradiohistory.com/UK/Record-Mirror/70s/79/Record-Mirror-1979-12-29.pdf

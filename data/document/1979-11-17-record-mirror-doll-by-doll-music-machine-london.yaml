@@ -4,13 +4,16 @@ label: Doll By Doll – Music Machine, London
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/chris-westwood
+- statement_id: st-e5674b4e9ba1
+  agent_ref: person/chris-westwood
   roles:
   - author
 published:
-- edtf_value: '1979-11-17'
+- statement_id: st-cede7712b702
+  edtf_value: '1979-11-17'
 published_in:
-- entity_value: publication/record-mirror
+- statement_id: st-63c669e476fa
+  entity_value: publication/record-mirror
 reviews:
 - event/1979-11-london-music-machine
 url: https://www.worldradiohistory.com/UK/Record-Mirror/70s/79/Record-Mirror-1979-11-17.pdf

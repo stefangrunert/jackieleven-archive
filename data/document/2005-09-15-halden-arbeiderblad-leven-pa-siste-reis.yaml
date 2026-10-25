@@ -4,13 +4,16 @@ label: Leven på Siste Reis
 document_type: news
 language: 'no'
 participants:
-- agent_ref: person/oyvind-ottersen
+- statement_id: st-67b8bd867575
+  agent_ref: person/oyvind-ottersen
   roles:
   - author
 published:
-- edtf_value: '2005-09-15'
+- statement_id: st-7c63aa5263ae
+  edtf_value: '2005-09-15'
 published_in:
-- entity_value: publication/halden-arbeiderblad
+- statement_id: st-916301cef51e
+  entity_value: publication/halden-arbeiderblad
 about:
 - event/2005-09-25-halden-siste-reis-pub
 - event/198x-oslo-ratz

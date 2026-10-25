@@ -3,14 +3,16 @@ type: Event
 label: Jackie Leven, Working Class Hero-Festival 2005
 event_type: festival_appearance
 time:
-- edtf_value: '2005-05-01'
+- statement_id: st-81813ef52c3f
+  edtf_value: '2005-05-01'
   note: „Am 1. Mai“ laut Bericht; Spielort im Auszug nicht genannt. Rückblick, ca. 150 Anwesende.
   references:
   - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
     locator: Drammens Tidende, 30.08.2005 (Rückblick)
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-4e447ff846b8
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -18,14 +20,16 @@ participants:
   - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
     locator: Drammens Tidende, 30.08.2005 (Rückblick)
     evidence_type: third_party
-- agent_ref: person/eivind-kloverod
+- statement_id: st-ac1db33c0afd
+  agent_ref: person/eivind-kloverod
   roles:
   - drums
   references:
   - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
     locator: Drammens Tidende, 30.08.2005 (Rückblick)
     evidence_type: third_party
-- agent_ref: group/bent-bredesen-trio
+- statement_id: st-163a102ecc03
+  agent_ref: group/bent-bredesen-trio
   roles:
   - support_act
   references:
@@ -33,7 +37,8 @@ participants:
     locator: Drammens Tidende, 30.08.2005 (Rückblick)
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-bbca0678e018
+  status_value: took_place
   references:
   - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
     locator: Drammens Tidende, 30.08.2005 (Rückblick)

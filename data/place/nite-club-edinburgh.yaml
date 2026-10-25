@@ -3,7 +3,8 @@ type: Place
 label: Nite Club
 place_type: venue
 located_in:
-- entity_value: place/edinburgh
+- statement_id: st-f57ef0f647ea
+  entity_value: place/edinburgh
   references:
   - document: document/1981-09-12-record-mirror-doll-by-doll-nite-club-edinburgh
     locator: Record Mirror, 12.09.1981, S. 18

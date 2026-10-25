@@ -3,19 +3,22 @@ type: Event
 label: Jackie Leven, Richard Thompson und Midnight Choir, Gloria, Köln
 event_type: concert
 time:
-- edtf_value: '2003-02-23'
+- statement_id: st-baea1219dd7e
+  edtf_value: '2003-02-23'
   references:
   - document: document/2003-02-23-gaesteliste-koeln-gloria-mit-richard-thompson
     locator: Gaesteliste.de, 23.02.2003
     evidence_type: third_party
 took_place_at:
-- entity_value: place/gloria-cologne
+- statement_id: st-99d3ba1f6093
+  entity_value: place/gloria-cologne
   references:
   - document: document/2003-02-23-gaesteliste-koeln-gloria-mit-richard-thompson
     locator: Gaesteliste.de, 23.02.2003
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-36a1da287524
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -23,21 +26,24 @@ participants:
   - document: document/2003-02-23-gaesteliste-koeln-gloria-mit-richard-thompson
     locator: Gaesteliste.de, 23.02.2003
     evidence_type: third_party
-- agent_ref: person/michael-cosgrave
+- statement_id: st-c846c5655d97
+  agent_ref: person/michael-cosgrave
   roles:
   - keyboards
   references:
   - document: document/2003-02-23-gaesteliste-koeln-gloria-mit-richard-thompson
     locator: Gaesteliste.de, 23.02.2003
     evidence_type: third_party
-- agent_ref: person/richard-thompson
+- statement_id: st-533da1953211
+  agent_ref: person/richard-thompson
   roles:
   - performer
   references:
   - document: document/2003-02-23-gaesteliste-koeln-gloria-mit-richard-thompson
     locator: Gaesteliste.de, 23.02.2003
     evidence_type: third_party
-- agent_ref: group/midnight-choir
+- statement_id: st-ddfca25e5885
+  agent_ref: group/midnight-choir
   roles:
   - performer
   references:
@@ -45,7 +51,8 @@ participants:
     locator: Gaesteliste.de, 23.02.2003
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-6965b58a1ebd
+  status_value: took_place
   references:
   - document: document/2003-02-23-gaesteliste-koeln-gloria-mit-richard-thompson
     locator: Gaesteliste.de, 23.02.2003

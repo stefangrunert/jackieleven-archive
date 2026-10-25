@@ -4,13 +4,16 @@ label: Why Johnny Cash would have loved Cash Back In Fife
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/allan-crow
+- statement_id: st-8726aac7fb34
+  agent_ref: person/allan-crow
   roles:
   - author
 published:
-- edtf_value: '2020-03-09'
+- statement_id: st-42549ef0dd8b
+  edtf_value: '2020-03-09'
 published_in:
-- entity_value: publication/fife-today
+- statement_id: st-ab0ef3c3d01c
+  entity_value: publication/fife-today
 reviews:
 - event/2020-03-06-aberdour-cash-back-in-fife
 - event/2020-03-07-aberdour-ian-rankin-erinnert-an-jackie-leven

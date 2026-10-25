@@ -4,13 +4,16 @@ label: Grisete sentimental
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/torkil-emberland
+- statement_id: st-d10fa9086527
+  agent_ref: person/torkil-emberland
   roles:
   - author
 published:
-- edtf_value: '2000-03-04'
+- statement_id: st-f3acff5b4543
+  edtf_value: '2000-03-04'
 published_in:
-- entity_value: publication/nordlys
+- statement_id: st-67ca31ddf4e2
+  entity_value: publication/nordlys
 reviews:
 - event/2000-03-02-tromso-bla-rock-cafe
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlys_null_null_20000304_99_54_1

@@ -3,7 +3,8 @@ type: Place
 label: Den Nationale Scene, Småscenen
 place_type: venue
 located_in:
-- entity_value: place/bergen
+- statement_id: st-20af8ae6c192
+  entity_value: place/bergen
   references:
   - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
     locator: Laagendalsposten, 13.04.2010

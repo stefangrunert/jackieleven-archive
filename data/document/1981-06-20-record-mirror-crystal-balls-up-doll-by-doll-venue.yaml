@@ -4,13 +4,16 @@ label: '[Doll By Doll, Venue, London]'
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/robin-smith
+- statement_id: st-30411f947f9a
+  agent_ref: person/robin-smith
   roles:
   - author
 published:
-- edtf_value: '1981-06-20'
+- statement_id: st-90c255909f7d
+  edtf_value: '1981-06-20'
 published_in:
-- entity_value: publication/record-mirror
+- statement_id: st-3401bf6e55b7
+  entity_value: publication/record-mirror
 reviews:
 - event/1981-06-08-london-the-venue
 url: https://www.worldradiohistory.com/UK/Record-Mirror/80s/81/Record-Mirror-1981-06-20-OCR.pdf

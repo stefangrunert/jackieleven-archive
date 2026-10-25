@@ -4,13 +4,16 @@ label: En skotsk personlighet
 document_type: news
 language: 'no'
 participants:
-- agent_ref: person/helge-matland
+- statement_id: st-5ddc48d5ef0b
+  agent_ref: person/helge-matland
   roles:
   - author
 published:
-- edtf_value: '1996-04-27'
+- statement_id: st-14293729cf5e
+  edtf_value: '1996-04-27'
 published_in:
-- entity_value: publication/tromso
+- statement_id: st-fd67e3bdacaf
+  entity_value: publication/tromso
 about:
 - event/1996-04-28-tromso-bla-rock-cafe
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromso_null_null_19960427_0_98_1

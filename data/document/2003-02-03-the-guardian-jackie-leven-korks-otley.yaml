@@ -4,13 +4,16 @@ label: Jackie Leven (Korks, Otley)
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/dave-simpson
+- statement_id: st-dd8a659e3cd9
+  agent_ref: person/dave-simpson
   roles:
   - author
 published:
-- edtf_value: '2003-02-03'
+- statement_id: st-3eeee7ff9b84
+  edtf_value: '2003-02-03'
 published_in:
-- entity_value: publication/the-guardian
+- statement_id: st-cd9d29564a9f
+  entity_value: publication/the-guardian
 reviews:
 - event/2003-02-otley-korks
 url: https://www.theguardian.com/stage/2003/feb/03/dance.artsfeatures1

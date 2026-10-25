@@ -3,27 +3,31 @@ type: Event
 label: Doll by Doll, Reading Festival 1979
 event_type: festival_appearance
 time:
-- edtf_value: 1979-08
+- statement_id: st-2ccb200fe0c2
+  edtf_value: 1979-08
   note: Bericht über den Festival-Freitag; Tagesdatum nicht genannt.
   references:
   - document: document/1979-09-01-record-mirror-reading-festival-1979
     locator: Record Mirror, 01.09.1979, S. 21
     evidence_type: third_party
 took_place_at:
-- entity_value: place/reading
+- statement_id: st-74b45a3a4f96
+  entity_value: place/reading
   references:
   - document: document/1979-09-01-record-mirror-reading-festival-1979
     locator: Record Mirror, 01.09.1979, S. 21
     evidence_type: third_party
 participants:
-- agent_ref: group/doll-by-doll
+- statement_id: st-5dd2b7c4ff35
+  agent_ref: group/doll-by-doll
   roles:
   - performer
   references:
   - document: document/1979-09-01-record-mirror-reading-festival-1979
     locator: Record Mirror, 01.09.1979, S. 21
     evidence_type: third_party
-- agent_ref: person/jackie-leven
+- statement_id: st-346da89f0037
+  agent_ref: person/jackie-leven
   roles:
   - performer
   references:
@@ -33,7 +37,8 @@ participants:
     scope: Leven habe später darauf hingewiesen, dass jede der Bands im „lächerlichen Spektakel“ von Reading
       eine Funktion zu erfüllen gehabt habe
 performance_status:
-- status_value: took_place
+- statement_id: st-479e313ae8ea
+  status_value: took_place
   references:
   - document: document/1979-09-01-record-mirror-reading-festival-1979
     locator: Record Mirror, 01.09.1979, S. 21

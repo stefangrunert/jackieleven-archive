@@ -3,19 +3,22 @@ type: Event
 label: Jackie Leven, Kulturbunker Mülheim, Köln (2007-11-14)
 event_type: concert
 time:
-- edtf_value: '2007-11-14'
+- statement_id: st-032316365908
+  edtf_value: '2007-11-14'
   references:
   - document: document/2007-11-14-gaesteliste-koeln-kulturbunker-muelheim
     locator: Gaesteliste.de, 14.11.2007
     evidence_type: third_party
 took_place_at:
-- entity_value: place/kulturbunker-muelheim-cologne
+- statement_id: st-c5e7493fda82
+  entity_value: place/kulturbunker-muelheim-cologne
   references:
   - document: document/2007-11-14-gaesteliste-koeln-kulturbunker-muelheim
     locator: Gaesteliste.de, 14.11.2007
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-d07564543a11
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -23,7 +26,8 @@ participants:
   - document: document/2007-11-14-gaesteliste-koeln-kulturbunker-muelheim
     locator: Gaesteliste.de, 14.11.2007
     evidence_type: third_party
-- agent_ref: person/michael-cosgrave
+- statement_id: st-0bd55034aeb3
+  agent_ref: person/michael-cosgrave
   roles:
   - keyboards
   - other
@@ -32,14 +36,16 @@ participants:
   - document: document/2007-11-14-gaesteliste-koeln-kulturbunker-muelheim
     locator: Gaesteliste.de, 14.11.2007
     evidence_type: third_party
-- agent_ref: person/michael-weston-king
+- statement_id: st-25921b0209e7
+  agent_ref: person/michael-weston-king
   roles:
   - support_act
   references:
   - document: document/2007-11-14-gaesteliste-koeln-kulturbunker-muelheim
     locator: Gaesteliste.de, 14.11.2007
     evidence_type: third_party
-- agent_ref: person/markus-segschneider
+- statement_id: st-91f7f13d682d
+  agent_ref: person/markus-segschneider
   roles:
   - support_act
   - guitar
@@ -48,7 +54,8 @@ participants:
     locator: Gaesteliste.de, 14.11.2007
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-691567c10510
+  status_value: took_place
   references:
   - document: document/2007-11-14-gaesteliste-koeln-kulturbunker-muelheim
     locator: Gaesteliste.de, 14.11.2007

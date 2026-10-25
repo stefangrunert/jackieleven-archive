@@ -2,12 +2,12 @@ id: https://jackieleven.com/schema/jackieleven
 name: jackieleven
 title: Ontologie des Jackie-Leven-Archivs
 description: >-
-  Schema v0. Enthält die Klassen, die der erste Erschließungslauf benötigt
+  Schema v0.2. Enthält die Klassen, die der erste Erschließungslauf benötigt
   (Personen, Personas, Gruppen, Organisationen, Orte, Ereignisse, Werke,
   Dokumente, Publikationen), Aussagen mit Belegen sowie Aufträge und
   Abdeckungsregister. Werke, Aufnahmen und Ausgaben im Einzelnen, Medienobjekte,
   Textstellen und Erwähnungen folgen in späteren Versionen.
-version: 0.1.0
+version: 0.2.0
 license: https://creativecommons.org/licenses/by-nc/4.0/
 prefixes:
   linkml: https://w3id.org/linkml/
@@ -33,7 +33,22 @@ types:
     pattern: "^job/[a-z0-9]+(-[a-z0-9]+)*$"
   EdtfString:
     typeof: string
-    description: Zeitangabe im Extended Date/Time Format (ISO 8601-2); geprüft durch tools/validate.py.
+    description: >-
+      Zeitangabe im Extended Date/Time Format (ISO 8601-2), als Originalausdruck
+      gespeichert. Die maschinelle Interpretation (frühestes und spätestes Datum,
+      Alternativen) entsteht im Build und wird nicht in den Daten abgelegt.
+  StatementId:
+    typeof: string
+    description: Feste Kennung einer Aussage, vergeben von tools/assign_ids.py.
+    pattern: "^st-[0-9a-f]{12}$"
+  ClaimantRef:
+    typeof: string
+    description: Wessen Behauptung ein Beleg vermittelt; Kennung einer Person, Persona, Gruppe oder Organisation, oder unknown.
+    pattern: "^((person|persona|group|organization)/[a-z0-9]+(-[a-z0-9]+)*|unknown)$"
+  PassageRef:
+    typeof: string
+    description: Kennung einer zitierbaren Textstelle, document/<key>#<passage>.
+    pattern: "^document/[a-z0-9]+(-[a-z0-9]+)*#[a-z0-9]+(-[a-z0-9]+)*$"
 
 classes:
 
@@ -46,7 +61,7 @@ classes:
   Reference:
     description: Beleg für eine Aussage.
     class_uri: prov:Entity
-    slots: [document, locator, quote, evidence_type, scope]
+    slots: [document, passage, locator, quote, evidence_type, asserted_by, scope]
     slot_usage:
       document: {required: true}
 
@@ -54,7 +69,9 @@ classes:
     abstract: true
     description: Zugeschriebene Angabe mit Rang und Belegen (CIDOC CRM E13 Attribute Assignment).
     class_uri: crm:E13_Attribute_Assignment
-    slots: [rank, references, note, recorded_by, reviewed_by, reviewed_at]
+    slots: [statement_id, rank, certainty, references, note, recorded_by, reviewed_by, reviewed_at, review_hash]
+    slot_usage:
+      statement_id: {required: true}
 
   TimeStatement:
     is_a: Statement
@@ -136,13 +153,13 @@ classes:
   Document:
     is_a: Entity
     class_uri: schema:CreativeWork
-    slots: [document_type, language, published, archived, published_in, participants, about, reviews, url, archive_url, access, license, fiction]
+    slots: [document_type, language, published, archived, published_in, participants, about, reviews, derived_from, url, archive_url, access, license, fiction]
 
   # ---------- Erschließung ----------
 
   Job:
     description: Auftrag mit festem Suchraum für eine Erschließungssitzung.
-    slots: [job_id, goal, job_scope, method, output, budget, model, status, instructions]
+    slots: [job_id, goal, job_scope, method, output, budget, model, status, instructions, input_revision, usage]
     slot_usage:
       job_id: {required: true}
       goal: {required: true}
@@ -157,7 +174,7 @@ classes:
 
   CoverageEntry:
     description: Eintrag im Abdeckungsregister, auch für Suchen ohne Ergebnis.
-    slots: [coverage_id, source, coverage_scope, method, searched_on, searched_by, job, result, note]
+    slots: [coverage_id, source, coverage_scope, method, completeness, searched_on, searched_by, job, result, note]
     slot_usage:
       coverage_id: {required: true}
       source: {required: true}
@@ -191,7 +208,10 @@ slots:
   job: {range: JobId}
 
   # Aussagen
-  rank: {range: RankEnum, ifabsent: string(normal)}
+  statement_id: {range: StatementId}
+  rank: {range: RankEnum, ifabsent: string(normal), description: Anzeigerang; entscheidet nicht über Gewissheit.}
+  certainty: {range: CertaintyEnum, description: "Redaktionelle Einschätzung der Gewissheit, unabhängig vom Rang."}
+  review_hash: {description: Prüfsumme des Aussageinhalts zum Zeitpunkt der Prüfung.}
   references: {range: Reference, multivalued: true, inlined_as_list: true}
   edtf_value: {range: EdtfString, required: true, slot_uri: rdf:value}
   entity_value: {range: EntityId, required: true}
@@ -204,6 +224,8 @@ slots:
 
   # Belege
   document: {range: EntityId}
+  passage: {range: PassageRef, description: Zitierbare Textstelle; wird gegen das Verzeichnis der Textstellen geprüft.}
+  asserted_by: {range: ClaimantRef, description: "Wessen Aussage der Beleg vermittelt, etwa Leven in einem Interview."}
   locator: {description: "Fundstelle, etwa Seite, Zeile, Absatzanker oder Zeitmarke."}
   quote: {description: Kurzer wörtlicher Auszug.}
   evidence_type: {range: EvidenceTypeEnum}
@@ -248,6 +270,7 @@ slots:
   published_in: {range: EntityStatement, multivalued: true, inlined_as_list: true}
   about: {range: EntityId, multivalued: true, slot_uri: schema:about}
   reviews: {range: EntityId, multivalued: true, slot_uri: schema:itemReviewed}
+  derived_from: {range: EntityId, multivalued: true, slot_uri: prov:wasDerivedFrom, description: "Dokumente, auf denen dieses beruht, etwa eine Pressemitteilung."}
   url: {range: uri}
   archive_url: {range: uri}
   access: {range: AccessEnum}
@@ -271,6 +294,9 @@ slots:
   subtasks: {range: integer}
   status: {range: JobStatusEnum, ifabsent: string(draft)}
   instructions: {description: Zusätzliche Hinweise für diesen Auftrag.}
+  input_revision: {description: Git-Revision des Quellmaterials beim Start.}
+  usage: {description: Verbrauch des Laufs laut Abschlussbericht.}
+  completeness: {range: CompletenessEnum}
 
   # Abdeckungsregister
   coverage_id: {identifier: true, pattern: "^coverage/[a-z0-9]+(-[a-z0-9]+)*$"}
@@ -285,6 +311,15 @@ slots:
   candidates: {range: integer}
 
 enums:
+  CertaintyEnum:
+    permissible_values: {certain: {}, probable: {}, uncertain: {}, unknown: {}}
+  CompletenessEnum:
+    permissible_values:
+      attempted: {description: "versucht, nicht abgerufen"}
+      fetched: {description: "abgerufen, nicht vollständig lesbar"}
+      readable: {description: "lesbar, nicht vollständig durchgesehen"}
+      fully_checked: {description: vollständig durchgesehen}
+      aborted: {description: abgebrochen}
   RankEnum:
     permissible_values: {preferred: {}, normal: {}, deprecated: {}}
   EvidenceTypeEnum:

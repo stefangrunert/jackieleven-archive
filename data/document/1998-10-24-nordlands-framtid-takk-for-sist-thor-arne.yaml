@@ -4,13 +4,16 @@ label: Takk for sist Thor Arne!
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/freddy-toresen
+- statement_id: st-9dba104bf927
+  agent_ref: person/freddy-toresen
   roles:
   - author
 published:
-- edtf_value: '1998-10-24'
+- statement_id: st-6495a23c4048
+  edtf_value: '1998-10-24'
 published_in:
-- entity_value: publication/nordlands-framtid
+- statement_id: st-6c3f7d57d5ab
+  entity_value: publication/nordlands-framtid
 reviews:
 - event/1998-10-22-bodo-den-siste-glaede
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlandsframtid_null_null_19981024_89_247_1

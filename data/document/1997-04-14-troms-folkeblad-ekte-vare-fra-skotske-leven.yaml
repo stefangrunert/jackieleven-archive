@@ -4,13 +4,16 @@ label: Ekte vare fra skotske Leven
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/ronny-traelvik
+- statement_id: st-f564047063ee
+  agent_ref: person/ronny-traelvik
   roles:
   - author
 published:
-- edtf_value: '1997-04-14'
+- statement_id: st-ab43d9f0e065
+  edtf_value: '1997-04-14'
 published_in:
-- entity_value: publication/troms-folkeblad
+- statement_id: st-7dc47cda4f76
+  entity_value: publication/troms-folkeblad
 reviews:
 - event/1997-04-11-finnsnes-sumaloftet
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromsfolkeblad_null_null_19970414_33_82_1

@@ -2,17 +2,20 @@ id: person/jackie-leven
 type: Person
 label: Jackie Leven
 names:
-  - text_value: Alan Moffatt
-    name_type: birth_name
-    references:
-      - document: document/beispiel-nachruf
-        evidence_type: third_party
-  - text_value: Jackie Leven
-    name_type: stage_name
+- statement_id: st-157efbf30f01
+  text_value: Alan Moffatt
+  name_type: birth_name
+  references:
+  - document: document/beispiel-nachruf
+    evidence_type: third_party
+- statement_id: st-89092b55507f
+  text_value: Jackie Leven
+  name_type: stage_name
 performs_as:
-  - entity_value: persona/sir-vincent-lone
-    references:
-      - document: document/beispiel-nachruf
+- statement_id: st-89cb5e026d18
+  entity_value: persona/sir-vincent-lone
+  references:
+  - document: document/beispiel-nachruf
 birth: event/birth-jackie-leven
 recorded_by:
   agent: claude-code

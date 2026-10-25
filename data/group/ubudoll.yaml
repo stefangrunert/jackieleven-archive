@@ -2,7 +2,8 @@ id: group/ubudoll
 type: Group
 label: UbuDoll
 members:
-- agent_ref: person/jackie-leven
+- statement_id: st-98c0d3bf4e49
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -20,7 +21,8 @@ members:
     locator: Puls, 28.11.2000
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
-- agent_ref: person/david-thomas
+- statement_id: st-d62da4673df2
+  agent_ref: person/david-thomas
   roles:
   - vocals
   - other

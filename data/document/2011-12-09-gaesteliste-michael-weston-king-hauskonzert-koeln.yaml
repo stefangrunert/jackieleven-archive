@@ -4,13 +4,16 @@ label: Michael Weston King, Alan Cook – 09.12.2011 – Köln, Hauskonzert
 document_type: concert_review
 language: de
 participants:
-- agent_ref: person/ullrich-maurer
+- statement_id: st-984472482946
+  agent_ref: person/ullrich-maurer
   roles:
   - author
 published:
-- edtf_value: '2011-12-13'
+- statement_id: st-54b0dd5f413a
+  edtf_value: '2011-12-13'
 published_in:
-- entity_value: publication/gaesteliste-de
+- statement_id: st-498135134fdf
+  entity_value: publication/gaesteliste-de
 reviews:
 - event/2011-12-09-cologne-hauskonzert
 about:

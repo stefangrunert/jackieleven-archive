@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Orange Blossom Special 8, Beverungen
 event_type: festival_appearance
 time:
-- edtf_value: '2004-05-29'
+- statement_id: st-d49628fbcc90
+  edtf_value: '2004-05-29'
   note: Samstag, 29. Mai 2004 laut Bericht.
   references:
   - document: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
     locator: Gaesteliste.de, 29.05.2004
     evidence_type: third_party
 took_place_at:
-- entity_value: place/glitterhouse-villa-beverungen
+- statement_id: st-9b39f322a8cc
+  entity_value: place/glitterhouse-villa-beverungen
   references:
   - document: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
     locator: Gaesteliste.de, 29.05.2004
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-155de0f8554e
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -24,7 +27,8 @@ participants:
   - document: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
     locator: Gaesteliste.de, 29.05.2004
     evidence_type: third_party
-- agent_ref: person/michael-cosgrave
+- statement_id: st-e76173743e46
+  agent_ref: person/michael-cosgrave
   roles:
   - keyboards
   references:
@@ -32,7 +36,8 @@ participants:
     locator: Gaesteliste.de, 29.05.2004
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-c5a474f35512
+  status_value: took_place
   references:
   - document: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
     locator: Gaesteliste.de, 29.05.2004

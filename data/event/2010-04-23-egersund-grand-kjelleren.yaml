@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Grand Kjelleren, Egersund (2010-04-23)
 event_type: concert
 time:
-- edtf_value: '2010-04-23'
+- statement_id: st-c7656f4f5288
+  edtf_value: '2010-04-23'
   note: Angekündigt für Freitag, 23. April 2010.
   references:
   - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
     locator: Dalane Tidende, 21.04.2010
     evidence_type: third_party
 took_place_at:
-- entity_value: place/grand-kjelleren-egersund
+- statement_id: st-0810e71e075c
+  entity_value: place/grand-kjelleren-egersund
   references:
   - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
     locator: Dalane Tidende, 21.04.2010
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-8c7e20a61f0e
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -24,7 +27,8 @@ participants:
   - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
     locator: Dalane Tidende, 21.04.2010
     evidence_type: third_party
-- agent_ref: person/henning-feyling
+- statement_id: st-646913c29acd
+  agent_ref: person/henning-feyling
   roles:
   - promoter
   references:
@@ -32,7 +36,8 @@ participants:
     locator: Dalane Tidende, 21.04.2010
     evidence_type: third_party
 performance_status:
-- status_value: announced
+- statement_id: st-1e46953c7f98
+  status_value: announced
   references:
   - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
     locator: Dalane Tidende, 21.04.2010

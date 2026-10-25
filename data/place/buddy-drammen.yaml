@@ -3,7 +3,8 @@ type: Place
 label: Buddy
 place_type: venue
 located_in:
-- entity_value: place/drammen
+- statement_id: st-cb2d22822fa8
+  entity_value: place/drammen
   references:
   - document: document/2007-09-24-drammens-tidende-jackie-pa-buddy
     locator: Drammens Tidende, 24.09.2007

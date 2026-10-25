@@ -3,7 +3,8 @@ type: Event
 label: Jackie Leven, Blå Rock Café, Tromsø (2003-03-02)
 event_type: concert
 time:
-- edtf_value: '2003-03-02'
+- statement_id: st-971d9c0671ee
+  edtf_value: '2003-03-02'
   note: Angekündigt für Sonntag, 2. März 2003.
   references:
   - document: document/2003-02-28-tromso-jackie-leven-pa-blarock
@@ -13,7 +14,8 @@ time:
     locator: Nordlys, 01.03.2003
     evidence_type: third_party
 took_place_at:
-- entity_value: place/bla-rock-cafe-tromso
+- statement_id: st-383aebc4edc1
+  entity_value: place/bla-rock-cafe-tromso
   references:
   - document: document/2003-02-28-tromso-jackie-leven-pa-blarock
     locator: Tromsø, 28.02.2003
@@ -22,7 +24,8 @@ took_place_at:
     locator: Nordlys, 01.03.2003
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-fe30b27657cd
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -34,7 +37,8 @@ participants:
     locator: Nordlys, 01.03.2003
     evidence_type: third_party
 performance_status:
-- status_value: announced
+- statement_id: st-4c1c691c16ec
+  status_value: announced
   references:
   - document: document/2003-02-28-tromso-jackie-leven-pa-blarock
     locator: Tromsø, 28.02.2003

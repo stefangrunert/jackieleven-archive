@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Korks, Otley (2003-01/2003-02)
 event_type: concert
 time:
-- edtf_value: 2003-01/2003-02
+- statement_id: st-0c2d73b9fdbe
+  edtf_value: 2003-01/2003-02
   note: Konzertdatum nicht genannt; Kritik vom 03.02.2003, Quellendatei vermutet 31.01. oder 01.02.2003.
   references:
   - document: document/2003-02-03-the-guardian-jackie-leven-korks-otley
     locator: The Guardian, 03.02.2003
     evidence_type: inferred
 took_place_at:
-- entity_value: place/korks-otley
+- statement_id: st-c4ca02aa17e0
+  entity_value: place/korks-otley
   references:
   - document: document/2003-02-03-the-guardian-jackie-leven-korks-otley
     locator: The Guardian, 03.02.2003
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-59930f93e30c
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,7 +28,8 @@ participants:
     locator: The Guardian, 03.02.2003
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-55756bbf6dfd
+  status_value: took_place
   references:
   - document: document/2003-02-03-the-guardian-jackie-leven-korks-otley
     locator: The Guardian, 03.02.2003

@@ -3,27 +3,31 @@ type: Event
 label: Doll by Doll, ZigZag-Geburtstagsparty, The Venue, London
 event_type: concert
 time:
-- edtf_value: 1979-06
+- statement_id: st-e8fb426ddc58
+  edtf_value: 1979-06
   note: Party im Juni 1979; Tag nicht genannt.
   references:
   - document: document/1979-07-zigzag-zigzag-10th-birthday-party-venue
     locator: ZigZag Nr. 95, Juli 1979, S. 20–25
     evidence_type: third_party
 took_place_at:
-- entity_value: place/the-venue-london
+- statement_id: st-e18043d6a87e
+  entity_value: place/the-venue-london
   references:
   - document: document/1979-07-zigzag-zigzag-10th-birthday-party-venue
     locator: ZigZag Nr. 95, Juli 1979, S. 20–25
     evidence_type: third_party
 participants:
-- agent_ref: group/doll-by-doll
+- statement_id: st-c79b0cd510b2
+  agent_ref: group/doll-by-doll
   roles:
   - performer
   references:
   - document: document/1979-07-zigzag-zigzag-10th-birthday-party-venue
     locator: ZigZag Nr. 95, Juli 1979, S. 20–25
     evidence_type: third_party
-- agent_ref: person/jo-shaw
+- statement_id: st-066db309716d
+  agent_ref: person/jo-shaw
   roles:
   - guitar
   credited_as: Joe Shaw / Jo Shaw
@@ -31,14 +35,16 @@ participants:
   - document: document/1979-07-zigzag-zigzag-10th-birthday-party-venue
     locator: ZigZag Nr. 95, Juli 1979, S. 20–25
     evidence_type: third_party
-- agent_ref: group/levi-and-the-rockats
+- statement_id: st-7488e8f84e58
+  agent_ref: group/levi-and-the-rockats
   roles:
   - performer
   references:
   - document: document/1979-07-zigzag-zigzag-10th-birthday-party-venue
     locator: ZigZag Nr. 95 (Programmfolge der Abschrift)
     evidence_type: third_party
-- agent_ref: person/john-otway
+- statement_id: st-16882121e879
+  agent_ref: person/john-otway
   roles:
   - performer
   references:
@@ -46,7 +52,8 @@ participants:
     locator: ZigZag Nr. 95 (Programmfolge der Abschrift)
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-bb3f19d95a36
+  status_value: took_place
   references:
   - document: document/1979-07-zigzag-zigzag-10th-birthday-party-venue
     locator: ZigZag Nr. 95, Juli 1979, S. 20–25

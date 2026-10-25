@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Præstengbrygga, Kabelvåg (2001-09-04)
 event_type: concert
 time:
-- edtf_value: '2001-09-04'
+- statement_id: st-6b3a057c16c6
+  edtf_value: '2001-09-04'
   note: Dienstagabend, 4. September 2001 laut Kritik.
   references:
   - document: document/2001-09-06-lofotposten-rolig-leven-traff-publikum
     locator: Lofotposten, 06.09.2001
     evidence_type: third_party
 took_place_at:
-- entity_value: place/praestengbrygga-kabelvag
+- statement_id: st-526989ba8f39
+  entity_value: place/praestengbrygga-kabelvag
   references:
   - document: document/2001-09-06-lofotposten-rolig-leven-traff-publikum
     locator: Lofotposten, 06.09.2001
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-44953a04a36b
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,7 +28,8 @@ participants:
     locator: Lofotposten, 06.09.2001
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-4f8daaf4ad41
+  status_value: took_place
   references:
   - document: document/2001-09-06-lofotposten-rolig-leven-traff-publikum
     locator: Lofotposten, 06.09.2001

@@ -4,13 +4,16 @@ label: Gudbenådet kar
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/frank-johnsen
+- statement_id: st-2e3e4d6ade77
+  agent_ref: person/frank-johnsen
   roles:
   - author
 published:
-- edtf_value: '2000-03-03'
+- statement_id: st-26d8541ec2b2
+  edtf_value: '2000-03-03'
 published_in:
-- entity_value: publication/bergensavisen
+- statement_id: st-e9e1d15fd283
+  entity_value: publication/bergensavisen
 reviews:
 - event/2000-03-bergen-den-stundesloese
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_20000303_74_62_1

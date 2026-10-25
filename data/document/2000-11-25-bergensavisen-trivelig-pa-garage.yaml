@@ -4,13 +4,16 @@ label: Trivelig på Garage
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/frank-johnsen
+- statement_id: st-38ef788f1063
+  agent_ref: person/frank-johnsen
   roles:
   - author
 published:
-- edtf_value: '2000-11-25'
+- statement_id: st-a79518935513
+  edtf_value: '2000-11-25'
 published_in:
-- entity_value: publication/bergensavisen
+- statement_id: st-e2a68962d0ed
+  entity_value: publication/bergensavisen
 reviews:
 - event/2000-11-23-bergen-garage-ubudoll
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_20001125_74_320_1

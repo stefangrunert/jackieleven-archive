@@ -3,7 +3,8 @@ type: Event
 label: Fisher King Leven, Underbelly, Edinburgh
 event_type: concert
 time:
-- edtf_value: '2006-08-12'
+- statement_id: st-a0cfc5717d2a
+  edtf_value: '2006-08-12'
   note: Termin „12. August, 21 Uhr“; das Jahr 2006 ist aus dem Album A New Kind of Loneliness erschlossen
     (Notiz der Quellendatei).
   references:
@@ -11,13 +12,15 @@ time:
     locator: The List, August 2006
     evidence_type: inferred
 took_place_at:
-- entity_value: place/underbelly-edinburgh
+- statement_id: st-0ac584e2a324
+  entity_value: place/underbelly-edinburgh
   references:
   - document: document/2006-08-the-list-fisher-king-leven
     locator: The List, August 2006
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-a04a4534634a
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,14 +28,16 @@ participants:
   - document: document/2006-08-the-list-fisher-king-leven
     locator: The List, August 2006
     evidence_type: third_party
-- agent_ref: person/robert-fisher
+- statement_id: st-ad4cc2b6af26
+  agent_ref: person/robert-fisher
   roles:
   - performer
   references:
   - document: document/2006-08-the-list-fisher-king-leven
     locator: The List, August 2006
     evidence_type: third_party
-- agent_ref: person/michael-weston-king
+- statement_id: st-5d63cbdcfd9b
+  agent_ref: person/michael-weston-king
   roles:
   - performer
   references:
@@ -40,7 +45,8 @@ participants:
     locator: The List, August 2006
     evidence_type: third_party
 performance_status:
-- status_value: announced
+- statement_id: st-35675da82829
+  status_value: announced
   references:
   - document: document/2006-08-the-list-fisher-king-leven
     locator: The List, August 2006

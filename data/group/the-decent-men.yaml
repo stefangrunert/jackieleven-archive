@@ -2,7 +2,8 @@ id: group/the-decent-men
 type: Group
 label: The Decent Men
 members:
-- agent_ref: person/michael-weston-king
+- statement_id: st-d864803c83c4
+  agent_ref: person/michael-weston-king
   roles:
   - vocals
   - member
@@ -11,7 +12,8 @@ members:
     locator: Gaesteliste.de, 29.05.2004
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
-- agent_ref: person/jackie-leven
+- statement_id: st-1d25dda9fead
+  agent_ref: person/jackie-leven
   roles:
   - guitar
   - member
@@ -20,7 +22,8 @@ members:
     locator: Gaesteliste.de, 29.05.2004
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
-- agent_ref: person/michael-cosgrave
+- statement_id: st-e7f7b10e1a00
+  agent_ref: person/michael-cosgrave
   roles:
   - keyboards
   - other

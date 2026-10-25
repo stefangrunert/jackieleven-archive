@@ -3,7 +3,8 @@ type: Place
 label: Purcell Room, South Bank Centre
 place_type: venue
 located_in:
-- entity_value: place/london
+- statement_id: st-2edad40893db
+  entity_value: place/london
   references:
   - document: document/2000-09-26-the-independent-jackie-leven-a-cult-artist
     locator: The Independent, 26.09.2000

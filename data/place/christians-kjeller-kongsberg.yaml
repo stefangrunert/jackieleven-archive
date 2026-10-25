@@ -3,7 +3,8 @@ type: Place
 label: Christians Kjeller
 place_type: venue
 located_in:
-- entity_value: place/kongsberg
+- statement_id: st-e1f1bd3b0d30
+  entity_value: place/kongsberg
   references:
   - document: document/2009-07-02-drammens-tidende-unikt-musikkmote
     locator: Drammens Tidende, 02.07.2009

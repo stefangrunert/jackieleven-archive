@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Buddy, Drammen (2008-11-13)
 event_type: concert
 time:
-- edtf_value: '2008-11-13'
+- statement_id: st-d445c2ebb8bf
+  edtf_value: '2008-11-13'
   note: Donnerstag, 13. November 2008 laut Kritik (125 Zuhörer).
   references:
   - document: document/2008-11-14-drammens-tidende-en-bamseklem-av-en-konsert
     locator: Drammens Tidende, 14.11.2008
     evidence_type: third_party
 took_place_at:
-- entity_value: place/buddy-drammen
+- statement_id: st-e60ab082d966
+  entity_value: place/buddy-drammen
   references:
   - document: document/2008-11-14-drammens-tidende-en-bamseklem-av-en-konsert
     locator: Drammens Tidende, 14.11.2008
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-9279bb8ee476
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,7 +28,8 @@ participants:
     locator: Drammens Tidende, 14.11.2008
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-3a1f16cc924a
+  status_value: took_place
   references:
   - document: document/2008-11-14-drammens-tidende-en-bamseklem-av-en-konsert
     locator: Drammens Tidende, 14.11.2008

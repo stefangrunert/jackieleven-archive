@@ -3,7 +3,8 @@ type: Place
 label: Acne Club
 place_type: venue
 located_in:
-- entity_value: place/aylesbury
+- statement_id: st-a5c69ff45501
+  entity_value: place/aylesbury
   references:
   - document: document/1978-06-zigzag-doll-by-doll-acne-club-aylesbury
     locator: ZigZag Nr. 84, Juni 1978

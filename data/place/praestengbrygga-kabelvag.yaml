@@ -3,7 +3,8 @@ type: Place
 label: Præstengbrygga
 place_type: venue
 located_in:
-- entity_value: place/kabelvag
+- statement_id: st-4c121861f6b0
+  entity_value: place/kabelvag
   references:
   - document: document/1997-04-11-lofotposten-hvit-soul
     locator: Lofotposten, 11.04.1997

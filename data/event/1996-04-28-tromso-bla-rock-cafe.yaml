@@ -3,7 +3,8 @@ type: Event
 label: Jackie Leven, Blå Rock Café, Tromsø (1996-04-28)
 event_type: concert
 time:
-- edtf_value: '1996-04-28'
+- statement_id: st-18c43ed47c19
+  edtf_value: '1996-04-28'
   note: 'Vorbericht: „am folgenden Abend (28. April)“. Ob das Konzert stattfand, belegt der Vorbericht
     nicht.'
   references:
@@ -11,13 +12,15 @@ time:
     locator: Tromsø, 27.04.1996
     evidence_type: third_party
 took_place_at:
-- entity_value: place/bla-rock-cafe-tromso
+- statement_id: st-52cb7c5e6adc
+  entity_value: place/bla-rock-cafe-tromso
   references:
   - document: document/1996-04-27-tromso-en-skotsk-personlighet
     locator: Tromsø, 27.04.1996
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-4646987bd020
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,7 +28,8 @@ participants:
   - document: document/1996-04-27-tromso-en-skotsk-personlighet
     locator: Tromsø, 27.04.1996
     evidence_type: third_party
-- agent_ref: person/andy-white
+- statement_id: st-8db48091870f
+  agent_ref: person/andy-white
   roles:
   - support_act
   references:
@@ -33,7 +37,8 @@ participants:
     locator: Tromsø, 27.04.1996
     evidence_type: third_party
 performance_status:
-- status_value: announced
+- statement_id: st-1d58ac81f616
+  status_value: announced
   references:
   - document: document/1996-04-27-tromso-en-skotsk-personlighet
     locator: Tromsø, 27.04.1996

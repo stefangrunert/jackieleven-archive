@@ -4,13 +4,16 @@ label: Ikke bare for harde menn
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/ulf-sverresvold
+- statement_id: st-d3c5cb18e04c
+  agent_ref: person/ulf-sverresvold
   roles:
   - author
 published:
-- edtf_value: '1997-04-08'
+- statement_id: st-59aa22df8c4f
+  edtf_value: '1997-04-08'
 published_in:
-- entity_value: publication/nordlys
+- statement_id: st-34bb9737e475
+  entity_value: publication/nordlys
 reviews:
 - event/1997-04-06-tromso-bla-rock-cafe
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlys_null_null_19970408_96_80_1

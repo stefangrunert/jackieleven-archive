@@ -4,13 +4,16 @@ label: Review - TWISTED FOLK TOUR, Leeds City Varieties, 19th Feb - EARLIES, THE
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/sam-saunders
+- statement_id: st-9f2afb119d57
+  agent_ref: person/sam-saunders
   roles:
   - author
 published:
-- edtf_value: '2005-02-19'
+- statement_id: st-92c30eef5532
+  edtf_value: '2005-02-19'
 published_in:
-- entity_value: publication/whisperin-hollerin
+- statement_id: st-81849c28e6ca
+  entity_value: publication/whisperin-hollerin
 reviews:
 - event/2005-02-19-leeds-city-varieties
 url: http://www.whisperinandhollerin.com/reviews/review.asp?id=2145

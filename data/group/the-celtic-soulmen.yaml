@@ -2,7 +2,8 @@ id: group/the-celtic-soulmen
 type: Group
 label: The Celtic Soulmen
 members:
-- agent_ref: person/michael-cosgrave
+- statement_id: st-6653f3879ace
+  agent_ref: person/michael-cosgrave
   roles:
   - keyboards
   - member
@@ -11,7 +12,8 @@ members:
     locator: Bergensavisen, 01.11.1998
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
-- agent_ref: person/steafan-hannigan
+- statement_id: st-1d1d41f1cbe5
+  agent_ref: person/steafan-hannigan
   roles:
   - other
   - member

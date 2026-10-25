@@ -4,13 +4,16 @@ label: Jackie på Buddy
 document_type: news
 language: 'no'
 participants:
-- agent_ref: person/bjorn-zarbell-engh
+- statement_id: st-bfc2db87b57e
+  agent_ref: person/bjorn-zarbell-engh
   roles:
   - author
 published:
-- edtf_value: '2007-09-24'
+- statement_id: st-bfdda4256e5c
+  edtf_value: '2007-09-24'
 published_in:
-- entity_value: publication/drammens-tidende
+- statement_id: st-3d67cfb2ef23
+  entity_value: publication/drammens-tidende
 about:
 - event/2007-10-04-drammen-buddy
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_drammenstidende_null_null_20070924_1_257_1

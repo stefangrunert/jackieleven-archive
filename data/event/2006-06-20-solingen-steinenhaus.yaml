@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Steinenhaus (Cornish Pub), Solingen (2006-06-20)
 event_type: concert
 time:
-- edtf_value: '2006-06-20'
+- statement_id: st-e1a853d815b3
+  edtf_value: '2006-06-20'
   note: Datum aus dem Titel des Berichts; der Abend des WM-Spiels England–Schweden.
   references:
   - document: document/2006-06-20-gaesteliste-solingen-steinenhaus-cornish-pub
     locator: Gaesteliste.de, 20.06.2006
     evidence_type: third_party
 took_place_at:
-- entity_value: place/steinenhaus-solingen
+- statement_id: st-f1f7c40aedc9
+  entity_value: place/steinenhaus-solingen
   references:
   - document: document/2006-06-20-gaesteliste-solingen-steinenhaus-cornish-pub
     locator: Gaesteliste.de, 20.06.2006
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-945422c09a78
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -24,14 +27,16 @@ participants:
   - document: document/2006-06-20-gaesteliste-solingen-steinenhaus-cornish-pub
     locator: Gaesteliste.de, 20.06.2006
     evidence_type: third_party
-- agent_ref: person/michael-cosgrave
+- statement_id: st-2e23d9d44444
+  agent_ref: person/michael-cosgrave
   roles:
   - keyboards
   references:
   - document: document/2006-06-20-gaesteliste-solingen-steinenhaus-cornish-pub
     locator: Gaesteliste.de, 20.06.2006
     evidence_type: third_party
-- agent_ref: person/fritz-kappner
+- statement_id: st-a838010ab1e4
+  agent_ref: person/fritz-kappner
   roles:
   - promoter
   references:
@@ -39,7 +44,8 @@ participants:
     locator: Gaesteliste.de, 20.06.2006
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-3fd03ab68894
+  status_value: took_place
   references:
   - document: document/2006-06-20-gaesteliste-solingen-steinenhaus-cornish-pub
     locator: Gaesteliste.de, 20.06.2006

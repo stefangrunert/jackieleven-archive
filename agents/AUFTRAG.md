@@ -28,7 +28,12 @@ Diese Vorlage gilt für jede Sitzung, die einen Auftrag aus `jobs/` bearbeitet. 
    - Ereignisse, die nur aus Ankündigungen oder Vorberichten bekannt sind, werden erfasst, tragen aber nur `announced` und die Notiz „Nur angekündigt; Durchführung nicht belegt.“
    - Autor eines Dokuments: Nennt der Text einen Namen, während der Kopf der Quelldatei „anonym“ angibt, gilt der Name im Text. Schreibt die Quelldatei, der Name gehöre vermutlich zu einem anderen Artikel, bleibt der Autor leer.
    - `recorded_by` an jeder Entität: `agent: claude-code`, `model`, `job`.
-2. **Einen Eintrag im Abdeckungsregister** unter `coverage/<schlüssel>.yaml`: was durchgesehen wurde, mit welchem Verfahren, mit welchem Ergebnis, auch wenn nichts gefunden wurde. Nicht lesbare oder fehlende Teile unter `items_unavailable`.
+   - **Wessen Behauptung:** `asserted_by` am Beleg nennt, wer die Angabe macht, wenn das nicht der Autor des Dokuments ist, etwa `person/jackie-leven` bei einem Zitat Levens in einem Interview. Ist es unklar, `unknown`.
+   - **Abhängige Quellen:** Beruht ein Dokument erkennbar auf einem anderen, etwa einer Pressemitteilung, steht dieses unter `derived_from`. Solche Dokumente gelten nicht als unabhängige Bestätigung.
+   - **Gewissheit:** `rank` steuert nur die Anzeige. Ist eine Angabe unsicher, auch wenn sie die einzige ist, steht `certainty: uncertain` oder `probable` mit `note`.
+   - **Prüfangaben** (`reviewed_by`, `reviewed_at`, `review_hash`) setzt nie ein Agent; sie entstehen bei Stefans Prüfung.
+   - **Aussagekennungen** (`statement_id`) nicht von Hand vergeben; `tools/assign_ids.py` ergänzt sie.
+2. **Einen Eintrag im Abdeckungsregister** unter `coverage/<schlüssel>.yaml`: was durchgesehen wurde, mit welchem Verfahren, mit welchem Ergebnis, auch wenn nichts gefunden wurde. Nicht lesbare oder fehlende Teile unter `items_unavailable`. `completeness` sagt, wie weit der Suchraum tatsächlich gesehen wurde: `attempted`, `fetched`, `readable`, `fully_checked` oder `aborted`. Eine Volltextsuche ohne Treffer ist `readable`, nicht `fully_checked`: Sie belegt nicht, dass ein Name im Bestand fehlt.
 
 ## Was nicht erlaubt ist
 
@@ -40,6 +45,6 @@ Diese Vorlage gilt für jede Sitzung, die einen Auftrag aus `jobs/` bearbeitet. 
 
 ## Prüfen und abschließen
 
-1. `uv run python tools/validate.py` muss ohne Fehler durchlaufen. Hinweise auf mögliche Doppelungen klären oder im Bericht nennen.
+1. `uv run python tools/assign_ids.py`, danach `uv run python tools/validate.py --konflikte`; die Validierung muss ohne Fehler durchlaufen. Gemeldete Konflikte sind kein Fehler, gehören aber in den Bericht. Hinweise auf mögliche Doppelungen klären oder im Bericht nennen.
 2. Commit auf dem Auftragsbranch mit der Nachricht `<job-id>: <kurze Beschreibung>`.
 3. Abschlussbericht an die koordinierende Sitzung: Zahl der neuen und ergänzten Entitäten je Klasse, Registereinträge, offene Fragen, Auffälligkeiten außerhalb des Suchraums, verbrauchtes Budget.

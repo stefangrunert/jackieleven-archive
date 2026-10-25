@@ -3,7 +3,8 @@ type: Place
 label: Kitchen Garden Cafe, Kings Heath
 place_type: venue
 located_in:
-- entity_value: place/birmingham
+- statement_id: st-0badbca1aba5
+  entity_value: place/birmingham
   references:
   - document: document/2015-07-13-three-chords-and-the-truth-uk-michael-weston-king-and-michael-cosgrave
     locator: Three Chords and the Truth UK, 13.07.2015

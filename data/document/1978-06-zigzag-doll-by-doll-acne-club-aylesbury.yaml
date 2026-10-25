@@ -4,13 +4,16 @@ label: '[Kurzkritik Doll by Doll, Acne Club, Aylesbury] ("URGENT!! The proverbia
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/kris-needs
+- statement_id: st-8804a98adcb6
+  agent_ref: person/kris-needs
   roles:
   - author
 published:
-- edtf_value: 1978-06
+- statement_id: st-ca13abce71f6
+  edtf_value: 1978-06
 published_in:
-- entity_value: publication/zigzag
+- statement_id: st-69f0b80639a9
+  entity_value: publication/zigzag
 reviews:
 - event/1978-06-aylesbury-acne-club
 archive_url: https://web.archive.org/web/20041227232802/http://home.xnet.it:80/tout/HTML/zigzag84.htm

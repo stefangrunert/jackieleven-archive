@@ -3,7 +3,8 @@ type: Place
 label: Bastard Bar
 place_type: venue
 located_in:
-- entity_value: place/tromso
+- statement_id: st-6b1067f59ebb
+  entity_value: place/tromso
   references:
   - document: document/2010-04-10-itromso-jackie-leven-pa-bastard
     locator: iTromsø, 10.04.2010

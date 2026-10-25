@@ -3,26 +3,31 @@ type: Event
 label: Geburt von Jackie Leven
 event_type: birth
 participants:
-  - agent_ref: person/jackie-leven
-    roles: [other]
-    references:
-      - document: document/beispiel-nachruf
+- statement_id: st-1aaa7f7d278e
+  agent_ref: person/jackie-leven
+  roles:
+  - other
+  references:
+  - document: document/beispiel-nachruf
 took_place_at:
-  - entity_value: place/kirkcaldy
-    references:
-      - document: document/beispiel-nachruf
+- statement_id: st-bffbf5c208c7
+  entity_value: place/kirkcaldy
+  references:
+  - document: document/beispiel-nachruf
 time:
-  - edtf_value: "1950-06-18"
-    rank: preferred
-    references:
-      - document: document/beispiel-nachruf
-        evidence_type: third_party
-      - document: document/beispiel-kolumne
-        locator: Z. 19
-        quote: "on my brithday, 18th June"
-        evidence_type: self_statement
-        scope: Tag und Monat
-  - edtf_value: "1950-06-19"
-    rank: deprecated
-    references:
-      - document: document/beispiel-nachruf
+- statement_id: st-f0a9f9dd2917
+  edtf_value: '1950-06-18'
+  rank: preferred
+  references:
+  - document: document/beispiel-nachruf
+    evidence_type: third_party
+  - document: document/beispiel-kolumne
+    locator: Z. 19
+    quote: on my brithday, 18th June
+    evidence_type: self_statement
+    scope: Tag und Monat
+- statement_id: st-2ae9191a8905
+  edtf_value: '1950-06-19'
+  rank: deprecated
+  references:
+  - document: document/beispiel-nachruf

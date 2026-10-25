@@ -4,13 +4,16 @@ label: Rolig Leven traff publikum
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/bjornar-larsen
+- statement_id: st-44a405e397e0
+  agent_ref: person/bjornar-larsen
   roles:
   - author
 published:
-- edtf_value: '2001-09-06'
+- statement_id: st-0ccaffae89f1
+  edtf_value: '2001-09-06'
 published_in:
-- entity_value: publication/lofotposten
+- statement_id: st-637c17ca1f09
+  entity_value: publication/lofotposten
 reviews:
 - event/2001-09-04-kabelvag-praestengbrygga
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_lofotposten_null_null_20010906_107_205_1

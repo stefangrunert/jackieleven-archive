@@ -3,7 +3,8 @@ type: Place
 label: Richmond
 place_type: district
 located_in:
-- entity_value: place/london
+- statement_id: st-2c23e8b13765
+  entity_value: place/london
   references:
   - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
     locator: Melody Maker, 13.09.1980

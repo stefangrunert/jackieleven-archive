@@ -3,7 +3,8 @@ type: Event
 label: Jackie Leven, Garage, Bergen (1997-04-10)
 event_type: concert
 time:
-- edtf_value: '1997-04-10'
+- statement_id: st-a84ceae02cc8
+  edtf_value: '1997-04-10'
   note: Donnerstagabend, 10. April 1997 laut Bericht.
   references:
   - document: document/1997-04-12-bergensavisen-historiefortelleren
@@ -13,7 +14,8 @@ time:
     locator: Q Nr. 129, Juni 1997, Überschrift
     evidence_type: third_party
 took_place_at:
-- entity_value: place/garage-bergen
+- statement_id: st-4f6a6f58d328
+  entity_value: place/garage-bergen
   references:
   - document: document/1997-04-12-bergensavisen-historiefortelleren
     locator: Bergensavisen, 12.04.1997
@@ -22,7 +24,8 @@ took_place_at:
     locator: Q Nr. 129, Juni 1997, Überschrift
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-b05493f2618e
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -34,7 +37,8 @@ participants:
     locator: Q Nr. 129, Juni 1997, Überschrift
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-97866a86e334
+  status_value: took_place
   references:
   - document: document/1997-04-12-bergensavisen-historiefortelleren
     locator: Bergensavisen, 12.04.1997

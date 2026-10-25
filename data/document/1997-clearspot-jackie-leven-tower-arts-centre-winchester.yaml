@@ -4,13 +4,16 @@ label: Jackie Leven â€“ Fairy Tales For Hardmen (Tower Arts Centre, Winchester â
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/mike-plumbley
+- statement_id: st-86a2cd6d27a8
+  agent_ref: person/mike-plumbley
   roles:
   - author
 published:
-- edtf_value: '1997'
+- statement_id: st-9ee684d39dbe
+  edtf_value: '1997'
 published_in:
-- entity_value: publication/clearspot
+- statement_id: st-e074b09d3882
+  entity_value: publication/clearspot
 reviews:
 - event/1997-winchester-tower-arts-centre
 url: http://www.iowrock.demon.co.uk/clearspot/leven.html

@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Paradiso (Bovenzaal), Amsterdam (2010-09-19)
 event_type: concert
 time:
-- edtf_value: '2010-09-19'
+- statement_id: st-d4783ea358c5
+  edtf_value: '2010-09-19'
   note: Bovenzaal, 19. September 2010 laut Kritik.
   references:
   - document: document/2010-09-22-kindamuzik-jackie-leven-paradiso-amsterdam
     locator: KindaMuzik, 22.09.2010
     evidence_type: third_party
 took_place_at:
-- entity_value: place/paradiso-amsterdam
+- statement_id: st-c09c1eda4a25
+  entity_value: place/paradiso-amsterdam
   references:
   - document: document/2010-09-22-kindamuzik-jackie-leven-paradiso-amsterdam
     locator: KindaMuzik, 22.09.2010
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-cf0dc60b982a
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -24,7 +27,8 @@ participants:
   - document: document/2010-09-22-kindamuzik-jackie-leven-paradiso-amsterdam
     locator: KindaMuzik, 22.09.2010
     evidence_type: third_party
-- agent_ref: group/chatham-county-line
+- statement_id: st-c7a4085ccd43
+  agent_ref: group/chatham-county-line
   roles:
   - performer
   references:
@@ -32,7 +36,8 @@ participants:
     locator: KindaMuzik, 22.09.2010
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-f0058c4dcb90
+  status_value: took_place
   references:
   - document: document/2010-09-22-kindamuzik-jackie-leven-paradiso-amsterdam
     locator: KindaMuzik, 22.09.2010

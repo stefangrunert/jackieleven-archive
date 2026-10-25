@@ -4,13 +4,16 @@ label: '[Konzertkritik] Jackie Leven at Borders Bookshop, Oxford Street, London'
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/gavin-martin
+- statement_id: st-6cd4e69e4567
+  agent_ref: person/gavin-martin
   roles:
   - author
 published:
-- edtf_value: '2001-10-05'
+- statement_id: st-42b0cf412849
+  edtf_value: '2001-10-05'
 published_in:
-- entity_value: publication/uncut
+- statement_id: st-b53131bd4993
+  entity_value: publication/uncut
 reviews:
 - event/2001-10-05-london-borders-oxford-street
 archive_url: https://web.archive.org/web/20020430024656/http://home.xnet.it:80/tout/HTML/borders.htm

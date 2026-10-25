@@ -3,7 +3,8 @@ type: Place
 label: The Venue
 place_type: venue
 located_in:
-- entity_value: place/london
+- statement_id: st-8b24ad79713b
+  entity_value: place/london
   references:
   - document: document/1979-07-zigzag-zigzag-10th-birthday-party-venue
     locator: ZigZag Nr. 95, Juli 1979, S. 20–25

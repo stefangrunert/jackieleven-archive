@@ -4,9 +4,11 @@ label: Frodige Jackie
 document_type: concert_review
 language: 'no'
 published:
-- edtf_value: '2003-06-10'
+- statement_id: st-15349878dd98
+  edtf_value: '2003-06-10'
 published_in:
-- entity_value: publication/firda
+- statement_id: st-11a47769f06d
+  entity_value: publication/firda
 reviews:
 - event/2003-06-08-foerde-sunnfjord-hotell
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_firda_null_null_20030610_86_129_1

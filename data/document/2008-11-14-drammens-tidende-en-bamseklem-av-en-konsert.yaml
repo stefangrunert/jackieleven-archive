@@ -4,9 +4,11 @@ label: En bamseklem av en konsert
 document_type: concert_review
 language: 'no'
 published:
-- edtf_value: '2008-11-14'
+- statement_id: st-202a5dacec19
+  edtf_value: '2008-11-14'
 published_in:
-- entity_value: publication/drammens-tidende
+- statement_id: st-ae6dbc4a267b
+  entity_value: publication/drammens-tidende
 reviews:
 - event/2008-11-13-drammen-buddy
 - event/2008-11-12-haugesund

@@ -3,7 +3,8 @@ type: Event
 label: UbuDoll (Jackie Leven und David Thomas), Garage, Bergen
 event_type: concert
 time:
-- edtf_value: '2000-11-23'
+- statement_id: st-053a7a9addf1
+  edtf_value: '2000-11-23'
   references:
   - document: document/2000-09-29-bergensavisen-kulttreff-pa-garage-med-leven-og-thomas
     locator: Bergensavisen, 29.09.2000
@@ -12,7 +13,8 @@ time:
     locator: Bergensavisen, 25.11.2000
     evidence_type: third_party
 took_place_at:
-- entity_value: place/garage-bergen
+- statement_id: st-1dec6e70fc5a
+  entity_value: place/garage-bergen
   references:
   - document: document/2000-09-29-bergensavisen-kulttreff-pa-garage-med-leven-og-thomas
     locator: Bergensavisen, 29.09.2000
@@ -21,7 +23,8 @@ took_place_at:
     locator: Bergensavisen, 25.11.2000
     evidence_type: third_party
 participants:
-- agent_ref: group/ubudoll
+- statement_id: st-9beb70fc8b60
+  agent_ref: group/ubudoll
   roles:
   - performer
   references:
@@ -31,7 +34,8 @@ participants:
   - document: document/2000-11-25-bergensavisen-trivelig-pa-garage
     locator: Bergensavisen, 25.11.2000
     evidence_type: third_party
-- agent_ref: person/jackie-leven
+- statement_id: st-0d784034dcd6
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -42,7 +46,8 @@ participants:
   - document: document/2000-11-25-bergensavisen-trivelig-pa-garage
     locator: Bergensavisen, 25.11.2000
     evidence_type: third_party
-- agent_ref: person/david-thomas
+- statement_id: st-37f0a7bec7ca
+  agent_ref: person/david-thomas
   roles:
   - vocals
   - other
@@ -55,13 +60,15 @@ participants:
     locator: Bergensavisen, 25.11.2000
     evidence_type: third_party
 performance_status:
-- status_value: announced
+- statement_id: st-b572c11eda8c
+  status_value: announced
   references:
   - document: document/2000-09-29-bergensavisen-kulttreff-pa-garage-med-leven-og-thomas
     locator: Bergensavisen, 29.09.2000
     quote: en happening med vokal, gitarer og trekkspill
     evidence_type: third_party
-- status_value: took_place
+- statement_id: st-0be2683644ba
+  status_value: took_place
   references:
   - document: document/2000-11-25-bergensavisen-trivelig-pa-garage
     locator: Bergensavisen, 25.11.2000

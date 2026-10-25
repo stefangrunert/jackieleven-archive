@@ -4,13 +4,16 @@ label: Fisher King Leven
 document_type: news
 language: en
 participants:
-- agent_ref: person/rachel-devine
+- statement_id: st-52314649ed3d
+  agent_ref: person/rachel-devine
   roles:
   - author
 published:
-- edtf_value: 2006-08
+- statement_id: st-af500466732a
+  edtf_value: 2006-08
 published_in:
-- entity_value: publication/the-list-festivalausgabe
+- statement_id: st-78a4fe101200
+  entity_value: publication/the-list-festivalausgabe
 about:
 - event/2006-08-12-edinburgh-underbelly-fisher-king-leven
 url: https://list.co.uk/news/fisher-king-leven-38679

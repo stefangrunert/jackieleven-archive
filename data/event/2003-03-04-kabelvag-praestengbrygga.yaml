@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Præstengbrygga, Kabelvåg (2003-03-04)
 event_type: concert
 time:
-- edtf_value: '2003-03-04'
+- statement_id: st-2e90652446d2
+  edtf_value: '2003-03-04'
   note: Dienstagabend vor der Kritik vom Donnerstag, 06.03.2003.
   references:
   - document: document/2003-03-06-lofotposten-ettertenksom-leven
     locator: Lofotposten, 06.03.2003
     evidence_type: third_party
 took_place_at:
-- entity_value: place/praestengbrygga-kabelvag
+- statement_id: st-2054f1c4889f
+  entity_value: place/praestengbrygga-kabelvag
   references:
   - document: document/2003-03-06-lofotposten-ettertenksom-leven
     locator: Lofotposten, 06.03.2003
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-36139701e2e7
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,7 +28,8 @@ participants:
     locator: Lofotposten, 06.03.2003
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-2edb5fd0c7a3
+  status_value: took_place
   references:
   - document: document/2003-03-06-lofotposten-ettertenksom-leven
     locator: Lofotposten, 06.03.2003

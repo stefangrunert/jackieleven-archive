@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Antoniusfestivalen, Sunnfjord Hotell, Førde
 event_type: festival_appearance
 time:
-- edtf_value: '2003-06-08'
+- statement_id: st-c7a16f459dfc
+  edtf_value: '2003-06-08'
   note: Pfingstsonntag, 8. Juni 2003 laut Bericht.
   references:
   - document: document/2003-06-10-firda-frodige-jackie
     locator: Firda, 10.06.2003
     evidence_type: third_party
 took_place_at:
-- entity_value: place/sunnfjord-hotell-foerde
+- statement_id: st-cb83bbbe00ff
+  entity_value: place/sunnfjord-hotell-foerde
   references:
   - document: document/2003-06-10-firda-frodige-jackie
     locator: Firda, 10.06.2003
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-3472cf446b6f
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,7 +28,8 @@ participants:
     locator: Firda, 10.06.2003
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-c97cca090b49
+  status_value: took_place
   references:
   - document: document/2003-06-10-firda-frodige-jackie
     locator: Firda, 10.06.2003

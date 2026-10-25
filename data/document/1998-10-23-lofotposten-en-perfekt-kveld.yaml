@@ -4,13 +4,16 @@ label: En perfekt kveld
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/anki-gerhardsen
+- statement_id: st-0aa9579742e9
+  agent_ref: person/anki-gerhardsen
   roles:
   - author
 published:
-- edtf_value: '1998-10-23'
+- statement_id: st-d25ab699c797
+  edtf_value: '1998-10-23'
 published_in:
-- entity_value: publication/lofotposten
+- statement_id: st-42b7857ea4c7
+  entity_value: publication/lofotposten
 reviews:
 - event/1998-10-21-kabelvag-praestengbrygga
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_lofotposten_null_null_19981023_103_246_1

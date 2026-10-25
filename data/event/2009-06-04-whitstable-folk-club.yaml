@@ -3,19 +3,22 @@ type: Event
 label: Jackie Leven, Whitstable Folk Club, Whitstable (2009-06-04)
 event_type: concert
 time:
-- edtf_value: '2009-06-04'
+- statement_id: st-571126241acd
+  edtf_value: '2009-06-04'
   references:
   - document: document/2009-06-04-record-collector-jackie-leven-whitstable-folk-club
     locator: Record Collector Nr. 366, online 25.07.2009
     evidence_type: third_party
 took_place_at:
-- entity_value: place/whitstable-folk-club
+- statement_id: st-4d38de60c732
+  entity_value: place/whitstable-folk-club
   references:
   - document: document/2009-06-04-record-collector-jackie-leven-whitstable-folk-club
     locator: Record Collector Nr. 366, online 25.07.2009
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-f01105a32d6b
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -24,7 +27,8 @@ participants:
     locator: Record Collector Nr. 366, online 25.07.2009
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-b9e21e4866c3
+  status_value: took_place
   references:
   - document: document/2009-06-04-record-collector-jackie-leven-whitstable-folk-club
     locator: Record Collector Nr. 366, online 25.07.2009

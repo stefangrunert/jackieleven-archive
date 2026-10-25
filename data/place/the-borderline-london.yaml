@@ -3,7 +3,8 @@ type: Place
 label: The Borderline
 place_type: venue
 located_in:
-- entity_value: place/london
+- statement_id: st-ea03239b94fb
+  entity_value: place/london
   references:
   - document: document/2003-05-uncut-jackie-leven-the-borderline-london
     locator: Uncut (online 01.05.2003)

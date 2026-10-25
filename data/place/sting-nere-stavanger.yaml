@@ -3,7 +3,8 @@ type: Place
 label: Sting Nere
 place_type: venue
 located_in:
-- entity_value: place/stavanger
+- statement_id: st-7e7e83245959
+  entity_value: place/stavanger
   references:
   - document: document/2001-09-10-rogalands-avis-leven-uten-dodpunkt
     locator: Rogalands Avis, 10.09.2001

@@ -3,7 +3,8 @@ type: Place
 label: La Boîte
 place_type: venue
 located_in:
-- entity_value: place/madrid
+- statement_id: st-ac1bd413288f
+  entity_value: place/madrid
   references:
   - document: document/1976-01-28-ya-folk-rock-escoces-john-st-field-la-boite
     locator: Ya, 28.01.1976, S. 42

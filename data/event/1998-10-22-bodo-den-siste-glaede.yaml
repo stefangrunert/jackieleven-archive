@@ -3,7 +3,8 @@ type: Event
 label: Jackie Leven, Den Siste Glæde, Bodø (1998-10-22)
 event_type: concert
 time:
-- edtf_value: '1998-10-22'
+- statement_id: st-8c0f42e84aa5
+  edtf_value: '1998-10-22'
   note: Donnerstag, 22. Oktober 1998 laut Bericht und Notiz der Quellendatei.
   references:
   - document: document/1998-10-24-nordlands-framtid-takk-for-sist-thor-arne
@@ -13,7 +14,8 @@ time:
     locator: Nordlandsposten, 24.10.1998
     evidence_type: third_party
 took_place_at:
-- entity_value: place/den-siste-glaede-bodo
+- statement_id: st-30d3f9f5d565
+  entity_value: place/den-siste-glaede-bodo
   references:
   - document: document/1998-10-24-nordlands-framtid-takk-for-sist-thor-arne
     locator: Nordlands Framtid, 24.10.1998
@@ -22,7 +24,8 @@ took_place_at:
     locator: Nordlandsposten, 24.10.1998
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-ea11b11e2d78
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -34,7 +37,8 @@ participants:
     locator: Nordlandsposten, 24.10.1998
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-30072bea3b6c
+  status_value: took_place
   references:
   - document: document/1998-10-24-nordlands-framtid-takk-for-sist-thor-arne
     locator: Nordlands Framtid, 24.10.1998

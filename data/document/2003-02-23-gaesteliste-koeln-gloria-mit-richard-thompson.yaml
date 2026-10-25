@@ -4,13 +4,16 @@ label: Jackie Leven, Richard Thompson – 23.02.2003 – Köln, Gloria
 document_type: concert_review
 language: de
 participants:
-- agent_ref: person/ullrich-maurer
+- statement_id: st-a556c7131796
+  agent_ref: person/ullrich-maurer
   roles:
   - author
 published:
-- edtf_value: '2003-02-23'
+- statement_id: st-af1cc86b7bc2
+  edtf_value: '2003-02-23'
 published_in:
-- entity_value: publication/gaesteliste-de
+- statement_id: st-b31a3c3b8d16
+  entity_value: publication/gaesteliste-de
 reviews:
 - event/2003-02-23-cologne-gloria
 url: https://gaesteliste.de/2003/02/23/gig/jackie-leven-richard-thompson-23-02-2003-koln-gloria/

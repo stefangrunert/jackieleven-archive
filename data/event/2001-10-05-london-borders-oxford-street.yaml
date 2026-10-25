@@ -3,19 +3,22 @@ type: Event
 label: Jackie Leven, Borders (Instore), Oxford Street, London
 event_type: concert
 time:
-- edtf_value: '2001-10-05'
+- statement_id: st-93da93e5fc01
+  edtf_value: '2001-10-05'
   references:
   - document: document/2001-10-05-uncut-jackie-leven-borders-oxford-street
     locator: Uncut (Heft nicht angegeben), Abschrift auf jackieleven.com
     evidence_type: third_party
 took_place_at:
-- entity_value: place/borders-oxford-street-london
+- statement_id: st-d194c6722086
+  entity_value: place/borders-oxford-street-london
   references:
   - document: document/2001-10-05-uncut-jackie-leven-borders-oxford-street
     locator: Uncut (Heft nicht angegeben), Abschrift auf jackieleven.com
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-c40405817c8e
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -24,7 +27,8 @@ participants:
     locator: Uncut (Heft nicht angegeben), Abschrift auf jackieleven.com
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-3365eb9df42b
+  status_value: took_place
   references:
   - document: document/2001-10-05-uncut-jackie-leven-borders-oxford-street
     locator: Uncut (Heft nicht angegeben), Abschrift auf jackieleven.com

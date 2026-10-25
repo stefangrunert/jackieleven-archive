@@ -3,7 +3,8 @@ type: Event
 label: Ian Rankin erinnert an Jackie Leven, Cash Back In Fife, Aberdour
 event_type: reading
 time:
-- edtf_value: '2020-03-07'
+- statement_id: st-f700564ad5b5
+  edtf_value: '2020-03-07'
   note: Samstagnachmittag; Samstag = 7. März 2020 im Festivalzeitraum 6.–8. März.
   references:
   - document: document/2020-03-09-fife-today-why-johnny-cash-would-have-loved-cash-back-in-fife
@@ -13,7 +14,8 @@ time:
     locator: Americana UK, 13.03.2020
     evidence_type: inferred
 took_place_at:
-- entity_value: place/woodside-hotel-aberdour
+- statement_id: st-001d5cba255d
+  entity_value: place/woodside-hotel-aberdour
   references:
   - document: document/2020-03-09-fife-today-why-johnny-cash-would-have-loved-cash-back-in-fife
     locator: Fife Today, 09.03.2020
@@ -22,7 +24,8 @@ took_place_at:
     locator: Americana UK, 13.03.2020
     evidence_type: third_party
 participants:
-- agent_ref: person/ian-rankin
+- statement_id: st-1fb753994277
+  agent_ref: person/ian-rankin
   roles:
   - performer
   references:
@@ -32,7 +35,8 @@ participants:
   - document: document/2020-03-13-americana-uk-cash-back-in-fife-woodside-hotel-aberdou
     locator: Americana UK, 13.03.2020
     evidence_type: third_party
-- agent_ref: person/dean-owens
+- statement_id: st-39d60a4f4aa2
+  agent_ref: person/dean-owens
   roles:
   - performer
   references:
@@ -43,7 +47,8 @@ participants:
     locator: Americana UK, 13.03.2020
     evidence_type: third_party
 part_of:
-- entity_value: event/2020-03-06-aberdour-cash-back-in-fife
+- statement_id: st-eb367d92b640
+  entity_value: event/2020-03-06-aberdour-cash-back-in-fife
   references:
   - document: document/2020-03-09-fife-today-why-johnny-cash-would-have-loved-cash-back-in-fife
     locator: Fife Today, 09.03.2020
@@ -55,7 +60,8 @@ part_of:
     quote: Leven was indeed a maverick with a convoluted career and a complicated personality
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-988c0a966619
+  status_value: took_place
   references:
   - document: document/2020-03-09-fife-today-why-johnny-cash-would-have-loved-cash-back-in-fife
     locator: Fife Today, 09.03.2020

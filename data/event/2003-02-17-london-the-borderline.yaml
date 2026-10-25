@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, The Borderline, London (2003-02-17)
 event_type: concert
 time:
-- edtf_value: '2003-02-17'
+- statement_id: st-9fbad22587e3
+  edtf_value: '2003-02-17'
   note: Die Kritik nennt kein Datum; 17.02.2003 laut Konzertkalender der Recherche (nicht geprüft).
   references:
   - document: document/2003-05-uncut-jackie-leven-the-borderline-london
     locator: Uncut (online 01.05.2003)
     evidence_type: inferred
 took_place_at:
-- entity_value: place/the-borderline-london
+- statement_id: st-68376f0ca89f
+  entity_value: place/the-borderline-london
   references:
   - document: document/2003-05-uncut-jackie-leven-the-borderline-london
     locator: Uncut (online 01.05.2003)
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-04cd136285cb
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,7 +28,8 @@ participants:
     locator: Uncut (online 01.05.2003)
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-33c68665c378
+  status_value: took_place
   references:
   - document: document/2003-05-uncut-jackie-leven-the-borderline-london
     locator: Uncut (online 01.05.2003)

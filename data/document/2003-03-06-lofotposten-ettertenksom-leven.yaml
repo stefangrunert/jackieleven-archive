@@ -4,13 +4,16 @@ label: Ettertenksom Leven
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/kurt-e-holm
+- statement_id: st-726ea32e56d5
+  agent_ref: person/kurt-e-holm
   roles:
   - author
 published:
-- edtf_value: '2003-03-06'
+- statement_id: st-8efc7ee600aa
+  edtf_value: '2003-03-06'
 published_in:
-- entity_value: publication/lofotposten
+- statement_id: st-f55aca94f2d2
+  entity_value: publication/lofotposten
 reviews:
 - event/2003-03-04-kabelvag-praestengbrygga
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_lofotposten_null_null_20030306_108_55_1

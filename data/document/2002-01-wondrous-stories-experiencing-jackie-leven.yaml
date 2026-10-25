@@ -4,13 +4,16 @@ label: 'Experiencing Jackie Leven (Rock Review: Jackie Leven)'
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/doug-anderson
+- statement_id: st-02c61624ddd3
+  agent_ref: person/doug-anderson
   roles:
   - author
 published:
-- edtf_value: 2002-01
+- statement_id: st-e1da3d216698
+  edtf_value: 2002-01
 published_in:
-- entity_value: publication/wondrous-stories
+- statement_id: st-a1b2ddd9cc55
+  entity_value: publication/wondrous-stories
 reviews:
 - event/2001-10-germany-tour
 url: http://s159645853.websitehome.co.uk/rockreviews/leven/02CRS-120.html

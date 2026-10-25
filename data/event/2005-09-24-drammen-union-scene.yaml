@@ -3,7 +3,8 @@ type: Event
 label: Jackie Leven, Eröffnung der Union Scene, Drammen
 event_type: concert
 time:
-- edtf_value: '2005-09-24'
+- statement_id: st-3b17930c1251
+  edtf_value: '2005-09-24'
   note: Angekündigt für Samstag, 24. September 2005.
   references:
   - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
@@ -13,7 +14,8 @@ time:
     locator: Drammens Tidende, 26.09.2005
     evidence_type: third_party
 took_place_at:
-- entity_value: place/union-scene-drammen
+- statement_id: st-17e459d3c912
+  entity_value: place/union-scene-drammen
   references:
   - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
     locator: Drammens Tidende, 30.08.2005
@@ -22,14 +24,16 @@ took_place_at:
     locator: Drammens Tidende, 26.09.2005
     evidence_type: third_party
 participants:
-- agent_ref: group/small-world-orchestra
+- statement_id: st-74b2ce894914
+  agent_ref: group/small-world-orchestra
   roles:
   - performer
   references:
   - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
     locator: Drammens Tidende, 30.08.2005
     evidence_type: third_party
-- agent_ref: person/jackie-leven
+- statement_id: st-25eb5815f5c1
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -40,7 +44,8 @@ participants:
   - document: document/2005-09-26-drammens-tidende-naervaer-av-tredje-grad
     locator: Drammens Tidende, 26.09.2005
     evidence_type: third_party
-- agent_ref: person/eivind-kloverod
+- statement_id: st-9b4989cb8df8
+  agent_ref: person/eivind-kloverod
   roles:
   - other
   instrument: Perkussion/Schlagzeug
@@ -52,14 +57,16 @@ participants:
     locator: Drammens Tidende, 26.09.2005
     evidence_type: third_party
 performance_status:
-- status_value: announced
+- statement_id: st-d93f651ef84a
+  status_value: announced
   references:
   - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
     locator: Drammens Tidende, 30.08.2005
     quote: Han har trommet sammen et band for første gang siden han ledet sagnomsuste Doll By Doll tidlig
       på 80-tallet.
     evidence_type: third_party
-- status_value: took_place
+- statement_id: st-6603d9b2354f
+  status_value: took_place
   references:
   - document: document/2005-09-26-drammens-tidende-naervaer-av-tredje-grad
     locator: Drammens Tidende, 26.09.2005

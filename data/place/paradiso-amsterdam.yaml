@@ -3,7 +3,8 @@ type: Place
 label: Paradiso (Bovenzaal)
 place_type: venue
 located_in:
-- entity_value: place/amsterdam
+- statement_id: st-c612cf65f33e
+  entity_value: place/amsterdam
   references:
   - document: document/2010-09-22-kindamuzik-jackie-leven-paradiso-amsterdam
     locator: KindaMuzik, 22.09.2010

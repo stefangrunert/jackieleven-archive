@@ -3,7 +3,8 @@ type: Place
 label: Woodside Hotel
 place_type: venue
 located_in:
-- entity_value: place/aberdour
+- statement_id: st-352669193140
+  entity_value: place/aberdour
   references:
   - document: document/2020-03-09-fife-today-why-johnny-cash-would-have-loved-cash-back-in-fife
     locator: Fife Today, 09.03.2020

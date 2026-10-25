@@ -3,7 +3,8 @@ type: Place
 label: Steinenhaus (Cornish Pub)
 place_type: venue
 located_in:
-- entity_value: place/solingen
+- statement_id: st-725cc39127c8
+  entity_value: place/solingen
   references:
   - document: document/2006-06-20-gaesteliste-solingen-steinenhaus-cornish-pub
     locator: Gaesteliste.de, 20.06.2006

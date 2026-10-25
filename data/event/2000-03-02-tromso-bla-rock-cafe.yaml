@@ -3,7 +3,8 @@ type: Event
 label: Jackie Leven, Blå Rock Café, Tromsø (2000-03-02)
 event_type: concert
 time:
-- edtf_value: '2000-03-02'
+- statement_id: st-e95721824c5b
+  edtf_value: '2000-03-02'
   note: 'Vorbericht vom 2. März 2000: Leven spiele „diesen Abend“ im Blå Rock Café.'
   references:
   - document: document/2000-03-02-tromso-jackie-leven-vender-tilbake
@@ -16,7 +17,8 @@ time:
     locator: Tromsø, 04.03.2000
     evidence_type: third_party
 took_place_at:
-- entity_value: place/bla-rock-cafe-tromso
+- statement_id: st-f91dfa28a0e5
+  entity_value: place/bla-rock-cafe-tromso
   references:
   - document: document/2000-03-02-tromso-jackie-leven-vender-tilbake
     locator: Tromsø, 02.03.2000
@@ -28,7 +30,8 @@ took_place_at:
     locator: Tromsø, 04.03.2000
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-586a137c5f93
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -43,12 +46,14 @@ participants:
     locator: Tromsø, 04.03.2000
     evidence_type: third_party
 performance_status:
-- status_value: announced
+- statement_id: st-352c0eb9bc06
+  status_value: announced
   references:
   - document: document/2000-03-02-tromso-jackie-leven-vender-tilbake
     locator: Tromsø, 02.03.2000
     evidence_type: third_party
-- status_value: took_place
+- statement_id: st-ec1d6b97257a
+  status_value: took_place
   references:
   - document: document/2000-03-04-nordlys-grisete-sentimental
     locator: Nordlys, 04.03.2000

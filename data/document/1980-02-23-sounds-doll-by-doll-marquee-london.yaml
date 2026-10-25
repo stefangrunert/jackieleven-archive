@@ -4,13 +4,16 @@ label: 'Doll By Doll: Marquee, London – „Shattered Dolls“'
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/hugh-fielder
+- statement_id: st-54df9acd3194
+  agent_ref: person/hugh-fielder
   roles:
   - author
 published:
-- edtf_value: '1980-02-23'
+- statement_id: st-f3b454b61f09
+  edtf_value: '1980-02-23'
 published_in:
-- entity_value: publication/sounds
+- statement_id: st-c12c47f81317
+  entity_value: publication/sounds
 reviews:
 - event/1980-02-london-marquee
 url: https://www.rocksbackpages.com/Library/Article/doll-by-doll-marquee-london

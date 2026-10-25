@@ -3,7 +3,8 @@ type: Place
 label: Knust
 place_type: venue
 located_in:
-- entity_value: place/hamburg
+- statement_id: st-6a98cd1d3d86
+  entity_value: place/hamburg
   references:
   - document: document/2007-04-25-die-welt-unglaublich-schoener-verrueckter-abend-m
     locator: Die Welt, 25.04.2007

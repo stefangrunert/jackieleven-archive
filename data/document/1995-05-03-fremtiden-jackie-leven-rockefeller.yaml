@@ -4,13 +4,16 @@ label: '[Konzertbericht mit Interview: Jackie Leven im Rockefeller, Oslo]'
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/johnny-andreassen
+- statement_id: st-c95424c95fe6
+  agent_ref: person/johnny-andreassen
   roles:
   - author
 published:
-- edtf_value: '1995-05-03'
+- statement_id: st-8d292a7ec1f4
+  edtf_value: '1995-05-03'
 published_in:
-- entity_value: publication/fremtiden
+- statement_id: st-641957bb8063
+  entity_value: publication/fremtiden
 reviews:
 - event/1995-04-oslo-rockefeller
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_fremtiden_null_null_19950503_87_100_1

@@ -4,13 +4,16 @@ label: '[Bericht von der ZigZag-Geburtstagsparty im Venue, London – Auszüge z
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/kris-needs
+- statement_id: st-5507dff5aef0
+  agent_ref: person/kris-needs
   roles:
   - author
 published:
-- edtf_value: 1979-07
+- statement_id: st-8320e90807c1
+  edtf_value: 1979-07
 published_in:
-- entity_value: publication/zigzag
+- statement_id: st-4f73b2b0ffde
+  entity_value: publication/zigzag
 reviews:
 - event/1979-06-london-the-venue-zigzag-party
 archive_url: https://web.archive.org/web/20041227233345/http://home.xnet.it:80/tout/HTML/zigzag95.htm

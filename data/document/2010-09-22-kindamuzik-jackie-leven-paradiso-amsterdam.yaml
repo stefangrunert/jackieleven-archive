@@ -4,13 +4,16 @@ label: Jackie Leven – Gemengde gevoelens.
 document_type: concert_review
 language: nl
 participants:
-- agent_ref: person/peter-bartlema
+- statement_id: st-39cb8214c418
+  agent_ref: person/peter-bartlema
   roles:
   - author
 published:
-- edtf_value: '2010-09-22'
+- statement_id: st-b92f14294733
+  edtf_value: '2010-09-22'
 published_in:
-- entity_value: publication/kindamuzik
+- statement_id: st-78a43b01e938
+  entity_value: publication/kindamuzik
 reviews:
 - event/2010-09-19-amsterdam-paradiso
 url: https://www.kindamuzik.net/live/jackie-leven/jackie-leven/20669/index.html

@@ -3,7 +3,8 @@ type: Event
 label: Cash Back In Fife, Woodside Hotel, Aberdour
 event_type: festival
 time:
-- edtf_value: 2020-03-06/2020-03-08
+- statement_id: st-156495f46709
+  edtf_value: 2020-03-06/2020-03-08
   note: Wochenende vom 6. bis 8. März 2020 laut Americana UK; Fife Today nennt nur „2020“ und den Samstag.
   references:
   - document: document/2020-03-09-fife-today-why-johnny-cash-would-have-loved-cash-back-in-fife
@@ -13,7 +14,8 @@ time:
     locator: Americana UK, 13.03.2020
     evidence_type: third_party
 took_place_at:
-- entity_value: place/woodside-hotel-aberdour
+- statement_id: st-d90bfe2dad0f
+  entity_value: place/woodside-hotel-aberdour
   references:
   - document: document/2020-03-09-fife-today-why-johnny-cash-would-have-loved-cash-back-in-fife
     locator: Fife Today, 09.03.2020
@@ -22,7 +24,8 @@ took_place_at:
     locator: Americana UK, 13.03.2020
     evidence_type: third_party
 participants:
-- agent_ref: person/dean-owens
+- statement_id: st-b974b9beffb8
+  agent_ref: person/dean-owens
   roles:
   - performer
   references:
@@ -32,7 +35,8 @@ participants:
   - document: document/2020-03-13-americana-uk-cash-back-in-fife-woodside-hotel-aberdou
     locator: Americana UK, 13.03.2020
     evidence_type: third_party
-- agent_ref: person/rab-noakes
+- statement_id: st-110cbba57760
+  agent_ref: person/rab-noakes
   roles:
   - performer
   references:
@@ -42,7 +46,8 @@ participants:
   - document: document/2020-03-13-americana-uk-cash-back-in-fife-woodside-hotel-aberdou
     locator: Americana UK, 13.03.2020
     evidence_type: third_party
-- agent_ref: person/fay-fife
+- statement_id: st-b6beb4fd0698
+  agent_ref: person/fay-fife
   roles:
   - performer
   references:
@@ -53,7 +58,8 @@ participants:
     locator: Americana UK, 13.03.2020
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-32e3c3957c5c
+  status_value: took_place
   references:
   - document: document/2020-03-09-fife-today-why-johnny-cash-would-have-loved-cash-back-in-fife
     locator: Fife Today, 09.03.2020

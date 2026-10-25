@@ -3,27 +3,31 @@ type: Event
 label: Doll by Doll, Abschiedskonzert, Marquee, London
 event_type: concert
 time:
-- edtf_value: 1983-01
+- statement_id: st-231b9dd320d8
+  edtf_value: 1983-01
   note: Ein Freitag; Tag nicht genannt, Erscheinungsdatum 17.01.1983.
   references:
   - document: document/1983-01-17-record-business-doll-by-doll-marquee-farewell
     locator: Record Business, 17.01.1983
     evidence_type: third_party
 took_place_at:
-- entity_value: place/marquee-london
+- statement_id: st-233c51288e0d
+  entity_value: place/marquee-london
   references:
   - document: document/1983-01-17-record-business-doll-by-doll-marquee-farewell
     locator: Record Business, 17.01.1983
     evidence_type: third_party
 participants:
-- agent_ref: group/doll-by-doll
+- statement_id: st-272c5b0cd0d2
+  agent_ref: group/doll-by-doll
   roles:
   - performer
   references:
   - document: document/1983-01-17-record-business-doll-by-doll-marquee-farewell
     locator: Record Business, 17.01.1983
     evidence_type: third_party
-- agent_ref: person/jackie-leven
+- statement_id: st-52142cce604c
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -32,7 +36,8 @@ participants:
     locator: Record Business, 17.01.1983
     evidence_type: third_party
     scope: Leven selbst übernahm die Leadgitarre
-- agent_ref: person/helen-turner
+- statement_id: st-2bbe83d61455
+  agent_ref: person/helen-turner
   roles:
   - vocals
   - keyboards
@@ -41,7 +46,8 @@ participants:
     locator: Record Business, 17.01.1983
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-1708404c5376
+  status_value: took_place
   references:
   - document: document/1983-01-17-record-business-doll-by-doll-marquee-farewell
     locator: Record Business, 17.01.1983

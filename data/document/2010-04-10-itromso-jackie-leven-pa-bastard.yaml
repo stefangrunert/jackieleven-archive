@@ -4,9 +4,11 @@ label: Spiller på Bastard
 document_type: news
 language: 'no'
 published:
-- edtf_value: '2010-04-10'
+- statement_id: st-c20e27788235
+  edtf_value: '2010-04-10'
 published_in:
-- entity_value: publication/itromso
+- statement_id: st-02b7e307e580
+  entity_value: publication/itromso
 about:
 - event/2010-04-14-tromso-bastard-bar
 - event/2009-tromso-madrugada

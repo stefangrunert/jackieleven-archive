@@ -3,7 +3,8 @@ type: Event
 label: Doll by Doll, Reunion-Konzert, Garage, Bergen
 event_type: concert
 time:
-- edtf_value: '1997-08-29'
+- statement_id: st-6de401ad96a2
+  edtf_value: '1997-08-29'
   note: Freitag, 29. August 1997 laut Notiz der Quellendatei (Bergensavisen 28./29.08.); der Text sagt
     „i går“.
   references:
@@ -11,20 +12,23 @@ time:
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
 took_place_at:
-- entity_value: place/garage-bergen
+- statement_id: st-eb99b120422b
+  entity_value: place/garage-bergen
   references:
   - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
 participants:
-- agent_ref: group/doll-by-doll
+- statement_id: st-ab12541b3c67
+  agent_ref: group/doll-by-doll
   roles:
   - performer
   references:
   - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
-- agent_ref: person/jackie-leven
+- statement_id: st-5d3175014592
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -32,7 +36,8 @@ participants:
   - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
-- agent_ref: person/jo-shaw
+- statement_id: st-9d184b74afae
+  agent_ref: person/jo-shaw
   roles:
   - guitar
   credited_as: Joe Shaw
@@ -41,7 +46,8 @@ participants:
   - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
-- agent_ref: person/kevin-foster
+- statement_id: st-6f24a003aa85
+  agent_ref: person/kevin-foster
   roles:
   - bass
   credited_as: Kevin Foster
@@ -49,7 +55,8 @@ participants:
   - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
-- agent_ref: person/dave-mcintosh
+- statement_id: st-1d544751f78e
+  agent_ref: person/dave-mcintosh
   roles:
   - drums
   credited_as: David McIntosh
@@ -59,7 +66,8 @@ participants:
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-aa143fd3c2a6
+  status_value: took_place
   references:
   - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
     locator: Bergensavisen, 31.08.1997

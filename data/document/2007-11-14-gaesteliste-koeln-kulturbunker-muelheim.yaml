@@ -4,13 +4,16 @@ label: Jackie Leven, Michael Weston King – 14.11.2007 – Köln, Kulturbunker 
 document_type: concert_review
 language: de
 participants:
-- agent_ref: person/ullrich-maurer
+- statement_id: st-b9c1afae56f3
+  agent_ref: person/ullrich-maurer
   roles:
   - author
 published:
-- edtf_value: '2007-11-14'
+- statement_id: st-a09c4e3c16b3
+  edtf_value: '2007-11-14'
 published_in:
-- entity_value: publication/gaesteliste-de
+- statement_id: st-db2cf2b2fe02
+  entity_value: publication/gaesteliste-de
 reviews:
 - event/2007-11-14-cologne-kulturbunker-muelheim
 url: https://gaesteliste.de/2007/11/14/gig/jackie-leven-michael-weston-king-14-11-2007-koln-kulturbunker-mulheim/

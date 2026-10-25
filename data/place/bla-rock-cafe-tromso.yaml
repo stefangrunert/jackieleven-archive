@@ -3,7 +3,8 @@ type: Place
 label: Blå Rock Café
 place_type: venue
 located_in:
-- entity_value: place/tromso
+- statement_id: st-f717918ca320
+  entity_value: place/tromso
   references:
   - document: document/1996-04-27-tromso-en-skotsk-personlighet
     locator: Tromsø, 27.04.1996

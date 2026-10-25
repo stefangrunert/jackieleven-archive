@@ -3,7 +3,8 @@ type: Event
 label: Jackie Leven, Præstengbrygga, Kabelvåg (1997-04-12)
 event_type: concert
 time:
-- edtf_value: '1997-04-12'
+- statement_id: st-e08e561f7407
+  edtf_value: '1997-04-12'
   note: Angekündigt für Samstag, 12. April 1997.
   references:
   - document: document/1997-04-11-lofotposten-hvit-soul
@@ -13,7 +14,8 @@ time:
     locator: Lofotposten, 14.04.1997
     evidence_type: third_party
 took_place_at:
-- entity_value: place/praestengbrygga-kabelvag
+- statement_id: st-286e6045baa0
+  entity_value: place/praestengbrygga-kabelvag
   references:
   - document: document/1997-04-11-lofotposten-hvit-soul
     locator: Lofotposten, 11.04.1997
@@ -22,7 +24,8 @@ took_place_at:
     locator: Lofotposten, 14.04.1997
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-cc4894fe4c41
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -34,14 +37,16 @@ participants:
     locator: Lofotposten, 14.04.1997
     evidence_type: third_party
 performance_status:
-- status_value: announced
+- statement_id: st-dca220b7843a
+  status_value: announced
   references:
   - document: document/1997-04-11-lofotposten-hvit-soul
     locator: Lofotposten, 11.04.1997
     quote: En musikernes musiker, Skottlands flotteste leverandør av hvit soul, en bandløs utgave av Van
       Morrison.
     evidence_type: third_party
-- status_value: took_place
+- statement_id: st-cde85640eafd
+  status_value: took_place
   references:
   - document: document/1997-04-14-lofotposten-hvit-manns-soul
     locator: Lofotposten, 14.04.1997

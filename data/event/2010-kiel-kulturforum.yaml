@@ -3,7 +3,8 @@ type: Event
 label: Jackie Leven, KulturForum, Kiel (2010?)
 event_type: concert
 time:
-- edtf_value: 2010?
+- statement_id: st-8bbc254a20b3
+  edtf_value: 2010?
   note: Kein Datum im Dokument. Das aktuelle Album Gothic Road (2010) und die Weblog-Wiedergabe vom 08.05.2010
     deuten auf 2010; unsicher.
   references:
@@ -11,13 +12,15 @@ time:
     locator: Kieler Nachrichten (Wiedergabe im Weblog, 08.05.2010)
     evidence_type: inferred
 took_place_at:
-- entity_value: place/kulturforum-kiel
+- statement_id: st-f6f894985bee
+  entity_value: place/kulturforum-kiel
   references:
   - document: document/undatiert-kieler-nachrichten-der-kauz-im-anekdotendickicht-jackie-lev
     locator: Kieler Nachrichten (Wiedergabe im Weblog, 08.05.2010)
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-84f1bd6613ae
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,7 +28,8 @@ participants:
   - document: document/undatiert-kieler-nachrichten-der-kauz-im-anekdotendickicht-jackie-lev
     locator: Kieler Nachrichten (Wiedergabe im Weblog, 08.05.2010)
     evidence_type: third_party
-- agent_ref: person/michael-cosgrave
+- statement_id: st-fc77b848a15d
+  agent_ref: person/michael-cosgrave
   roles:
   - keyboards
   references:
@@ -33,7 +37,8 @@ participants:
     locator: Kieler Nachrichten (Wiedergabe im Weblog, 08.05.2010)
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-52626cf24515
+  status_value: took_place
   references:
   - document: document/undatiert-kieler-nachrichten-der-kauz-im-anekdotendickicht-jackie-lev
     locator: Kieler Nachrichten (Wiedergabe im Weblog, 08.05.2010)

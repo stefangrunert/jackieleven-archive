@@ -3,7 +3,8 @@ type: Place
 label: Sunnfjord Hotell
 place_type: venue
 located_in:
-- entity_value: place/foerde
+- statement_id: st-c3350f32f54e
+  entity_value: place/foerde
   references:
   - document: document/2003-06-10-firda-frodige-jackie
     locator: Firda, 10.06.2003

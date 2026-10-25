@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Siste Reis Pub, Halden (2005-09-25)
 event_type: concert
 time:
-- edtf_value: '2005-09-25'
+- statement_id: st-618c2033efbc
+  edtf_value: '2005-09-25'
   note: Angekündigt für Sonntag, 25. September 2005.
   references:
   - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
     locator: Halden Arbeiderblad, 15.09.2005
     evidence_type: third_party
 took_place_at:
-- entity_value: place/siste-reis-pub-halden
+- statement_id: st-762673cea199
+  entity_value: place/siste-reis-pub-halden
   references:
   - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
     locator: Halden Arbeiderblad, 15.09.2005
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-9c648b173760
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -24,7 +27,8 @@ participants:
   - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
     locator: Halden Arbeiderblad, 15.09.2005
     evidence_type: third_party
-- agent_ref: person/tom-skjeklesaether
+- statement_id: st-b9ff0192f063
+  agent_ref: person/tom-skjeklesaether
   roles:
   - promoter
   references:
@@ -32,7 +36,8 @@ participants:
     locator: Halden Arbeiderblad, 15.09.2005
     evidence_type: third_party
 performance_status:
-- status_value: announced
+- statement_id: st-d057dc6cd790
+  status_value: announced
   references:
   - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
     locator: Halden Arbeiderblad, 15.09.2005

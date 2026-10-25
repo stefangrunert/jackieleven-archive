@@ -3,7 +3,8 @@ type: Place
 label: Troubadour
 place_type: venue
 located_in:
-- entity_value: place/london
+- statement_id: st-5ced05cf4d00
+  entity_value: place/london
   references:
   - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
     locator: musicOMH, Kopfzeile der Kritik

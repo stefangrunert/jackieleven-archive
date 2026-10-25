@@ -4,13 +4,16 @@ label: 'Ubudoll: Nerve, humor og enkelhet!'
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/frank-stener-andersen
+- statement_id: st-7ed35b1076b8
+  agent_ref: person/frank-stener-andersen
   roles:
   - author
 published:
-- edtf_value: '2000-11-28'
+- statement_id: st-38f14d40283c
+  edtf_value: '2000-11-28'
 published_in:
-- entity_value: publication/puls
+- statement_id: st-a18dd85af09a
+  entity_value: publication/puls
 reviews:
 - event/2000-11-24-oslo-john-dee-ubudoll
 - event/2000-02-oslo-john-dee

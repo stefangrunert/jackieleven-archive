@@ -4,13 +4,16 @@ label: Jackie Leven vender tilbake
 document_type: news
 language: 'no'
 participants:
-- agent_ref: person/helge-matland
+- statement_id: st-febfdbcfea59
+  agent_ref: person/helge-matland
   roles:
   - author
 published:
-- edtf_value: '2000-03-02'
+- statement_id: st-4c8eee38a288
+  edtf_value: '2000-03-02'
 published_in:
-- entity_value: publication/tromso
+- statement_id: st-5a861abc248f
+  entity_value: publication/tromso
 about:
 - event/2000-03-02-tromso-bla-rock-cafe
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromso_null_null_20000302_103_52_1

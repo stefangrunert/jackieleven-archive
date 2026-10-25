@@ -4,7 +4,8 @@ label: '[Der Kauz im Anekdotendickicht: Jackie Leven im Kieler KulturForum]'
 document_type: concert_review
 language: de
 published_in:
-- entity_value: publication/kieler-nachrichten
+- statement_id: st-97ff6b7a23f4
+  entity_value: publication/kieler-nachrichten
 reviews:
 - event/2010-kiel-kulturforum
 url: http://www.kn-online.de/schleswig_holstein/kultur/150847-Der-Kauz-im-Anekdotendickicht-Jackie-Leven.html

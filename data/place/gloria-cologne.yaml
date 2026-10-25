@@ -3,7 +3,8 @@ type: Place
 label: Gloria
 place_type: venue
 located_in:
-- entity_value: place/cologne
+- statement_id: st-3bcb6be2b8d7
+  entity_value: place/cologne
   references:
   - document: document/2003-02-23-gaesteliste-koeln-gloria-mit-richard-thompson
     locator: Gaesteliste.de, 23.02.2003

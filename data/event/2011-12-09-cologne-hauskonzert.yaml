@@ -3,20 +3,23 @@ type: Event
 label: Michael Weston King und Alan Cook, Hauskonzert, Köln
 event_type: concert
 time:
-- edtf_value: '2011-12-09'
+- statement_id: st-5513184ca435
+  edtf_value: '2011-12-09'
   note: 9. Dezember 2011 laut Titel des Berichts.
   references:
   - document: document/2011-12-09-gaesteliste-michael-weston-king-hauskonzert-koeln
     locator: Gaesteliste.de, 13.12.2011
     evidence_type: third_party
 took_place_at:
-- entity_value: place/cologne
+- statement_id: st-8b760e78626e
+  entity_value: place/cologne
   references:
   - document: document/2011-12-09-gaesteliste-michael-weston-king-hauskonzert-koeln
     locator: Gaesteliste.de, 13.12.2011
     evidence_type: third_party
 participants:
-- agent_ref: person/michael-weston-king
+- statement_id: st-c2dff72b470f
+  agent_ref: person/michael-weston-king
   roles:
   - vocals
   - guitar
@@ -24,7 +27,8 @@ participants:
   - document: document/2011-12-09-gaesteliste-michael-weston-king-hauskonzert-koeln
     locator: Gaesteliste.de, 13.12.2011
     evidence_type: third_party
-- agent_ref: person/alan-cook
+- statement_id: st-bb65851358ec
+  agent_ref: person/alan-cook
   roles:
   - other
   instrument: Mandoline, Pedal Steel
@@ -33,7 +37,8 @@ participants:
     locator: Gaesteliste.de, 13.12.2011
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-8169f85e4ea4
+  status_value: took_place
   references:
   - document: document/2011-12-09-gaesteliste-michael-weston-king-hauskonzert-koeln
     locator: Gaesteliste.de, 13.12.2011

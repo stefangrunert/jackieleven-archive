@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Zeche, Bochum (2000-03?)
 event_type: concert
 time:
-- edtf_value: 2000-03?
+- statement_id: st-8b77e1a34d56
+  edtf_value: 2000-03?
   note: Konzertdatum nicht genannt; kurz vor der Kritik vom 25.03.2000.
   references:
   - document: document/2000-03-25-westfaelische-rundschau-die-geister-des-lebens-beschwoeren
     locator: Westfälische Rundschau, 25.03.2000
     evidence_type: inferred
 took_place_at:
-- entity_value: place/zeche-bochum
+- statement_id: st-10bd80ca4d0a
+  entity_value: place/zeche-bochum
   references:
   - document: document/2000-03-25-westfaelische-rundschau-die-geister-des-lebens-beschwoeren
     locator: Westfälische Rundschau, 25.03.2000
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-b7230c9d821a
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -24,14 +27,16 @@ participants:
   - document: document/2000-03-25-westfaelische-rundschau-die-geister-des-lebens-beschwoeren
     locator: Westfälische Rundschau, 25.03.2000
     evidence_type: third_party
-- agent_ref: person/deborah-greenwood
+- statement_id: st-7e8af1a28a2a
+  agent_ref: person/deborah-greenwood
   roles:
   - vocals
   references:
   - document: document/2000-03-25-westfaelische-rundschau-die-geister-des-lebens-beschwoeren
     locator: Westfälische Rundschau, 25.03.2000
     evidence_type: third_party
-- agent_ref: person/michael-cosgrave
+- statement_id: st-be83d806a95e
+  agent_ref: person/michael-cosgrave
   roles:
   - keyboards
   references:
@@ -39,7 +44,8 @@ participants:
     locator: Westfälische Rundschau, 25.03.2000
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-18c7112758af
+  status_value: took_place
   references:
   - document: document/2000-03-25-westfaelische-rundschau-die-geister-des-lebens-beschwoeren
     locator: Westfälische Rundschau, 25.03.2000

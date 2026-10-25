@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, The Borderline, London (2008-08/2008-09)
 event_type: concert
 time:
-- edtf_value: 2008-08/2008-09
+- statement_id: st-94807401ec76
+  edtf_value: 2008-08/2008-09
   note: Konzerttag nicht genannt; Kritik vom 03.09.2008 (US-Ausgabe 02.09.2008 abends).
   references:
   - document: document/2008-09-03-the-independent-jackie-leven-the-borderline-london
     locator: The Independent, 03.09.2008
     evidence_type: inferred
 took_place_at:
-- entity_value: place/the-borderline-london
+- statement_id: st-5d993f1334ad
+  entity_value: place/the-borderline-london
   references:
   - document: document/2008-09-03-the-independent-jackie-leven-the-borderline-london
     locator: The Independent, 03.09.2008
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-95084f61af8e
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,7 +28,8 @@ participants:
     locator: The Independent, 03.09.2008
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-8fd2e792f08b
+  status_value: took_place
   references:
   - document: document/2008-09-03-the-independent-jackie-leven-the-borderline-london
     locator: The Independent, 03.09.2008

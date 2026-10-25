@@ -4,13 +4,16 @@ label: '[Jackie Leven kom tilbake til Norge – «En kveld i magiens tegn»]'
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/johnny-andreassen
+- statement_id: st-ea0ace2e20c0
+  agent_ref: person/johnny-andreassen
   roles:
   - author
 published:
-- edtf_value: '1996-05-09'
+- statement_id: st-ab227e09b50a
+  edtf_value: '1996-05-09'
 published_in:
-- entity_value: publication/fremtiden
+- statement_id: st-709aabfe21f8
+  entity_value: publication/fremtiden
 reviews:
 - event/1996-04-25-oslo-rebekka-west
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_fremtiden_null_null_19960509_88_106_1

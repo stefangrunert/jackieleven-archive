@@ -3,7 +3,8 @@ type: Place
 label: Korks
 place_type: venue
 located_in:
-- entity_value: place/otley
+- statement_id: st-14801a7ef07f
+  entity_value: place/otley
   references:
   - document: document/2003-02-03-the-guardian-jackie-leven-korks-otley
     locator: The Guardian, 03.02.2003

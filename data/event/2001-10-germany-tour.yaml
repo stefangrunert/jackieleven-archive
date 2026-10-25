@@ -3,20 +3,23 @@ type: Event
 label: Deutschlandtournee „The Jackie Leven Experience“, Oktober 2001
 event_type: tour
 time:
-- edtf_value: 2001-10
+- statement_id: st-7aba1d371396
+  edtf_value: 2001-10
   note: Zwei Wochen im Oktober 2001 laut Bericht; Einzeltermine nicht im Dokument.
   references:
   - document: document/2002-01-wondrous-stories-experiencing-jackie-leven
     locator: Wondrous Stories Nr. 120, Januar 2002
     evidence_type: third_party
 took_place_at:
-- entity_value: place/germany
+- statement_id: st-5b9e7c742831
+  entity_value: place/germany
   references:
   - document: document/2002-01-wondrous-stories-experiencing-jackie-leven
     locator: Wondrous Stories Nr. 120, Januar 2002
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-76ba8f292aad
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -24,7 +27,8 @@ participants:
   - document: document/2002-01-wondrous-stories-experiencing-jackie-leven
     locator: Wondrous Stories Nr. 120, Januar 2002
     evidence_type: third_party
-- agent_ref: person/michael-cosgrave
+- statement_id: st-906ffb1985cc
+  agent_ref: person/michael-cosgrave
   roles:
   - keyboards
   references:
@@ -32,7 +36,8 @@ participants:
     locator: Wondrous Stories Nr. 120, Januar 2002
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-d1f08c900c9e
+  status_value: took_place
   references:
   - document: document/2002-01-wondrous-stories-experiencing-jackie-leven
     locator: Wondrous Stories Nr. 120, Januar 2002

@@ -3,7 +3,8 @@ type: Event
 label: Doll by Doll, Roundhouse, London (1978-10-22)
 event_type: concert
 time:
-- edtf_value: '1978-10-22'
+- statement_id: st-70f96be0e11e
+  edtf_value: '1978-10-22'
   note: Der Bericht sagt nur „Sunday night“; Sonntag vor dem Erscheinungsdatum 28.10.1978. Die Konzertliste
     der Recherche nennt ebenfalls den 22.10.1978 (nicht geprüft).
   references:
@@ -11,34 +12,39 @@ time:
     locator: Record Mirror, 28.10.1978, S. 51/52
     evidence_type: inferred
 took_place_at:
-- entity_value: place/roundhouse-london
+- statement_id: st-8de8ff4d4d70
+  entity_value: place/roundhouse-london
   references:
   - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
     locator: Record Mirror, 28.10.1978, S. 51/52
     evidence_type: third_party
 participants:
-- agent_ref: group/doll-by-doll
+- statement_id: st-2f6bee869774
+  agent_ref: group/doll-by-doll
   roles:
   - performer
   references:
   - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
     locator: Record Mirror, 28.10.1978, S. 51/52
     evidence_type: third_party
-- agent_ref: person/jackie-leven
+- statement_id: st-089db956ab5a
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   references:
   - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
     locator: Record Mirror, 28.10.1978, S. 51/52
     evidence_type: third_party
-- agent_ref: person/jo-shaw
+- statement_id: st-d728c3aad6a1
+  agent_ref: person/jo-shaw
   roles:
   - guitar
   references:
   - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
     locator: Record Mirror, 28.10.1978, S. 51/52
     evidence_type: third_party
-- agent_ref: person/dave-mcintosh
+- statement_id: st-566516e0d443
+  agent_ref: person/dave-mcintosh
   roles:
   - drums
   credited_as: Dave McIntosh
@@ -47,7 +53,8 @@ participants:
     locator: Record Mirror, 28.10.1978, S. 51/52
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-6d3ff2579d81
+  status_value: took_place
   references:
   - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
     locator: Record Mirror, 28.10.1978, S. 51/52

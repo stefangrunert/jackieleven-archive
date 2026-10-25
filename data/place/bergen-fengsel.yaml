@@ -3,7 +3,8 @@ type: Place
 label: Bergen fengsel
 place_type: venue
 located_in:
-- entity_value: place/bergen
+- statement_id: st-ec70b6e4c0e8
+  entity_value: place/bergen
   references:
   - document: document/2003-03-09-bergensavisen-leven-bak-murene-igjen
     locator: Bergensavisen, 09.03.2003

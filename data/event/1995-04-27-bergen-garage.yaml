@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Garage, Bergen (1995-04-27)
 event_type: concert
 time:
-- edtf_value: '1995-04-27'
+- statement_id: st-8f674fb6ab44
+  edtf_value: '1995-04-27'
   note: Donnerstag, 27. April 1995 laut Bericht.
   references:
   - document: document/1995-04-29-bergensavisen-bra-med-leven
     locator: Bergensavisen, 29.04.1995
     evidence_type: third_party
 took_place_at:
-- entity_value: place/garage-bergen
+- statement_id: st-b15d5270e265
+  entity_value: place/garage-bergen
   references:
   - document: document/1995-04-29-bergensavisen-bra-med-leven
     locator: Bergensavisen, 29.04.1995
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-47762613acdf
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,7 +28,8 @@ participants:
     locator: Bergensavisen, 29.04.1995
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-95c801176817
+  status_value: took_place
   references:
   - document: document/1995-04-29-bergensavisen-bra-med-leven
     locator: Bergensavisen, 29.04.1995

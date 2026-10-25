@@ -4,13 +4,16 @@ label: Unglaublich schöner, verrückter Abend mit Jackie Leven
 document_type: concert_review
 language: de
 participants:
-- agent_ref: person/stefan-krulle
+- statement_id: st-89eaf8f4ac9a
+  agent_ref: person/stefan-krulle
   roles:
   - author
 published:
-- edtf_value: '2007-04-25'
+- statement_id: st-56b9478ef9cc
+  edtf_value: '2007-04-25'
 published_in:
-- entity_value: publication/die-welt
+- statement_id: st-adbe422eaf3d
+  entity_value: publication/die-welt
 reviews:
 - event/2007-04-hamburg-knust
 url: https://www.welt.de/welt_print/article102616250/unglaublich-schoener-verrueckter-abend-mit-jackie-leven.html

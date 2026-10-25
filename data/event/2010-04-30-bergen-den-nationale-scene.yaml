@@ -3,7 +3,8 @@ type: Event
 label: Jackie Leven und Knut Buen, Bergenfest, Den Nationale Scene, Bergen
 event_type: festival_appearance
 time:
-- edtf_value: '2010-04-30'
+- statement_id: st-171991eea5e1
+  edtf_value: '2010-04-30'
   note: Der Vorbericht nennt nur „Bergenfest 2010“; 30.04.2010 laut Bergensavisen vom 30.04. (Notiz der
     Quellendatei, nicht geprüft).
   references:
@@ -11,13 +12,15 @@ time:
     locator: Laagendalsposten, 13.04.2010
     evidence_type: inferred
 took_place_at:
-- entity_value: place/den-nationale-scene-bergen
+- statement_id: st-764681ea1524
+  entity_value: place/den-nationale-scene-bergen
   references:
   - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
     locator: Laagendalsposten, 13.04.2010
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-a750e96246d3
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,7 +28,8 @@ participants:
   - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
     locator: Laagendalsposten, 13.04.2010
     evidence_type: third_party
-- agent_ref: person/knut-buen
+- statement_id: st-d3936ae3a750
+  agent_ref: person/knut-buen
   roles:
   - other
   instrument: Hardingfele
@@ -34,7 +38,8 @@ participants:
     locator: Laagendalsposten, 13.04.2010
     evidence_type: third_party
 performance_status:
-- status_value: announced
+- statement_id: st-56162919b59d
+  status_value: announced
   references:
   - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
     locator: Laagendalsposten, 13.04.2010

@@ -3,27 +3,31 @@ type: Event
 label: Doll by Doll, The Castle, Richmond (1980-08/1980-09)
 event_type: concert
 time:
-- edtf_value: 1980-08/1980-09
+- statement_id: st-01b2d5440929
+  edtf_value: 1980-08/1980-09
   note: Konzerttag nicht genannt; Quellendatei vermutet Ende August/Anfang September 1980.
   references:
   - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
     locator: Melody Maker, 13.09.1980
     evidence_type: inferred
 took_place_at:
-- entity_value: place/the-castle-richmond
+- statement_id: st-87a7ff9d1f15
+  entity_value: place/the-castle-richmond
   references:
   - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
     locator: Melody Maker, 13.09.1980
     evidence_type: third_party
 participants:
-- agent_ref: group/doll-by-doll
+- statement_id: st-fcf755ed6c69
+  agent_ref: group/doll-by-doll
   roles:
   - performer
   references:
   - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
     locator: Melody Maker, 13.09.1980
     evidence_type: third_party
-- agent_ref: person/jackie-leven
+- statement_id: st-2c8be82453f2
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - keyboards
@@ -31,21 +35,24 @@ participants:
   - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
     locator: Melody Maker, 13.09.1980
     evidence_type: third_party
-- agent_ref: person/jo-shaw
+- statement_id: st-388b2985410b
+  agent_ref: person/jo-shaw
   roles:
   - guitar
   references:
   - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
     locator: Melody Maker, 13.09.1980
     evidence_type: third_party
-- agent_ref: person/dave-mcintosh
+- statement_id: st-bea9500e2bfd
+  agent_ref: person/dave-mcintosh
   roles:
   - drums
   references:
   - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
     locator: Melody Maker, 13.09.1980
     evidence_type: third_party
-- agent_ref: person/tony-waite
+- statement_id: st-66066c3ad4ca
+  agent_ref: person/tony-waite
   roles:
   - bass
   references:
@@ -53,7 +60,8 @@ participants:
     locator: Melody Maker, 13.09.1980
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-c3b3e385cf67
+  status_value: took_place
   references:
   - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
     locator: Melody Maker, 13.09.1980

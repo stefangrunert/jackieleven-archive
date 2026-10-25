@@ -4,13 +4,16 @@ label: Leven uten dødpunkt
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/einar-owe-einarsen
+- statement_id: st-1f532d4e5b55
+  agent_ref: person/einar-owe-einarsen
   roles:
   - author
 published:
-- edtf_value: '2001-09-10'
+- statement_id: st-46e20dec09f4
+  edtf_value: '2001-09-10'
 published_in:
-- entity_value: publication/rogalands-avis
+- statement_id: st-abb3e1cbda13
+  entity_value: publication/rogalands-avis
 reviews:
 - event/2001-09-08-stavanger-sting-nere
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_rogalandsavis_null_null_20010910_103_209_1

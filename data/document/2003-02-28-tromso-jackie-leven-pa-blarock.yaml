@@ -4,13 +4,16 @@ label: Jackie Leven på Blårock
 document_type: news
 language: 'no'
 participants:
-- agent_ref: person/helge-matland
+- statement_id: st-c65d43056dc0
+  agent_ref: person/helge-matland
   roles:
   - author
 published:
-- edtf_value: '2003-02-28'
+- statement_id: st-bc6487eea429
+  edtf_value: '2003-02-28'
 published_in:
-- entity_value: publication/tromso
+- statement_id: st-d1811aa3f8d6
+  entity_value: publication/tromso
 about:
 - event/2003-03-02-tromso-bla-rock-cafe
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromso_null_null_20030228_106_50_1

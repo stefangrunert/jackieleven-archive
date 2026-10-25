@@ -2,7 +2,8 @@ id: group/small-world-orchestra
 type: Group
 label: Small World Orchestra
 members:
-- agent_ref: person/jackie-leven
+- statement_id: st-aefa48749302
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -16,7 +17,8 @@ members:
     locator: Drammens Tidende, 26.09.2005
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
-- agent_ref: person/eivind-kloverod
+- statement_id: st-7c311c4306cf
+  agent_ref: person/eivind-kloverod
   roles:
   - other
   - member

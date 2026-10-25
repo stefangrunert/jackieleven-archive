@@ -4,13 +4,16 @@ label: Doll By Doll – London, The Venue
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/john-hayward
+- statement_id: st-2cfd849f6af2
+  agent_ref: person/john-hayward
   roles:
   - author
 published:
-- edtf_value: '1981-06-15'
+- statement_id: st-25410dfd5f6c
+  edtf_value: '1981-06-15'
 published_in:
-- entity_value: publication/record-business
+- statement_id: st-7fcffa68ee55
+  entity_value: publication/record-business
 reviews:
 - event/1981-06-08-london-the-venue
 url: https://www.worldradiohistory.com/UK/Record-Business-UK/1981/Record-Business-1981-06-15-S-OCR.pdf

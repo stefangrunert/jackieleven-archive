@@ -4,9 +4,11 @@ label: Folk-rock escocés [John St. Field in La Boîte, Madrid]
 document_type: concert_review
 language: es
 published:
-- edtf_value: '1976-01-28'
+- statement_id: st-f792ea7919fa
+  edtf_value: '1976-01-28'
 published_in:
-- entity_value: publication/ya
+- statement_id: st-8c6fa0039beb
+  entity_value: publication/ya
 reviews:
 - event/1976-01-madrid-la-boite
 url: http://hemerotecadigital.bne.es/hd/es/results?id=fa9442a2-b89d-4d65-9c12-15ffc7d9f419

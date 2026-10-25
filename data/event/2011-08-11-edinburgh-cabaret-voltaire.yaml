@@ -3,7 +3,8 @@ type: Event
 label: Jackie Leven, Cabaret Voltaire, Edinburgh (2011-08-11)
 event_type: concert
 time:
-- edtf_value: '2011-08-11'
+- statement_id: st-975cb783ec84
+  edtf_value: '2011-08-11'
   note: Die Kritik nennt weder Ort noch Tag; Cabaret Voltaire, Edinburgh Fringe und 11.08.2011 stammen
     aus dem Konzertkalender der Recherche (nicht geprüft).
   references:
@@ -11,13 +12,15 @@ time:
     locator: theArtsDesk, 13.08.2011
     evidence_type: inferred
 took_place_at:
-- entity_value: place/cabaret-voltaire-edinburgh
+- statement_id: st-327363694cc8
+  entity_value: place/cabaret-voltaire-edinburgh
   references:
   - document: document/2011-08-13-theartsdesk-edinburgh-fringe-jackie-leven
     locator: theArtsDesk, 13.08.2011
     evidence_type: inferred
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-b80196f5e761
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -26,7 +29,8 @@ participants:
     locator: theArtsDesk, 13.08.2011
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-6b49a070cefa
+  status_value: took_place
   references:
   - document: document/2011-08-13-theartsdesk-edinburgh-fringe-jackie-leven
     locator: theArtsDesk, 13.08.2011

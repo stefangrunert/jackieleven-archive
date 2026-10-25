@@ -4,13 +4,16 @@ label: Bra med Leven
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/julie-forchhammer
+- statement_id: st-cface937b634
+  agent_ref: person/julie-forchhammer
   roles:
   - author
 published:
-- edtf_value: '1995-04-29'
+- statement_id: st-b4a1e9ad5a9d
+  edtf_value: '1995-04-29'
 published_in:
-- entity_value: publication/bergensavisen
+- statement_id: st-a38ec5306612
+  entity_value: publication/bergensavisen
 reviews:
 - event/1995-04-27-bergen-garage
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_19950429_69_114_1

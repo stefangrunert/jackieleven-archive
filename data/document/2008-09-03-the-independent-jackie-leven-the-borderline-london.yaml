@@ -4,13 +4,16 @@ label: Jackie Leven, The Borderline, London
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/andy-gill
+- statement_id: st-4921122be788
+  agent_ref: person/andy-gill
   roles:
   - author
 published:
-- edtf_value: '2008-09-03'
+- statement_id: st-e3d220571af5
+  edtf_value: '2008-09-03'
 published_in:
-- entity_value: publication/the-independent
+- statement_id: st-e7d02cf18971
+  entity_value: publication/the-independent
 reviews:
 - event/2008-09-london-the-borderline
 url: https://www.independent.co.uk/arts-entertainment/music/reviews/jackie-leven-the-borderline-london-917077.html

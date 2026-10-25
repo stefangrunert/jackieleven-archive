@@ -4,13 +4,16 @@ label: Leven på Glæden
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/torgeir-eikeland
+- statement_id: st-d546baff9536
+  agent_ref: person/torgeir-eikeland
   roles:
   - author
 published:
-- edtf_value: '1997-04-15'
+- statement_id: st-57f236f7d16f
+  edtf_value: '1997-04-15'
 published_in:
-- entity_value: publication/nordlandsposten
+- statement_id: st-cf874d2c05cc
+  entity_value: publication/nordlandsposten
 reviews:
 - event/1997-04-13-bodo-den-siste-glaede
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlandsposten_null_null_19970415_135_85_1

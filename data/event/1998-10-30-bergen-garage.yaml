@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Garage, Bergen (1998-10-30)
 event_type: concert
 time:
-- edtf_value: '1998-10-30'
+- statement_id: st-8613cf186326
+  edtf_value: '1998-10-30'
   note: Datum aus dem Thema der Quellendatei (30.10.1998); die Kritik vom 01.11.1998 nennt keinen Tag.
   references:
   - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
     locator: Bergensavisen, 01.11.1998
     evidence_type: inferred
 took_place_at:
-- entity_value: place/garage-bergen
+- statement_id: st-b6224b006f07
+  entity_value: place/garage-bergen
   references:
   - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
     locator: Bergensavisen, 01.11.1998
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-fceb28c7d9c1
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -24,21 +27,24 @@ participants:
   - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
     locator: Bergensavisen, 01.11.1998
     evidence_type: third_party
-- agent_ref: group/the-celtic-soulmen
+- statement_id: st-5a15c22456f4
+  agent_ref: group/the-celtic-soulmen
   roles:
   - performer
   references:
   - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
     locator: Bergensavisen, 01.11.1998
     evidence_type: third_party
-- agent_ref: person/michael-cosgrave
+- statement_id: st-d9fd3c567b54
+  agent_ref: person/michael-cosgrave
   roles:
   - keyboards
   references:
   - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
     locator: Bergensavisen, 01.11.1998
     evidence_type: third_party
-- agent_ref: person/steafan-hannigan
+- statement_id: st-9e033f5092f8
+  agent_ref: person/steafan-hannigan
   roles:
   - other
   instrument: Perkussion, Uilleann Pipes
@@ -47,7 +53,8 @@ participants:
     locator: Bergensavisen, 01.11.1998
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-5187d0268fb1
+  status_value: took_place
   references:
   - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
     locator: Bergensavisen, 01.11.1998

@@ -4,13 +4,16 @@ label: Bawdy – Jackie Leven shocks Scandinavia (Garage, Bergen, April 10, 1997
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/john-aizlewood
+- statement_id: st-0957b83aa277
+  agent_ref: person/john-aizlewood
   roles:
   - author
 published:
-- edtf_value: 1997-06
+- statement_id: st-91f6b4caafa6
+  edtf_value: 1997-06
 published_in:
-- entity_value: publication/q
+- statement_id: st-44a503fb733f
+  entity_value: publication/q
 reviews:
 - event/1997-04-10-bergen-garage
 archive_url: https://web.archive.org/web/20010504121647/http://home.xnet.it:80/tout/leven/press/q129.htm

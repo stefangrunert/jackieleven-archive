@@ -3,7 +3,8 @@ type: Place
 label: Rockefeller
 place_type: venue
 located_in:
-- entity_value: place/oslo
+- statement_id: st-00e7610874b6
+  entity_value: place/oslo
   references:
   - document: document/1995-05-03-fremtiden-jackie-leven-rockefeller
     locator: Fremtiden, 03.05.1995

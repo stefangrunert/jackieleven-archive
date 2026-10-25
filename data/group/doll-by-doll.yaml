@@ -2,7 +2,8 @@ id: group/doll-by-doll
 type: Group
 label: Doll by Doll
 members:
-- agent_ref: person/jackie-leven
+- statement_id: st-1cf56a2b6536
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -55,7 +56,8 @@ members:
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
-- agent_ref: person/jo-shaw
+- statement_id: st-5e34fd869c28
+  agent_ref: person/jo-shaw
   roles:
   - guitar
   - member
@@ -80,7 +82,8 @@ members:
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
-- agent_ref: person/dave-mcintosh
+- statement_id: st-3c8ccb18b81b
+  agent_ref: person/dave-mcintosh
   roles:
   - drums
   - member
@@ -98,7 +101,8 @@ members:
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
-- agent_ref: person/tony-waite
+- statement_id: st-ba7c9aff5ae1
+  agent_ref: person/tony-waite
   roles:
   - bass
   - member
@@ -111,7 +115,8 @@ members:
     locator: Melody Maker, 13.09.1980
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
-- agent_ref: person/helen-turner
+- statement_id: st-53c58b59f900
+  agent_ref: person/helen-turner
   roles:
   - vocals
   - keyboards
@@ -121,7 +126,8 @@ members:
     locator: Record Business, 17.01.1983
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
-- agent_ref: person/kevin-foster
+- statement_id: st-a020e7657652
+  agent_ref: person/kevin-foster
   roles:
   - bass
   - member

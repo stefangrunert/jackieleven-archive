@@ -3,7 +3,8 @@ type: Event
 label: Jackie Leven, Green Note, London (2008-05-28)
 event_type: concert
 time:
-- edtf_value: '2008-05-28'
+- statement_id: st-dbf3a0dd5b65
+  edtf_value: '2008-05-28'
   note: Datum aus dem Titel; die Seitendaten nennen als Veröffentlichung den 24.05.2008, ein Widerspruch,
     den die Quellendatei offenlässt.
   references:
@@ -11,13 +12,15 @@ time:
     locator: Pennyblackmusic, Titel „Green Note, London 28/5/2008“
     evidence_type: third_party
 took_place_at:
-- entity_value: place/green-note-london
+- statement_id: st-238f16ee90a0
+  entity_value: place/green-note-london
   references:
   - document: document/2008-05-pennyblackmusic-jackie-leven-green-note-london
     locator: Pennyblackmusic, Titel „Green Note, London 28/5/2008“
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-faef08b5c678
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -26,7 +29,8 @@ participants:
     locator: Pennyblackmusic, Titel „Green Note, London 28/5/2008“
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-88e4fdb90d13
+  status_value: took_place
   references:
   - document: document/2008-05-pennyblackmusic-jackie-leven-green-note-london
     locator: Pennyblackmusic, Titel „Green Note, London 28/5/2008“

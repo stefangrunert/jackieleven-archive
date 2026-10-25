@@ -3,7 +3,8 @@ type: Place
 label: Siste Reis Pub
 place_type: venue
 located_in:
-- entity_value: place/halden
+- statement_id: st-4accbd2a154a
+  entity_value: place/halden
   references:
   - document: document/2005-09-15-halden-arbeiderblad-leven-pa-siste-reis
     locator: Halden Arbeiderblad, 15.09.2005

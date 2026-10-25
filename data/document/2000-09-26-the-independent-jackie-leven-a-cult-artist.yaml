@@ -5,13 +5,16 @@ label: Jackie Leven – a cult artist [Jackie Leven, Andy White and Michael West
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/gavin-martin
+- statement_id: st-42b963ed88c4
+  agent_ref: person/gavin-martin
   roles:
   - author
 published:
-- edtf_value: '2000-09-26'
+- statement_id: st-8583dc441eee
+  edtf_value: '2000-09-26'
 published_in:
-- entity_value: publication/the-independent
+- statement_id: st-029c16d10cd8
+  entity_value: publication/the-independent
 reviews:
 - event/2000-09-london-purcell-room
 url: http://www.independent.co.uk/enjoyment/Music/live_reviews/2000-09/pop260900.shtml

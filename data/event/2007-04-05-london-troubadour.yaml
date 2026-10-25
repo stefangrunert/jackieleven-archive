@@ -3,19 +3,22 @@ type: Event
 label: Jackie Leven, Troubadour, London (2007-04-05)
 event_type: concert
 time:
-- edtf_value: '2007-04-05'
+- statement_id: st-88953a723be4
+  edtf_value: '2007-04-05'
   references:
   - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
     locator: musicOMH, Kopfzeile der Kritik
     evidence_type: third_party
 took_place_at:
-- entity_value: place/troubadour-london
+- statement_id: st-27c4073f6b63
+  entity_value: place/troubadour-london
   references:
   - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
     locator: musicOMH, Kopfzeile der Kritik
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-283f3b4a5838
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -23,14 +26,16 @@ participants:
   - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
     locator: musicOMH, Kopfzeile der Kritik
     evidence_type: third_party
-- agent_ref: person/michael-cosgrave
+- statement_id: st-4ef0f0a90db2
+  agent_ref: person/michael-cosgrave
   roles:
   - keyboards
   references:
   - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
     locator: musicOMH, Kopfzeile der Kritik
     evidence_type: third_party
-- agent_ref: person/kevin-foster
+- statement_id: st-041e4195f0d1
+  agent_ref: person/kevin-foster
   roles:
   - guitar
   credited_as: Kevin O’Foster
@@ -40,7 +45,8 @@ participants:
   - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
     locator: musicOMH, Kopfzeile der Kritik
     evidence_type: third_party
-- agent_ref: person/deborah-greenwood
+- statement_id: st-29662f209af6
+  agent_ref: person/deborah-greenwood
   roles:
   - vocals
   references:
@@ -48,7 +54,8 @@ participants:
     locator: musicOMH, Kopfzeile der Kritik
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-0fa6a073395c
+  status_value: took_place
   references:
   - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
     locator: musicOMH, Kopfzeile der Kritik

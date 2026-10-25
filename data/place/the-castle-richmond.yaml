@@ -3,7 +3,8 @@ type: Place
 label: The Castle
 place_type: venue
 located_in:
-- entity_value: place/richmond
+- statement_id: st-b9aa5d361132
+  entity_value: place/richmond
   references:
   - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
     locator: Melody Maker, 13.09.1980

@@ -3,7 +3,8 @@ type: Event
 label: Jackie Leven, Egersund Visefestival, Dalane Brygghus
 event_type: festival_appearance
 time:
-- edtf_value: 2009-07
+- statement_id: st-9c128da8bc3d
+  edtf_value: 2009-07
   note: Festival im Juli 2009; die Quellendatei vermutet 03./04.07.2009, der Text nennt keine Tage.
   references:
   - document: document/2009-07-03-dalane-tidende-jackie-leven-dalane-brygghus
@@ -16,7 +17,8 @@ time:
     locator: Dalane Tidende, 21.04.2010 (Rückblick des Festivalleiters)
     evidence_type: third_party
 took_place_at:
-- entity_value: place/dalane-brygghus-egersund
+- statement_id: st-b60d88ea7a12
+  entity_value: place/dalane-brygghus-egersund
   references:
   - document: document/2009-07-03-dalane-tidende-jackie-leven-dalane-brygghus
     locator: Dalane Tidende, 03.07.2009
@@ -28,7 +30,8 @@ took_place_at:
     locator: Dalane Tidende, 21.04.2010 (Rückblick des Festivalleiters)
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-823609613aee
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -43,13 +46,15 @@ participants:
     locator: Dalane Tidende, 21.04.2010 (Rückblick des Festivalleiters)
     evidence_type: third_party
 performance_status:
-- status_value: announced
+- statement_id: st-1333ca4f828c
+  status_value: announced
   references:
   - document: document/2009-07-03-dalane-tidende-jackie-leven-dalane-brygghus
     locator: Dalane Tidende, 03.07.2009
     quote: En spesiell mann med en spesiell stemme og en høyst spesiell livshistorie.
     evidence_type: third_party
-- status_value: took_place
+- statement_id: st-ee89f994dc55
+  status_value: took_place
   references:
   - document: document/2009-07-06-dalane-tidende-fantastisk-historieforteller
     locator: Dalane Tidende, 06.07.2009

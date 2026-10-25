@@ -4,13 +4,16 @@ label: 'Doll By Doll – London: Marquee'
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/john-hayward
+- statement_id: st-4a7488317db5
+  agent_ref: person/john-hayward
   roles:
   - author
 published:
-- edtf_value: '1983-01-17'
+- statement_id: st-8a1b7383f64e
+  edtf_value: '1983-01-17'
 published_in:
-- entity_value: publication/record-business
+- statement_id: st-473eb2935a94
+  entity_value: publication/record-business
 reviews:
 - event/1983-01-london-marquee
 url: https://www.worldradiohistory.com/UK/Record-Business-UK/1983/Record-Business-1983-01-17-S-OCR.pdf

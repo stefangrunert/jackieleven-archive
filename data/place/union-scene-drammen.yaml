@@ -3,7 +3,8 @@ type: Place
 label: Union Scene
 place_type: venue
 located_in:
-- entity_value: place/drammen
+- statement_id: st-1f15f11cfcc6
+  entity_value: place/drammen
   references:
   - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
     locator: Drammens Tidende, 30.08.2005

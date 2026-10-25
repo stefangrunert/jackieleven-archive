@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Tower Arts Centre, Winchester (1997)
 event_type: concert
 time:
-- edtf_value: '1997'
+- statement_id: st-04d877734882
+  edtf_value: '1997'
   note: Nur das Jahr ist belegt, kein Tagesdatum.
   references:
   - document: document/1997-clearspot-jackie-leven-tower-arts-centre-winchester
     locator: Clearspot (Webzine), Überschrift
     evidence_type: third_party
 took_place_at:
-- entity_value: place/tower-arts-centre-winchester
+- statement_id: st-185862058313
+  entity_value: place/tower-arts-centre-winchester
   references:
   - document: document/1997-clearspot-jackie-leven-tower-arts-centre-winchester
     locator: Clearspot (Webzine), Überschrift
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-7f9c6ff47a5a
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -25,7 +28,8 @@ participants:
     locator: Clearspot (Webzine), Überschrift
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-47e084130e39
+  status_value: took_place
   references:
   - document: document/1997-clearspot-jackie-leven-tower-arts-centre-winchester
     locator: Clearspot (Webzine), Überschrift

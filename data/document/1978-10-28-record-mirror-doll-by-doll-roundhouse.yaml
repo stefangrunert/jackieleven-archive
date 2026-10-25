@@ -4,13 +4,16 @@ label: Doll By Doll – London Roundhouse
 document_type: concert_review
 language: en
 participants:
-- agent_ref: person/alex-skorecki
+- statement_id: st-ab42f2aed906
+  agent_ref: person/alex-skorecki
   roles:
   - author
 published:
-- edtf_value: '1978-10-28'
+- statement_id: st-af11afc8683e
+  edtf_value: '1978-10-28'
 published_in:
-- entity_value: publication/record-mirror
+- statement_id: st-a1ae55b28be8
+  entity_value: publication/record-mirror
 reviews:
 - event/1978-10-22-london-roundhouse
 url: https://www.worldradiohistory.com/UK/Record-Mirror/70s/78/Record-Mirror-1978-10-28.pdf

@@ -4,13 +4,16 @@ label: Orange Blossom Special 8 (1. Teil) – 28.05.2004 – Beverungen, Glitter
 document_type: concert_review
 language: de
 participants:
-- agent_ref: person/ullrich-maurer
+- statement_id: st-95ec138bc2f5
+  agent_ref: person/ullrich-maurer
   roles:
   - author
 published:
-- edtf_value: '2004-05-29'
+- statement_id: st-f57eeb6ef458
+  edtf_value: '2004-05-29'
 published_in:
-- entity_value: publication/gaesteliste-de
+- statement_id: st-cd73f59234e5
+  entity_value: publication/gaesteliste-de
 reviews:
 - event/2004-05-29-beverungen-glitterhouse-villa
 - event/2004-05-29-beverungen-michael-weston-king-decent-men

@@ -3,7 +3,8 @@ type: Event
 label: Jackie Leven, Blå Rock Café, Tromsø (1997-04-06)
 event_type: concert
 time:
-- edtf_value: '1997-04-06'
+- statement_id: st-09b9faa39662
+  edtf_value: '1997-04-06'
   note: Nachtkonzert am 6. April 1997 laut Kritik.
   references:
   - document: document/1997-04-08-nordlys-ikke-bare-for-harde-menn
@@ -13,7 +14,8 @@ time:
     locator: Lofotposten, 11.04.1997
     evidence_type: inferred
 took_place_at:
-- entity_value: place/bla-rock-cafe-tromso
+- statement_id: st-483ce31d3adf
+  entity_value: place/bla-rock-cafe-tromso
   references:
   - document: document/1997-04-08-nordlys-ikke-bare-for-harde-menn
     locator: Nordlys, 08.04.1997
@@ -22,7 +24,8 @@ took_place_at:
     locator: Lofotposten, 11.04.1997
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-5395e91b6474
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -34,7 +37,8 @@ participants:
     locator: Lofotposten, 11.04.1997
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-d09f5b015152
+  status_value: took_place
   references:
   - document: document/1997-04-08-nordlys-ikke-bare-for-harde-menn
     locator: Nordlys, 08.04.1997

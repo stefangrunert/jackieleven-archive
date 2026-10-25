@@ -4,9 +4,11 @@ label: Unikt musikkmøte
 document_type: news
 language: 'no'
 published:
-- edtf_value: '2009-07-02'
+- statement_id: st-738fc335d840
+  edtf_value: '2009-07-02'
 published_in:
-- entity_value: publication/drammens-tidende
+- statement_id: st-b25f05b304ac
+  entity_value: publication/drammens-tidende
 about:
 - event/2009-07-02-kongsberg-christians-kjeller
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_drammenstidende_null_null_20090702_0_169_1

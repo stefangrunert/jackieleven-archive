@@ -3,27 +3,31 @@ type: Event
 label: Jackie Leven (Vorgruppe Madrugada), Tromsø
 event_type: concert
 time:
-- edtf_value: 2009?
+- statement_id: st-0d50ac82f67a
+  edtf_value: 2009?
   note: Der Vorbericht nennt kein Jahr; 2009 laut Nordlys 13.04.2010 (Notiz der Quellendatei, nicht geprüft).
   references:
   - document: document/2010-04-10-itromso-jackie-leven-pa-bastard
     locator: iTromsø, 10.04.2010 (Rückblick von Egon Holstad)
     evidence_type: inferred
 took_place_at:
-- entity_value: place/tromso
+- statement_id: st-c44b3b6250eb
+  entity_value: place/tromso
   references:
   - document: document/2010-04-10-itromso-jackie-leven-pa-bastard
     locator: iTromsø, 10.04.2010 (Rückblick von Egon Holstad)
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-cb8827b9476b
+  agent_ref: person/jackie-leven
   roles:
   - support_act
   references:
   - document: document/2010-04-10-itromso-jackie-leven-pa-bastard
     locator: iTromsø, 10.04.2010 (Rückblick von Egon Holstad)
     evidence_type: third_party
-- agent_ref: group/madrugada
+- statement_id: st-ab031b86afd2
+  agent_ref: group/madrugada
   roles:
   - performer
   references:
@@ -31,7 +35,8 @@ participants:
     locator: iTromsø, 10.04.2010 (Rückblick von Egon Holstad)
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-28a3448cbf56
+  status_value: took_place
   references:
   - document: document/2010-04-10-itromso-jackie-leven-pa-bastard
     locator: iTromsø, 10.04.2010 (Rückblick von Egon Holstad)

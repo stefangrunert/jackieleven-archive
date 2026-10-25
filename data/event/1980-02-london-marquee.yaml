@@ -3,7 +3,8 @@ type: Event
 label: Doll by Doll, Marquee, London (1980-02?)
 event_type: concert
 time:
-- edtf_value: 1980-02?
+- statement_id: st-5289c69d66cb
+  edtf_value: 1980-02?
   note: Konzertdatum nicht genannt; Erscheinungsdatum der Kritik 23.02.1980. Text der Kritik nicht einsehbar,
     nur Überschrift und Autor bekannt.
   references:
@@ -11,13 +12,15 @@ time:
     locator: Sounds, 23.02.1980
     evidence_type: inferred
 took_place_at:
-- entity_value: place/marquee-london
+- statement_id: st-47f23e42db47
+  entity_value: place/marquee-london
   references:
   - document: document/1980-02-23-sounds-doll-by-doll-marquee-london
     locator: Sounds, 23.02.1980
     evidence_type: third_party
 participants:
-- agent_ref: group/doll-by-doll
+- statement_id: st-467e7276a4c6
+  agent_ref: group/doll-by-doll
   roles:
   - performer
   references:
@@ -25,7 +28,8 @@ participants:
     locator: Sounds, 23.02.1980
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-1710c774603b
+  status_value: took_place
   references:
   - document: document/1980-02-23-sounds-doll-by-doll-marquee-london
     locator: Sounds, 23.02.1980

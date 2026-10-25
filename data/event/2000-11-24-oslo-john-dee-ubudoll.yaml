@@ -3,27 +3,31 @@ type: Event
 label: UbuDoll (Jackie Leven und David Thomas), John Dee, Oslo
 event_type: concert
 time:
-- edtf_value: '2000-11-24'
+- statement_id: st-b80bd94f392e
+  edtf_value: '2000-11-24'
   note: Die Kritik vom Dienstag, 28.11.2000, nennt „letzten Freitag“; erschlossen 24.11.2000.
   references:
   - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
     locator: Puls, 28.11.2000
     evidence_type: inferred
 took_place_at:
-- entity_value: place/john-dee-oslo
+- statement_id: st-31021727ef39
+  entity_value: place/john-dee-oslo
   references:
   - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
     locator: Puls, 28.11.2000
     evidence_type: third_party
 participants:
-- agent_ref: group/ubudoll
+- statement_id: st-35e59cddb24b
+  agent_ref: group/ubudoll
   roles:
   - performer
   references:
   - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
     locator: Puls, 28.11.2000
     evidence_type: third_party
-- agent_ref: person/jackie-leven
+- statement_id: st-30d8e463bfa7
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -31,7 +35,8 @@ participants:
   - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
     locator: Puls, 28.11.2000
     evidence_type: third_party
-- agent_ref: person/david-thomas
+- statement_id: st-d721d588d569
+  agent_ref: person/david-thomas
   roles:
   - vocals
   - other
@@ -40,7 +45,8 @@ participants:
     locator: Puls, 28.11.2000
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-8e4dceeb4f2e
+  status_value: took_place
   references:
   - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
     locator: Puls, 28.11.2000

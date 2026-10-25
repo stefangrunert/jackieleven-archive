@@ -3,20 +3,23 @@ type: Event
 label: Jackie Leven, Knust, Hamburg (2007-04)
 event_type: concert
 time:
-- edtf_value: 2007-04
+- statement_id: st-3da22a43c4b9
+  edtf_value: 2007-04
   note: Konzerttag nicht genannt; 25.04.2007 ist das Erscheinungsdatum der Kritik.
   references:
   - document: document/2007-04-25-die-welt-unglaublich-schoener-verrueckter-abend-m
     locator: Die Welt, 25.04.2007
     evidence_type: inferred
 took_place_at:
-- entity_value: place/knust-hamburg
+- statement_id: st-781b3c5e4745
+  entity_value: place/knust-hamburg
   references:
   - document: document/2007-04-25-die-welt-unglaublich-schoener-verrueckter-abend-m
     locator: Die Welt, 25.04.2007
     evidence_type: third_party
 participants:
-- agent_ref: person/jackie-leven
+- statement_id: st-42b2a62cc4bb
+  agent_ref: person/jackie-leven
   roles:
   - vocals
   - guitar
@@ -24,7 +27,8 @@ participants:
   - document: document/2007-04-25-die-welt-unglaublich-schoener-verrueckter-abend-m
     locator: Die Welt, 25.04.2007
     evidence_type: third_party
-- agent_ref: person/michael-cosgrave
+- statement_id: st-b27487160b31
+  agent_ref: person/michael-cosgrave
   roles:
   - keyboards
   references:
@@ -32,7 +36,8 @@ participants:
     locator: Die Welt, 25.04.2007
     evidence_type: third_party
 performance_status:
-- status_value: took_place
+- statement_id: st-82891075f1a0
+  status_value: took_place
   references:
   - document: document/2007-04-25-die-welt-unglaublich-schoener-verrueckter-abend-m
     locator: Die Welt, 25.04.2007

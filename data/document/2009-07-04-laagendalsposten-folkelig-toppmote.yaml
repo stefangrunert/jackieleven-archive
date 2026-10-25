@@ -4,13 +4,16 @@ label: Folkelig toppmøte
 document_type: concert_review
 language: 'no'
 participants:
-- agent_ref: person/lars-bryne
+- statement_id: st-02c3a0e44750
+  agent_ref: person/lars-bryne
   roles:
   - author
 published:
-- edtf_value: '2009-07-04'
+- statement_id: st-964f911ea36d
+  edtf_value: '2009-07-04'
 published_in:
-- entity_value: publication/laagendalsposten
+- statement_id: st-688cd72dc580
+  entity_value: publication/laagendalsposten
 reviews:
 - event/2009-07-02-kongsberg-christians-kjeller
 url: https://urn.nb.no/URN:NBN:no-nb_digavis_laagendalsposten_null_null_20090704_107_151_1

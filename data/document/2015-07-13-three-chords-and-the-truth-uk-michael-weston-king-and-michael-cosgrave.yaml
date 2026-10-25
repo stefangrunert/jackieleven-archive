@@ -5,9 +5,11 @@ label: Michael Weston King and Michael Cosgrave (Songs of Jackie Leven and Towne
 document_type: concert_review
 language: en
 published:
-- edtf_value: '2015-07-13'
+- statement_id: st-016f380533ac
+  edtf_value: '2015-07-13'
 published_in:
-- entity_value: publication/three-chords-and-the-truth-uk
+- statement_id: st-5ee0d730a431
+  entity_value: publication/three-chords-and-the-truth-uk
 reviews:
 - event/2015-07-12-birmingham-kitchen-garden-cafe
 about:
