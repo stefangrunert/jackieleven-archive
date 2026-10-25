@@ -21,6 +21,7 @@ Diese Vorlage gilt für jede Sitzung, die einen Auftrag aus `jobs/` bearbeitet. 
    - Schlüssel: Kleinbuchstaben, Ziffern, Bindestriche. Konzerte und andere datierte Ereignisse beginnen mit dem Datum, etwa `event/2004-03-26-bonn-harmonie`; Spielstätten mit Ort, etwa `place/bonn-harmonie`.
    - `label` in der Originalform. `type` entspricht dem Ordner.
    - Jede Aussage zu Zeit, Ort, Beteiligung, Mitgliedschaft und Durchführung trägt mindestens einen Beleg mit `document` und, wo möglich, `locator` und kurzem `quote`.
+   - `quote` nur wörtlich aus der Quelldatei (Abschnitt „Zitate“ oder wörtlich wiedergegebener Originaltext). Keine Rückübersetzung aus der deutschen Inhaltsangabe und keine Umformulierung; ohne passendes Zitat bleibt `quote` leer, eine eigene Zusammenfassung gehört in `scope`.
    - `evidence_type`: `self_statement` für Aussagen Levens über sich selbst, `third_party` für Angaben Dritter, `primary_document` für Kalender, Kataloge und Ähnliches, `inferred` für eigene Schlussfolgerungen (sparsam, mit `note`).
    - Zeitangaben als EDTF: `1975?` unsicher, `1975~` ungefähr, `[1976,1977]` eines von beiden, `2004-10/2004-11` Zeitraum, `198X` Jahrzehnt.
    - Widersprüchliche Angaben werden nicht aufgelöst. Jede wird eine eigene Aussage mit ihren Belegen; `rank` bleibt `normal`, außer der Auftrag sagt anderes.
