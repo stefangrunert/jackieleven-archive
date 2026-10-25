@@ -1,0 +1,7 @@
+id: document/beispiel-nachruf
+type: Document
+label: Beispielnachruf
+document_type: obituary
+language: en
+published:
+  - edtf_value: 2011-11

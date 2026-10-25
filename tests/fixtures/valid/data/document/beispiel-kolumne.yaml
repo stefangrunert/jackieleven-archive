@@ -1,0 +1,10 @@
+id: document/beispiel-kolumne
+type: Document
+label: Beispielkolumne
+document_type: column
+language: en
+participants:
+  - agent_ref: person/jackie-leven
+    roles: [author]
+published:
+  - edtf_value: 2004-07

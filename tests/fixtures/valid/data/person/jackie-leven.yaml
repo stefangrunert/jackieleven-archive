@@ -1,0 +1,20 @@
+id: person/jackie-leven
+type: Person
+label: Jackie Leven
+names:
+  - text_value: Alan Moffatt
+    name_type: birth_name
+    references:
+      - document: document/beispiel-nachruf
+        evidence_type: third_party
+  - text_value: Jackie Leven
+    name_type: stage_name
+performs_as:
+  - entity_value: persona/sir-vincent-lone
+    references:
+      - document: document/beispiel-nachruf
+birth: event/birth-jackie-leven
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

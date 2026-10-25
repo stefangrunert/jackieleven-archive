@@ -1,0 +1,16 @@
+coverage_id: coverage/pilot-konzertberichte-1
+source: research/quellen/konzertberichte
+coverage_scope:
+  materials:
+    - research/quellen/konzertberichte/*.md
+method: extraction
+searched_on: 2026-10-25
+searched_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte
+result:
+  items_total: 2
+  found: 1
+  candidates: 4
+note: Beispiel für die Tests.

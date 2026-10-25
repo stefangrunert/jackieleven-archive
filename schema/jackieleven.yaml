@@ -1,0 +1,374 @@
+id: https://jackieleven.com/schema/jackieleven
+name: jackieleven
+title: Ontologie des Jackie-Leven-Archivs
+description: >-
+  Schema v0. Enthält die Klassen, die der erste Erschließungslauf benötigt
+  (Personen, Personas, Gruppen, Organisationen, Orte, Ereignisse, Werke,
+  Dokumente, Publikationen), Aussagen mit Belegen sowie Aufträge und
+  Abdeckungsregister. Werke, Aufnahmen und Ausgaben im Einzelnen, Medienobjekte,
+  Textstellen und Erwähnungen folgen in späteren Versionen.
+version: 0.1.0
+license: https://creativecommons.org/licenses/by-nc/4.0/
+prefixes:
+  linkml: https://w3id.org/linkml/
+  jl: https://jackieleven.com/id/
+  schema: http://schema.org/
+  crm: http://www.cidoc-crm.org/cidoc-crm/
+  lrmoo: http://iflastandards.info/ns/lrm/lrmoo/
+  prov: http://www.w3.org/ns/prov#
+  dcterms: http://purl.org/dc/terms/
+  rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+default_prefix: jl
+default_range: string
+imports:
+  - linkml:types
+
+types:
+  EntityId:
+    typeof: string
+    description: Kennung der Form type/key, etwa person/jackie-leven.
+    pattern: "^(person|persona|group|organization|place|event|work|document|publication)/[a-z0-9]+(-[a-z0-9]+)*$"
+  JobId:
+    typeof: string
+    pattern: "^job/[a-z0-9]+(-[a-z0-9]+)*$"
+  EdtfString:
+    typeof: string
+    description: Zeitangabe im Extended Date/Time Format (ISO 8601-2); geprüft durch tools/validate.py.
+
+classes:
+
+  # ---------- Herkunft und Belege ----------
+
+  Recorder:
+    description: Wer eine Aussage erfasst oder eine Suche ausgeführt hat.
+    slots: [person, agent, model, job]
+
+  Reference:
+    description: Beleg für eine Aussage.
+    class_uri: prov:Entity
+    slots: [document, locator, quote, evidence_type, scope]
+    slot_usage:
+      document: {required: true}
+
+  Statement:
+    abstract: true
+    description: Zugeschriebene Angabe mit Rang und Belegen (CIDOC CRM E13 Attribute Assignment).
+    class_uri: crm:E13_Attribute_Assignment
+    slots: [rank, references, note, recorded_by, reviewed_by, reviewed_at]
+
+  TimeStatement:
+    is_a: Statement
+    slots: [edtf_value]
+
+  EntityStatement:
+    is_a: Statement
+    slots: [entity_value]
+
+  StatusStatement:
+    is_a: Statement
+    slots: [status_value]
+
+  NameStatement:
+    is_a: Statement
+    slots: [text_value, name_type, language, valid_time]
+
+  Participation:
+    description: Beteiligung eines Akteurs mit Rolle.
+    is_a: Statement
+    slots: [agent_ref, roles, instrument, credited_as]
+    slot_usage:
+      agent_ref: {required: true}
+
+  ExternalId:
+    description: Externe Kennung mit Prüfstand des Abgleichs.
+    slots: [scheme, external_value, match_status]
+
+  # ---------- Entitäten ----------
+
+  Entity:
+    abstract: true
+    slots: [id, type, label, names, identifiers, note, replaced_by, recorded_by]
+
+  Person:
+    is_a: Entity
+    class_uri: schema:Person
+    slots: [performs_as, birth, death]
+
+  Persona:
+    is_a: Entity
+    class_uri: schema:Person
+    description: Künstlername, unter dem eine Person eigenständig auftritt oder veröffentlicht.
+
+  Group:
+    is_a: Entity
+    class_uri: schema:MusicGroup
+    slots: [members]
+
+  Organization:
+    is_a: Entity
+    class_uri: schema:Organization
+    slots: [organization_type]
+
+  Place:
+    is_a: Entity
+    class_uri: schema:Place
+    slots: [place_type, located_in, latitude, longitude]
+
+  Event:
+    is_a: Entity
+    class_uri: schema:Event
+    slots: [event_type, time, took_place_at, participants, part_of, performance_status, performances]
+
+  Performance:
+    description: Aufführung eines Werks innerhalb eines Ereignisses (LRMoo F31).
+    class_uri: lrmoo:F31_Performance
+    slots: [work_performed, position, references, recorded_by]
+
+  Work:
+    is_a: Entity
+    class_uri: schema:MusicComposition
+    slots: [participants]
+
+  Publication:
+    is_a: Entity
+    class_uri: schema:Periodical
+
+  Document:
+    is_a: Entity
+    class_uri: schema:CreativeWork
+    slots: [document_type, language, published, archived, published_in, participants, about, reviews, url, archive_url, access, license, fiction]
+
+  # ---------- Erschließung ----------
+
+  Job:
+    description: Auftrag mit festem Suchraum für eine Erschließungssitzung.
+    slots: [job_id, goal, job_scope, method, output, budget, model, status, instructions]
+    slot_usage:
+      job_id: {required: true}
+      goal: {required: true}
+      job_scope: {required: true}
+      model: {required: true}
+
+  JobScope:
+    slots: [sources, materials, period, classes]
+
+  Budget:
+    slots: [page_fetches, web_searches, subtasks]
+
+  CoverageEntry:
+    description: Eintrag im Abdeckungsregister, auch für Suchen ohne Ergebnis.
+    slots: [coverage_id, source, coverage_scope, method, searched_on, searched_by, job, result, note]
+    slot_usage:
+      coverage_id: {required: true}
+      source: {required: true}
+      searched_on: {required: true}
+      searched_by: {required: true}
+
+  CoverageScope:
+    slots: [period, sections, materials]
+
+  CoverageResult:
+    slots: [items_total, items_unavailable, found, candidates]
+
+slots:
+
+  # Kennung und Bezeichnung
+  id: {identifier: true, range: EntityId, required: true}
+  type: {designates_type: true, range: string, required: true}
+  label: {required: true, description: Anzeigename in der Originalform.}
+  names: {range: NameStatement, multivalued: true, inlined_as_list: true}
+  identifiers: {range: ExternalId, multivalued: true, inlined_as_list: true}
+  note: {description: Redaktionelle Anmerkung.}
+  replaced_by: {range: EntityId}
+
+  # Herkunft
+  recorded_by: {range: Recorder, inlined: true, slot_uri: prov:wasAttributedTo}
+  reviewed_by: {}
+  reviewed_at: {range: date}
+  person: {range: EntityId}
+  agent: {description: "Werkzeug, etwa claude-code."}
+  model: {description: "Modell, etwa claude-sonnet-5-5."}
+  job: {range: JobId}
+
+  # Aussagen
+  rank: {range: RankEnum, ifabsent: string(normal)}
+  references: {range: Reference, multivalued: true, inlined_as_list: true}
+  edtf_value: {range: EdtfString, required: true, slot_uri: rdf:value}
+  entity_value: {range: EntityId, required: true}
+  status_value: {range: PerformanceStatusEnum, required: true}
+  text_value: {required: true}
+  valid_time: {range: EdtfString, description: Geltungszeitraum eines Namens.}
+  time: {range: TimeStatement, multivalued: true, inlined_as_list: true}
+  name_type: {range: NameTypeEnum}
+  language: {description: ISO 639-1.}
+
+  # Belege
+  document: {range: EntityId}
+  locator: {description: "Fundstelle, etwa Seite, Zeile, Absatzanker oder Zeitmarke."}
+  quote: {description: Kurzer wörtlicher Auszug.}
+  evidence_type: {range: EvidenceTypeEnum}
+  scope: {description: "Umfang, in dem der Beleg die Aussage stützt."}
+
+  # Externe Kennungen
+  scheme: {range: IdSchemeEnum, required: true}
+  external_value: {required: true}
+  match_status: {range: MatchStatusEnum, ifabsent: string(proposed)}
+
+  # Akteure
+  performs_as: {range: EntityStatement, multivalued: true, inlined_as_list: true, description: Personas der Person (MusicBrainz performs as).}
+  members: {range: Participation, multivalued: true, inlined_as_list: true, slot_uri: schema:member}
+  birth: {range: EntityId, description: Ereignis der Geburt.}
+  death: {range: EntityId, description: Ereignis des Todes.}
+  organization_type: {range: OrganizationTypeEnum}
+  agent_ref: {range: EntityId}
+  roles: {range: RoleEnum, multivalued: true}
+  instrument: {}
+  credited_as: {description: Nennung im Wortlaut der Quelle.}
+
+  # Orte
+  place_type: {range: PlaceTypeEnum, required: true}
+  located_in: {range: EntityStatement, multivalued: true, inlined_as_list: true, slot_uri: schema:containedInPlace}
+  latitude: {range: float}
+  longitude: {range: float}
+
+  # Ereignisse
+  event_type: {range: EventTypeEnum, required: true}
+  took_place_at: {range: EntityStatement, multivalued: true, inlined_as_list: true, slot_uri: schema:location}
+  participants: {range: Participation, multivalued: true, inlined_as_list: true}
+  part_of: {range: EntityStatement, multivalued: true, inlined_as_list: true}
+  performance_status: {range: StatusStatement, multivalued: true, inlined_as_list: true}
+  performances: {range: Performance, multivalued: true, inlined_as_list: true}
+  work_performed: {range: EntityId, required: true, slot_uri: schema:workPerformed}
+  position: {range: integer}
+
+  # Dokumente
+  document_type: {range: DocumentTypeEnum, required: true}
+  published: {range: TimeStatement, multivalued: true, inlined_as_list: true}
+  archived: {range: TimeStatement, multivalued: true, inlined_as_list: true}
+  published_in: {range: EntityStatement, multivalued: true, inlined_as_list: true}
+  about: {range: EntityId, multivalued: true, slot_uri: schema:about}
+  reviews: {range: EntityId, multivalued: true, slot_uri: schema:itemReviewed}
+  url: {range: uri}
+  archive_url: {range: uri}
+  access: {range: AccessEnum}
+  license: {}
+  fiction: {range: boolean, ifabsent: "false"}
+
+  # Aufträge
+  job_id: {identifier: true, range: JobId}
+  goal: {}
+  job_scope: {range: JobScope, inlined: true}
+  sources: {multivalued: true}
+  materials: {multivalued: true, description: Pfade oder Muster vorhandener Dateien.}
+  period: {range: EdtfString}
+  classes: {multivalued: true}
+  sections: {multivalued: true}
+  method: {range: MethodEnum}
+  output: {range: OutputEnum, multivalued: true}
+  budget: {range: Budget, inlined: true}
+  page_fetches: {range: integer}
+  web_searches: {range: integer}
+  subtasks: {range: integer}
+  status: {range: JobStatusEnum, ifabsent: string(draft)}
+  instructions: {description: Zusätzliche Hinweise für diesen Auftrag.}
+
+  # Abdeckungsregister
+  coverage_id: {identifier: true, pattern: "^coverage/[a-z0-9]+(-[a-z0-9]+)*$"}
+  source: {}
+  coverage_scope: {range: CoverageScope, inlined: true}
+  searched_on: {range: date}
+  searched_by: {range: Recorder, inlined: true}
+  result: {range: CoverageResult, inlined: true}
+  items_total: {range: integer}
+  items_unavailable: {multivalued: true}
+  found: {range: integer}
+  candidates: {range: integer}
+
+enums:
+  RankEnum:
+    permissible_values: {preferred: {}, normal: {}, deprecated: {}}
+  EvidenceTypeEnum:
+    permissible_values:
+      self_statement: {description: "nur durch Leven selbst belegt ([SA])"}
+      third_party: {description: "Angabe Dritter ([belegbar])"}
+      primary_document: {description: "Primärdokument wie Kalender oder Katalog ([belegbar])"}
+      inferred: {description: "Schlussfolgerung der Recherche ((erschlossen))"}
+  PerformanceStatusEnum:
+    permissible_values: {announced: {}, took_place: {}, cancelled: {}, unknown: {}}
+  NameTypeEnum:
+    permissible_values: {birth_name: {}, stage_name: {}, variant_spelling: {}, local_name: {}, other: {}}
+  MatchStatusEnum:
+    permissible_values: {proposed: {}, confirmed: {}, rejected: {}}
+  IdSchemeEnum:
+    permissible_values: {wikidata: {}, musicbrainz: {}, geonames: {}, viaf: {}, gnd: {}, discogs: {}, youtube: {}}
+  PlaceTypeEnum:
+    permissible_values: {country: {}, region: {}, city: {}, district: {}, venue: {}, building: {}, landscape: {}}
+  OrganizationTypeEnum:
+    permissible_values: {label: {}, publisher: {}, newsroom: {}, broadcaster: {}, promoter: {}, charity: {}, other: {}}
+  EventTypeEnum:
+    permissible_values:
+      concert: {}
+      festival_appearance: {}
+      tour: {}
+      festival: {}
+      performance: {description: Aufführung eines Werks innerhalb eines Konzerts}
+      recording_session: {}
+      interview: {}
+      broadcast: {}
+      reading: {}
+      birth: {}
+      death: {}
+      founding: {}
+      dissolution: {}
+      relocation: {}
+      assault: {}
+      other: {}
+  DocumentTypeEnum:
+    permissible_values:
+      column: {}
+      interview: {}
+      review: {}
+      concert_review: {}
+      obituary: {}
+      portrait: {}
+      memory: {}
+      forum: {}
+      broadcast: {}
+      reference_work: {}
+      book: {}
+      news: {}
+      press_release: {}
+      calendar: {description: Konzertkalender einer Website}
+      liner_notes: {}
+      website: {}
+      fiction: {description: Pastiche}
+  RoleEnum:
+    permissible_values:
+      performer: {}
+      vocals: {}
+      guitar: {}
+      bass: {}
+      drums: {}
+      keyboards: {}
+      support_act: {}
+      author: {}
+      interviewer: {}
+      photographer: {}
+      translator: {}
+      composer: {}
+      lyricist: {}
+      producer: {}
+      promoter: {}
+      member: {}
+      other: {}
+  AccessEnum:
+    permissible_values: {live: {}, archive: {}, paywall: {}, lost: {}}
+  MethodEnum:
+    permissible_values:
+      full_scan: {description: vollständige Durchsicht des Suchraums}
+      keyword_search: {description: Suche nach Begriffen}
+      extraction: {description: Auswertung vorhandener Dateien}
+  OutputEnum:
+    permissible_values: {candidates: {}, coverage: {}}
+  JobStatusEnum:
+    permissible_values: {draft: {}, open: {}, running: {}, review: {}, done: {}, stopped: {}}

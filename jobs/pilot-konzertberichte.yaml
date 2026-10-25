@@ -1,0 +1,22 @@
+job_id: job/pilot-konzertberichte
+goal: >-
+  Konzerte aus den vorhandenen Konzertberichten erschließen: je besprochenes
+  Konzert ein Ereignis mit Ort, Spielstätte, Beteiligten und dem Status
+  took_place, belegt durch den Bericht.
+job_scope:
+  materials:
+    - research/quellen/konzertberichte/*.md
+  classes: [Event, Place, Person, Group, Document, Publication]
+method: extraction
+output: [candidates, coverage]
+budget:
+  page_fetches: 0
+  web_searches: 0
+  subtasks: 4
+model: claude-sonnet-5-5
+status: draft
+instructions: >-
+  Pilotauftrag. Ohne Webzugriff; Grundlage sind nur die Dateien im Website-
+  Repository. Jede Quelldatei wird ein Dokument; jedes darin besprochene
+  Konzert ein Ereignis. Spielstätten als Ort der Art venue mit located_in auf
+  die Stadt.

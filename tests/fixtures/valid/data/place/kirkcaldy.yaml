@@ -1,0 +1,8 @@
+id: place/kirkcaldy
+type: Place
+label: Kirkcaldy
+place_type: city
+identifiers:
+  - scheme: geonames
+    external_value: "0000000"
+    match_status: proposed
