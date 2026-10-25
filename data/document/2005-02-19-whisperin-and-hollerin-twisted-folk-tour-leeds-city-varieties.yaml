@@ -1,0 +1,23 @@
+id: document/2005-02-19-whisperin-and-hollerin-twisted-folk-tour-leeds-city-varieties
+type: Document
+label: Review - TWISTED FOLK TOUR, Leeds City Varieties, 19th Feb - EARLIES, THE / HEM / LEVEN, JACKIE
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/sam-saunders
+  roles:
+  - author
+published:
+- edtf_value: '2005-02-19'
+published_in:
+- entity_value: publication/whisperin-hollerin
+reviews:
+- event/2005-02-19-leeds-city-varieties
+url: http://www.whisperinandhollerin.com/reviews/review.asp?id=2145
+archive_url: https://web.archive.org/web/20250208193715/http://www.whisperinandhollerin.com/reviews/review.asp?id=2145
+access: live
+note: Die Quellendatei stuft die Sicherheit der Angaben als „unsicher“ ein.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

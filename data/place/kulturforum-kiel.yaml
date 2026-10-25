@@ -1,0 +1,14 @@
+id: place/kulturforum-kiel
+type: Place
+label: KulturForum
+place_type: venue
+located_in:
+- entity_value: place/kiel
+  references:
+  - document: document/undatiert-kieler-nachrichten-der-kauz-im-anekdotendickicht-jackie-lev
+    locator: Kieler Nachrichten (Wiedergabe im Weblog, 08.05.2010)
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

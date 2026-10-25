@@ -1,0 +1,137 @@
+id: group/doll-by-doll
+type: Group
+label: Doll by Doll
+members:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  - performer
+  - keyboards
+  - member
+  references:
+  - document: document/1978-06-zigzag-doll-by-doll-acne-club-aylesbury
+    locator: ZigZag Nr. 84, Juni 1978
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
+    locator: Record Mirror, 28.10.1978, S. 51/52
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1979-09-01-record-mirror-reading-festival-1979
+    locator: Record Mirror, 01.09.1979, S. 21
+    evidence_type: third_party
+    scope: Leven habe später darauf hingewiesen, dass jede der Bands im „lächerlichen Spektakel“ von Reading
+      eine Funktion zu erfüllen gehabt habe
+  - document: document/1979-12-29-record-mirror-doll-by-doll-u2-the-venue
+    locator: Record Mirror, 29.12.1979, S. 23 (Bildunterschrift)
+    evidence_type: third_party
+    scope: Das Foto zeigt Jackie Leven und Tony Waite.
+  - document: document/1980-08-09-record-mirror-doll-by-doll-torrington-london
+    locator: Record Mirror, 09.08.1980
+    evidence_type: third_party
+    scope: Jackie Levens „fast manischen“ Gitarrenstil
+  - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
+    locator: Melody Maker, 13.09.1980
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1981-06-15-record-business-doll-by-doll-the-venue-london
+    locator: Record Business, 15.06.1981
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1981-06-20-record-mirror-crystal-balls-up-doll-by-doll-venue
+    locator: Record Mirror, 20.06.1981, S. 18
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1981-09-12-record-mirror-doll-by-doll-nite-club-edinburgh
+    locator: Record Mirror, 12.09.1981, S. 18
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1983-01-17-record-business-doll-by-doll-marquee-farewell
+    locator: Record Business, 17.01.1983
+    evidence_type: third_party
+    scope: Leven selbst übernahm die Leadgitarre
+  - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
+    locator: Bergensavisen, 31.08.1997
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+- agent_ref: person/jo-shaw
+  roles:
+  - guitar
+  - member
+  references:
+  - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
+    locator: Record Mirror, 28.10.1978, S. 51/52
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1979-07-zigzag-zigzag-10th-birthday-party-venue
+    locator: ZigZag Nr. 95, Juli 1979, S. 20–25
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
+    locator: Melody Maker, 13.09.1980
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1981-06-15-record-business-doll-by-doll-the-venue-london
+    locator: Record Business, 15.06.1981
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
+    locator: Bergensavisen, 31.08.1997
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+- agent_ref: person/dave-mcintosh
+  roles:
+  - drums
+  - member
+  credited_as: Dave McIntosh
+  references:
+  - document: document/1978-10-28-record-mirror-doll-by-doll-roundhouse
+    locator: Record Mirror, 28.10.1978, S. 51/52
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
+    locator: Melody Maker, 13.09.1980
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
+    locator: Bergensavisen, 31.08.1997
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+- agent_ref: person/tony-waite
+  roles:
+  - bass
+  - member
+  references:
+  - document: document/1979-12-29-record-mirror-doll-by-doll-u2-the-venue
+    locator: Record Mirror, 29.12.1979, S. 23 (Bildunterschrift)
+    evidence_type: third_party
+    scope: Das Foto zeigt Jackie Leven und Tony Waite.
+  - document: document/1980-09-13-melody-maker-doll-by-doll-the-castle-richmond
+    locator: Melody Maker, 13.09.1980
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+- agent_ref: person/helen-turner
+  roles:
+  - vocals
+  - keyboards
+  - member
+  references:
+  - document: document/1983-01-17-record-business-doll-by-doll-marquee-farewell
+    locator: Record Business, 17.01.1983
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+- agent_ref: person/kevin-foster
+  roles:
+  - bass
+  - member
+  credited_as: Kevin Foster
+  references:
+  - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
+    locator: Bergensavisen, 31.08.1997
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

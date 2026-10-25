@@ -1,0 +1,7 @@
+id: person/andy-gill
+type: Person
+label: Andy Gill
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

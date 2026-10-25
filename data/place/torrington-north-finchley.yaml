@@ -1,0 +1,14 @@
+id: place/torrington-north-finchley
+type: Place
+label: Torrington
+place_type: venue
+located_in:
+- entity_value: place/london
+  references:
+  - document: document/1980-08-09-record-mirror-doll-by-doll-torrington-london
+    locator: Record Mirror, 09.08.1980
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

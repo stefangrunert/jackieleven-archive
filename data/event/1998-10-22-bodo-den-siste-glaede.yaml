@@ -1,0 +1,53 @@
+id: event/1998-10-22-bodo-den-siste-glaede
+type: Event
+label: Jackie Leven, Den Siste Glæde, Bodø (1998-10-22)
+event_type: concert
+time:
+- edtf_value: '1998-10-22'
+  note: Donnerstag, 22. Oktober 1998 laut Bericht und Notiz der Quellendatei.
+  references:
+  - document: document/1998-10-24-nordlands-framtid-takk-for-sist-thor-arne
+    locator: Nordlands Framtid, 24.10.1998
+    evidence_type: third_party
+  - document: document/1998-10-24-nordlandsposten-stakkars-jackie-leven
+    locator: Nordlandsposten, 24.10.1998
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/den-siste-glaede-bodo
+  references:
+  - document: document/1998-10-24-nordlands-framtid-takk-for-sist-thor-arne
+    locator: Nordlands Framtid, 24.10.1998
+    evidence_type: third_party
+  - document: document/1998-10-24-nordlandsposten-stakkars-jackie-leven
+    locator: Nordlandsposten, 24.10.1998
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1998-10-24-nordlands-framtid-takk-for-sist-thor-arne
+    locator: Nordlands Framtid, 24.10.1998
+    evidence_type: third_party
+  - document: document/1998-10-24-nordlandsposten-stakkars-jackie-leven
+    locator: Nordlandsposten, 24.10.1998
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1998-10-24-nordlands-framtid-takk-for-sist-thor-arne
+    locator: Nordlands Framtid, 24.10.1998
+    quote: Nakent og alene tryllet han frem sine sterke melodier, kun avbrutt av hans sedvanlige humoristiske
+      historier fra sine reiser rundt om i verden.
+    evidence_type: third_party
+  - document: document/1998-10-24-nordlandsposten-stakkars-jackie-leven
+    locator: Nordlandsposten, 24.10.1998
+    quote: Jeg unner ingen et slikt publikum som Jackie Leven opplevde på Glæden torsdag.
+    evidence_type: third_party
+note: Die beiden Berichte vom 24.10.1998 widersprechen sich in der Besucherzahl (etwa 90 ruhige Zuhörer
+  gegen etwa 60 mit Störern); beide Angaben stehen in den Quelldokumenten.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

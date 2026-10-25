@@ -1,0 +1,50 @@
+id: event/1997-04-10-bergen-garage
+type: Event
+label: Jackie Leven, Garage, Bergen (1997-04-10)
+event_type: concert
+time:
+- edtf_value: '1997-04-10'
+  note: Donnerstagabend, 10. April 1997 laut Bericht.
+  references:
+  - document: document/1997-04-12-bergensavisen-historiefortelleren
+    locator: Bergensavisen, 12.04.1997
+    evidence_type: third_party
+  - document: document/1997-06-q-bawdy-jackie-leven-shocks-scandinavia
+    locator: Q Nr. 129, Juni 1997, Überschrift
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/garage-bergen
+  references:
+  - document: document/1997-04-12-bergensavisen-historiefortelleren
+    locator: Bergensavisen, 12.04.1997
+    evidence_type: third_party
+  - document: document/1997-06-q-bawdy-jackie-leven-shocks-scandinavia
+    locator: Q Nr. 129, Juni 1997, Überschrift
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1997-04-12-bergensavisen-historiefortelleren
+    locator: Bergensavisen, 12.04.1997
+    evidence_type: third_party
+  - document: document/1997-06-q-bawdy-jackie-leven-shocks-scandinavia
+    locator: Q Nr. 129, Juni 1997, Überschrift
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1997-04-12-bergensavisen-historiefortelleren
+    locator: Bergensavisen, 12.04.1997
+    quote: Han kjæler med strengene, hamrer og slår på gitarkroppen, tramper takten med foten.
+    evidence_type: third_party
+  - document: document/1997-06-q-bawdy-jackie-leven-shocks-scandinavia
+    locator: Q Nr. 129, Juni 1997, Überschrift
+    quote: Garage, Bergen, April 10, 1997
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

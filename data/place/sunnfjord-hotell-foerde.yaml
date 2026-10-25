@@ -1,0 +1,14 @@
+id: place/sunnfjord-hotell-foerde
+type: Place
+label: Sunnfjord Hotell
+place_type: venue
+located_in:
+- entity_value: place/foerde
+  references:
+  - document: document/2003-06-10-firda-frodige-jackie
+    locator: Firda, 10.06.2003
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

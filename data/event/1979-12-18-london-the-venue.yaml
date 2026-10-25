@@ -1,0 +1,61 @@
+id: event/1979-12-18-london-the-venue
+type: Event
+label: Doll by Doll, The Venue, London (1979-12-18)
+event_type: concert
+time:
+- edtf_value: '1979-12-18'
+  note: Die Kritik nennt keinen Tag; 18.12.1979 stammt aus u2songs.com und dem Guardian-Nachruf laut Notizen
+    der Quellendatei (nicht geprüft).
+  references:
+  - document: document/1979-12-29-record-mirror-doll-by-doll-u2-the-venue
+    locator: Record Mirror, 29.12.1979, S. 23
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/the-venue-london
+  references:
+  - document: document/1979-12-29-record-mirror-doll-by-doll-u2-the-venue
+    locator: Record Mirror, 29.12.1979, S. 23
+    evidence_type: third_party
+participants:
+- agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1979-12-29-record-mirror-doll-by-doll-u2-the-venue
+    locator: Record Mirror, 29.12.1979, S. 23
+    evidence_type: third_party
+- agent_ref: person/jackie-leven
+  roles:
+  - performer
+  references:
+  - document: document/1979-12-29-record-mirror-doll-by-doll-u2-the-venue
+    locator: Record Mirror, 29.12.1979, S. 23 (Bildunterschrift)
+    evidence_type: third_party
+    scope: Das Foto zeigt Jackie Leven und Tony Waite.
+- agent_ref: person/tony-waite
+  roles:
+  - bass
+  references:
+  - document: document/1979-12-29-record-mirror-doll-by-doll-u2-the-venue
+    locator: Record Mirror, 29.12.1979, S. 23 (Bildunterschrift)
+    evidence_type: third_party
+    scope: Das Foto zeigt Jackie Leven und Tony Waite.
+- agent_ref: group/u2
+  roles:
+  - performer
+  references:
+  - document: document/1979-12-29-record-mirror-doll-by-doll-u2-the-venue
+    locator: Record Mirror, 29.12.1979, S. 23
+    evidence_type: third_party
+    scope: This is the first time we’ve done cabaret
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1979-12-29-record-mirror-doll-by-doll-u2-the-venue
+    locator: Record Mirror, 29.12.1979, S. 23
+    quote: Doll By Doll are harder to explain
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

@@ -1,0 +1,38 @@
+id: event/2001-09-08-stavanger-sting-nere
+type: Event
+label: Jackie Leven, Sting Nere, Stavanger (2001-09-08)
+event_type: concert
+time:
+- edtf_value: '2001-09-08'
+  note: Samstagabend, 8. September 2001 laut Kritik.
+  references:
+  - document: document/2001-09-10-rogalands-avis-leven-uten-dodpunkt
+    locator: Rogalands Avis, 10.09.2001
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/sting-nere-stavanger
+  references:
+  - document: document/2001-09-10-rogalands-avis-leven-uten-dodpunkt
+    locator: Rogalands Avis, 10.09.2001
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2001-09-10-rogalands-avis-leven-uten-dodpunkt
+    locator: Rogalands Avis, 10.09.2001
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2001-09-10-rogalands-avis-leven-uten-dodpunkt
+    locator: Rogalands Avis, 10.09.2001
+    quote: Jackie Leven holdt på i to strake timer på Sting Nere lørdag kveld uten at det var ett minutt
+      med dødtid.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

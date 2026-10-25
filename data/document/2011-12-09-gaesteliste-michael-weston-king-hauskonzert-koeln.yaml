@@ -1,0 +1,26 @@
+id: document/2011-12-09-gaesteliste-michael-weston-king-hauskonzert-koeln
+type: Document
+label: Michael Weston King, Alan Cook – 09.12.2011 – Köln, Hauskonzert
+document_type: concert_review
+language: de
+participants:
+- agent_ref: person/ullrich-maurer
+  roles:
+  - author
+published:
+- edtf_value: '2011-12-13'
+published_in:
+- entity_value: publication/gaesteliste-de
+reviews:
+- event/2011-12-09-cologne-hauskonzert
+about:
+- person/jackie-leven
+url: https://gaesteliste.de/2011/12/13/gig/michael-weston-king-alan-cook-09-12-2011-koln-hauskonzert/
+archive_url: https://web.archive.org/web/20260521105316/https://gaesteliste.de/2011/12/13/gig/michael-weston-king-alan-cook-09-12-2011-koln-hauskonzert/
+access: live
+note: Gedenkkonzert nach Levens Tod; der Bericht nennt als Spielort ein Hauskonzert in Köln (Privatadresse
+  nicht erfasst).
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

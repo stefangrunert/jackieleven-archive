@@ -1,0 +1,17 @@
+id: place/john-dee-oslo
+type: Place
+label: John Dee
+place_type: venue
+located_in:
+- entity_value: place/oslo
+  references:
+  - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
+    locator: Puls, 28.11.2000
+    evidence_type: third_party
+  - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
+    locator: Puls, 28.11.2000 (Rückblick)
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

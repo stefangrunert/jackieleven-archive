@@ -1,0 +1,14 @@
+id: place/sting-nere-stavanger
+type: Place
+label: Sting Nere
+place_type: venue
+located_in:
+- entity_value: place/stavanger
+  references:
+  - document: document/2001-09-10-rogalands-avis-leven-uten-dodpunkt
+    locator: Rogalands Avis, 10.09.2001
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

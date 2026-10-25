@@ -1,0 +1,39 @@
+id: event/2009-06-04-whitstable-folk-club
+type: Event
+label: Jackie Leven, Whitstable Folk Club, Whitstable (2009-06-04)
+event_type: concert
+time:
+- edtf_value: '2009-06-04'
+  references:
+  - document: document/2009-06-04-record-collector-jackie-leven-whitstable-folk-club
+    locator: Record Collector Nr. 366, online 25.07.2009
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/whitstable-folk-club
+  references:
+  - document: document/2009-06-04-record-collector-jackie-leven-whitstable-folk-club
+    locator: Record Collector Nr. 366, online 25.07.2009
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2009-06-04-record-collector-jackie-leven-whitstable-folk-club
+    locator: Record Collector Nr. 366, online 25.07.2009
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2009-06-04-record-collector-jackie-leven-whitstable-folk-club
+    locator: Record Collector Nr. 366, online 25.07.2009
+    quote: All of this was accompanied by great, attacking guitar, while his voice ranged from poetry
+      to barely distinguishable growls.
+    evidence_type: third_party
+note: Der Konzertkalender der Recherche nennt „Labour Club, Whitstable“ als Spielort; der Bericht nennt
+  den Whitstable Folk Club als Veranstalter.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

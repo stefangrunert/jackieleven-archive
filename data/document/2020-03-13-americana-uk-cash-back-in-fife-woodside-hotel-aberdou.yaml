@@ -1,0 +1,24 @@
+id: document/2020-03-13-americana-uk-cash-back-in-fife-woodside-hotel-aberdou
+type: Document
+label: Cash Back In Fife, Woodside Hotel, Aberdour, Fife, 6th – 8th March 2020
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/paul-kerr
+  roles:
+  - author
+published:
+- edtf_value: '2020-03-13'
+published_in:
+- entity_value: publication/americana-uk
+reviews:
+- event/2020-03-06-aberdour-cash-back-in-fife
+- event/2020-03-07-aberdour-ian-rankin-erinnert-an-jackie-leven
+about:
+- person/jackie-leven
+url: https://americana-uk.com/cash-back-in-fife-woodside-hotel-aberdour-fife-6th-8th-march-2020
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

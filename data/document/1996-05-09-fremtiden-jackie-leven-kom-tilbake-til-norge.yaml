@@ -1,0 +1,22 @@
+id: document/1996-05-09-fremtiden-jackie-leven-kom-tilbake-til-norge
+type: Document
+label: '[Jackie Leven kom tilbake til Norge – «En kveld i magiens tegn»]'
+document_type: concert_review
+language: 'no'
+participants:
+- agent_ref: person/johnny-andreassen
+  roles:
+  - author
+published:
+- edtf_value: '1996-05-09'
+published_in:
+- entity_value: publication/fremtiden
+reviews:
+- event/1996-04-25-oslo-rebekka-west
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_fremtiden_null_null_19960509_88_106_1
+access: live
+note: Die Quellendatei stuft die Sicherheit der Angaben als „unsicher“ ein.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

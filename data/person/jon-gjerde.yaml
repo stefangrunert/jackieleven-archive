@@ -1,0 +1,7 @@
+id: person/jon-gjerde
+type: Person
+label: Jon Gjerde
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

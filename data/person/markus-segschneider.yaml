@@ -1,0 +1,7 @@
+id: person/markus-segschneider
+type: Person
+label: Markus Segschneider
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

@@ -1,0 +1,24 @@
+id: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
+type: Document
+label: '[Vorbericht:] Nå samles Jackie Leven og Knut Buen igjen (Zwischentitel „Ny duo“, „Felesjef“)'
+document_type: news
+language: 'no'
+participants:
+- agent_ref: person/eigil-kittang-ramstad
+  roles:
+  - author
+published:
+- edtf_value: '2010-04-13'
+published_in:
+- entity_value: publication/laagendalsposten
+about:
+- event/2010-04-30-bergen-den-nationale-scene
+- event/2010-05-01-ulvik-harding-folk
+- event/2009-07-02-kongsberg-christians-kjeller
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_laagendalsposten_null_null_20100413_108_83_1
+access: live
+note: Konzertvorbericht mit Rückblick auf die Premiere des Duos 2009.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

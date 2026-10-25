@@ -1,0 +1,19 @@
+id: document/2010-04-10-itromso-jackie-leven-pa-bastard
+type: Document
+label: Spiller på Bastard
+document_type: news
+language: 'no'
+published:
+- edtf_value: '2010-04-10'
+published_in:
+- entity_value: publication/itromso
+about:
+- event/2010-04-14-tromso-bastard-bar
+- event/2009-tromso-madrugada
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_itromso_null_null_20100410_112_82_1
+access: live
+note: Konzertvorbericht.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

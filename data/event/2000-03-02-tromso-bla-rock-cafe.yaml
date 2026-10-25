@@ -1,0 +1,66 @@
+id: event/2000-03-02-tromso-bla-rock-cafe
+type: Event
+label: Jackie Leven, Blå Rock Café, Tromsø (2000-03-02)
+event_type: concert
+time:
+- edtf_value: '2000-03-02'
+  note: 'Vorbericht vom 2. März 2000: Leven spiele „diesen Abend“ im Blå Rock Café.'
+  references:
+  - document: document/2000-03-02-tromso-jackie-leven-vender-tilbake
+    locator: Tromsø, 02.03.2000
+    evidence_type: third_party
+  - document: document/2000-03-04-nordlys-grisete-sentimental
+    locator: Nordlys, 04.03.2000
+    evidence_type: third_party
+  - document: document/2000-03-04-tromso-en-opplagt-jackie-leven
+    locator: Tromsø, 04.03.2000
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/bla-rock-cafe-tromso
+  references:
+  - document: document/2000-03-02-tromso-jackie-leven-vender-tilbake
+    locator: Tromsø, 02.03.2000
+    evidence_type: third_party
+  - document: document/2000-03-04-nordlys-grisete-sentimental
+    locator: Nordlys, 04.03.2000
+    evidence_type: third_party
+  - document: document/2000-03-04-tromso-en-opplagt-jackie-leven
+    locator: Tromsø, 04.03.2000
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2000-03-02-tromso-jackie-leven-vender-tilbake
+    locator: Tromsø, 02.03.2000
+    evidence_type: third_party
+  - document: document/2000-03-04-nordlys-grisete-sentimental
+    locator: Nordlys, 04.03.2000
+    evidence_type: third_party
+  - document: document/2000-03-04-tromso-en-opplagt-jackie-leven
+    locator: Tromsø, 04.03.2000
+    evidence_type: third_party
+performance_status:
+- status_value: announced
+  references:
+  - document: document/2000-03-02-tromso-jackie-leven-vender-tilbake
+    locator: Tromsø, 02.03.2000
+    evidence_type: third_party
+- status_value: took_place
+  references:
+  - document: document/2000-03-04-nordlys-grisete-sentimental
+    locator: Nordlys, 04.03.2000
+    quote: Hylende morsom og tåredryppende sentimental om hverandre.
+    evidence_type: third_party
+  - document: document/2000-03-04-tromso-en-opplagt-jackie-leven
+    locator: Tromsø, 04.03.2000
+    quote: Jackie Leven har utstråling.
+    evidence_type: third_party
+note: Das Grand Hotel Tromsø erscheint im Vorbericht nur als Dank der Grand-Bar auf einem Album Levens,
+  nicht als Konzert.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

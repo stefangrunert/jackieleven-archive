@@ -1,0 +1,35 @@
+id: place/bla-rock-cafe-tromso
+type: Place
+label: Blå Rock Café
+place_type: venue
+located_in:
+- entity_value: place/tromso
+  references:
+  - document: document/1996-04-27-tromso-en-skotsk-personlighet
+    locator: Tromsø, 27.04.1996
+    evidence_type: third_party
+  - document: document/1997-04-08-nordlys-ikke-bare-for-harde-menn
+    locator: Nordlys, 08.04.1997
+    evidence_type: third_party
+  - document: document/1997-04-11-lofotposten-hvit-soul
+    locator: Lofotposten, 11.04.1997
+    evidence_type: third_party
+  - document: document/2000-03-02-tromso-jackie-leven-vender-tilbake
+    locator: Tromsø, 02.03.2000
+    evidence_type: third_party
+  - document: document/2000-03-04-nordlys-grisete-sentimental
+    locator: Nordlys, 04.03.2000
+    evidence_type: third_party
+  - document: document/2000-03-04-tromso-en-opplagt-jackie-leven
+    locator: Tromsø, 04.03.2000
+    evidence_type: third_party
+  - document: document/2003-02-28-tromso-jackie-leven-pa-blarock
+    locator: Tromsø, 28.02.2003
+    evidence_type: third_party
+  - document: document/2003-03-01-nordlys-kiltkledd-helt-tilbake-i-byen
+    locator: Nordlys, 01.03.2003
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

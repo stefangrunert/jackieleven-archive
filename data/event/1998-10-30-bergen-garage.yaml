@@ -1,0 +1,60 @@
+id: event/1998-10-30-bergen-garage
+type: Event
+label: Jackie Leven, Garage, Bergen (1998-10-30)
+event_type: concert
+time:
+- edtf_value: '1998-10-30'
+  note: Datum aus dem Thema der Quellendatei (30.10.1998); die Kritik vom 01.11.1998 nennt keinen Tag.
+  references:
+  - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
+    locator: Bergensavisen, 01.11.1998
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/garage-bergen
+  references:
+  - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
+    locator: Bergensavisen, 01.11.1998
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
+    locator: Bergensavisen, 01.11.1998
+    evidence_type: third_party
+- agent_ref: group/the-celtic-soulmen
+  roles:
+  - performer
+  references:
+  - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
+    locator: Bergensavisen, 01.11.1998
+    evidence_type: third_party
+- agent_ref: person/michael-cosgrave
+  roles:
+  - keyboards
+  references:
+  - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
+    locator: Bergensavisen, 01.11.1998
+    evidence_type: third_party
+- agent_ref: person/steafan-hannigan
+  roles:
+  - other
+  instrument: Perkussion, Uilleann Pipes
+  references:
+  - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
+    locator: Bergensavisen, 01.11.1998
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1998-11-01-bergensavisen-kveld-med-jackie-leven
+    locator: Bergensavisen, 01.11.1998
+    quote: Og Leven skuffet ikke denne gangen heller, der han fyrte av tragikomiske historier fra scenekrakken
+      til publikums ellevilde begeistring.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

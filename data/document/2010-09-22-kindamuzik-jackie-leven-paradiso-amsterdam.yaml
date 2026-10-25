@@ -1,0 +1,22 @@
+id: document/2010-09-22-kindamuzik-jackie-leven-paradiso-amsterdam
+type: Document
+label: Jackie Leven – Gemengde gevoelens.
+document_type: concert_review
+language: nl
+participants:
+- agent_ref: person/peter-bartlema
+  roles:
+  - author
+published:
+- edtf_value: '2010-09-22'
+published_in:
+- entity_value: publication/kindamuzik
+reviews:
+- event/2010-09-19-amsterdam-paradiso
+url: https://www.kindamuzik.net/live/jackie-leven/jackie-leven/20669/index.html
+archive_url: https://web.archive.org/web/20240303131219/https://www.kindamuzik.net/live/jackie-leven/jackie-leven/20669/index.html
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

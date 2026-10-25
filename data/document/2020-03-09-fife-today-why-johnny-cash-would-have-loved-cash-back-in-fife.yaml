@@ -1,0 +1,26 @@
+id: document/2020-03-09-fife-today-why-johnny-cash-would-have-loved-cash-back-in-fife
+type: Document
+label: Why Johnny Cash would have loved Cash Back In Fife
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/allan-crow
+  roles:
+  - author
+published:
+- edtf_value: '2020-03-09'
+published_in:
+- entity_value: publication/fife-today
+reviews:
+- event/2020-03-06-aberdour-cash-back-in-fife
+- event/2020-03-07-aberdour-ian-rankin-erinnert-an-jackie-leven
+about:
+- person/jackie-leven
+url: https://fifetoday.co.uk/whats-on/arts-and-entertainment/why-johnny-cash-would-have-loved-cash-back-in-fife-2441820
+archive_url: https://web.archive.org/web/20220812192633/https://www.fifetoday.co.uk/whats-on/arts-and-entertainment/why-johnny-cash-would-have-loved-cash-back-in-fife-2441820
+access: live
+note: Festivalbericht; Levens Anteil ist der Samstagnachmittag mit Ian Rankin.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

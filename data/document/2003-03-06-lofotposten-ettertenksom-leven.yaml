@@ -1,0 +1,21 @@
+id: document/2003-03-06-lofotposten-ettertenksom-leven
+type: Document
+label: Ettertenksom Leven
+document_type: concert_review
+language: 'no'
+participants:
+- agent_ref: person/kurt-e-holm
+  roles:
+  - author
+published:
+- edtf_value: '2003-03-06'
+published_in:
+- entity_value: publication/lofotposten
+reviews:
+- event/2003-03-04-kabelvag-praestengbrygga
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_lofotposten_null_null_20030306_108_55_1
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

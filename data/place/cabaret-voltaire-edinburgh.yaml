@@ -1,0 +1,14 @@
+id: place/cabaret-voltaire-edinburgh
+type: Place
+label: Cabaret Voltaire
+place_type: venue
+located_in:
+- entity_value: place/edinburgh
+  references:
+  - document: document/2011-08-13-theartsdesk-edinburgh-fringe-jackie-leven
+    locator: theArtsDesk, 13.08.2011
+    evidence_type: inferred
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

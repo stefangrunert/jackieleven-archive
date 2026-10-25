@@ -1,0 +1,23 @@
+id: place/the-venue-london
+type: Place
+label: The Venue
+place_type: venue
+located_in:
+- entity_value: place/london
+  references:
+  - document: document/1979-07-zigzag-zigzag-10th-birthday-party-venue
+    locator: ZigZag Nr. 95, Juli 1979, S. 20–25
+    evidence_type: third_party
+  - document: document/1979-12-29-record-mirror-doll-by-doll-u2-the-venue
+    locator: Record Mirror, 29.12.1979, S. 23
+    evidence_type: third_party
+  - document: document/1981-06-15-record-business-doll-by-doll-the-venue-london
+    locator: Record Business, 15.06.1981
+    evidence_type: third_party
+  - document: document/1981-06-20-record-mirror-crystal-balls-up-doll-by-doll-venue
+    locator: Record Mirror, 20.06.1981, S. 18
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

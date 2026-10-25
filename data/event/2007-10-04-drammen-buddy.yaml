@@ -1,0 +1,37 @@
+id: event/2007-10-04-drammen-buddy
+type: Event
+label: Jackie Leven, Buddy, Drammen (2007-10-04)
+event_type: concert
+time:
+- edtf_value: '2007-10-04'
+  note: Angekündigt für Donnerstag, 4. Oktober 2007.
+  references:
+  - document: document/2007-09-24-drammens-tidende-jackie-pa-buddy
+    locator: Drammens Tidende, 24.09.2007
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/buddy-drammen
+  references:
+  - document: document/2007-09-24-drammens-tidende-jackie-pa-buddy
+    locator: Drammens Tidende, 24.09.2007
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-09-24-drammens-tidende-jackie-pa-buddy
+    locator: Drammens Tidende, 24.09.2007
+    evidence_type: third_party
+performance_status:
+- status_value: announced
+  references:
+  - document: document/2007-09-24-drammens-tidende-jackie-pa-buddy
+    locator: Drammens Tidende, 24.09.2007
+    evidence_type: third_party
+note: Nur angekündigt; Durchführung nicht belegt.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

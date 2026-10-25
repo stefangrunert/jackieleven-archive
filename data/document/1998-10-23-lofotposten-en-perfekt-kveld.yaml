@@ -1,0 +1,21 @@
+id: document/1998-10-23-lofotposten-en-perfekt-kveld
+type: Document
+label: En perfekt kveld
+document_type: concert_review
+language: 'no'
+participants:
+- agent_ref: person/anki-gerhardsen
+  roles:
+  - author
+published:
+- edtf_value: '1998-10-23'
+published_in:
+- entity_value: publication/lofotposten
+reviews:
+- event/1998-10-21-kabelvag-praestengbrygga
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_lofotposten_null_null_19981023_103_246_1
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

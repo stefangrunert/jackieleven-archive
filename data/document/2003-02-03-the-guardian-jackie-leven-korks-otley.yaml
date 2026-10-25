@@ -1,0 +1,21 @@
+id: document/2003-02-03-the-guardian-jackie-leven-korks-otley
+type: Document
+label: Jackie Leven (Korks, Otley)
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/dave-simpson
+  roles:
+  - author
+published:
+- edtf_value: '2003-02-03'
+published_in:
+- entity_value: publication/the-guardian
+reviews:
+- event/2003-02-otley-korks
+url: https://www.theguardian.com/stage/2003/feb/03/dance.artsfeatures1
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

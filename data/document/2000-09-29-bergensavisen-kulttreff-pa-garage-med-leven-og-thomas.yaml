@@ -1,0 +1,22 @@
+id: document/2000-09-29-bergensavisen-kulttreff-pa-garage-med-leven-og-thomas
+type: Document
+label: Kulttreff på Garage med Leven og Thomas
+document_type: news
+language: 'no'
+participants:
+- agent_ref: person/frank-johnsen
+  roles:
+  - author
+published:
+- edtf_value: '2000-09-29'
+published_in:
+- entity_value: publication/bergensavisen
+about:
+- event/2000-11-23-bergen-garage-ubudoll
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_20000929_74_263_1
+access: live
+note: Konzertvorbericht zum UbuDoll-Auftritt in Bergen.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

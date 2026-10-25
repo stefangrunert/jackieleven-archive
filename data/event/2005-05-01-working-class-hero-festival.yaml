@@ -1,0 +1,45 @@
+id: event/2005-05-01-working-class-hero-festival
+type: Event
+label: Jackie Leven, Working Class Hero-Festival 2005
+event_type: festival_appearance
+time:
+- edtf_value: '2005-05-01'
+  note: „Am 1. Mai“ laut Bericht; Spielort im Auszug nicht genannt. Rückblick, ca. 150 Anwesende.
+  references:
+  - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
+    locator: Drammens Tidende, 30.08.2005 (Rückblick)
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
+    locator: Drammens Tidende, 30.08.2005 (Rückblick)
+    evidence_type: third_party
+- agent_ref: person/eivind-kloverod
+  roles:
+  - drums
+  references:
+  - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
+    locator: Drammens Tidende, 30.08.2005 (Rückblick)
+    evidence_type: third_party
+- agent_ref: group/bent-bredesen-trio
+  roles:
+  - support_act
+  references:
+  - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
+    locator: Drammens Tidende, 30.08.2005 (Rückblick)
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
+    locator: Drammens Tidende, 30.08.2005 (Rückblick)
+    quote: Jeg ble nok litt kjekk etter et par øl, og å gjøre dette er jo frekt egentlig.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

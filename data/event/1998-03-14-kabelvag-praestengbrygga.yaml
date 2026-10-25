@@ -1,0 +1,38 @@
+id: event/1998-03-14-kabelvag-praestengbrygga
+type: Event
+label: Jackie Leven, Præstengbrygga, Kabelvåg (1998-03-14)
+event_type: concert
+time:
+- edtf_value: '1998-03-14'
+  note: Datum aus dem Thema der Quellendatei (14.03.1998); der Bericht selbst nennt keinen Tag.
+  references:
+  - document: document/1998-03-16-lofotposten-leven-for-dove-orer
+    locator: Lofotposten, 16.03.1998
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/praestengbrygga-kabelvag
+  references:
+  - document: document/1998-03-16-lofotposten-leven-for-dove-orer
+    locator: Lofotposten, 16.03.1998
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1998-03-16-lofotposten-leven-for-dove-orer
+    locator: Lofotposten, 16.03.1998
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1998-03-16-lofotposten-leven-for-dove-orer
+    locator: Lofotposten, 16.03.1998
+    quote: Skotske Jackie Leven kom til Kabelvåg for å synge, et stort flertall av publikum kom for å
+      prate.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

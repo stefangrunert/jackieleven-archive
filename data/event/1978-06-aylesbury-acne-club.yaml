@@ -1,0 +1,44 @@
+id: event/1978-06-aylesbury-acne-club
+type: Event
+label: Doll by Doll, Acne Club, Aylesbury (1978-06)
+event_type: concert
+time:
+- edtf_value: 1978-06
+  note: Ein Mittwoch vor Redaktionsschluss; Tag nicht genannt.
+  references:
+  - document: document/1978-06-zigzag-doll-by-doll-acne-club-aylesbury
+    locator: ZigZag Nr. 84, Juni 1978
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/acne-club-aylesbury
+  references:
+  - document: document/1978-06-zigzag-doll-by-doll-acne-club-aylesbury
+    locator: ZigZag Nr. 84, Juni 1978
+    evidence_type: third_party
+participants:
+- agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1978-06-zigzag-doll-by-doll-acne-club-aylesbury
+    locator: ZigZag Nr. 84, Juni 1978
+    evidence_type: third_party
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1978-06-zigzag-doll-by-doll-acne-club-aylesbury
+    locator: ZigZag Nr. 84, Juni 1978
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1978-06-zigzag-doll-by-doll-acne-club-aylesbury
+    locator: ZigZag Nr. 84, Juni 1978
+    quote: Doll BY Doll blew my head clean off, and everyone in that room too.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

@@ -1,0 +1,51 @@
+id: event/2000-03-bochum-zeche
+type: Event
+label: Jackie Leven, Zeche, Bochum (2000-03?)
+event_type: concert
+time:
+- edtf_value: 2000-03?
+  note: Konzertdatum nicht genannt; kurz vor der Kritik vom 25.03.2000.
+  references:
+  - document: document/2000-03-25-westfaelische-rundschau-die-geister-des-lebens-beschwoeren
+    locator: Westfälische Rundschau, 25.03.2000
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/zeche-bochum
+  references:
+  - document: document/2000-03-25-westfaelische-rundschau-die-geister-des-lebens-beschwoeren
+    locator: Westfälische Rundschau, 25.03.2000
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2000-03-25-westfaelische-rundschau-die-geister-des-lebens-beschwoeren
+    locator: Westfälische Rundschau, 25.03.2000
+    evidence_type: third_party
+- agent_ref: person/deborah-greenwood
+  roles:
+  - vocals
+  references:
+  - document: document/2000-03-25-westfaelische-rundschau-die-geister-des-lebens-beschwoeren
+    locator: Westfälische Rundschau, 25.03.2000
+    evidence_type: third_party
+- agent_ref: person/michael-cosgrave
+  roles:
+  - keyboards
+  references:
+  - document: document/2000-03-25-westfaelische-rundschau-die-geister-des-lebens-beschwoeren
+    locator: Westfälische Rundschau, 25.03.2000
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2000-03-25-westfaelische-rundschau-die-geister-des-lebens-beschwoeren
+    locator: Westfälische Rundschau, 25.03.2000
+    quote: Im Grunde ist es unfassbar, dass derlei eindringliche Musik immer noch als Geheimtipp gilt.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

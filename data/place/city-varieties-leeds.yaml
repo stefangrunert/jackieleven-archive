@@ -1,0 +1,14 @@
+id: place/city-varieties-leeds
+type: Place
+label: City Varieties
+place_type: venue
+located_in:
+- entity_value: place/leeds
+  references:
+  - document: document/2005-02-19-whisperin-and-hollerin-twisted-folk-tour-leeds-city-varieties
+    locator: Whisperin & Hollerin
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

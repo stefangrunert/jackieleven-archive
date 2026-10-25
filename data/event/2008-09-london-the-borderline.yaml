@@ -1,0 +1,37 @@
+id: event/2008-09-london-the-borderline
+type: Event
+label: Jackie Leven, The Borderline, London (2008-08/2008-09)
+event_type: concert
+time:
+- edtf_value: 2008-08/2008-09
+  note: Konzerttag nicht genannt; Kritik vom 03.09.2008 (US-Ausgabe 02.09.2008 abends).
+  references:
+  - document: document/2008-09-03-the-independent-jackie-leven-the-borderline-london
+    locator: The Independent, 03.09.2008
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/the-borderline-london
+  references:
+  - document: document/2008-09-03-the-independent-jackie-leven-the-borderline-london
+    locator: The Independent, 03.09.2008
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2008-09-03-the-independent-jackie-leven-the-borderline-london
+    locator: The Independent, 03.09.2008
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2008-09-03-the-independent-jackie-leven-the-borderline-london
+    locator: The Independent, 03.09.2008
+    quote: Jackie Leven is one such, perhaps our greatest musical poet of loss
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

@@ -1,0 +1,21 @@
+id: document/1978-06-zigzag-doll-by-doll-acne-club-aylesbury
+type: Document
+label: '[Kurzkritik Doll by Doll, Acne Club, Aylesbury] ("URGENT!! The proverbial hold-the-presses review!")'
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/kris-needs
+  roles:
+  - author
+published:
+- edtf_value: 1978-06
+published_in:
+- entity_value: publication/zigzag
+reviews:
+- event/1978-06-aylesbury-acne-club
+archive_url: https://web.archive.org/web/20041227232802/http://home.xnet.it:80/tout/HTML/zigzag84.htm
+access: archive
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

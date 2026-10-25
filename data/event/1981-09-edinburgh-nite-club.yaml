@@ -1,0 +1,45 @@
+id: event/1981-09-edinburgh-nite-club
+type: Event
+label: Doll by Doll, Nite Club, Edinburgh (1981-08/1981-09)
+event_type: concert
+time:
+- edtf_value: 1981-08/1981-09
+  note: Datum nicht genannt; Quellendatei erschließt Ende August/Anfang September 1981 aus Gig-Guide und
+    Erscheinungsdatum.
+  references:
+  - document: document/1981-09-12-record-mirror-doll-by-doll-nite-club-edinburgh
+    locator: Record Mirror, 12.09.1981, S. 18
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/nite-club-edinburgh
+  references:
+  - document: document/1981-09-12-record-mirror-doll-by-doll-nite-club-edinburgh
+    locator: Record Mirror, 12.09.1981, S. 18
+    evidence_type: third_party
+participants:
+- agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1981-09-12-record-mirror-doll-by-doll-nite-club-edinburgh
+    locator: Record Mirror, 12.09.1981, S. 18
+    evidence_type: third_party
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  references:
+  - document: document/1981-09-12-record-mirror-doll-by-doll-nite-club-edinburgh
+    locator: Record Mirror, 12.09.1981, S. 18
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1981-09-12-record-mirror-doll-by-doll-nite-club-edinburgh
+    locator: Record Mirror, 12.09.1981, S. 18
+    quote: Front man, Jackie Leven, looks like he's just undergone a 48-hour interrogation with the Iranian
+      police.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

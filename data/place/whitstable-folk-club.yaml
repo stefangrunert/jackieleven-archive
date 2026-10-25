@@ -1,0 +1,14 @@
+id: place/whitstable-folk-club
+type: Place
+label: Whitstable Folk Club
+place_type: venue
+located_in:
+- entity_value: place/whitstable
+  references:
+  - document: document/2009-06-04-record-collector-jackie-leven-whitstable-folk-club
+    locator: Record Collector Nr. 366, online 25.07.2009
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

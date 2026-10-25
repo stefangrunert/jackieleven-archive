@@ -1,0 +1,7 @@
+id: person/anki-gerhardsen
+type: Person
+label: Anki Gerhardsen
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

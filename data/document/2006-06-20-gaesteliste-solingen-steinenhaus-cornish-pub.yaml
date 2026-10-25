@@ -1,0 +1,22 @@
+id: document/2006-06-20-gaesteliste-solingen-steinenhaus-cornish-pub
+type: Document
+label: Jackie Leven, Mutz – 20.06.2006 – Solingen, Steinenhaus (Cornish Pub)
+document_type: concert_review
+language: de
+participants:
+- agent_ref: person/ullrich-maurer
+  roles:
+  - author
+published:
+- edtf_value: '2006-06-20'
+published_in:
+- entity_value: publication/gaesteliste-de
+reviews:
+- event/2006-06-20-solingen-steinenhaus
+url: https://gaesteliste.de/2006/06/20/gig/jackie-leven-mutz-20-06-2006-solingen-steinenhaus-cornish-pub/
+archive_url: https://web.archive.org/web/20260613030401/https://gaesteliste.de/2006/06/20/gig/jackie-leven-mutz-20-06-2006-solingen-steinenhaus-cornish-pub/
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

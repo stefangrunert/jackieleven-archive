@@ -1,0 +1,36 @@
+coverage_id: coverage/pilot-konzertberichte
+source: research/quellen/konzertberichte
+coverage_scope:
+  materials:
+    - research/quellen/konzertberichte/*.md
+method: extraction
+searched_on: 2026-10-25
+searched_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte
+job: job/pilot-konzertberichte
+result:
+  items_total: 89
+  items_unavailable:
+    - "1980-02-23_sounds_doll-by-doll-marquee-london.md: Text der Kritik nicht einsehbar (Paywall), nur Überschrift, Autor und Wortzahl bekannt; Ereignis nur mit Monat und Spielstätte erfasst."
+    - "1976-01-28_ya_folk-rock-escoces-john-st-field-la-boite.md: nur Trefferausschnitte der Volltextsuche; Konzerttag nicht erhalten."
+    - "1980-08-09_record-mirror_doll-by-doll-torrington-london.md: Rest der Kritik und Autorzeile im OCR abgeschnitten."
+    - "1996-05-09_fremtiden_jackie-leven-kom-tilbake-til-norge.md: OCR der Doppelseite stark durchmischt."
+    - "1998-11-01_bergensavisen_kveld-med-jackie-leven.md: Artikelanfang im Scan abgeschnitten."
+    - "2005-02-19_whisperin-and-hollerin_twisted-folk-tour-leeds-city-varieties.md: Jahr in der Rezension nicht genannt, nur erschlossen."
+    - "undatiert_kieler-nachrichten_der-kauz-im-anekdotendickicht-jackie-lev.md: Original nicht abrufbar, nur Weblog-Wiedergabe; kein Datum."
+    - "2011-08-13_theartsdesk_edinburgh-fringe-jackie-leven.md: Ort und Tag stehen nicht im Text, nur im Konzertkalender der Recherche."
+  found: 85
+  candidates: 408
+note: >-
+  Alle 89 Quelldateien wurden vollständig gelesen; jede wurde ein Dokument und
+  erschließt mindestens ein Ereignis. Die 408 Kandidaten verteilen sich auf 89
+  Dokumente, 85 Ereignisse, 88 Orte, 87 Personen, 1 Persona, 14 Gruppen und 44
+  Publikationen. 11 Ereignisse stützen sich nur auf Vorberichte und tragen
+  ausschließlich den Status announced; ihre Durchführung ist nicht belegt.
+  Tagesdaten, die nur aus den Notizen der Quellendateien oder durch
+  Schlussfolgerung stammen, sind als inferred belegt und in der Notiz der
+  Zeitangabe begründet. Die Kritiken von Record Business (15.06.1981) und
+  Record Mirror (20.06.1981) zum Venue-Konzert sind als ein erschlossenes
+  Ereignis (1981-06-08?) geführt.

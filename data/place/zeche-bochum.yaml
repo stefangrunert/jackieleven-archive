@@ -1,0 +1,14 @@
+id: place/zeche-bochum
+type: Place
+label: Zeche
+place_type: venue
+located_in:
+- entity_value: place/bochum
+  references:
+  - document: document/2000-03-25-westfaelische-rundschau-die-geister-des-lebens-beschwoeren
+    locator: Westfälische Rundschau, 25.03.2000
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

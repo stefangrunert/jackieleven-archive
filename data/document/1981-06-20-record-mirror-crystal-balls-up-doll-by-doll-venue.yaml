@@ -1,0 +1,22 @@
+id: document/1981-06-20-record-mirror-crystal-balls-up-doll-by-doll-venue
+type: Document
+label: '[Doll By Doll, Venue, London]'
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/robin-smith
+  roles:
+  - author
+published:
+- edtf_value: '1981-06-20'
+published_in:
+- entity_value: publication/record-mirror
+reviews:
+- event/1981-06-08-london-the-venue
+url: https://www.worldradiohistory.com/UK/Record-Mirror/80s/81/Record-Mirror-1981-06-20-OCR.pdf
+archive_url: https://web.archive.org/web/20260210210219/https://www.worldradiohistory.com/UK/Record-Mirror/80s/81/Record-Mirror-1981-06-20-OCR.pdf
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

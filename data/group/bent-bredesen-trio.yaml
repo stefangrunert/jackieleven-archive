@@ -1,0 +1,7 @@
+id: group/bent-bredesen-trio
+type: Group
+label: Bent Bredesen Trio
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

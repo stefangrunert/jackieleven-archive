@@ -1,0 +1,7 @@
+id: person/oyvind-r-gundersen
+type: Person
+label: Øyvind R. Gundersen
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

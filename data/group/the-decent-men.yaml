@@ -1,0 +1,37 @@
+id: group/the-decent-men
+type: Group
+label: The Decent Men
+members:
+- agent_ref: person/michael-weston-king
+  roles:
+  - vocals
+  - member
+  references:
+  - document: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
+    locator: Gaesteliste.de, 29.05.2004
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+- agent_ref: person/jackie-leven
+  roles:
+  - guitar
+  - member
+  references:
+  - document: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
+    locator: Gaesteliste.de, 29.05.2004
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+- agent_ref: person/michael-cosgrave
+  roles:
+  - keyboards
+  - other
+  - member
+  instrument: Keyboards, Trompete
+  references:
+  - document: document/2004-05-28-gaesteliste-orange-blossom-special-8-beverungen
+    locator: Gaesteliste.de, 29.05.2004
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

@@ -1,0 +1,22 @@
+id: document/1979-12-29-record-mirror-doll-by-doll-u2-the-venue
+type: Document
+label: Doll By Doll / U-2 – London, The Venue
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/chris-westwood
+  roles:
+  - author
+published:
+- edtf_value: '1979-12-29'
+published_in:
+- entity_value: publication/record-mirror
+reviews:
+- event/1979-12-18-london-the-venue
+url: https://www.worldradiohistory.com/UK/Record-Mirror/70s/79/Record-Mirror-1979-12-29.pdf
+archive_url: https://web.archive.org/web/20260311164612/https://www.worldradiohistory.com/UK/Record-Mirror/70s/79/Record-Mirror-1979-12-29.pdf
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

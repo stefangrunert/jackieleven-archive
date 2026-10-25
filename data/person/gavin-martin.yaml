@@ -1,0 +1,7 @@
+id: person/gavin-martin
+type: Person
+label: Gavin Martin
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

@@ -1,0 +1,37 @@
+id: event/1997-04-11-finnsnes-sumaloftet
+type: Event
+label: Jackie Leven, Sumaloftet, Finnsnes (1997-04-11)
+event_type: concert
+time:
+- edtf_value: '1997-04-11'
+  note: Freitagabend, 11. April 1997 laut Kritik.
+  references:
+  - document: document/1997-04-14-troms-folkeblad-ekte-vare-fra-skotske-leven
+    locator: Troms Folkeblad, 14.04.1997
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/sumaloftet-finnsnes
+  references:
+  - document: document/1997-04-14-troms-folkeblad-ekte-vare-fra-skotske-leven
+    locator: Troms Folkeblad, 14.04.1997
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1997-04-14-troms-folkeblad-ekte-vare-fra-skotske-leven
+    locator: Troms Folkeblad, 14.04.1997
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1997-04-14-troms-folkeblad-ekte-vare-fra-skotske-leven
+    locator: Troms Folkeblad, 14.04.1997
+    quote: var Jackie Leven utvilsomt et hyggelig bekjentskap.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

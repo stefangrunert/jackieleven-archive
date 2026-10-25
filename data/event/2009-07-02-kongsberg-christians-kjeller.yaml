@@ -1,0 +1,108 @@
+id: event/2009-07-02-kongsberg-christians-kjeller
+type: Event
+label: Jackie Leven und Knut Buen, Kongsberg Jazzfestival, Christians Kjeller, Kongsberg
+event_type: festival_appearance
+time:
+- edtf_value: '2009-07-02'
+  note: Bericht am Konzerttag, 2. Juli 2009.
+  references:
+  - document: document/2009-07-02-drammens-tidende-unikt-musikkmote
+    locator: Drammens Tidende, 02.07.2009
+    evidence_type: third_party
+  - document: document/2009-07-04-laagendalsposten-folkelig-toppmote
+    locator: Laagendalsposten, 04.07.2009
+    evidence_type: third_party
+  - document: document/2009-07-07-varden-buen-og-leven-gi-ut-plate-sammen
+    locator: Varden, 07.07.2009
+    evidence_type: inferred
+  - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
+    locator: Laagendalsposten, 13.04.2010 (Rückblick)
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/christians-kjeller-kongsberg
+  references:
+  - document: document/2009-07-02-drammens-tidende-unikt-musikkmote
+    locator: Drammens Tidende, 02.07.2009
+    evidence_type: third_party
+  - document: document/2009-07-04-laagendalsposten-folkelig-toppmote
+    locator: Laagendalsposten, 04.07.2009
+    evidence_type: third_party
+  - document: document/2009-07-07-varden-buen-og-leven-gi-ut-plate-sammen
+    locator: Varden, 07.07.2009
+    evidence_type: third_party
+  - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
+    locator: Laagendalsposten, 13.04.2010 (Rückblick)
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2009-07-02-drammens-tidende-unikt-musikkmote
+    locator: Drammens Tidende, 02.07.2009
+    evidence_type: third_party
+  - document: document/2009-07-04-laagendalsposten-folkelig-toppmote
+    locator: Laagendalsposten, 04.07.2009
+    evidence_type: third_party
+  - document: document/2009-07-07-varden-buen-og-leven-gi-ut-plate-sammen
+    locator: Varden, 07.07.2009
+    evidence_type: third_party
+  - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
+    locator: Laagendalsposten, 13.04.2010 (Rückblick)
+    evidence_type: third_party
+- agent_ref: person/knut-buen
+  roles:
+  - other
+  instrument: Hardingfele
+  references:
+  - document: document/2009-07-02-drammens-tidende-unikt-musikkmote
+    locator: Drammens Tidende, 02.07.2009
+    evidence_type: third_party
+  - document: document/2009-07-04-laagendalsposten-folkelig-toppmote
+    locator: Laagendalsposten, 04.07.2009
+    evidence_type: third_party
+  - document: document/2009-07-07-varden-buen-og-leven-gi-ut-plate-sammen
+    locator: Varden, 07.07.2009
+    evidence_type: third_party
+  - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
+    locator: Laagendalsposten, 13.04.2010 (Rückblick)
+    evidence_type: third_party
+- agent_ref: person/jon-gjerde
+  roles:
+  - other
+  instrument: Regie/Idee
+  references:
+  - document: document/2009-07-02-drammens-tidende-unikt-musikkmote
+    locator: Drammens Tidende, 02.07.2009
+    evidence_type: third_party
+  - document: document/2009-07-07-varden-buen-og-leven-gi-ut-plate-sammen
+    locator: Varden, 07.07.2009
+    evidence_type: third_party
+performance_status:
+- status_value: announced
+  references:
+  - document: document/2009-07-02-drammens-tidende-unikt-musikkmote
+    locator: Drammens Tidende, 02.07.2009
+    quote: Møtet mellom Jackie Leven og Knut Buen er det første bestillingsverket i jazzfestivalens 50-årige
+      historie.
+    evidence_type: third_party
+- status_value: took_place
+  references:
+  - document: document/2009-07-04-laagendalsposten-folkelig-toppmote
+    locator: Laagendalsposten, 04.07.2009
+    quote: Men bevares, her var det stor kunst likevel.
+    evidence_type: third_party
+  - document: document/2009-07-07-varden-buen-og-leven-gi-ut-plate-sammen
+    locator: Varden, 07.07.2009
+    quote: Han er en skinnende poet med poenger fra et liv de aller fleste av oss kan relatere til.
+    evidence_type: third_party
+  - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
+    locator: Laagendalsposten, 13.04.2010 (Rückblick)
+    quote: Da konstellasjonen Leven-Buen så dagens lys for første gang på Kongsberg Jazz Festival i 2009
+      var det en umiddelbar suksess med utsolgt konsert.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

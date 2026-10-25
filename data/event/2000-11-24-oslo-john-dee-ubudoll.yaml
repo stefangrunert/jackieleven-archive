@@ -1,0 +1,52 @@
+id: event/2000-11-24-oslo-john-dee-ubudoll
+type: Event
+label: UbuDoll (Jackie Leven und David Thomas), John Dee, Oslo
+event_type: concert
+time:
+- edtf_value: '2000-11-24'
+  note: Die Kritik vom Dienstag, 28.11.2000, nennt „letzten Freitag“; erschlossen 24.11.2000.
+  references:
+  - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
+    locator: Puls, 28.11.2000
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/john-dee-oslo
+  references:
+  - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
+    locator: Puls, 28.11.2000
+    evidence_type: third_party
+participants:
+- agent_ref: group/ubudoll
+  roles:
+  - performer
+  references:
+  - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
+    locator: Puls, 28.11.2000
+    evidence_type: third_party
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
+    locator: Puls, 28.11.2000
+    evidence_type: third_party
+- agent_ref: person/david-thomas
+  roles:
+  - vocals
+  - other
+  references:
+  - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
+    locator: Puls, 28.11.2000
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
+    locator: Puls, 28.11.2000
+    quote: Fellesnevnere for konserten var nerve, humor og enkelhet.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

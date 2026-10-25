@@ -1,0 +1,14 @@
+id: place/bastard-bar-tromso
+type: Place
+label: Bastard Bar
+place_type: venue
+located_in:
+- entity_value: place/tromso
+  references:
+  - document: document/2010-04-10-itromso-jackie-leven-pa-bastard
+    locator: iTromsø, 10.04.2010
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

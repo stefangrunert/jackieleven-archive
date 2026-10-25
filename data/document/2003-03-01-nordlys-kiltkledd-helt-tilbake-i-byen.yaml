@@ -1,0 +1,23 @@
+id: document/2003-03-01-nordlys-kiltkledd-helt-tilbake-i-byen
+type: Document
+label: Kiltkledd helt tilbake i byen
+document_type: news
+language: 'no'
+participants:
+- agent_ref: person/mariell-tverra-lokas
+  roles:
+  - author
+published:
+- edtf_value: '2003-03-01'
+published_in:
+- entity_value: publication/nordlys
+about:
+- event/2003-03-02-tromso-bla-rock-cafe
+- event/1995-04-tromso
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlys_null_null_20030301_102_51_1
+access: live
+note: Konzertvorbericht und Porträt.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

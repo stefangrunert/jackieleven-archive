@@ -1,0 +1,39 @@
+id: event/2008-11-09-bergen-madam-felle
+type: Event
+label: Jackie Leven, Madam Felle, Bergen (2008-11-09)
+event_type: concert
+time:
+- edtf_value: '2008-11-09'
+  note: Angekündigt für Sonntag, 9. November 2008.
+  references:
+  - document: document/2008-08-29-bergensavisen-jackie-leven-tilbake
+    locator: Bergensavisen, 29.08.2008
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/madam-felle-bergen
+  references:
+  - document: document/2008-08-29-bergensavisen-jackie-leven-tilbake
+    locator: Bergensavisen, 29.08.2008
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2008-08-29-bergensavisen-jackie-leven-tilbake
+    locator: Bergensavisen, 29.08.2008
+    evidence_type: third_party
+performance_status:
+- status_value: announced
+  references:
+  - document: document/2008-08-29-bergensavisen-jackie-leven-tilbake
+    locator: Bergensavisen, 29.08.2008
+    evidence_type: third_party
+note: Nur angekündigt; Durchführung nicht belegt. Veranstaltungskalender der Bergensavisen vom 07.11.2008
+  und Studvest führen Leven laut Quellendatei offenbar schon am Freitag, 07.11.2008 (nicht geprüft); die
+  Datierung ist offen.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

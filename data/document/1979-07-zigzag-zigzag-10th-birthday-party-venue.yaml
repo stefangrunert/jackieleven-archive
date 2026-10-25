@@ -1,0 +1,21 @@
+id: document/1979-07-zigzag-zigzag-10th-birthday-party-venue
+type: Document
+label: '[Bericht von der ZigZag-Geburtstagsparty im Venue, London – Auszüge zu Doll by Doll]'
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/kris-needs
+  roles:
+  - author
+published:
+- edtf_value: 1979-07
+published_in:
+- entity_value: publication/zigzag
+reviews:
+- event/1979-06-london-the-venue-zigzag-party
+archive_url: https://web.archive.org/web/20041227233345/http://home.xnet.it:80/tout/HTML/zigzag95.htm
+access: archive
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

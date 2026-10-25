@@ -1,0 +1,14 @@
+id: place/tower-arts-centre-winchester
+type: Place
+label: Tower Arts Centre
+place_type: venue
+located_in:
+- entity_value: place/winchester
+  references:
+  - document: document/1997-clearspot-jackie-leven-tower-arts-centre-winchester
+    locator: Clearspot (Webzine), Überschrift
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

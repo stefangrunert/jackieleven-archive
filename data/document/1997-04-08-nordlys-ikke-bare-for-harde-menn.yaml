@@ -1,0 +1,21 @@
+id: document/1997-04-08-nordlys-ikke-bare-for-harde-menn
+type: Document
+label: Ikke bare for harde menn
+document_type: concert_review
+language: 'no'
+participants:
+- agent_ref: person/ulf-sverresvold
+  roles:
+  - author
+published:
+- edtf_value: '1997-04-08'
+published_in:
+- entity_value: publication/nordlys
+reviews:
+- event/1997-04-06-tromso-bla-rock-cafe
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlys_null_null_19970408_96_80_1
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

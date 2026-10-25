@@ -1,0 +1,14 @@
+id: place/steinenhaus-solingen
+type: Place
+label: Steinenhaus (Cornish Pub)
+place_type: venue
+located_in:
+- entity_value: place/solingen
+  references:
+  - document: document/2006-06-20-gaesteliste-solingen-steinenhaus-cornish-pub
+    locator: Gaesteliste.de, 20.06.2006
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

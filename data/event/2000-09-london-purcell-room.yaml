@@ -1,0 +1,54 @@
+id: event/2000-09-london-purcell-room
+type: Event
+label: Jackie Leven, Purcell Room, South Bank Centre, London (2000-09)
+event_type: concert
+time:
+- edtf_value: 2000-09
+  note: Datum nicht genannt; Kritik vom 26.09.2000. Der Konzertkalender der Recherche führt 26.09.2000
+    als Konzertdatum (nicht geprüft).
+  references:
+  - document: document/2000-09-26-the-independent-jackie-leven-a-cult-artist
+    locator: The Independent, 26.09.2000
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/purcell-room-london
+  references:
+  - document: document/2000-09-26-the-independent-jackie-leven-a-cult-artist
+    locator: The Independent, 26.09.2000
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2000-09-26-the-independent-jackie-leven-a-cult-artist
+    locator: The Independent, 26.09.2000
+    evidence_type: third_party
+- agent_ref: person/andy-white
+  roles:
+  - performer
+  references:
+  - document: document/2000-09-26-the-independent-jackie-leven-a-cult-artist
+    locator: The Independent, 26.09.2000
+    evidence_type: third_party
+- agent_ref: person/michael-weston-king
+  roles:
+  - performer
+  references:
+  - document: document/2000-09-26-the-independent-jackie-leven-a-cult-artist
+    locator: The Independent, 26.09.2000
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2000-09-26-the-independent-jackie-leven-a-cult-artist
+    locator: The Independent, 26.09.2000
+    quote: A cult artist with a cognoscenti following he may be, but on this showing, Leven deserves to
+      be recognised as a living treasure.
+    evidence_type: third_party
+note: Gemeinsamer Liederabend von Jackie Leven, Andy White und Michael Weston King.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

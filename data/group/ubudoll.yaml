@@ -1,0 +1,45 @@
+id: group/ubudoll
+type: Group
+label: UbuDoll
+members:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  - member
+  references:
+  - document: document/2000-09-29-bergensavisen-kulttreff-pa-garage-med-leven-og-thomas
+    locator: Bergensavisen, 29.09.2000
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/2000-11-25-bergensavisen-trivelig-pa-garage
+    locator: Bergensavisen, 25.11.2000
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
+    locator: Puls, 28.11.2000
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+- agent_ref: person/david-thomas
+  roles:
+  - vocals
+  - other
+  - member
+  instrument: Akkordeon
+  references:
+  - document: document/2000-09-29-bergensavisen-kulttreff-pa-garage-med-leven-og-thomas
+    locator: Bergensavisen, 29.09.2000
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/2000-11-25-bergensavisen-trivelig-pa-garage
+    locator: Bergensavisen, 25.11.2000
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
+    locator: Puls, 28.11.2000
+    evidence_type: third_party
+    scope: Als Mitwirkender der Band im Bericht genannt
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

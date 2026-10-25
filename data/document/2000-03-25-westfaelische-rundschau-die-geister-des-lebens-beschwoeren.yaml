@@ -1,0 +1,22 @@
+id: document/2000-03-25-westfaelische-rundschau-die-geister-des-lebens-beschwoeren
+type: Document
+label: 'Jackie Leven: Die Geister des Lebens beschwören'
+document_type: concert_review
+language: de
+participants:
+- agent_ref: person/bernd-berke
+  roles:
+  - author
+published:
+- edtf_value: '2000-03-25'
+published_in:
+- entity_value: publication/westfalische-rundschau
+reviews:
+- event/2000-03-bochum-zeche
+url: https://www.revierpassagen.de/89731/jackie-leven-die-geister-des-lebens-beschwoeren/20000325_1904
+archive_url: https://web.archive.org/web/20260115181102/https://www.revierpassagen.de/89731/jackie-leven-die-geister-des-lebens-beschwoeren/20000325_1904
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

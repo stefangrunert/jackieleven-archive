@@ -1,0 +1,21 @@
+id: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
+type: Document
+label: '[Eivind Kløverød spielt mit Jackie Leven] (Zwischenzeile „KLØVERØD MED LEVEN“; Hauptüberschrift
+  im OCR nicht sicher lesbar)'
+document_type: news
+language: 'no'
+published:
+- edtf_value: '2005-08-30'
+published_in:
+- entity_value: publication/drammens-tidende
+about:
+- event/2005-09-24-drammen-union-scene
+- event/2005-05-01-working-class-hero-festival
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_drammenstidende_null_null_20050830_1_230_1
+access: live
+note: Vorbericht und Porträt des Schlagzeugers Eivind Kløverød; Autor im OCR nicht sicher zuzuordnen.
+  Die Quellendatei stuft die Sicherheit der Angaben als „unsicher“ ein.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

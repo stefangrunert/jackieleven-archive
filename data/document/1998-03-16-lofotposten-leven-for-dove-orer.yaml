@@ -1,0 +1,21 @@
+id: document/1998-03-16-lofotposten-leven-for-dove-orer
+type: Document
+label: Leven for døve ører
+document_type: concert_review
+language: 'no'
+participants:
+- agent_ref: person/ole-p-refsahl
+  roles:
+  - author
+published:
+- edtf_value: '1998-03-16'
+published_in:
+- entity_value: publication/lofotposten
+reviews:
+- event/1998-03-14-kabelvag-praestengbrygga
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_lofotposten_null_null_19980316_103_63_1
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

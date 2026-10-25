@@ -1,0 +1,54 @@
+id: event/1983-01-london-marquee
+type: Event
+label: Doll by Doll, Abschiedskonzert, Marquee, London
+event_type: concert
+time:
+- edtf_value: 1983-01
+  note: Ein Freitag; Tag nicht genannt, Erscheinungsdatum 17.01.1983.
+  references:
+  - document: document/1983-01-17-record-business-doll-by-doll-marquee-farewell
+    locator: Record Business, 17.01.1983
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/marquee-london
+  references:
+  - document: document/1983-01-17-record-business-doll-by-doll-marquee-farewell
+    locator: Record Business, 17.01.1983
+    evidence_type: third_party
+participants:
+- agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1983-01-17-record-business-doll-by-doll-marquee-farewell
+    locator: Record Business, 17.01.1983
+    evidence_type: third_party
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1983-01-17-record-business-doll-by-doll-marquee-farewell
+    locator: Record Business, 17.01.1983
+    evidence_type: third_party
+    scope: Leven selbst übernahm die Leadgitarre
+- agent_ref: person/helen-turner
+  roles:
+  - vocals
+  - keyboards
+  references:
+  - document: document/1983-01-17-record-business-doll-by-doll-marquee-farewell
+    locator: Record Business, 17.01.1983
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1983-01-17-record-business-doll-by-doll-marquee-farewell
+    locator: Record Business, 17.01.1983
+    quote: What a shame that the combative, mature and wholly original Doll by Doll could never gain the
+      national acceptance it deserved.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

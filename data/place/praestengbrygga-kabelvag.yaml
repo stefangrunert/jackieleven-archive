@@ -1,0 +1,35 @@
+id: place/praestengbrygga-kabelvag
+type: Place
+label: Præstengbrygga
+place_type: venue
+located_in:
+- entity_value: place/kabelvag
+  references:
+  - document: document/1997-04-11-lofotposten-hvit-soul
+    locator: Lofotposten, 11.04.1997
+    evidence_type: third_party
+  - document: document/1997-04-14-lofotposten-hvit-manns-soul
+    locator: Lofotposten, 14.04.1997
+    evidence_type: third_party
+  - document: document/1998-03-16-lofotposten-leven-for-dove-orer
+    locator: Lofotposten, 16.03.1998
+    evidence_type: third_party
+  - document: document/1998-10-23-lofotposten-en-perfekt-kveld
+    locator: Lofotposten, 23.10.1998
+    evidence_type: third_party
+  - document: document/2001-09-06-lofotposten-rolig-leven-traff-publikum
+    locator: Lofotposten, 06.09.2001
+    evidence_type: third_party
+  - document: document/2003-03-06-lofotposten-ettertenksom-leven
+    locator: Lofotposten, 06.03.2003
+    evidence_type: third_party
+  - document: document/2005-10-01-lofotposten-bla-leven
+    locator: Lofotposten, 01.10.2005
+    evidence_type: third_party
+  - document: document/2007-08-01-vaganavisa-jan-age-johansen-henter-jackie-leven
+    locator: Våganavisa, 01.08.2007
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

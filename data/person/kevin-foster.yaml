@@ -1,0 +1,15 @@
+id: person/kevin-foster
+type: Person
+label: Kevin Foster
+names:
+- text_value: Kevin O. Foster
+  name_type: variant_spelling
+  references:
+  - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
+    locator: musicOMH, 05.04.2007
+    evidence_type: third_party
+    scope: Quelle schreibt „Kevin O’Foster“
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

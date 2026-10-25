@@ -1,0 +1,46 @@
+id: event/1995-04-tromso
+type: Event
+label: Jackie Leven, Tromsø (1995-04~)
+event_type: concert
+time:
+- edtf_value: 1995-04~
+  note: Nur als Erinnerung des Veranstalters belegt („zu Ostern 1995“, mit Andy White); weder Tag noch
+    Spielstätte genannt.
+  references:
+  - document: document/2003-03-01-nordlys-kiltkledd-helt-tilbake-i-byen
+    locator: Nordlys, 01.03.2003 (Erinnerung von Egon Holstad)
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/tromso
+  references:
+  - document: document/2003-03-01-nordlys-kiltkledd-helt-tilbake-i-byen
+    locator: Nordlys, 01.03.2003 (Erinnerung von Egon Holstad)
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2003-03-01-nordlys-kiltkledd-helt-tilbake-i-byen
+    locator: Nordlys, 01.03.2003 (Erinnerung von Egon Holstad)
+    evidence_type: third_party
+- agent_ref: person/andy-white
+  roles:
+  - performer
+  references:
+  - document: document/2003-03-01-nordlys-kiltkledd-helt-tilbake-i-byen
+    locator: Nordlys, 01.03.2003 (Erinnerung von Egon Holstad)
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2003-03-01-nordlys-kiltkledd-helt-tilbake-i-byen
+    locator: Nordlys, 01.03.2003 (Erinnerung von Egon Holstad)
+    evidence_type: third_party
+note: Widerspricht Tromsø 04.03.2000 (Helge Matland), nach dem Levens erster Tromsø-Besuch 1996 war. Beide
+  Angaben stehen in den Quelldokumenten.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

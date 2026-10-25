@@ -1,0 +1,52 @@
+id: event/2005-02-19-leeds-city-varieties
+type: Event
+label: Twisted Folk Tour, City Varieties, Leeds
+event_type: concert
+time:
+- edtf_value: '2005-02-19'
+  note: Das Jahr nennt die Rezension nicht; 2005 erschlossen aus Hems Album Eveningland (2004) und der
+    Datenbank-ID (Notiz der Quellendatei).
+  references:
+  - document: document/2005-02-19-whisperin-and-hollerin-twisted-folk-tour-leeds-city-varieties
+    locator: Whisperin & Hollerin
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/city-varieties-leeds
+  references:
+  - document: document/2005-02-19-whisperin-and-hollerin-twisted-folk-tour-leeds-city-varieties
+    locator: Whisperin & Hollerin
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2005-02-19-whisperin-and-hollerin-twisted-folk-tour-leeds-city-varieties
+    locator: Whisperin & Hollerin
+    evidence_type: third_party
+- agent_ref: group/the-earlies
+  roles:
+  - performer
+  references:
+  - document: document/2005-02-19-whisperin-and-hollerin-twisted-folk-tour-leeds-city-varieties
+    locator: Whisperin & Hollerin
+    evidence_type: third_party
+- agent_ref: group/hem
+  roles:
+  - performer
+  references:
+  - document: document/2005-02-19-whisperin-and-hollerin-twisted-folk-tour-leeds-city-varieties
+    locator: Whisperin & Hollerin
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2005-02-19-whisperin-and-hollerin-twisted-folk-tour-leeds-city-varieties
+    locator: Whisperin & Hollerin
+    quote: JACKIE LEVEN, well known in these parts had his song about Leeds ready and oiled.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

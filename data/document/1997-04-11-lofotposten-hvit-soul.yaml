@@ -1,0 +1,25 @@
+id: document/1997-04-11-lofotposten-hvit-soul
+type: Document
+label: Hvit soul
+document_type: news
+language: 'no'
+participants:
+- agent_ref: person/ole-p-refsahl
+  roles:
+  - author
+published:
+- edtf_value: '1997-04-11'
+published_in:
+- entity_value: publication/lofotposten
+about:
+- event/1997-04-06-tromso-bla-rock-cafe
+- event/1997-04-12-kabelvag-praestengbrygga
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_lofotposten_null_null_19970411_102_83_1
+access: live
+note: Konzertvorbericht für Kabelvåg mit Augenzeugenbericht (Tor-Harald Bergsrud) vom Tromsø-Konzert;
+  Autorkürzel im OCR unsicher (Ole-P. Refsahl). Die Quellendatei stuft die Sicherheit der Angaben als
+  „unsicher“ ein.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

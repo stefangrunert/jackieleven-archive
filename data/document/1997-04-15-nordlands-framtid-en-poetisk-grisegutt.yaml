@@ -1,0 +1,21 @@
+id: document/1997-04-15-nordlands-framtid-en-poetisk-grisegutt
+type: Document
+label: En poetisk grisegutt
+document_type: concert_review
+language: 'no'
+participants:
+- agent_ref: person/jo-petter-furuhovde
+  roles:
+  - author
+published:
+- edtf_value: '1997-04-15'
+published_in:
+- entity_value: publication/nordlands-framtid
+reviews:
+- event/1997-04-13-bodo-den-siste-glaede
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlandsframtid_null_null_19970415_88_85_1
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

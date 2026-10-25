@@ -1,0 +1,8 @@
+id: persona/john-st-field
+type: Persona
+label: John St. Field
+note: Name im Madrider Zeitungsbericht von 1976; Zuordnung zu Jackie Leven nur über die Notizen der Quellendatei.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

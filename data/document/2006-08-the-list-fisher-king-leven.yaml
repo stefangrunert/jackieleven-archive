@@ -1,0 +1,23 @@
+id: document/2006-08-the-list-fisher-king-leven
+type: Document
+label: Fisher King Leven
+document_type: news
+language: en
+participants:
+- agent_ref: person/rachel-devine
+  roles:
+  - author
+published:
+- edtf_value: 2006-08
+published_in:
+- entity_value: publication/the-list-festivalausgabe
+about:
+- event/2006-08-12-edinburgh-underbelly-fisher-king-leven
+url: https://list.co.uk/news/fisher-king-leven-38679
+access: live
+note: Kurze Vorschau; ob das Konzert stattfand, geht aus dem Dokument nicht hervor. Die Quellendatei stuft
+  die Sicherheit der Angaben als „unsicher“ ein.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

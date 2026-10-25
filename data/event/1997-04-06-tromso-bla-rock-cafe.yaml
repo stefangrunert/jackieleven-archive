@@ -1,0 +1,50 @@
+id: event/1997-04-06-tromso-bla-rock-cafe
+type: Event
+label: Jackie Leven, Blå Rock Café, Tromsø (1997-04-06)
+event_type: concert
+time:
+- edtf_value: '1997-04-06'
+  note: Nachtkonzert am 6. April 1997 laut Kritik.
+  references:
+  - document: document/1997-04-08-nordlys-ikke-bare-for-harde-menn
+    locator: Nordlys, 08.04.1997
+    evidence_type: third_party
+  - document: document/1997-04-11-lofotposten-hvit-soul
+    locator: Lofotposten, 11.04.1997
+    evidence_type: inferred
+took_place_at:
+- entity_value: place/bla-rock-cafe-tromso
+  references:
+  - document: document/1997-04-08-nordlys-ikke-bare-for-harde-menn
+    locator: Nordlys, 08.04.1997
+    evidence_type: third_party
+  - document: document/1997-04-11-lofotposten-hvit-soul
+    locator: Lofotposten, 11.04.1997
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1997-04-08-nordlys-ikke-bare-for-harde-menn
+    locator: Nordlys, 08.04.1997
+    evidence_type: third_party
+  - document: document/1997-04-11-lofotposten-hvit-soul
+    locator: Lofotposten, 11.04.1997
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/1997-04-08-nordlys-ikke-bare-for-harde-menn
+    locator: Nordlys, 08.04.1997
+    quote: Eventyr for harde menn er noe som liksom ikke rimer. Men det var nettopp det Jackie Leven leverte
+      på Blå Rock Café her om natta.
+    evidence_type: third_party
+  - document: document/1997-04-11-lofotposten-hvit-soul
+    locator: Lofotposten, 11.04.1997
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

@@ -1,0 +1,7 @@
+id: publication/fife-today
+type: Publication
+label: Fife Today
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

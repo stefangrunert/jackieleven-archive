@@ -1,0 +1,46 @@
+id: event/2011-12-09-cologne-hauskonzert
+type: Event
+label: Michael Weston King und Alan Cook, Hauskonzert, Köln
+event_type: concert
+time:
+- edtf_value: '2011-12-09'
+  note: 9. Dezember 2011 laut Titel des Berichts.
+  references:
+  - document: document/2011-12-09-gaesteliste-michael-weston-king-hauskonzert-koeln
+    locator: Gaesteliste.de, 13.12.2011
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/cologne
+  references:
+  - document: document/2011-12-09-gaesteliste-michael-weston-king-hauskonzert-koeln
+    locator: Gaesteliste.de, 13.12.2011
+    evidence_type: third_party
+participants:
+- agent_ref: person/michael-weston-king
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2011-12-09-gaesteliste-michael-weston-king-hauskonzert-koeln
+    locator: Gaesteliste.de, 13.12.2011
+    evidence_type: third_party
+- agent_ref: person/alan-cook
+  roles:
+  - other
+  instrument: Mandoline, Pedal Steel
+  references:
+  - document: document/2011-12-09-gaesteliste-michael-weston-king-hauskonzert-koeln
+    locator: Gaesteliste.de, 13.12.2011
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2011-12-09-gaesteliste-michael-weston-king-hauskonzert-koeln
+    locator: Gaesteliste.de, 13.12.2011
+    quote: stand dieses Konzert weniger im Zeichen des Weihnachts-Themas als vielmehr des Angedenkens
+      an seinen vor wenigen Wochen verstorbenen Freund, den schottischen Songwriter Jackie Leven
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

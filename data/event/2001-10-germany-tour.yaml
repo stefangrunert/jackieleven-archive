@@ -1,0 +1,44 @@
+id: event/2001-10-germany-tour
+type: Event
+label: Deutschlandtournee „The Jackie Leven Experience“, Oktober 2001
+event_type: tour
+time:
+- edtf_value: 2001-10
+  note: Zwei Wochen im Oktober 2001 laut Bericht; Einzeltermine nicht im Dokument.
+  references:
+  - document: document/2002-01-wondrous-stories-experiencing-jackie-leven
+    locator: Wondrous Stories Nr. 120, Januar 2002
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/germany
+  references:
+  - document: document/2002-01-wondrous-stories-experiencing-jackie-leven
+    locator: Wondrous Stories Nr. 120, Januar 2002
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2002-01-wondrous-stories-experiencing-jackie-leven
+    locator: Wondrous Stories Nr. 120, Januar 2002
+    evidence_type: third_party
+- agent_ref: person/michael-cosgrave
+  roles:
+  - keyboards
+  references:
+  - document: document/2002-01-wondrous-stories-experiencing-jackie-leven
+    locator: Wondrous Stories Nr. 120, Januar 2002
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2002-01-wondrous-stories-experiencing-jackie-leven
+    locator: Wondrous Stories Nr. 120, Januar 2002
+    quote: a cross between an East coast Billy Connolly and a much richer, bass baritone voiced Bob Dylan
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

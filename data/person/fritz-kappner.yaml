@@ -1,0 +1,7 @@
+id: person/fritz-kappner
+type: Person
+label: Fritz Kappner
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

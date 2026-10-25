@@ -1,0 +1,18 @@
+id: document/2003-06-10-firda-frodige-jackie
+type: Document
+label: Frodige Jackie
+document_type: concert_review
+language: 'no'
+published:
+- edtf_value: '2003-06-10'
+published_in:
+- entity_value: publication/firda
+reviews:
+- event/2003-06-08-foerde-sunnfjord-hotell
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_firda_null_null_20030610_86_129_1
+access: live
+note: Die Quellendatei stuft die Sicherheit der Angaben als „unsicher“ ein.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

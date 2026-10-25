@@ -1,0 +1,22 @@
+id: document/2009-06-04-record-collector-jackie-leven-whitstable-folk-club
+type: Document
+label: Jackie Leven – Whitstable Folk Club, 4th June 2009
+document_type: concert_review
+language: en
+participants:
+- agent_ref: person/debbie-neech
+  roles:
+  - author
+published:
+- edtf_value: '2009-07-25'
+published_in:
+- entity_value: publication/record-collector
+reviews:
+- event/2009-06-04-whitstable-folk-club
+url: https://recordcollectormag.com/reviews/live/jackie-leven
+archive_url: https://web.archive.org/web/20251222105933/https://recordcollectormag.com/reviews/live/jackie-leven
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

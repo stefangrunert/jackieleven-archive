@@ -1,0 +1,61 @@
+id: event/2007-04-05-london-troubadour
+type: Event
+label: Jackie Leven, Troubadour, London (2007-04-05)
+event_type: concert
+time:
+- edtf_value: '2007-04-05'
+  references:
+  - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
+    locator: musicOMH, Kopfzeile der Kritik
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/troubadour-london
+  references:
+  - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
+    locator: musicOMH, Kopfzeile der Kritik
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
+    locator: musicOMH, Kopfzeile der Kritik
+    evidence_type: third_party
+- agent_ref: person/michael-cosgrave
+  roles:
+  - keyboards
+  references:
+  - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
+    locator: musicOMH, Kopfzeile der Kritik
+    evidence_type: third_party
+- agent_ref: person/kevin-foster
+  roles:
+  - guitar
+  credited_as: Kevin O’Foster
+  note: Schreibweise der Quelle; als dieselbe Person wie der Bassist Kevin Foster (1997) geführt (Entscheidung
+    der Koordination)
+  references:
+  - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
+    locator: musicOMH, Kopfzeile der Kritik
+    evidence_type: third_party
+- agent_ref: person/deborah-greenwood
+  roles:
+  - vocals
+  references:
+  - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
+    locator: musicOMH, Kopfzeile der Kritik
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2007-04-05-musicomh-jackie-leven-troubadour-london
+    locator: musicOMH, Kopfzeile der Kritik
+    quote: It was such a well-rounded performance on all levels, that it’s impossible to pick favourite
+      parts.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

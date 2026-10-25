@@ -1,0 +1,61 @@
+id: event/2007-11-14-cologne-kulturbunker-muelheim
+type: Event
+label: Jackie Leven, Kulturbunker Mülheim, Köln (2007-11-14)
+event_type: concert
+time:
+- edtf_value: '2007-11-14'
+  references:
+  - document: document/2007-11-14-gaesteliste-koeln-kulturbunker-muelheim
+    locator: Gaesteliste.de, 14.11.2007
+    evidence_type: third_party
+took_place_at:
+- entity_value: place/kulturbunker-muelheim-cologne
+  references:
+  - document: document/2007-11-14-gaesteliste-koeln-kulturbunker-muelheim
+    locator: Gaesteliste.de, 14.11.2007
+    evidence_type: third_party
+participants:
+- agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-11-14-gaesteliste-koeln-kulturbunker-muelheim
+    locator: Gaesteliste.de, 14.11.2007
+    evidence_type: third_party
+- agent_ref: person/michael-cosgrave
+  roles:
+  - keyboards
+  - other
+  instrument: Keyboards, Flöte
+  references:
+  - document: document/2007-11-14-gaesteliste-koeln-kulturbunker-muelheim
+    locator: Gaesteliste.de, 14.11.2007
+    evidence_type: third_party
+- agent_ref: person/michael-weston-king
+  roles:
+  - support_act
+  references:
+  - document: document/2007-11-14-gaesteliste-koeln-kulturbunker-muelheim
+    locator: Gaesteliste.de, 14.11.2007
+    evidence_type: third_party
+- agent_ref: person/markus-segschneider
+  roles:
+  - support_act
+  - guitar
+  references:
+  - document: document/2007-11-14-gaesteliste-koeln-kulturbunker-muelheim
+    locator: Gaesteliste.de, 14.11.2007
+    evidence_type: third_party
+performance_status:
+- status_value: took_place
+  references:
+  - document: document/2007-11-14-gaesteliste-koeln-kulturbunker-muelheim
+    locator: Gaesteliste.de, 14.11.2007
+    quote: Insgesamt war das eine sehr solide, sehr gute und – für Kölner Verhältnisse und den eher obskuren
+      Auftrittsort durchaus gut besuchte – Jackie Leven Show
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

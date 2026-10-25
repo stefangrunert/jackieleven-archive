@@ -1,0 +1,21 @@
+id: document/1997-04-14-troms-folkeblad-ekte-vare-fra-skotske-leven
+type: Document
+label: Ekte vare fra skotske Leven
+document_type: concert_review
+language: 'no'
+participants:
+- agent_ref: person/ronny-traelvik
+  roles:
+  - author
+published:
+- edtf_value: '1997-04-14'
+published_in:
+- entity_value: publication/troms-folkeblad
+reviews:
+- event/1997-04-11-finnsnes-sumaloftet
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromsfolkeblad_null_null_19970414_33_82_1
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

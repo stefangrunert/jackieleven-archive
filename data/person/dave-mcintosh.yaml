@@ -1,0 +1,7 @@
+id: person/dave-mcintosh
+type: Person
+label: Dave McIntosh
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte

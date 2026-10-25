@@ -1,0 +1,21 @@
+id: document/1997-08-31-bergensavisen-dukker-i-fint-driv
+type: Document
+label: Dukker i fint driv
+document_type: concert_review
+language: 'no'
+participants:
+- agent_ref: person/lars-olve-hesjedal
+  roles:
+  - author
+published:
+- edtf_value: '1997-08-31'
+published_in:
+- entity_value: publication/bergensavisen
+reviews:
+- event/1997-08-29-bergen-garage
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_19970831_71_233_1
+access: live
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/pilot-konzertberichte
