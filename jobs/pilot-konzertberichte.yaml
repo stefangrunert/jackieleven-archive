@@ -14,7 +14,7 @@ budget:
   web_searches: 0
   subtasks: 4
 model: claude-sonnet-5-5
-status: open
+status: running
 instructions: >-
   Pilotauftrag. Ohne Webzugriff; Grundlage sind nur die Dateien im Website-
   Repository. Jede Quelldatei wird ein Dokument; jedes darin besprochene
