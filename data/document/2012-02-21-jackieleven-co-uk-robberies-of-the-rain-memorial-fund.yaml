@@ -1,0 +1,25 @@
+id: document/2012-02-21-jackieleven-co-uk-robberies-of-the-rain-memorial-fund
+type: Document
+label: 'jackieleven.co.uk, 21.02.2012: Startseite mit Todesnachricht und Hinweis zum Jackie Leven Memorial
+  Fund'
+document_type: website
+language: en
+url: http://www.jackieleven.co.uk/
+archive_url: https://web.archive.org/web/20120221110650/http://www.jackieleven.co.uk/
+access: archive
+note: Archivkopie der Startseite; Datum ist das der Archivkopie. Nennt Tod am Montag, 14. November, um
+  20 Uhr, an Krebs; kein Sterbeort.
+about:
+- person/jackie-leven
+published:
+- statement_id: st-b80d80e6353a
+  edtf_value: '2012-02-21'
+  references: []
+published_in:
+- statement_id: st-44dc10b52f94
+  entity_value: publication/jackieleven-co-uk
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

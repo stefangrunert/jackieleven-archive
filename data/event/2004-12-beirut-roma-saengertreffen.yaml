@@ -1,0 +1,54 @@
+id: event/2004-12-beirut-roma-saengertreffen
+type: Event
+label: Jackie Leven, Roma-Sängertreffen südöstlich von Beirut (2004-12)
+event_type: concert
+note: Konzert ausschließlich für Roma laut Leven.
+time:
+- statement_id: st-b3e87d42c94e
+  edtf_value: 2004-12
+  certainty: probable
+  note: „Im Dezember“ nach der Beerdigung im Vorjahr der Albumveröffentlichung (2005); Jahr erschlossen.
+  references:
+  - document: document/2005-08-01-jackieleven-com-elegy-for-johnny-cash-albuminfo
+    locator: jackieleven.com, 01.08.2005, „Why Beirut?“
+    quote: recorded in Beirut
+    evidence_type: inferred
+    asserted_by: person/jackie-leven
+    scope: Darstellung Levens im Pressetext.
+took_place_at:
+- statement_id: st-4eae19b93f81
+  entity_value: place/beirut
+  references:
+  - document: document/2005-08-01-jackieleven-com-elegy-for-johnny-cash-albuminfo
+    locator: jackieleven.com, 01.08.2005, „Why Beirut?“
+    quote: recorded in Beirut
+    evidence_type: self_statement
+    asserted_by: person/jackie-leven
+    scope: Das Treffen fand laut Leven südöstlich von Beirut statt.
+participants:
+- statement_id: st-1dbd571a00ee
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  references:
+  - document: document/2005-08-01-jackieleven-com-elegy-for-johnny-cash-albuminfo
+    locator: jackieleven.com, 01.08.2005, „Why Beirut?“
+    quote: recorded in Beirut
+    evidence_type: self_statement
+    asserted_by: person/jackie-leven
+    scope: Darstellung Levens im Pressetext.
+performance_status:
+- statement_id: st-013eac3d5bd3
+  status_value: took_place
+  note: Selbstdarstellung Levens; keine unabhängige Bestätigung.
+  references:
+  - document: document/2005-08-01-jackieleven-com-elegy-for-johnny-cash-albuminfo
+    locator: jackieleven.com, 01.08.2005, „Why Beirut?“
+    quote: recorded in Beirut
+    evidence_type: self_statement
+    asserted_by: person/jackie-leven
+    scope: Darstellung Levens im Pressetext.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

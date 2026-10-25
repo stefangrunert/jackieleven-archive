@@ -12,6 +12,16 @@ located_in:
   - document: document/1983-01-17-record-business-doll-by-doll-marquee-farewell
     locator: Record Business, 17.01.1983
     evidence_type: third_party
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+  - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
+    locator: Record Mirror, 08.12.1979
+    quote: play two more shows before Christmas
+    evidence_type: third_party
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

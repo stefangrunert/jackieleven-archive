@@ -1,0 +1,61 @@
+id: event/2007-09-20-foerde-pikant
+type: Event
+label: Jackie Leven, Pikant, Førde (2007-09-20)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-675aa0c906a3
+  edtf_value: '2007-09-20'
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-09-15-firda-konzertankuendigung-pikant
+    locator: Firda, 15.09.2007, S. 34
+    evidence_type: third_party
+  note: Angekündigt für Donnerstag, 20.09.2007.
+took_place_at:
+- statement_id: st-6dfdfa017785
+  entity_value: place/pikant-foerde
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-09-15-firda-konzertankuendigung-pikant
+    locator: Firda, 15.09.2007, S. 34
+    evidence_type: third_party
+participants:
+- statement_id: st-cd412798e748
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-09-15-firda-konzertankuendigung-pikant
+    locator: Firda, 15.09.2007, S. 34
+    evidence_type: third_party
+performance_status:
+- statement_id: st-4a7c195f4337
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-09-15-firda-konzertankuendigung-pikant
+    locator: Firda, 15.09.2007, S. 34
+    evidence_type: third_party
+part_of:
+- statement_id: st-695215bede79
+  entity_value: event/2007-09-norwegen-tournee
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

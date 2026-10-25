@@ -1,0 +1,27 @@
+id: document/2005-09-28-bladet-tromso-leven-pa-bla-rock
+type: Document
+label: 'Bladet Tromsø, 28.09.2005: Leven på Blå Rock (Vorbericht)'
+document_type: news
+language: 'no'
+access: live
+about:
+- event/2005-09-28-tromso-bla-rock-cafe
+participants:
+- statement_id: st-47f7eb4bcfc0
+  agent_ref: person/kjetil-vik
+  roles:
+  - author
+  credited_as: Kjetil Vik
+  references: []
+published:
+- statement_id: st-1751b5249f7e
+  edtf_value: '2005-09-28'
+  references: []
+published_in:
+- statement_id: st-7ae24a6328f9
+  entity_value: publication/bladet-tromso
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

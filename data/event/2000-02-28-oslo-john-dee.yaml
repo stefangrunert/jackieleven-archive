@@ -1,0 +1,45 @@
+id: event/2000-02-28-oslo-john-dee
+type: Event
+label: Jackie Leven, John Dee, Oslo (2000-02-28)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt. Möglicherweise identisch mit event/2000-02-oslo-john-dee
+  (dort nur „2000-02“ aus einem Rückblick belegt).
+time:
+- statement_id: st-dab1bc9647e3
+  edtf_value: '2000-02-28'
+  references:
+  - document: document/2000-02-09-lofotposten-konsert-john-dee-oslo
+    locator: Lofotposten, 09.02.2000, S. 31
+    evidence_type: third_party
+    scope: Meldung zum Konzert am 28.02.2000
+took_place_at:
+- statement_id: st-cde15a96cb97
+  entity_value: place/john-dee-oslo
+  references:
+  - document: document/2000-02-09-lofotposten-konsert-john-dee-oslo
+    locator: Lofotposten, 09.02.2000, S. 31
+    evidence_type: third_party
+    scope: Meldung zum Konzert am 28.02.2000
+participants:
+- statement_id: st-f71a5476e288
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2000-02-09-lofotposten-konsert-john-dee-oslo
+    locator: Lofotposten, 09.02.2000, S. 31
+    evidence_type: third_party
+    scope: Meldung zum Konzert am 28.02.2000
+performance_status:
+- statement_id: st-8835cc6f1ce6
+  status_value: announced
+  references:
+  - document: document/2000-02-09-lofotposten-konsert-john-dee-oslo
+    locator: Lofotposten, 09.02.2000, S. 31
+    evidence_type: third_party
+    scope: Meldung zum Konzert am 28.02.2000
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

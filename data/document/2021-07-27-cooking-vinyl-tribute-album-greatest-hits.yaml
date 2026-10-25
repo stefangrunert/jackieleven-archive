@@ -1,0 +1,25 @@
+id: document/2021-07-27-cooking-vinyl-tribute-album-greatest-hits
+type: Document
+label: 'Cooking Vinyl Blog, 27.07.2021: Tribute Album, the First Commercially Available ''Greatest Hits''
+  Album & More'
+document_type: press_release
+language: en
+url: https://www.cookingvinyl.com/blog-1/straightouttacaledonia
+archive_url: https://web.archive.org/web/20210818084113/https://www.cookingvinyl.com/blog-1/straightouttacaledonia
+access: live
+note: Labelmeldung (Cooking Vinyl); Datum laut Sammelrecherche, auf der Seite selbst nicht ablesbar. Keine
+  Konzertangaben.
+about:
+- person/jackie-leven
+published:
+- statement_id: st-83547117b2a3
+  edtf_value: '2021-07-27'
+  references: []
+published_in:
+- statement_id: st-ad1d8cb25aa3
+  entity_value: publication/cooking-vinyl-blog
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

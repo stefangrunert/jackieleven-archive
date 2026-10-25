@@ -1,0 +1,30 @@
+id: document/2011-11-folkworld-cara-muensterland-festival-folk-night-senden
+type: Document
+label: 'FolkWorld Nr. 46, 2011-11: Cara''s kleine Nachtmusik, Münsterland-Festival Folk Night, Senden'
+document_type: concert_review
+language: de
+url: https://www.folkworld.eu/46/d/cara.html
+access: live
+note: Bericht über die Folk Night am 15.10.2011 in Senden; Leven wird nur im Vorspann als ausgefallen
+  genannt und fälschlich „englisch“ genannt.
+about:
+- event/2011-muensterland-festival-jackie-leven
+participants:
+- statement_id: st-833c4610b474
+  agent_ref: person/thomas-keller
+  roles:
+  - author
+  credited_as: Walkin' T:-)M
+  references: []
+published:
+- statement_id: st-b93b281f5788
+  edtf_value: 2011-11
+  references: []
+published_in:
+- statement_id: st-d6e0697fa609
+  entity_value: publication/folkworld
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

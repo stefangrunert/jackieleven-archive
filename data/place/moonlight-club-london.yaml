@@ -1,0 +1,15 @@
+id: place/moonlight-club-london
+type: Place
+label: Moonlight Club
+place_type: venue
+located_in:
+- statement_id: st-56e07728379e
+  entity_value: place/london
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

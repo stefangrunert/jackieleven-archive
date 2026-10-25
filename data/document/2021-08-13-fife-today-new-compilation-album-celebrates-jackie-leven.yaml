@@ -1,0 +1,31 @@
+id: document/2021-08-13-fife-today-new-compilation-album-celebrates-jackie-leven
+type: Document
+label: 'Fife Today, 13.08.2021: New compilation album celebrates Fife''s forgotten songwriting great'
+document_type: news
+language: en
+url: https://www.fifetoday.co.uk/whats-on/arts-and-entertainment/new-compilation-album-celebrates-legacy-of-jackie-leven-3344751
+archive_url: https://web.archive.org/web/20250710164020/https://www.fifetoday.co.uk/whats-on/arts-and-entertainment/new-compilation-album-celebrates-legacy-of-jackie-leven-3344751
+access: live
+note: Veröffentlicht am 12., aktualisiert am 13.08.2021. Nennt einen geplanten Auftritt in Kinross (Ende
+  2011) und Rankins Auftritt bei „Cash Back In Fife“ (dort „im vergangenen März“ – siehe Anmerkung am
+  Ereignis).
+about:
+- person/jackie-leven
+participants:
+- statement_id: st-5a534462f677
+  agent_ref: person/allan-crow
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-be4d4e12249c
+  edtf_value: '2021-08-13'
+  references: []
+published_in:
+- statement_id: st-071caf21e8e0
+  entity_value: publication/fife-today
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,23 @@
+id: document/2021-09-17-bandcamp-the-wanderer-tribute
+type: Document
+label: 'jackieleven.bandcamp.com, 17.09.2021: The Wanderer – A Tribute To Jackie Leven'
+document_type: website
+language: en
+url: https://jackieleven.bandcamp.com/album/the-wanderer-a-tribute-to-jackie-leven
+archive_url: https://web.archive.org/web/20230904043902/https://jackieleven.bandcamp.com/album/the-wanderer-a-tribute-to-jackie-leven
+access: live
+note: Albumseite; nur Dokument, Album und Titelliste werden nicht erfasst (keine Klasse für Veröffentlichungen).
+about:
+- person/jackie-leven
+published:
+- statement_id: st-7d621093aa35
+  edtf_value: '2021-09-17'
+  references: []
+published_in:
+- statement_id: st-9a0e37df8385
+  entity_value: publication/bandcamp-jackie-leven
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

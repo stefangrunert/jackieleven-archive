@@ -1,0 +1,25 @@
+id: event/2023-01-glasgow-celtic-connections
+type: Event
+label: Celtic Connections 2023, Glasgow
+event_type: festival
+note: 30. Ausgabe; 2021 online, 2022 mit Einschränkungen (laut Americana UK).
+time:
+- statement_id: st-42d31cfc3c25
+  edtf_value: '2023-01-19'
+  note: Beginn Donnerstag, 19. Januar 2023, für drei Wochen; Ende nicht genannt.
+  references:
+  - document: document/2023-01-16-americana-uk-celtic-connections-kicks-off-this-week
+    locator: Einleitung
+    evidence_type: third_party
+performance_status:
+- statement_id: st-01775f56ea3b
+  status_value: announced
+  note: Vorschau am Tag vor der Eröffnung; Verlauf nicht belegt.
+  references:
+  - document: document/2023-01-16-americana-uk-celtic-connections-kicks-off-this-week
+    locator: Einleitung
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

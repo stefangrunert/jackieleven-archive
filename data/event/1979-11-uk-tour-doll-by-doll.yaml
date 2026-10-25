@@ -1,0 +1,34 @@
+id: event/1979-11-uk-tour-doll-by-doll
+type: Event
+label: Doll by Doll, Großbritannien-Tour November 1979
+event_type: tour
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-ace32cf4cffa
+  edtf_value: 1979-11
+  note: Rückkehr „im folgenden Monat“ für eine Tournee.
+  references:
+  - document: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
+    locator: Record Mirror, 28.07.1979, S. 4
+    evidence_type: third_party
+participants:
+- statement_id: st-be8590d28702
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
+    locator: Record Mirror, 28.07.1979, S. 4
+    evidence_type: third_party
+performance_status:
+- statement_id: st-219b943c628c
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
+    locator: Record Mirror, 28.07.1979, S. 4
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

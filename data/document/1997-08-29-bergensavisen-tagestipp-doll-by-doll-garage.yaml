@@ -1,0 +1,19 @@
+id: document/1997-08-29-bergensavisen-tagestipp-doll-by-doll-garage
+type: Document
+label: 'Bergensavisen, 29.08.1997: Tagestipp Doll By Doll im Garage'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_19970829_71_231_1
+access: live
+published:
+- statement_id: st-0f6eacd6f24c
+  edtf_value: '1997-08-29'
+  references: []
+published_in:
+- statement_id: st-d13795f7975f
+  entity_value: publication/bergensavisen
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

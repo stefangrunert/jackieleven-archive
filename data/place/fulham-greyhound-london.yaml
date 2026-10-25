@@ -1,0 +1,16 @@
+id: place/fulham-greyhound-london
+type: Place
+label: Fulham Greyhound
+place_type: venue
+located_in:
+- statement_id: st-b7e9e0fd089d
+  entity_value: place/london
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Forthcoming Visitors
+    quote: this Saturday (19)
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

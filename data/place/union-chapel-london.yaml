@@ -1,0 +1,16 @@
+id: place/union-chapel-london
+type: Place
+label: Union Chapel
+place_type: venue
+located_in:
+- statement_id: st-9fc70aafbd8a
+  entity_value: place/london
+  references:
+  - document: document/2010-wegottickets-jackie-leven-gothic-road-orchestra-ralph-mctell
+    locator: WeGotTickets-Ticketseite (event/80387)
+    evidence_type: primary_document
+    scope: Konzert in der Londoner Union Chapel, Jackie Leven mit Band, begleitet von Ralph McTell (sinngemäß)
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

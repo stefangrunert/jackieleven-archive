@@ -1,0 +1,22 @@
+id: document/2007-09-15-firda-konzertankuendigung-pikant
+type: Document
+label: 'Firda, 15.09.2007: Konzertankündigung Pikant, Førde, Donnerstag 20.09.2007'
+document_type: calendar
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_firda_null_null_20070915_90_215_1
+access: live
+note: Inhalt nach der Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2007-09-20-foerde-pikant
+published:
+- statement_id: st-2ce42a114aa6
+  edtf_value: '2007-09-15'
+  references: []
+published_in:
+- statement_id: st-26ae9775ddba
+  entity_value: publication/firda
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

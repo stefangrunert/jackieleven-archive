@@ -1,0 +1,37 @@
+id: event/1980-02-tour-doll-by-doll
+type: Event
+label: Doll by Doll, Headliner-Tour Februar 1980
+event_type: tour
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-ae2142fe3d61
+  edtf_value: 1980-02-01/1980-02-23
+  note: Bestätigte Termine vom 1. bis 23. Februar 1980; weitere sollten folgen.
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    quote: begin a short headlining tour in February
+    evidence_type: third_party
+participants:
+- statement_id: st-4de7356857fc
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    quote: begin a short headlining tour in February
+    evidence_type: third_party
+performance_status:
+- statement_id: st-dbe4566d5024
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    quote: begin a short headlining tour in February
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

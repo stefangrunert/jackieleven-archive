@@ -1,0 +1,17 @@
+id: place/royal-concert-hall-glasgow
+type: Place
+label: Royal Concert Hall
+place_type: venue
+note: Strathclyde Suite.
+located_in:
+- statement_id: st-df58307b756f
+  entity_value: place/glasgow
+  references:
+  - document: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
+    locator: Pressemitteilung, 27.01.2004
+    quote: world premiere of Jackie Leven Said
+    evidence_type: primary_document
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

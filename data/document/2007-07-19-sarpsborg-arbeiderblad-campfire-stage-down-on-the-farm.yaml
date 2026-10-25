@@ -1,0 +1,23 @@
+id: document/2007-07-19-sarpsborg-arbeiderblad-campfire-stage-down-on-the-farm
+type: Document
+label: 'Sarpsborg Arbeiderblad, 19.07.2007: Down on the Farm 2007, Leven als Zeremonienmeister der Campfire
+  Stage'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_sarpsborgarbeiderblad_null_null_20070719_78_164_1
+access: live
+note: Inhalt nach der Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2007-08-03-halden-gribsrod-gard
+published:
+- statement_id: st-72b83db97382
+  edtf_value: '2007-07-19'
+  references: []
+published_in:
+- statement_id: st-269d582ab02d
+  entity_value: publication/sarpsborg-arbeiderblad
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

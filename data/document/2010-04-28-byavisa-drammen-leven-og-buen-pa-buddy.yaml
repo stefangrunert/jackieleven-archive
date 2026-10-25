@@ -1,0 +1,22 @@
+id: document/2010-04-28-byavisa-drammen-leven-og-buen-pa-buddy
+type: Document
+label: 'Byavisa Drammen, 28.04.2010: Kurzvorbericht „Leven og Buen på Buddy i kveld“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_byavisadrammen_null_null_20100428_2_24_1
+access: live
+note: Inhalt nach der Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2010-04-28-drammen-buddy
+published:
+- statement_id: st-71256334984d
+  edtf_value: '2010-04-28'
+  references: []
+published_in:
+- statement_id: st-bb827c59a8f1
+  entity_value: publication/byavisa-drammen
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

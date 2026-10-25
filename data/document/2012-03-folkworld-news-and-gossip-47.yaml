@@ -1,0 +1,24 @@
+id: document/2012-03-folkworld-news-and-gossip-47
+type: Document
+label: 'FolkWorld Nr. 47, 2012-03: News & Gossip, Meldung zum Tod Jackie Levens'
+document_type: obituary
+language: en
+url: https://www.folkworld.eu/47/e/news.html
+archive_url: https://web.archive.org/web/20260610070007/https://www.folkworld.eu/47/e/news.html
+access: live
+note: Redaktionsmeldung (kein gezeichneter Autor) und Leserbeitrag von David „Dai“ Woosnam. Tod am Montag,
+  14. November; kein Sterbeort.
+about:
+- person/jackie-leven
+published:
+- statement_id: st-893137f967d8
+  edtf_value: 2012-03
+  references: []
+published_in:
+- statement_id: st-d856553a2603
+  entity_value: publication/folkworld
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

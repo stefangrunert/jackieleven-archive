@@ -35,6 +35,17 @@ performance_status:
     locator: Firda, 10.06.2003
     quote: For her var det tid for ei konsertoppleving av dei sjeldne.
     evidence_type: third_party
+- statement_id: st-bc51a23669fb
+  status_value: announced
+  references:
+  - document: document/2003-06-06-firda-vorbericht-antoniusfestivalen
+    locator: Firda, 06.06.2003, S. 28
+    evidence_type: third_party
+    scope: 'Vorbericht: Leven spielt am Sonntag (08.06.2003)'
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 note: Saal Storehagen des Sunnfjord Hotels.
 recorded_by:
   agent: claude-code

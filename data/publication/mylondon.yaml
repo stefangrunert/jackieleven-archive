@@ -1,0 +1,7 @@
+id: publication/mylondon
+type: Publication
+label: MyLondon
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

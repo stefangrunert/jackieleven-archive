@@ -10,12 +10,18 @@ time:
   - document: document/2007-08-01-vaganavisa-jan-age-johansen-henter-jackie-leven
     locator: Våganavisa, 01.08.2007
     evidence_type: third_party
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
 took_place_at:
 - statement_id: st-407ea13bba19
   entity_value: place/praestengbrygga-kabelvag
   references:
   - document: document/2007-08-01-vaganavisa-jan-age-johansen-henter-jackie-leven
     locator: Våganavisa, 01.08.2007
+    evidence_type: third_party
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
     evidence_type: third_party
 participants:
 - statement_id: st-f7baf494b43f
@@ -26,6 +32,9 @@ participants:
   references:
   - document: document/2007-08-01-vaganavisa-jan-age-johansen-henter-jackie-leven
     locator: Våganavisa, 01.08.2007
+    evidence_type: third_party
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
     evidence_type: third_party
 - statement_id: st-6b244f6ebf3e
   agent_ref: person/jan-age-johansen
@@ -42,7 +51,22 @@ performance_status:
   - document: document/2007-08-01-vaganavisa-jan-age-johansen-henter-jackie-leven
     locator: Våganavisa, 01.08.2007
     evidence_type: third_party
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  note: Nur angekündigt; Durchführung nicht belegt.
 note: Nur angekündigt; Durchführung nicht belegt.
+part_of:
+- statement_id: st-668c626ad153
+  entity_value: event/2007-09-norwegen-tournee
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

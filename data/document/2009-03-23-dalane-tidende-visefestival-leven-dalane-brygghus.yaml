@@ -1,0 +1,24 @@
+id: document/2009-03-23-dalane-tidende-visefestival-leven-dalane-brygghus
+type: Document
+label: 'Dalane Tidende, 23.03.2009: Visefestivalen Egersund: Leven für zwei Konzerte im Dalane Brygghus
+  verpflichtet'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_dalanetidende_null_null_20090323_125_35_1
+access: live
+note: Organisator Feyling habe lange versucht, Leven zu verpflichten. Inhalt nach der Fundstellenliste
+  der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2009-07-egersund-dalane-brygghus
+published:
+- statement_id: st-fa3f36ad6e42
+  edtf_value: '2009-03-23'
+  references: []
+published_in:
+- statement_id: st-8b0ab87f6624
+  entity_value: publication/dalane-tidende
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,59 @@
+id: document/1979-12-22-record-mirror-jahresbestenlisten-1979
+type: Document
+label: 'Record Mirror, 22.12.1979: Jahresbestenlisten 1979 der Mitarbeiter'
+document_type: news
+language: en
+url: https://www.worldradiohistory.com/UK/Record-Mirror/70s/79/Record-Mirror-1979-12-22-OCR.pdf#page=15
+access: live
+note: Persönliche Listen der Mitarbeiter (Seite 15), kein Gesamturteil der Redaktion.
+about:
+- group/doll-by-doll
+participants:
+- statement_id: st-98c836b159df
+  agent_ref: person/chris-westwood
+  roles:
+  - author
+  credited_as: Chris Westwood
+  references: []
+- statement_id: st-bdb4bf1bc39e
+  agent_ref: person/robin-smith
+  roles:
+  - author
+  credited_as: Robin Smith
+  references: []
+- statement_id: st-b4b7cddbf515
+  agent_ref: person/graham-stevens
+  roles:
+  - author
+  credited_as: Graham Stevens
+  references: []
+- statement_id: st-5bb1cfd08efa
+  agent_ref: person/simon-ludgate
+  roles:
+  - author
+  credited_as: Simon Ludgate
+  references: []
+- statement_id: st-f3193629b997
+  agent_ref: person/daniela-soave
+  roles:
+  - author
+  credited_as: Daniela Soave
+  references: []
+- statement_id: st-07830fc3954f
+  agent_ref: person/john-shearlaw
+  roles:
+  - author
+  credited_as: John Shearlaw
+  references: []
+published:
+- statement_id: st-3f44275eefd8
+  edtf_value: '1979-12-22'
+  references: []
+published_in:
+- statement_id: st-ab2a94c08bd0
+  entity_value: publication/record-mirror
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

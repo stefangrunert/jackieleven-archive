@@ -1,0 +1,15 @@
+id: place/veita-scene-trondheim
+type: Place
+label: Veita Scene
+place_type: venue
+located_in:
+- statement_id: st-852a97f3daf8
+  entity_value: place/trondheim
+  references:
+  - document: document/1996-under-dusken-konzertvorschau-veita-scene
+    locator: Under Dusken 1996 Nr. 6, S. 6
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

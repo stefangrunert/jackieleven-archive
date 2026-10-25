@@ -1,0 +1,49 @@
+id: event/2004-bonn-harmonie-rockpalast
+type: Event
+label: Jackie Leven mit Michael Cosgrave, Harmonie, Bonn (2004, Rockpalast)
+event_type: concert
+note: Rolle Cosgraves im Katalogtext nicht genannt (nur „w/ Michael Cosgrave“).
+time:
+- statement_id: st-53122c453c29
+  edtf_value: '2004'
+  note: Nur das Jahr; Tag nicht genannt.
+  references:
+  - document: document/undatiert-glitterhouse-mailorder-jackie-leven-katalogtexte
+    locator: Artikel Live At Rockpalast 2004 (Katalogtext)
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-a08c374dca2e
+  entity_value: place/bonn-harmonie
+  references:
+  - document: document/undatiert-glitterhouse-mailorder-jackie-leven-katalogtexte
+    locator: Artikel Live At Rockpalast 2004 (Katalogtext)
+    evidence_type: third_party
+participants:
+- statement_id: st-99533421698a
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  references:
+  - document: document/undatiert-glitterhouse-mailorder-jackie-leven-katalogtexte
+    locator: Artikel Live At Rockpalast 2004 (Katalogtext)
+    evidence_type: third_party
+- statement_id: st-a37c205e1c49
+  agent_ref: person/michael-cosgrave
+  roles:
+  - other
+  references:
+  - document: document/undatiert-glitterhouse-mailorder-jackie-leven-katalogtexte
+    locator: Artikel Live At Rockpalast 2004 (Katalogtext)
+    evidence_type: third_party
+performance_status:
+- statement_id: st-e5f6730995ac
+  status_value: took_place
+  note: Belegt durch einen für Rockpalast aufgenommenen Mitschnitt (CD+DVD, 2024).
+  references:
+  - document: document/undatiert-glitterhouse-mailorder-jackie-leven-katalogtexte
+    locator: Artikel Live At Rockpalast 2004 (Katalogtext)
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

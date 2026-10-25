@@ -56,6 +56,28 @@ members:
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1980-01-26-music-week-doll-by-doll-virgin-music-publishing
+    locator: Music Week, 26.01.1980 (Bildmeldung)
+    evidence_type: third_party
+    scope: Auf dem Foto mit der Band genannt (Jackie Leven).
+  - document: document/1980-10-13-record-business-doll-by-doll-sign-to-magnet
+    locator: Record Business, 13.10.1980 (Bildmeldung)
+    evidence_type: third_party
+    scope: Auf dem Foto mit der Band genannt (Jackie Leven).
+  - document: document/1981-10-03-record-mirror-tour-by-doll-line-up-change
+    locator: Record Mirror, 03.10.1981
+    quote: founder members Jackie Leven and Jo Shaw remain
+    evidence_type: third_party
+    scope: Gründungsmitglied, bleibt.
+  - document: document/1982-08-28-sounds-under-whose-thumb-doll-by-doll-magnet
+    locator: Sounds, 28.08.1982
+    quote: sole-remaining founder member
+    evidence_type: third_party
+    scope: Als einzig verbliebener Gründer genannt.
+  - document: document/1997-08-28-bergensavisen-lager-plate-i-bergen
+    locator: Bergensavisen, 28.08.1997
+    evidence_type: third_party
+    scope: Reunion-Besetzung 1997.
 - statement_id: st-5e34fd869c28
   agent_ref: person/jo-shaw
   roles:
@@ -82,6 +104,24 @@ members:
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1980-01-26-music-week-doll-by-doll-virgin-music-publishing
+    locator: Music Week, 26.01.1980 (Bildmeldung)
+    evidence_type: third_party
+    scope: Auf dem Foto mit der Band genannt (Jo Shaw).
+  - document: document/1980-10-13-record-business-doll-by-doll-sign-to-magnet
+    locator: Record Business, 13.10.1980 (Bildmeldung)
+    evidence_type: third_party
+    scope: Auf dem Foto mit der Band genannt (Jo Shaw).
+  - document: document/1981-10-03-record-mirror-tour-by-doll-line-up-change
+    locator: Record Mirror, 03.10.1981
+    quote: founder members Jackie Leven and Jo Shaw remain
+    evidence_type: third_party
+    scope: Gründungsmitglied, bleibt.
+  - document: document/1997-08-28-bergensavisen-lager-plate-i-bergen
+    locator: Bergensavisen, 28.08.1997
+    evidence_type: third_party
+    scope: Reunion-Besetzung 1997.
+  credited_as: Joe Shaw
 - statement_id: st-3c8ccb18b81b
   agent_ref: person/dave-mcintosh
   roles:
@@ -101,6 +141,23 @@ members:
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1980-01-26-music-week-doll-by-doll-virgin-music-publishing
+    locator: Music Week, 26.01.1980 (Bildmeldung)
+    evidence_type: third_party
+    scope: Auf dem Foto mit der Band genannt (Dave McIntosh).
+  - document: document/1980-10-13-record-business-doll-by-doll-sign-to-magnet
+    locator: Record Business, 13.10.1980 (Bildmeldung)
+    evidence_type: third_party
+    scope: Auf dem Foto mit der Band genannt (Dave McIntosh).
+  - document: document/1981-10-03-record-mirror-tour-by-doll-line-up-change
+    locator: Record Mirror, 03.10.1981
+    quote: founder members Jackie Leven and Jo Shaw remain
+    evidence_type: third_party
+    scope: Rhythmusgruppe, wird ersetzt (Herbst 1981).
+  - document: document/1997-08-28-bergensavisen-lager-plate-i-bergen
+    locator: Bergensavisen, 28.08.1997
+    evidence_type: third_party
+    scope: Reunion-Besetzung 1997.
 - statement_id: st-ba7c9aff5ae1
   agent_ref: person/tony-waite
   roles:
@@ -115,6 +172,19 @@ members:
     locator: Melody Maker, 13.09.1980
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1980-01-26-music-week-doll-by-doll-virgin-music-publishing
+    locator: Music Week, 26.01.1980 (Bildmeldung)
+    evidence_type: third_party
+    scope: Auf dem Foto mit der Band genannt (Tony Waite).
+  - document: document/1980-10-13-record-business-doll-by-doll-sign-to-magnet
+    locator: Record Business, 13.10.1980 (Bildmeldung)
+    evidence_type: third_party
+    scope: Auf dem Foto mit der Band genannt (Tony Waite).
+  - document: document/1981-10-03-record-mirror-tour-by-doll-line-up-change
+    locator: Record Mirror, 03.10.1981
+    quote: founder members Jackie Leven and Jo Shaw remain
+    evidence_type: third_party
+    scope: Rhythmusgruppe, wird ersetzt (Herbst 1981).
 - statement_id: st-53c58b59f900
   agent_ref: person/helen-turner
   roles:
@@ -126,6 +196,10 @@ members:
     locator: Record Business, 17.01.1983
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1982-08-28-sounds-under-whose-thumb-doll-by-doll-magnet
+    locator: Sounds, 28.08.1982
+    evidence_type: third_party
+    scope: 'Besetzung zum Zeitpunkt von „Under My Thumb“: Leven, Helen Turner, Tom Norton.'
 - statement_id: st-a020e7657652
   agent_ref: person/kevin-foster
   roles:
@@ -137,6 +211,90 @@ members:
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
     scope: Als Mitwirkender der Band im Bericht genannt
+  - document: document/1997-08-28-bergensavisen-lager-plate-i-bergen
+    locator: Bergensavisen, 28.08.1997
+    evidence_type: third_party
+    scope: Reunion-Besetzung 1997.
+- statement_id: st-d3aabb1b1866
+  agent_ref: person/robin-spreafico
+  roles:
+  - bass
+  - member
+  credited_as: Robin Speafico
+  references:
+  - document: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
+    locator: Record Mirror, 28.07.1979, S. 4
+    quote: Robin Speafico
+    evidence_type: third_party
+    scope: Als Bassist genannt; die Meldung berichtet seinen Ausstieg im Juli 1979.
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
+- statement_id: st-dbe244d20ac3
+  agent_ref: person/nick-whiffen
+  roles:
+  - bass
+  - member
+  certainty: probable
+  note: Nachfolger Spreaficos laut Record Mirror; ob Whiffen länger Mitglied war, ist offen (Tony Waite
+    ab Dezember 1979 belegt).
+  references:
+  - document: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
+    locator: Record Mirror, 28.07.1979, S. 4
+    quote: Nick Whiffen, Robin's replacement
+    evidence_type: third_party
+    scope: Als Nachfolger Spreaficos genannt; Tony Waite ist ab Dezember 1979 als Bassist belegt.
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
+- statement_id: st-0bd9b01eda29
+  agent_ref: person/andy-anderson
+  roles:
+  - drums
+  - member
+  references:
+  - document: document/1981-10-03-record-mirror-tour-by-doll-line-up-change
+    locator: Record Mirror, 03.10.1981
+    quote: founder members Jackie Leven and Jo Shaw remain
+    evidence_type: third_party
+    scope: Neu als Schlagzeuger ab Herbst 1981.
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
+- statement_id: st-55c76bd63f35
+  agent_ref: person/john-read
+  roles:
+  - bass
+  - member
+  credited_as: John Read
+  certainty: probable
+  note: Schreibung der Quelle (OCR); anderweitig John Reid.
+  references:
+  - document: document/1981-10-03-record-mirror-tour-by-doll-line-up-change
+    locator: Record Mirror, 03.10.1981
+    quote: founder members Jackie Leven and Jo Shaw remain
+    evidence_type: third_party
+    scope: Neu als Bassist ab Herbst 1981; Schreibung „John Read“ unsicher.
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
+- statement_id: st-46eac7d8d0ed
+  agent_ref: person/tom-norton
+  roles:
+  - member
+  references:
+  - document: document/1982-08-28-sounds-under-whose-thumb-doll-by-doll-magnet
+    locator: Sounds, 28.08.1982
+    evidence_type: third_party
+    scope: 'Besetzung zum Zeitpunkt von „Under My Thumb“: Leven, Helen Turner, Tom Norton.'
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

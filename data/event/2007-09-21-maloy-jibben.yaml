@@ -1,0 +1,47 @@
+id: event/2007-09-21-maloy-jibben
+type: Event
+label: Jackie Leven, Jibben, Måløy (2007-09-21)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt. Der Vorbericht nennt die Musikklubb Måløy im Zusammenhang
+  mit dem Konzert. Die Tourankündigung in Puls (17.09.2007) führt für den 21.09. stattdessen Bremanger
+  (Bremanger Kino).
+time:
+- statement_id: st-c28c8b8e37f1
+  edtf_value: '2007-09-21'
+  note: Angekündigt für Freitag, 21.09.2007.
+  references:
+  - document: document/2007-09-21-fjordenes-tidende-leven-pa-jibben
+    locator: Fjordenes Tidende, 21.09.2007, S. 15, 26
+    quote: Leven på Jibben
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-5fd8a5cb93df
+  entity_value: place/jibben-maloy
+  references:
+  - document: document/2007-09-21-fjordenes-tidende-leven-pa-jibben
+    locator: Fjordenes Tidende, 21.09.2007, S. 15, 26
+    quote: Leven på Jibben
+    evidence_type: third_party
+participants:
+- statement_id: st-64e6bfb8ebda
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-09-21-fjordenes-tidende-leven-pa-jibben
+    locator: Fjordenes Tidende, 21.09.2007, S. 15, 26
+    quote: Leven på Jibben
+    evidence_type: third_party
+performance_status:
+- statement_id: st-173444b3aa7d
+  status_value: announced
+  references:
+  - document: document/2007-09-21-fjordenes-tidende-leven-pa-jibben
+    locator: Fjordenes Tidende, 21.09.2007, S. 15, 26
+    quote: Leven på Jibben
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

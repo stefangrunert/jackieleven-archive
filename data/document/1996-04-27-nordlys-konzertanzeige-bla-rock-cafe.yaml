@@ -1,0 +1,20 @@
+id: document/1996-04-27-nordlys-konzertanzeige-bla-rock-cafe
+type: Document
+label: 'Nordlys, 27.04.1996: Konzertanzeige Blå Rock Café'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlys_null_null_19960427_95_98_1
+access: live
+note: 'Anzeige: Blå Rock Café, So 28.04.1996, 21.30 Uhr, mit Andy White.'
+published:
+- statement_id: st-e965f7815760
+  edtf_value: '1996-04-27'
+  references: []
+published_in:
+- statement_id: st-091b70e9f4f3
+  entity_value: publication/nordlys
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

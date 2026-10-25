@@ -1,0 +1,22 @@
+id: document/2008-11-05-varden-anzeige-lundetangen
+type: Document
+label: 'Varden, 05.11.2008: Konzertanzeige Lundetangen, Skien, 06.11., 21.00'
+document_type: calendar
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_varden_null_null_20081105_134_259_1
+access: live
+note: Inhalt nach der Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2008-11-06-skien-lundetangen-pub
+published:
+- statement_id: st-38ccc159ff29
+  edtf_value: '2008-11-05'
+  references: []
+published_in:
+- statement_id: st-d74fb0eedd66
+  entity_value: publication/varden
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,23 @@
+id: document/2008-11-11-rogalands-avis-leven-i-stavanger
+type: Document
+label: 'Rogalands Avis, 11.11.2008: Vorbericht „Leven i Stavanger“, Cementen, 11.11.2008'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_rogalandsavis_null_null_20081111_109_266_1
+access: live
+note: Pressetext (wie Bergensavisen 29.08.2008); nennt die „mest omfattende norgesturné noensinne“ mit
+  14 Terminen. Inhalt nach der Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2008-11-11-stavanger-cementen
+published:
+- statement_id: st-fa187ef94ebd
+  edtf_value: '2008-11-11'
+  references: []
+published_in:
+- statement_id: st-e5f8056fc858
+  entity_value: publication/rogalands-avis
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

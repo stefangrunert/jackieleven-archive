@@ -1,0 +1,22 @@
+id: document/2005-09-22-drammens-tidende-anzeige-leven-small-world-orchestra
+type: Document
+label: 'Drammens Tidende, 22.09.2005: Anzeige Jackie Leven & The Small World Orchestra'
+document_type: calendar
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_drammenstidende_null_null_20050922_1_253_1
+access: live
+note: Anzeige für das Konzert am Samstag, 24.9.
+about:
+- event/2005-09-24-drammen-union-scene
+published:
+- statement_id: st-922203efd097
+  edtf_value: '2005-09-22'
+  references: []
+published_in:
+- statement_id: st-0a55d05c37db
+  entity_value: publication/drammens-tidende
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

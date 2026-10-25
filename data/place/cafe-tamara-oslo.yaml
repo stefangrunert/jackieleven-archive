@@ -1,0 +1,22 @@
+id: place/cafe-tamara-oslo
+type: Place
+label: Café Tamara
+place_type: venue
+note: Schreibung 1996 „Kafé Tamara“, 1998 „Café Tamara“; beide im Stadtteil Grünerløkka. Gleichheit nicht
+  ausdrücklich belegt.
+located_in:
+- statement_id: st-7ed95d30d6c5
+  entity_value: place/oslo
+  references:
+  - document: document/1998-09-02-dagsavisen-arbeiderbladet-leven-pa-tamara
+    locator: Dagsavisen Arbeiderbladet, 02.09.1998, S. 30
+    quote: Leven på Tamara
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,25 @@
+id: document/1997-04-08-firda-vorbericht-studentkroa-foerde
+type: Document
+label: 'Firda, 08.04.1997: Vorbericht Studentkroa/Kulturkafeen, Førde'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_firda_null_null_19970408_80_79_1
+access: live
+participants:
+- statement_id: st-277e4f1a4acb
+  agent_ref: person/liv-grimsbo
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-4f306caa701d
+  edtf_value: '1997-04-08'
+  references: []
+published_in:
+- statement_id: st-1d23b1c9e248
+  entity_value: publication/firda
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,23 @@
+id: document/2011-11-16-fan-lexikon-jackie-leven-ist-tot
+type: Document
+label: 'fan-lexikon.de, 16.11.2011: Jackie Leven ist tot'
+document_type: obituary
+language: de
+url: https://www.fan-lexikon.de/musik/news/jackie-leven-ist-tot-120910
+access: live
+note: Kurzmeldung mit Ortsmarke London; nennt Montag, 14. November 2011, als Todestag. Ein Sterbeort wird
+  nicht genannt.
+about:
+- person/jackie-leven
+published:
+- statement_id: st-f147b3b74805
+  edtf_value: '2011-11-16'
+  references: []
+published_in:
+- statement_id: st-892a5b9449b4
+  entity_value: publication/fan-lexikon
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

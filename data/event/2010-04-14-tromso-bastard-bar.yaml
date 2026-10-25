@@ -10,12 +10,18 @@ time:
   - document: document/2010-04-10-itromso-jackie-leven-pa-bastard
     locator: iTromsø, 10.04.2010
     evidence_type: third_party
+  - document: document/2010-04-13-nordlys-vorbericht-bastard-bar
+    locator: Nordlys, 13.04.2010, S. 42
+    evidence_type: third_party
 took_place_at:
 - statement_id: st-33c1f74f0192
   entity_value: place/bastard-bar-tromso
   references:
   - document: document/2010-04-10-itromso-jackie-leven-pa-bastard
     locator: iTromsø, 10.04.2010
+    evidence_type: third_party
+  - document: document/2010-04-13-nordlys-vorbericht-bastard-bar
+    locator: Nordlys, 13.04.2010, S. 42
     evidence_type: third_party
 participants:
 - statement_id: st-12aebc606390
@@ -27,6 +33,9 @@ participants:
   - document: document/2010-04-10-itromso-jackie-leven-pa-bastard
     locator: iTromsø, 10.04.2010
     evidence_type: third_party
+  - document: document/2010-04-13-nordlys-vorbericht-bastard-bar
+    locator: Nordlys, 13.04.2010, S. 42
+    evidence_type: third_party
 - statement_id: st-ba36461601a7
   agent_ref: person/egon-holstad
   roles:
@@ -35,12 +44,18 @@ participants:
   - document: document/2010-04-10-itromso-jackie-leven-pa-bastard
     locator: iTromsø, 10.04.2010
     evidence_type: third_party
+  - document: document/2010-04-13-nordlys-vorbericht-bastard-bar
+    locator: Nordlys, 13.04.2010, S. 42
+    evidence_type: third_party
 performance_status:
 - statement_id: st-4ae715a3968c
   status_value: announced
   references:
   - document: document/2010-04-10-itromso-jackie-leven-pa-bastard
     locator: iTromsø, 10.04.2010
+    evidence_type: third_party
+  - document: document/2010-04-13-nordlys-vorbericht-bastard-bar
+    locator: Nordlys, 13.04.2010, S. 42
     evidence_type: third_party
 note: Nur angekündigt; Durchführung nicht belegt.
 recorded_by:

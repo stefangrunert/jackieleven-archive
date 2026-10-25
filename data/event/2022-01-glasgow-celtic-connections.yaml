@@ -1,0 +1,18 @@
+id: event/2022-01-glasgow-celtic-connections
+type: Event
+label: Celtic Connections 2022, Glasgow
+event_type: festival
+note: Aus dem Veranstalterkopf der Seite (Glasgow Life, Celtic Connections) erschlossen; die Seite nennt
+  das Festival im Text nicht.
+time:
+- statement_id: st-60301b120d3c
+  edtf_value: '2022'
+  note: Nur das Jahr; Dauer nicht in den Quellen.
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Quellenkopf (Glasgow Life / Celtic Connections)
+    evidence_type: inferred
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

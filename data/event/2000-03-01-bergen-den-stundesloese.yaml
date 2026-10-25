@@ -1,0 +1,46 @@
+id: event/2000-03-01-bergen-den-stundesloese
+type: Event
+label: Jackie Leven, Den Stundesløse, Bergen (2000-03-01)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt. Möglicherweise identisch mit event/2000-03-bergen-den-stundesloese
+  (dort nur „2000-02/2000-03“ belegt).
+time:
+- statement_id: st-242d451cf6cd
+  edtf_value: '2000-03-01'
+  note: Aus „Mittwoch“ in der Notiz vom 25.02.2000 erschlossen.
+  references:
+  - document: document/2000-02-25-bergensavisen-konsertnotis-den-stundesloese
+    locator: Bergensavisen, 25.02.2000, S. 34
+    evidence_type: third_party
+    scope: 'Notiz: Konzert am Mittwoch (01.03.2000)'
+took_place_at:
+- statement_id: st-0fa7ac4e6cd7
+  entity_value: place/den-stundesloese-bergen
+  references:
+  - document: document/2000-02-25-bergensavisen-konsertnotis-den-stundesloese
+    locator: Bergensavisen, 25.02.2000, S. 34
+    evidence_type: third_party
+    scope: 'Notiz: Konzert am Mittwoch (01.03.2000)'
+participants:
+- statement_id: st-ffbf6b50ad5a
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2000-02-25-bergensavisen-konsertnotis-den-stundesloese
+    locator: Bergensavisen, 25.02.2000, S. 34
+    evidence_type: third_party
+    scope: 'Notiz: Konzert am Mittwoch (01.03.2000)'
+performance_status:
+- statement_id: st-2b70ca17e588
+  status_value: announced
+  references:
+  - document: document/2000-02-25-bergensavisen-konsertnotis-den-stundesloese
+    locator: Bergensavisen, 25.02.2000, S. 34
+    evidence_type: third_party
+    scope: 'Notiz: Konzert am Mittwoch (01.03.2000)'
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

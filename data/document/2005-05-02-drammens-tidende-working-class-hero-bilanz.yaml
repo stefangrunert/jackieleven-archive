@@ -1,0 +1,23 @@
+id: document/2005-05-02-drammens-tidende-working-class-hero-bilanz
+type: Document
+label: 'Drammens Tidende, 02.05.2005: Bilanz Working Class Hero-Festival'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_drammenstidende_null_null_20050502_1_115_1
+access: live
+note: Festivalbilanz; Leven am Schlussabend. Der Quellenkopf nennt Torun Havnaas; ob sie Autorin ist,
+  ist offen, daher kein Autor erfasst.
+about:
+- event/2005-05-01-working-class-hero-festival
+published:
+- statement_id: st-6129ed208d6d
+  edtf_value: '2005-05-02'
+  references: []
+published_in:
+- statement_id: st-90e602c0dfb5
+  entity_value: publication/drammens-tidende
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

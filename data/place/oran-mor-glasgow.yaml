@@ -1,0 +1,16 @@
+id: place/oran-mor-glasgow
+type: Place
+label: Òran Mór
+place_type: venue
+located_in:
+- statement_id: st-ff7d9bd096c3
+  entity_value: place/glasgow
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Veranstaltungsseite
+    quote: 'Leventime: A Tribute to Jackie Leven'
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

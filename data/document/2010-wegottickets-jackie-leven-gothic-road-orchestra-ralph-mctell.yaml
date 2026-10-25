@@ -1,0 +1,23 @@
+id: document/2010-wegottickets-jackie-leven-gothic-road-orchestra-ralph-mctell
+type: Document
+label: 'WeGotTickets, 2010: Jackie Leven & The Gothic Road Orchestra / Ralph McTell, Union Chapel'
+document_type: calendar
+language: en
+url: https://wegottickets.com/event/80387/
+access: live
+note: Ticketseite des Veranstalters Electroacoustic Club. Datum im Text nicht sichtbar; 2010 aus dem Bezug
+  auf das neue Album Gothic Road erschlossen.
+about:
+- event/2010-london-union-chapel
+published:
+- statement_id: st-0a44137bac49
+  edtf_value: 2010?
+  references: []
+published_in:
+- statement_id: st-1a194e078dc3
+  entity_value: publication/wegottickets
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

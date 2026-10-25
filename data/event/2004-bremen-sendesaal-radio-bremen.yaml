@@ -1,0 +1,53 @@
+id: event/2004-bremen-sendesaal-radio-bremen
+type: Event
+label: Jackie Leven, Sendesaal Radio Bremen, Bremen (2004)
+event_type: concert
+time:
+- statement_id: st-6011f3b70f66
+  edtf_value: '2004'
+  note: Nur das Jahr; Tag nicht genannt.
+  references:
+  - document: document/2024-04-18-rocktimes-jackie-leven-live-in-bremen-angekuendigt
+    locator: Absatz zur Box
+    quote: zwei Konzerte aus Bremen aus den Jahren 1999 sowie 2004
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-21b0a8fcb7d3
+  entity_value: place/sendesaal-radio-bremen
+  references:
+  - document: document/undatiert-glitterhouse-mailorder-jackie-leven-katalogtexte
+    locator: Artikel Live Or Die (Katalogtext)
+    evidence_type: third_party
+participants:
+- statement_id: st-c27d597619fb
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  references:
+  - document: document/undatiert-glitterhouse-mailorder-jackie-leven-katalogtexte
+    locator: Artikel Live Or Die (Katalogtext)
+    evidence_type: third_party
+- statement_id: st-accb31bb9055
+  agent_ref: person/michael-cosgrave
+  roles:
+  - keyboards
+  references:
+  - document: document/undatiert-glitterhouse-mailorder-jackie-leven-katalogtexte
+    locator: Artikel Live Or Die (Katalogtext)
+    evidence_type: third_party
+performance_status:
+- statement_id: st-5794673f838e
+  status_value: took_place
+  note: Belegt durch einen von Radio Bremen mitgeschnittenen Konzertmitschnitt (Veröffentlichung 2024).
+  references:
+  - document: document/2024-04-18-rocktimes-jackie-leven-live-in-bremen-angekuendigt
+    locator: Absatz zur Box
+    quote: zwei Konzerte aus Bremen aus den Jahren 1999 sowie 2004
+    evidence_type: third_party
+  - document: document/undatiert-glitterhouse-mailorder-jackie-leven-katalogtexte
+    locator: Artikel Live Or Die (Katalogtext)
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

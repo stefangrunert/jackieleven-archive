@@ -1,0 +1,57 @@
+id: event/1998-03-15-bodo-den-siste-glaede
+type: Event
+label: Jackie Leven, Den Siste Glæde, Bodø (1998-03-15)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-5634eeef0dcc
+  edtf_value: '1998-03-15'
+  note: So 15.03.1998 laut Anzeige und Vorbericht.
+  references:
+  - document: document/1998-03-13-nordlandsposten-konzertanzeige-den-siste-glaede
+    locator: Nordlandsposten, 13.03.1998, S. 5
+    evidence_type: third_party
+  - document: document/1998-03-14-nordlandsposten-jackie-leven-tilbake
+    locator: Nordlandsposten, 14.03.1998, S. 45
+    quote: Jackie Leven tilbake
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-e00d74153aed
+  entity_value: place/den-siste-glaede-bodo
+  references:
+  - document: document/1998-03-13-nordlandsposten-konzertanzeige-den-siste-glaede
+    locator: Nordlandsposten, 13.03.1998, S. 5
+    evidence_type: third_party
+  - document: document/1998-03-14-nordlandsposten-jackie-leven-tilbake
+    locator: Nordlandsposten, 14.03.1998, S. 45
+    quote: Jackie Leven tilbake
+    evidence_type: third_party
+participants:
+- statement_id: st-b0e3dc5a3f08
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1998-03-13-nordlandsposten-konzertanzeige-den-siste-glaede
+    locator: Nordlandsposten, 13.03.1998, S. 5
+    evidence_type: third_party
+  - document: document/1998-03-14-nordlandsposten-jackie-leven-tilbake
+    locator: Nordlandsposten, 14.03.1998, S. 45
+    quote: Jackie Leven tilbake
+    evidence_type: third_party
+performance_status:
+- statement_id: st-591fd1aa74bd
+  status_value: announced
+  references:
+  - document: document/1998-03-13-nordlandsposten-konzertanzeige-den-siste-glaede
+    locator: Nordlandsposten, 13.03.1998, S. 5
+    evidence_type: third_party
+  - document: document/1998-03-14-nordlandsposten-jackie-leven-tilbake
+    locator: Nordlandsposten, 14.03.1998, S. 45
+    quote: Jackie Leven tilbake
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

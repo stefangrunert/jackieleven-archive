@@ -11,12 +11,18 @@ time:
   - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
     locator: Laagendalsposten, 13.04.2010
     evidence_type: inferred
+  - document: document/2010-04-27-haugesunds-avis-bergenfest-vorschau
+    locator: Haugesunds Avis, 27.04.2010, S. 26
+    evidence_type: third_party
 took_place_at:
 - statement_id: st-764681ea1524
   entity_value: place/den-nationale-scene-bergen
   references:
   - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
     locator: Laagendalsposten, 13.04.2010
+    evidence_type: third_party
+  - document: document/2010-04-27-haugesunds-avis-bergenfest-vorschau
+    locator: Haugesunds Avis, 27.04.2010, S. 26
     evidence_type: third_party
 participants:
 - statement_id: st-a750e96246d3
@@ -28,6 +34,9 @@ participants:
   - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
     locator: Laagendalsposten, 13.04.2010
     evidence_type: third_party
+  - document: document/2010-04-27-haugesunds-avis-bergenfest-vorschau
+    locator: Haugesunds Avis, 27.04.2010, S. 26
+    evidence_type: third_party
 - statement_id: st-d3936ae3a750
   agent_ref: person/knut-buen
   roles:
@@ -37,12 +46,18 @@ participants:
   - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
     locator: Laagendalsposten, 13.04.2010
     evidence_type: third_party
+  - document: document/2010-04-27-haugesunds-avis-bergenfest-vorschau
+    locator: Haugesunds Avis, 27.04.2010, S. 26
+    evidence_type: third_party
 performance_status:
 - statement_id: st-56162919b59d
   status_value: announced
   references:
   - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
     locator: Laagendalsposten, 13.04.2010
+    evidence_type: third_party
+  - document: document/2010-04-27-haugesunds-avis-bergenfest-vorschau
+    locator: Haugesunds Avis, 27.04.2010, S. 26
     evidence_type: third_party
 note: Nur angekündigt; Durchführung nicht belegt.
 recorded_by:

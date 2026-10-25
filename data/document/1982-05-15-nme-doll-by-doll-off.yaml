@@ -1,0 +1,23 @@
+id: document/1982-05-15-nme-doll-by-doll-off
+type: Document
+label: 'NME, 15.05.1982: Doll by Doll off (Tourabsage im Streit mit Magnet)'
+document_type: news
+language: en
+access: archive
+note: Nachweis über eine Online-Abschrift (Fanseite), die irrtümlich eine ZigZag-Kopfzeile von 1979 trägt;
+  der Text stammt aus dem NME, S. 41.
+about:
+- group/doll-by-doll
+- organization/magnet-records
+published:
+- statement_id: st-d048062f3fc0
+  edtf_value: '1982-05-15'
+  references: []
+published_in:
+- statement_id: st-e662e8ac632c
+  entity_value: publication/nme
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

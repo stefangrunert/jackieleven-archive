@@ -1,0 +1,7 @@
+id: person/gullik-maas-pedersen
+type: Person
+label: Gullik Maas Pedersen
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

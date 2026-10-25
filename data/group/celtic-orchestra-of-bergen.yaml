@@ -1,0 +1,9 @@
+id: group/celtic-orchestra-of-bergen
+type: Group
+label: The Celtic Orchestra of Bergen
+note: Name, unter dem die Teilnehmer von Levens Songwriter-Seminar (Ole Blues 1996) an einer geplanten
+  Single mitwirken sollten (Bergensavisen, 09.03.1996); ob die Single erschien, ist offen.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

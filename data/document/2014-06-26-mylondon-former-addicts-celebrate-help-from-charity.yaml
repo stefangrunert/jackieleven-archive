@@ -1,0 +1,30 @@
+id: document/2014-06-26-mylondon-former-addicts-celebrate-help-from-charity
+type: Document
+label: 'MyLondon, 26.06.2014: Former addicts celebrate help from charity set up by singer Jackie Leven'
+document_type: news
+language: en
+url: https://www.mylondon.news/news/local-news/former-addicts-celebrate-help-charity-7329733
+archive_url: https://web.archive.org/web/20230930205820/https://www.mylondon.news/news/local-news/former-addicts-celebrate-help-charity-7329733
+access: live
+note: 'Kopf der Quelldatei: anonym; im Text wird Alix Culbertson als Verfasserin genannt. Gartenfest des
+  Core Trust am 2014-06-19; keine Leven-Auftritte.'
+about:
+- person/jackie-leven
+participants:
+- statement_id: st-8c41d1d114e6
+  agent_ref: person/alix-culbertson
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-2f9c5fad1ed6
+  edtf_value: '2014-06-26'
+  references: []
+published_in:
+- statement_id: st-924f7ddf522c
+  entity_value: publication/mylondon
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

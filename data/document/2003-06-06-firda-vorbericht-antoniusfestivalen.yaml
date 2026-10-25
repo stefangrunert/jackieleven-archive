@@ -1,0 +1,21 @@
+id: document/2003-06-06-firda-vorbericht-antoniusfestivalen
+type: Document
+label: 'Firda, 06.06.2003: Vorbericht Antoniusfestivalen, Førde'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_firda_null_null_20030606_86_127_1
+access: live
+about:
+- event/2003-06-08-foerde-sunnfjord-hotell
+published:
+- statement_id: st-9f460fa4c8e8
+  edtf_value: '2003-06-06'
+  references: []
+published_in:
+- statement_id: st-8a5b500c6d45
+  entity_value: publication/firda
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,7 @@
+id: person/doug-johnstone
+type: Person
+label: Doug Johnstone
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

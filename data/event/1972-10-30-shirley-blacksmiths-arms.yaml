@@ -1,0 +1,51 @@
+id: event/1972-10-30-shirley-blacksmiths-arms
+type: Event
+label: John St Field, Blacksmiths Arms, Shirley (1972-10-30)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-9c8612103d15
+  edtf_value: '1972-10-30'
+  certainty: probable
+  note: Wochentag aus der Rubrik des Gig Guide (Sonntag bzw. folgender Montag nach Freitag, 27.10.) in
+    ein Datum umgerechnet.
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 33 (Folk)
+    evidence_type: inferred
+took_place_at:
+- statement_id: st-def20d7a161d
+  entity_value: place/blacksmiths-arms-shirley
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 33 (Folk)
+    evidence_type: primary_document
+participants:
+- statement_id: st-eac8910b142b
+  agent_ref: persona/john-st-field
+  roles:
+  - performer
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 33 (Folk)
+    evidence_type: primary_document
+- statement_id: st-7a1f8d115bf8
+  agent_ref: person/alex-atterson
+  roles:
+  - performer
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 33 (Folk)
+    evidence_type: primary_document
+performance_status:
+- statement_id: st-03730a01055b
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 33 (Folk)
+    evidence_type: primary_document
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

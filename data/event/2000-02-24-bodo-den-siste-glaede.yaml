@@ -1,0 +1,45 @@
+id: event/2000-02-24-bodo-den-siste-glaede
+type: Event
+label: Jackie Leven, Den Siste Glæde, Bodø (2000-02-24)
+event_type: concert
+note: 'Nur angekündigt; Durchführung nicht belegt. Fraglich, ob das Konzert stattfand: Leven bezeichnete
+  laut Sammeldatei das Oslo-Konzert am 28.02.2000 als erstes seit Dezember; keine Absage belegt.'
+time:
+- statement_id: st-723f8f9da31a
+  edtf_value: '2000-02-24'
+  references:
+  - document: document/2000-02-01-nordlandsposten-konsert-den-siste-glaede
+    locator: Nordlandsposten, 01.02.2000, S. 40–41
+    evidence_type: third_party
+    scope: Ankündigung des Konzerts am 24.02.2000
+took_place_at:
+- statement_id: st-267bae6feda5
+  entity_value: place/den-siste-glaede-bodo
+  references:
+  - document: document/2000-02-01-nordlandsposten-konsert-den-siste-glaede
+    locator: Nordlandsposten, 01.02.2000, S. 40–41
+    evidence_type: third_party
+    scope: Ankündigung des Konzerts am 24.02.2000
+participants:
+- statement_id: st-b7915f9c197c
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2000-02-01-nordlandsposten-konsert-den-siste-glaede
+    locator: Nordlandsposten, 01.02.2000, S. 40–41
+    evidence_type: third_party
+    scope: Ankündigung des Konzerts am 24.02.2000
+performance_status:
+- statement_id: st-ee18d8c3f466
+  status_value: announced
+  references:
+  - document: document/2000-02-01-nordlandsposten-konsert-den-siste-glaede
+    locator: Nordlandsposten, 01.02.2000, S. 40–41
+    evidence_type: third_party
+    scope: Ankündigung des Konzerts am 24.02.2000
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

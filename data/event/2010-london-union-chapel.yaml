@@ -1,0 +1,65 @@
+id: event/2010-london-union-chapel
+type: Event
+label: Jackie Leven, Union Chapel, London (2010)
+event_type: concert
+note: Ein Konzertkalendereintrag zur Union Chapel wurde in der Quelldatei nicht gefunden; Termin offen.
+time:
+- statement_id: st-688bfb5abe1e
+  edtf_value: 2010?
+  certainty: uncertain
+  note: Datum nicht genannt; Jahr aus dem Bezug auf Gothic Road erschlossen.
+  references:
+  - document: document/2010-wegottickets-jackie-leven-gothic-road-orchestra-ralph-mctell
+    locator: WeGotTickets-Ticketseite (event/80387)
+    evidence_type: primary_document
+    scope: Konzert in der Londoner Union Chapel, Jackie Leven mit Band, begleitet von Ralph McTell (sinngemäß)
+took_place_at:
+- statement_id: st-2659327ebde0
+  entity_value: place/union-chapel-london
+  references:
+  - document: document/2010-wegottickets-jackie-leven-gothic-road-orchestra-ralph-mctell
+    locator: WeGotTickets-Ticketseite (event/80387)
+    evidence_type: primary_document
+    scope: Konzert in der Londoner Union Chapel, Jackie Leven mit Band, begleitet von Ralph McTell (sinngemäß)
+participants:
+- statement_id: st-afe91de035a2
+  agent_ref: person/jackie-leven
+  roles:
+  - performer
+  credited_as: Jackie Leven & The Gothic Road Orchestra
+  references:
+  - document: document/2010-wegottickets-jackie-leven-gothic-road-orchestra-ralph-mctell
+    locator: WeGotTickets-Ticketseite (event/80387)
+    evidence_type: primary_document
+    scope: Konzert in der Londoner Union Chapel, Jackie Leven mit Band, begleitet von Ralph McTell (sinngemäß)
+- statement_id: st-ffd1b48209d3
+  agent_ref: person/ralph-mctell
+  roles:
+  - performer
+  references:
+  - document: document/2010-wegottickets-jackie-leven-gothic-road-orchestra-ralph-mctell
+    locator: WeGotTickets-Ticketseite (event/80387)
+    evidence_type: primary_document
+    scope: Konzert in der Londoner Union Chapel, Jackie Leven mit Band, begleitet von Ralph McTell (sinngemäß)
+- statement_id: st-1a4e7bca049c
+  agent_ref: organization/electroacoustic-club
+  roles:
+  - promoter
+  references:
+  - document: document/2010-wegottickets-jackie-leven-gothic-road-orchestra-ralph-mctell
+    locator: WeGotTickets-Ticketseite (event/80387)
+    evidence_type: primary_document
+    scope: Konzert in der Londoner Union Chapel, Jackie Leven mit Band, begleitet von Ralph McTell (sinngemäß)
+performance_status:
+- statement_id: st-f1f19a4a67c7
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2010-wegottickets-jackie-leven-gothic-road-orchestra-ralph-mctell
+    locator: WeGotTickets-Ticketseite (event/80387)
+    evidence_type: primary_document
+    scope: Konzert in der Londoner Union Chapel, Jackie Leven mit Band, begleitet von Ralph McTell (sinngemäß)
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

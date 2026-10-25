@@ -1,0 +1,47 @@
+id: event/1980-02-06-loughborough-loughborough-university
+type: Event
+label: Doll by Doll, Loughborough University, Loughborough (1980-02-06)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-905dc43a320f
+  edtf_value: '1980-02-06'
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-c3c11b498afb
+  entity_value: place/loughborough-university
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+participants:
+- statement_id: st-5917a4714c27
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+performance_status:
+- statement_id: st-189dedadb8e0
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+part_of:
+- statement_id: st-7e2c9f2d6a9b
+  entity_value: event/1980-02-tour-doll-by-doll
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

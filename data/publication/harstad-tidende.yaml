@@ -1,0 +1,7 @@
+id: publication/harstad-tidende
+type: Publication
+label: Harstad Tidende
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

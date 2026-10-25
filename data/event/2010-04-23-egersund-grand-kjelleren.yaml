@@ -10,12 +10,18 @@ time:
   - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
     locator: Dalane Tidende, 21.04.2010
     evidence_type: third_party
+  - document: document/2009-12-30-dalane-tidende-visefestival-komitee-grand-kjelleren
+    locator: Dalane Tidende, 30.12.2009, S. 35
+    evidence_type: third_party
 took_place_at:
 - statement_id: st-0810e71e075c
   entity_value: place/grand-kjelleren-egersund
   references:
   - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
     locator: Dalane Tidende, 21.04.2010
+    evidence_type: third_party
+  - document: document/2009-12-30-dalane-tidende-visefestival-komitee-grand-kjelleren
+    locator: Dalane Tidende, 30.12.2009, S. 35
     evidence_type: third_party
 participants:
 - statement_id: st-8c7e20a61f0e
@@ -26,6 +32,9 @@ participants:
   references:
   - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
     locator: Dalane Tidende, 21.04.2010
+    evidence_type: third_party
+  - document: document/2009-12-30-dalane-tidende-visefestival-komitee-grand-kjelleren
+    locator: Dalane Tidende, 30.12.2009, S. 35
     evidence_type: third_party
 - statement_id: st-646913c29acd
   agent_ref: person/henning-feyling
@@ -41,6 +50,9 @@ performance_status:
   references:
   - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
     locator: Dalane Tidende, 21.04.2010
+    evidence_type: third_party
+  - document: document/2009-12-30-dalane-tidende-visefestival-komitee-grand-kjelleren
+    locator: Dalane Tidende, 30.12.2009, S. 35
     evidence_type: third_party
 note: Nur angekündigt; Durchführung nicht belegt.
 recorded_by:

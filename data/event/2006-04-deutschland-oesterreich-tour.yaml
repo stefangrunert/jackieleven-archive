@@ -1,0 +1,53 @@
+id: event/2006-04-deutschland-oesterreich-tour
+type: Event
+label: Jackie Leven und Michael Cosgrave, Tour Deutschland und Österreich (2006-04)
+event_type: tour
+time:
+- statement_id: st-b68ef448bd0b
+  edtf_value: 2006-04
+  references:
+  - document: document/2007-kevin-coyne-home-page-news-coyne-of-the-realm
+    locator: Kevin Coyne Home Page, News 2007 (Auszug aus „The Deep Pool“, Mai 2006)
+    quote: Tour with Michael Cosgrave through Germany and Austria in April 2006
+    evidence_type: self_statement
+    asserted_by: person/jackie-leven
+    scope: Selbstaussage Levens in seiner Kolumne, von der Fanseite wörtlich übernommen.
+participants:
+- statement_id: st-057bafcfdcaf
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-kevin-coyne-home-page-news-coyne-of-the-realm
+    locator: Kevin Coyne Home Page, News 2007 (Auszug aus „The Deep Pool“, Mai 2006)
+    quote: Tour with Michael Cosgrave through Germany and Austria in April 2006
+    evidence_type: self_statement
+    asserted_by: person/jackie-leven
+    scope: Selbstaussage Levens in seiner Kolumne, von der Fanseite wörtlich übernommen.
+- statement_id: st-4978d9436e90
+  agent_ref: person/michael-cosgrave
+  roles:
+  - performer
+  references:
+  - document: document/2007-kevin-coyne-home-page-news-coyne-of-the-realm
+    locator: Kevin Coyne Home Page, News 2007 (Auszug aus „The Deep Pool“, Mai 2006)
+    quote: Tour with Michael Cosgrave through Germany and Austria in April 2006
+    evidence_type: self_statement
+    asserted_by: person/jackie-leven
+    scope: Selbstaussage Levens in seiner Kolumne, von der Fanseite wörtlich übernommen.
+performance_status:
+- statement_id: st-ebdd671ec403
+  status_value: took_place
+  note: Aus der Rückschau Levens (Mai 2006).
+  references:
+  - document: document/2007-kevin-coyne-home-page-news-coyne-of-the-realm
+    locator: Kevin Coyne Home Page, News 2007 (Auszug aus „The Deep Pool“, Mai 2006)
+    quote: Tour with Michael Cosgrave through Germany and Austria in April 2006
+    evidence_type: self_statement
+    asserted_by: person/jackie-leven
+    scope: Selbstaussage Levens in seiner Kolumne, von der Fanseite wörtlich übernommen.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

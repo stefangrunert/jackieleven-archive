@@ -13,6 +13,9 @@ time:
   - document: document/2003-03-01-nordlys-kiltkledd-helt-tilbake-i-byen
     locator: Nordlys, 01.03.2003
     evidence_type: third_party
+  - document: document/2022-05-13-itromso-blarock-liste-legendaere-konzerte
+    locator: S. 21
+    evidence_type: third_party
 took_place_at:
 - statement_id: st-383aebc4edc1
   entity_value: place/bla-rock-cafe-tromso
@@ -22,6 +25,9 @@ took_place_at:
     evidence_type: third_party
   - document: document/2003-03-01-nordlys-kiltkledd-helt-tilbake-i-byen
     locator: Nordlys, 01.03.2003
+    evidence_type: third_party
+  - document: document/2022-05-13-itromso-blarock-liste-legendaere-konzerte
+    locator: S. 21
     evidence_type: third_party
 participants:
 - statement_id: st-fe30b27657cd
@@ -46,6 +52,18 @@ performance_status:
   - document: document/2003-03-01-nordlys-kiltkledd-helt-tilbake-i-byen
     locator: Nordlys, 01.03.2003
     evidence_type: third_party
+- statement_id: st-7c8fc2a4af6a
+  status_value: took_place
+  note: 'Rückblick in iTromsø (13.05.2022): Auftritt vom 02.03.2003, sein fünfter im Blårock; der Autor
+    nennt es sein bestes Leven-Konzert.'
+  references:
+  - document: document/2022-05-13-itromso-blarock-liste-legendaere-konzerte
+    locator: S. 21
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 note: Nur angekündigt; Durchführung nicht belegt.
 recorded_by:
   agent: claude-code

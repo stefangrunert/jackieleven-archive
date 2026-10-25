@@ -1,0 +1,23 @@
+id: document/2007-09-26-avisa-nordland-vorbericht-sinus
+type: Document
+label: 'Avisa Nordland, 26.09.2007: Vorbericht Sinus, Bodø, Donnerstag 27.09.2007'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_avisanordland_null_null_20070926_6_223_1
+access: live
+note: Pressetext mit Fehlern laut Sammeldatei (Comeback „1985“, fünf Doll-by-Doll-Platten). Inhalt nach
+  der Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2007-09-27-bodo-sinus
+published:
+- statement_id: st-9cd6dfa10ffb
+  edtf_value: '2007-09-26'
+  references: []
+published_in:
+- statement_id: st-9ef8fa8688d2
+  entity_value: publication/avisa-nordland
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

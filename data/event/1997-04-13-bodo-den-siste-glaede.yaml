@@ -13,6 +13,32 @@ time:
   - document: document/1997-04-15-nordlandsposten-leven-pa-glaeden
     locator: Nordlandsposten, 15.04.1997
     evidence_type: third_party
+  - document: document/1997-04-02-nordlandsposten-leven-kommer
+    locator: Nordlandsposten, 02.04.1997, S. 43
+    quote: Leven kommer
+    evidence_type: third_party
+  - document: document/1997-04-10-nordlandsposten-konzertanzeige-den-siste-glaede
+    locator: Nordlandsposten, 10.04.1997, S. 5
+    evidence_type: third_party
+  - document: document/1997-04-12-nordlandsposten-konzertanzeige-den-siste-glaede
+    locator: Nordlandsposten, 12.04.1997, S. 5
+    evidence_type: third_party
+  - document: document/1997-04-12-nordlands-framtid-intens-skotte-med-folkrock
+    locator: Nordlands framtid, 12.04.1997, S. 44
+    quote: Intens skotte med folkrock
+    evidence_type: third_party
+- statement_id: st-7a54fe0fa988
+  edtf_value: '[1997-04-05,1997-04-06,1997-04-13]'
+  certainty: uncertain
+  note: Vorbericht vom 12.03.1997 nennt noch drei mögliche Termine (5., 6. oder 13.04.).
+  references:
+  - document: document/1997-03-12-nordlands-framtid-bodo-konzert-gebucht
+    locator: Nordlands framtid, 12.03.1997, S. 55
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 took_place_at:
 - statement_id: st-8e6066501f8a
   entity_value: place/den-siste-glaede-bodo
@@ -22,6 +48,20 @@ took_place_at:
     evidence_type: third_party
   - document: document/1997-04-15-nordlandsposten-leven-pa-glaeden
     locator: Nordlandsposten, 15.04.1997
+    evidence_type: third_party
+  - document: document/1997-04-02-nordlandsposten-leven-kommer
+    locator: Nordlandsposten, 02.04.1997, S. 43
+    quote: Leven kommer
+    evidence_type: third_party
+  - document: document/1997-04-10-nordlandsposten-konzertanzeige-den-siste-glaede
+    locator: Nordlandsposten, 10.04.1997, S. 5
+    evidence_type: third_party
+  - document: document/1997-04-12-nordlandsposten-konzertanzeige-den-siste-glaede
+    locator: Nordlandsposten, 12.04.1997, S. 5
+    evidence_type: third_party
+  - document: document/1997-04-12-nordlands-framtid-intens-skotte-med-folkrock
+    locator: Nordlands framtid, 12.04.1997, S. 44
+    quote: Intens skotte med folkrock
     evidence_type: third_party
 participants:
 - statement_id: st-50a3fa7e91a3
@@ -35,6 +75,14 @@ participants:
     evidence_type: third_party
   - document: document/1997-04-15-nordlandsposten-leven-pa-glaeden
     locator: Nordlandsposten, 15.04.1997
+    evidence_type: third_party
+  - document: document/1997-04-02-nordlandsposten-leven-kommer
+    locator: Nordlandsposten, 02.04.1997, S. 43
+    quote: Leven kommer
+    evidence_type: third_party
+  - document: document/1997-04-12-nordlands-framtid-intens-skotte-med-folkrock
+    locator: Nordlands framtid, 12.04.1997, S. 44
+    quote: Intens skotte med folkrock
     evidence_type: third_party
 performance_status:
 - statement_id: st-c9f23ef31f6c

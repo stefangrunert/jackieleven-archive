@@ -1,0 +1,7 @@
+id: publication/celtic-connections-pressemitteilung
+type: Publication
+label: Celtic Connections (Pressemitteilung)
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,8 @@
+id: place/burton-on-trent
+type: Place
+label: Burton on Trent
+place_type: city
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

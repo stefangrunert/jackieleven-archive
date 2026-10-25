@@ -1,0 +1,55 @@
+id: event/2008-11-03-tromso-kulturhuset
+type: Event
+label: Jackie Leven (Vorgruppe Madrugada), Kulturhuset, Tromsø (2008-11-03)
+event_type: concert
+note: Vorgruppe der Abschiedskonzerte von Madrugada. Möglicherweise identisch mit dem Pilot-Ereignis event/2009-tromso-madrugada
+  (dort „2009?“ nach einem Rückblick von 2010); die zeitnahen Kritiken nennen den 2. bzw. 3. November
+  2008.
+time:
+- statement_id: st-1ae37054efeb
+  edtf_value: '2008-11-03'
+  note: 'Datum der Kritik: Madrugada-Konzert am 03.11.2008.'
+  references:
+  - document: document/2008-11-04-tromso-madrugada-konzert-kulturhuset
+    locator: Tromsø, 04.11.2008, S. 23
+    quote: karismatiske visesangeren
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-c00a50e16c0e
+  entity_value: place/kulturhuset-tromso
+  references:
+  - document: document/2008-11-04-tromso-madrugada-konzert-kulturhuset
+    locator: Tromsø, 04.11.2008, S. 23
+    quote: karismatiske visesangeren
+    evidence_type: third_party
+participants:
+- statement_id: st-b804c8eef5a0
+  agent_ref: person/jackie-leven
+  roles:
+  - support_act
+  references:
+  - document: document/2008-11-04-tromso-madrugada-konzert-kulturhuset
+    locator: Tromsø, 04.11.2008, S. 23
+    quote: karismatiske visesangeren
+    evidence_type: third_party
+- statement_id: st-4de4c3ef959f
+  agent_ref: group/madrugada
+  roles:
+  - performer
+  references:
+  - document: document/2008-11-04-tromso-madrugada-konzert-kulturhuset
+    locator: Tromsø, 04.11.2008, S. 23
+    quote: karismatiske visesangeren
+    evidence_type: third_party
+performance_status:
+- statement_id: st-76aa7ebfe10c
+  status_value: took_place
+  references:
+  - document: document/2008-11-04-tromso-madrugada-konzert-kulturhuset
+    locator: Tromsø, 04.11.2008, S. 23
+    quote: karismatiske visesangeren
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

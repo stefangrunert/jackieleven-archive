@@ -1,0 +1,17 @@
+id: place/hagstrom-bergen
+type: Place
+label: Hagstrøm
+place_type: building
+note: Stadtzuordnung abgeleitet (Bergensavisen, Quellendatei nennt Bergen).
+located_in:
+- statement_id: st-99346803749b
+  entity_value: place/bergen
+  references:
+  - document: document/1998-10-13-bergensavisen-kursankuendigung-songwriting
+    locator: Bergensavisen, 13.10.1998, S. 35
+    evidence_type: inferred
+    scope: Stadt aus Quellendatei; die Zeitung erscheint in Bergen
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

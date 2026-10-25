@@ -1,0 +1,23 @@
+id: document/2023-12-guerssen-records-john-st-field-control-reissue
+type: Document
+label: 'Guerssen Records, Dezember 2023: John St. Field – Control (Black LP), Labeltext zur Neuauflage'
+document_type: website
+language: en
+url: https://guerssenrecords.bandcamp.com/merch/john-st-field-control-black-lp
+access: live
+note: Produkttext zu einer Neuauflage; keine Konzertangaben, Album und Mitwirkende der Aufnahme werden
+  nicht erfasst.
+about:
+- persona/john-st-field
+published:
+- statement_id: st-774b15d1ad2c
+  edtf_value: 2023-12
+  references: []
+published_in:
+- statement_id: st-399eb7a0bf80
+  entity_value: publication/guerssen-records
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

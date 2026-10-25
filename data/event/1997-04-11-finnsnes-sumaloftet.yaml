@@ -10,12 +10,38 @@ time:
   - document: document/1997-04-14-troms-folkeblad-ekte-vare-fra-skotske-leven
     locator: Troms Folkeblad, 14.04.1997
     evidence_type: third_party
+  - document: document/1997-04-03-troms-folkeblad-vorbericht-sumaloftet
+    locator: Troms Folkeblad, 03.04.1997, S. 2
+    evidence_type: third_party
+  - document: document/1997-04-11-troms-folkeblad-laeven-med-leven
+    locator: Troms Folkeblad, 11.04.1997, S. 12
+    quote: «Læven» med Leven
+    evidence_type: third_party
+  - document: document/1997-04-11-harstad-tidende-legende
+    locator: Harstad Tidende, 11.04.1997, S. 18
+    quote: Legende
+    evidence_type: third_party
 took_place_at:
 - statement_id: st-08bd54ea8535
   entity_value: place/sumaloftet-finnsnes
   references:
   - document: document/1997-04-14-troms-folkeblad-ekte-vare-fra-skotske-leven
     locator: Troms Folkeblad, 14.04.1997
+    evidence_type: third_party
+  - document: document/1997-04-03-troms-folkeblad-vorbericht-sumaloftet
+    locator: Troms Folkeblad, 03.04.1997, S. 2
+    evidence_type: third_party
+  - document: document/1997-04-08-troms-folkeblad-leven-pa-sumaloftet
+    locator: Troms Folkeblad, 08.04.1997, S. 2
+    quote: Leven på Sumaloftet
+    evidence_type: third_party
+  - document: document/1997-04-11-troms-folkeblad-laeven-med-leven
+    locator: Troms Folkeblad, 11.04.1997, S. 12
+    quote: «Læven» med Leven
+    evidence_type: third_party
+  - document: document/1997-04-11-harstad-tidende-legende
+    locator: Harstad Tidende, 11.04.1997, S. 18
+    quote: Legende
     evidence_type: third_party
 participants:
 - statement_id: st-c4a9866521bd
@@ -27,6 +53,33 @@ participants:
   - document: document/1997-04-14-troms-folkeblad-ekte-vare-fra-skotske-leven
     locator: Troms Folkeblad, 14.04.1997
     evidence_type: third_party
+  - document: document/1997-04-03-troms-folkeblad-vorbericht-sumaloftet
+    locator: Troms Folkeblad, 03.04.1997, S. 2
+    evidence_type: third_party
+  - document: document/1997-04-08-troms-folkeblad-leven-pa-sumaloftet
+    locator: Troms Folkeblad, 08.04.1997, S. 2
+    quote: Leven på Sumaloftet
+    evidence_type: third_party
+  - document: document/1997-04-11-troms-folkeblad-laeven-med-leven
+    locator: Troms Folkeblad, 11.04.1997, S. 12
+    quote: «Læven» med Leven
+    evidence_type: third_party
+  - document: document/1997-04-11-harstad-tidende-legende
+    locator: Harstad Tidende, 11.04.1997, S. 18
+    quote: Legende
+    evidence_type: third_party
+- statement_id: st-c00df8613b3e
+  agent_ref: person/john-kare-bjorndal
+  roles:
+  - promoter
+  references:
+  - document: document/1997-04-03-troms-folkeblad-vorbericht-sumaloftet
+    locator: Troms Folkeblad, 03.04.1997, S. 2
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 performance_status:
 - statement_id: st-ab0f0df9e42f
   status_value: took_place

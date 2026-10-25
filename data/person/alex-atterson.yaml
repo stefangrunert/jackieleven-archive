@@ -1,0 +1,7 @@
+id: person/alex-atterson
+type: Person
+label: Alex Atterson
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

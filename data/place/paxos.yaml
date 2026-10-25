@@ -1,0 +1,8 @@
+id: place/paxos
+type: Place
+label: Paxos
+place_type: region
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

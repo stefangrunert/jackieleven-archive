@@ -1,0 +1,25 @@
+id: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
+type: Document
+label: 'Record Mirror, 28.07.1979: Dolls to split (Spreafico verlässt Doll by Doll)'
+document_type: news
+language: en
+url: https://www.worldradiohistory.com/UK/Record-Mirror/70s/79/Record-Mirror-1979-07-28.pdf
+archive_url: https://web.archive.org/web/20260311164526/https://www.worldradiohistory.com/UK/Record-Mirror/70s/79/Record-Mirror-1979-07-28.pdf
+access: live
+note: Im Text „Robin Speafico“ (Druckfehler).
+about:
+- group/doll-by-doll
+- person/robin-spreafico
+- person/nick-whiffen
+published:
+- statement_id: st-47c01852d6d6
+  edtf_value: '1979-07-28'
+  references: []
+published_in:
+- statement_id: st-759047b9f7d6
+  entity_value: publication/record-mirror
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

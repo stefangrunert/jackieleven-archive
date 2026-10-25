@@ -1,0 +1,8 @@
+id: person/john-read
+type: Person
+label: John Read
+note: Schreibung der Quelle (OCR); anderweitig als John Reid geführt.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

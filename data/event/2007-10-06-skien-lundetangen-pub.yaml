@@ -1,0 +1,113 @@
+id: event/2007-10-06-skien-lundetangen-pub
+type: Event
+label: Jackie Leven, Lundetangen Pub, Skien (2007-10-06)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-f00fd0188225
+  edtf_value: '2007-10-06'
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-10-05-varden-kultlegende-til-lundetangen
+    locator: Varden, 05.10.2007, S. 79
+    quote: Kultlegende til Lundetangen
+    evidence_type: third_party
+  - document: document/2007-10-05-telemarksavisa-vorbericht-lundetangen
+    locator: Telemarksavisa, 05.10.2007, S. 30
+    evidence_type: third_party
+  - document: document/2007-10-06-varden-ankuendigung-lundetangen
+    locator: Varden, 06.10.2007, S. 38
+    evidence_type: primary_document
+  - document: document/2007-10-08-varden-jackie-leven-pa-pub
+    locator: Varden, 08.10.2007, S. 56
+    quote: godt voksne
+    evidence_type: third_party
+  note: Samstag, 06.10.2007 (Samstagscafé, 15.00).
+took_place_at:
+- statement_id: st-b30759731f72
+  entity_value: place/lundetangen-pub-skien
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-10-05-varden-kultlegende-til-lundetangen
+    locator: Varden, 05.10.2007, S. 79
+    quote: Kultlegende til Lundetangen
+    evidence_type: third_party
+  - document: document/2007-10-05-telemarksavisa-vorbericht-lundetangen
+    locator: Telemarksavisa, 05.10.2007, S. 30
+    evidence_type: third_party
+  - document: document/2007-10-06-varden-ankuendigung-lundetangen
+    locator: Varden, 06.10.2007, S. 38
+    evidence_type: primary_document
+  - document: document/2007-10-08-varden-jackie-leven-pa-pub
+    locator: Varden, 08.10.2007, S. 56
+    quote: godt voksne
+    evidence_type: third_party
+participants:
+- statement_id: st-6081629e095b
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-10-05-varden-kultlegende-til-lundetangen
+    locator: Varden, 05.10.2007, S. 79
+    quote: Kultlegende til Lundetangen
+    evidence_type: third_party
+  - document: document/2007-10-05-telemarksavisa-vorbericht-lundetangen
+    locator: Telemarksavisa, 05.10.2007, S. 30
+    evidence_type: third_party
+  - document: document/2007-10-06-varden-ankuendigung-lundetangen
+    locator: Varden, 06.10.2007, S. 38
+    evidence_type: primary_document
+  - document: document/2007-10-08-varden-jackie-leven-pa-pub
+    locator: Varden, 08.10.2007, S. 56
+    quote: godt voksne
+    evidence_type: third_party
+performance_status:
+- statement_id: st-dbdbabd3c6c2
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-10-05-varden-kultlegende-til-lundetangen
+    locator: Varden, 05.10.2007, S. 79
+    quote: Kultlegende til Lundetangen
+    evidence_type: third_party
+  - document: document/2007-10-05-telemarksavisa-vorbericht-lundetangen
+    locator: Telemarksavisa, 05.10.2007, S. 30
+    evidence_type: third_party
+  - document: document/2007-10-06-varden-ankuendigung-lundetangen
+    locator: Varden, 06.10.2007, S. 38
+    evidence_type: primary_document
+- statement_id: st-3e0cf0edd32a
+  status_value: took_place
+  note: 'Kurzbericht vom Montag danach: Pub voll mit „godt voksne“ Zuhörern.'
+  references:
+  - document: document/2007-10-08-varden-jackie-leven-pa-pub
+    locator: Varden, 08.10.2007, S. 56
+    quote: godt voksne
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
+part_of:
+- statement_id: st-6fee656d4e48
+  entity_value: event/2007-09-norwegen-tournee
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

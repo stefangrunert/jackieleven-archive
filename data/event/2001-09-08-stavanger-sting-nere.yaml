@@ -10,6 +10,10 @@ time:
   - document: document/2001-09-10-rogalands-avis-leven-uten-dodpunkt
     locator: Rogalands Avis, 10.09.2001
     evidence_type: third_party
+  - document: document/2001-09-05-rogalands-avis-konsertvorbericht-sting-nere
+    locator: Rogalands Avis, 05.09.2001, S. 23
+    evidence_type: third_party
+    scope: 'Vorbericht: Konzert am 08.09.2001 im Sting Nere; Tourroute Bodø–Kabelvåg–Trondheim (05.09.)–Bergen–Oslo–Stavanger'
 took_place_at:
 - statement_id: st-d8fd31bfcbf3
   entity_value: place/sting-nere-stavanger
@@ -36,6 +40,17 @@ performance_status:
     quote: Jackie Leven holdt på i to strake timer på Sting Nere lørdag kveld uten at det var ett minutt
       med dødtid.
     evidence_type: third_party
+- statement_id: st-810fdb0fe3a7
+  status_value: announced
+  references:
+  - document: document/2001-09-05-rogalands-avis-konsertvorbericht-sting-nere
+    locator: Rogalands Avis, 05.09.2001, S. 23
+    evidence_type: third_party
+    scope: 'Vorbericht: Konzert am 08.09.2001 im Sting Nere; Tourroute Bodø–Kabelvåg–Trondheim (05.09.)–Bergen–Oslo–Stavanger'
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

@@ -1,0 +1,62 @@
+id: event/1979-04-09-york-pop-club
+type: Event
+label: Doll by Doll, Pop Club, York (1979-04-09)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-9016aee09403
+  edtf_value: '1979-04-09'
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-52da89e2a3c0
+  entity_value: place/pop-club-york
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+participants:
+- statement_id: st-534f6bef41b8
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+performance_status:
+- statement_id: st-b9706846a907
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+- statement_id: st-c38e6c6ef580
+  status_value: took_place
+  certainty: probable
+  note: 'Zuordnung zum angekündigten Termin am 9. April 1979 ist erschlossen: Die Liste nennt nur den
+    Ort, nicht den Tag.'
+  references:
+  - document: document/1979-12-22-record-mirror-jahresbestenlisten-1979
+    locator: Record Mirror, 22.12.1979, S. 15 (Liste Chris Westwood)
+    evidence_type: third_party
+    scope: Westwood nennt das Konzert im York Pop Club unter den besten Konzerten 1979; der Tag steht
+      nicht in der Liste.
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
+part_of:
+- statement_id: st-d055ec8505d6
+  entity_value: event/1979-03-tour-fruehjahr-doll-by-doll
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

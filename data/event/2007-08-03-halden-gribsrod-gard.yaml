@@ -1,0 +1,89 @@
+id: event/2007-08-03-halden-gribsrod-gard
+type: Event
+label: Jackie Leven, Campfire Stage (Down on the Farm), Gribsrød gård, Halden (2007-08-03)
+event_type: festival_appearance
+note: Down on the Farm, Gribsrød gård bei Halden (Enningdalen). Leven leitete laut den Meldungen die neue
+  Campfire Stage, zusammen mit Hitchcock und Jones.
+time:
+- statement_id: st-0e73fdb24512
+  edtf_value: '2007-08-03'
+  certainty: probable
+  note: 'Bilanz: Start der Campfire Stage in der Nacht zum Samstag (04.08.); das Tagesprogramm nennt Freitag,
+    03.08. (nur gezählt).'
+  references:
+  - document: document/2007-08-06-halden-arbeiderblad-festivalbilanz-campfire-stage
+    locator: Halden Arbeiderblad, 06.08.2007, S. 5
+    quote: Pangstart
+    evidence_type: third_party
+participants:
+- statement_id: st-b608e4707439
+  agent_ref: person/jackie-leven
+  roles:
+  - performer
+  references:
+  - document: document/2007-07-16-halden-arbeiderblad-down-on-the-farm-campfire-stage
+    locator: Halden Arbeiderblad, 16.07.2007, S. 26
+    evidence_type: third_party
+  - document: document/2007-07-19-sarpsborg-arbeiderblad-campfire-stage-down-on-the-farm
+    locator: Sarpsborg Arbeiderblad, 19.07.2007, S. 18
+    evidence_type: third_party
+  - document: document/2007-08-06-halden-arbeiderblad-festivalbilanz-campfire-stage
+    locator: Halden Arbeiderblad, 06.08.2007, S. 5
+    quote: Pangstart
+    evidence_type: third_party
+- statement_id: st-4d698912218c
+  agent_ref: person/robyn-hitchcock
+  roles:
+  - performer
+  references:
+  - document: document/2007-07-16-halden-arbeiderblad-down-on-the-farm-campfire-stage
+    locator: Halden Arbeiderblad, 16.07.2007, S. 26
+    evidence_type: third_party
+  - document: document/2007-07-19-sarpsborg-arbeiderblad-campfire-stage-down-on-the-farm
+    locator: Sarpsborg Arbeiderblad, 19.07.2007, S. 18
+    evidence_type: third_party
+- statement_id: st-dd15ea11c3bf
+  agent_ref: person/john-paul-jones
+  roles:
+  - performer
+  references:
+  - document: document/2007-07-16-halden-arbeiderblad-down-on-the-farm-campfire-stage
+    locator: Halden Arbeiderblad, 16.07.2007, S. 26
+    evidence_type: third_party
+  - document: document/2007-07-19-sarpsborg-arbeiderblad-campfire-stage-down-on-the-farm
+    locator: Sarpsborg Arbeiderblad, 19.07.2007, S. 18
+    evidence_type: third_party
+performance_status:
+- statement_id: st-6c69d8cf9acd
+  status_value: announced
+  references:
+  - document: document/2007-07-16-halden-arbeiderblad-down-on-the-farm-campfire-stage
+    locator: Halden Arbeiderblad, 16.07.2007, S. 26
+    evidence_type: third_party
+  - document: document/2007-07-19-sarpsborg-arbeiderblad-campfire-stage-down-on-the-farm
+    locator: Sarpsborg Arbeiderblad, 19.07.2007, S. 18
+    evidence_type: third_party
+- statement_id: st-e47d23689c1e
+  status_value: took_place
+  references:
+  - document: document/2007-08-06-halden-arbeiderblad-festivalbilanz-campfire-stage
+    locator: Halden Arbeiderblad, 06.08.2007, S. 5
+    quote: Pangstart
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-4d30b7f1f2ea
+  entity_value: place/gribsrod-gard-halden
+  certainty: probable
+  note: Zuordnung der Festivalbühne zum Hof nach der Sammeldatei; Wortlaut nicht geprüft.
+  references:
+  - document: document/2007-07-16-halden-arbeiderblad-down-on-the-farm-campfire-stage
+    locator: Halden Arbeiderblad, 16.07.2007, S. 26
+    evidence_type: inferred
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

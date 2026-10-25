@@ -1,0 +1,15 @@
+id: place/loughborough-university
+type: Place
+label: Loughborough University
+place_type: venue
+located_in:
+- statement_id: st-833f7e0ee15e
+  entity_value: place/loughborough
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

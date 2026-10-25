@@ -1,0 +1,46 @@
+id: event/2026-12-09-london-leytonstone-ex-servicemens-club-main-travelled-roads
+type: Event
+label: Main Travelled Roads – A Tribute to Jackie Leven, Leytonstone Ex-Servicemen's Club, London (2026-12-09)
+event_type: concert
+note: Mitwirkende nennt die Seite nicht. Zukünftige Veranstaltung (Stand Abruf). Nur angekündigt; Durchführung
+  nicht belegt.
+time:
+- statement_id: st-d6e9de1fc95a
+  edtf_value: '2026-12-09'
+  note: Mittwoch, 19.30 Uhr.
+  references:
+  - document: document/2026-12-09-ents24-main-travelled-roads-tribute
+    locator: Ankündigung
+    quote: Main Travelled Roads - A Tribute to Jackie Leven
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-ba139033bbcd
+  entity_value: place/leytonstone-ex-servicemens-club-london
+  references:
+  - document: document/2026-12-09-ents24-main-travelled-roads-tribute
+    locator: Ankündigung
+    quote: Main Travelled Roads - A Tribute to Jackie Leven
+    evidence_type: third_party
+participants:
+- statement_id: st-f6695c2257ae
+  agent_ref: organization/whats-cookin
+  roles:
+  - promoter
+  references:
+  - document: document/2026-12-09-ents24-main-travelled-roads-tribute
+    locator: Ankündigung
+    quote: Main Travelled Roads - A Tribute to Jackie Leven
+    evidence_type: third_party
+performance_status:
+- statement_id: st-bd883ca2c696
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2026-12-09-ents24-main-travelled-roads-tribute
+    locator: Ankündigung
+    quote: Main Travelled Roads - A Tribute to Jackie Leven
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

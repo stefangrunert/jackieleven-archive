@@ -1,0 +1,22 @@
+id: document/2000-01-cooking-vinyl-defending-ancient-springs-brand-new-studio-album
+type: Document
+label: 'Cooking Vinyl, 01/2000: Jackie Leven – A Brand New Studio Album (Defending Ancient Springs)'
+document_type: press_release
+language: en
+access: archive
+note: Label-Text auf cookingvinyl.com/leven/pre.html; Selbstdarstellung des Labels.
+about:
+- person/jackie-leven
+- organization/cooking-vinyl
+published:
+- statement_id: st-1edbd4584b67
+  edtf_value: 2000-01
+  references: []
+published_in:
+- statement_id: st-c89666276c1e
+  entity_value: publication/cooking-vinyl
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

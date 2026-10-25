@@ -1,0 +1,57 @@
+id: event/2011-muensterland-festival-jackie-leven
+type: Event
+label: Jackie Leven, Münsterland-Festival (2011, abgesagt)
+event_type: festival_appearance
+note: Absage wegen Krankheit; Armfield fiel als Vorgruppe mit aus.
+time:
+- statement_id: st-ec0f8173a43c
+  edtf_value: 2011-09/2011-10
+  certainty: uncertain
+  note: Auftrittstermin nicht genannt, nur der Festivalzeitraum. Mögliche Identität mit dem Kalendertermin
+    Hot Jazz Club Münster, 22.09.2011 (Zuordnung in der Quelldatei erschlossen, nicht belegt).
+  references:
+  - document: document/2011-11-folkworld-cara-muensterland-festival-folk-night-senden
+    locator: FolkWorld Nr. 46, Vorspann
+    evidence_type: third_party
+    scope: Das Münsterland-Festival wurde im September und Oktober 2011 zum sechsten Mal ausgerichtet
+      (sinngemäß)
+participants:
+- statement_id: st-340f6b8b04b8
+  agent_ref: person/jackie-leven
+  roles:
+  - performer
+  references:
+  - document: document/2011-11-folkworld-cara-muensterland-festival-folk-night-senden
+    locator: FolkWorld Nr. 46, Vorspann
+    quote: Jackie Leven hingegen fiel wegen Krankheit aus
+    evidence_type: third_party
+- statement_id: st-ad768699ea7a
+  agent_ref: person/paul-armfield
+  roles:
+  - support_act
+  references:
+  - document: document/2011-11-folkworld-cara-muensterland-festival-folk-night-senden
+    locator: FolkWorld Nr. 46, Vorspann
+    quote: der Support Paul Armfield
+    evidence_type: third_party
+performance_status:
+- statement_id: st-56e8418ca36d
+  status_value: cancelled
+  references:
+  - document: document/2011-11-folkworld-cara-muensterland-festival-folk-night-senden
+    locator: FolkWorld Nr. 46, Vorspann
+    quote: Jackie Leven hingegen fiel wegen Krankheit aus
+    evidence_type: third_party
+part_of:
+- statement_id: st-fbc2e3ee8e3a
+  entity_value: event/2011-muensterland-festival
+  references:
+  - document: document/2011-11-folkworld-cara-muensterland-festival-folk-night-senden
+    locator: FolkWorld Nr. 46, Vorspann
+    evidence_type: third_party
+    scope: Das Münsterland-Festival wurde im September und Oktober 2011 zum sechsten Mal ausgerichtet
+      (sinngemäß)
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

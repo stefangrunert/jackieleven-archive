@@ -1,0 +1,7 @@
+id: publication/paxos-festival
+type: Publication
+label: Paxos Festival (Website)
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,22 @@
+id: document/2007-09-03-tromso-konzertvorschau-kaos
+type: Document
+label: 'Tromsø, 03.09.2007: Konzertvorschau Kaos, 23.09.2007'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromso_null_null_20070903_109_204_1
+access: live
+note: Inhalt nach der Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2007-09-23-tromso-kaos
+published:
+- statement_id: st-77eb7343e579
+  edtf_value: '2007-09-03'
+  references: []
+published_in:
+- statement_id: st-6bd8c506a78b
+  entity_value: publication/tromso
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

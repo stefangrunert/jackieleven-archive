@@ -1,0 +1,56 @@
+id: event/1993-london-12-bar-club
+type: Event
+label: Jackie Leven, 12 Bar Club, London (1993)
+event_type: concert
+note: Konzert, bei dem das Livealbum For Peace Comes Dropping Slow aufgenommen worden sein soll; Jahr
+  unsicher.
+time:
+- statement_id: st-874027a4e12f
+  edtf_value: '1993'
+  certainty: uncertain
+  note: Aufnahmejahr des Livealbums laut Labeltext (2004).
+  references:
+  - document: document/2004-cooking-vinyl-for-peace-comes-dropping-slow-reissue
+    locator: Cooking Vinyl, 2004
+    quote: recorded in 1993 at the 12 Bar Club
+    evidence_type: primary_document
+    scope: Aufnahmejahr laut Labeltext; steht im Widerspruch zu anderen Angaben der Recherche (Heylin-Interview
+      1997).
+took_place_at:
+- statement_id: st-58ddfbe470db
+  entity_value: place/12-bar-club-london
+  references:
+  - document: document/2004-cooking-vinyl-for-peace-comes-dropping-slow-reissue
+    locator: Cooking Vinyl, 2004
+    quote: recorded in 1993 at the 12 Bar Club
+    evidence_type: primary_document
+    scope: Aufnahmejahr laut Labeltext; steht im Widerspruch zu anderen Angaben der Recherche (Heylin-Interview
+      1997).
+participants:
+- statement_id: st-6133b0a990c6
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2004-cooking-vinyl-for-peace-comes-dropping-slow-reissue
+    locator: Cooking Vinyl, 2004
+    quote: recorded in 1993 at the 12 Bar Club
+    evidence_type: primary_document
+    scope: Aufnahmejahr laut Labeltext; steht im Widerspruch zu anderen Angaben der Recherche (Heylin-Interview
+      1997).
+performance_status:
+- statement_id: st-3c2ec849ac23
+  status_value: took_place
+  note: Aus dem Aufnahmehinweis des Labels erschlossen.
+  references:
+  - document: document/2004-cooking-vinyl-for-peace-comes-dropping-slow-reissue
+    locator: Cooking Vinyl, 2004
+    quote: recorded in 1993 at the 12 Bar Club
+    evidence_type: primary_document
+    scope: Aufnahmejahr laut Labeltext; steht im Widerspruch zu anderen Angaben der Recherche (Heylin-Interview
+      1997).
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

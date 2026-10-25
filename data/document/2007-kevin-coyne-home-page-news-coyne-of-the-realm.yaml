@@ -1,0 +1,30 @@
+id: document/2007-kevin-coyne-home-page-news-coyne-of-the-realm
+type: Document
+label: 'Pascal''s Kevin Coyne Home Page, 2007: News (Einträge zu Jackie Leven 2006–2007)'
+document_type: website
+language: en
+access: live
+note: Fan-Newsseite; übernimmt einen Auszug aus Levens Kolumne „The Deep Pool“ (Mai 2006).
+about:
+- person/jackie-leven
+- persona/sir-vincent-lone
+- person/kevin-coyne
+participants:
+- statement_id: st-58c7f48a3134
+  agent_ref: person/pascal-regis
+  roles:
+  - author
+  credited_as: Pascal Regis
+  references: []
+published:
+- statement_id: st-a565766a9837
+  edtf_value: '2007'
+  references: []
+published_in:
+- statement_id: st-603237612f09
+  entity_value: publication/kevin-coyne-home-page
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

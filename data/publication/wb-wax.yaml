@@ -1,0 +1,7 @@
+id: publication/wb-wax
+type: Publication
+label: WB Wax
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

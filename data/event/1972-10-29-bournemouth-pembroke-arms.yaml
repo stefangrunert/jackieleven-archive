@@ -1,0 +1,51 @@
+id: event/1972-10-29-bournemouth-pembroke-arms
+type: Event
+label: John St Field, Pembroke Arms, Bournemouth (1972-10-29)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-9fe9335d850e
+  edtf_value: '1972-10-29'
+  certainty: probable
+  note: Wochentag aus der Rubrik des Gig Guide (Sonntag bzw. folgender Montag nach Freitag, 27.10.) in
+    ein Datum umgerechnet.
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 33 (Folk)
+    evidence_type: inferred
+took_place_at:
+- statement_id: st-76bb120a72da
+  entity_value: place/pembroke-arms-bournemouth
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 33 (Folk)
+    evidence_type: primary_document
+participants:
+- statement_id: st-6c250270300a
+  agent_ref: persona/john-st-field
+  roles:
+  - performer
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 33 (Folk)
+    evidence_type: primary_document
+- statement_id: st-9977fb6c253f
+  agent_ref: person/alex-atterson
+  roles:
+  - performer
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 33 (Folk)
+    evidence_type: primary_document
+performance_status:
+- statement_id: st-7ef7a13e8caa
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 33 (Folk)
+    evidence_type: primary_document
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

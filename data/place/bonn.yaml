@@ -1,0 +1,8 @@
+id: place/bonn
+type: Place
+label: Bonn
+place_type: city
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

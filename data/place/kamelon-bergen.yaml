@@ -1,0 +1,15 @@
+id: place/kamelon-bergen
+type: Place
+label: Kamelon
+place_type: venue
+located_in:
+- statement_id: st-06eeb0d118fe
+  entity_value: place/bergen
+  references:
+  - document: document/2005-09-07-bergensavisen-konzertmeldung-leven-kamelon
+    locator: Bergensavisen, 07.09.2005, S. 32
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

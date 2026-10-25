@@ -1,0 +1,21 @@
+id: document/1980-06-28-record-mirror-doll-by-doll-new-record-deal
+type: Document
+label: 'Record Mirror, 28.06.1980: Doll by Doll verhandeln über neuen Plattenvertrag'
+document_type: news
+language: en
+url: https://www.worldradiohistory.com/UK/Record-Mirror/70s/80/Record-Mirror-1980-06-28.pdf
+access: live
+about:
+- group/doll-by-doll
+published:
+- statement_id: st-09706375b15b
+  edtf_value: '1980-06-28'
+  references: []
+published_in:
+- statement_id: st-8ec23a6484ee
+  entity_value: publication/record-mirror
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

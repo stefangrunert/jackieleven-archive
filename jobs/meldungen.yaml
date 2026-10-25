@@ -14,7 +14,7 @@ budget:
   web_searches: 0
   subtasks: 6
 model: claude-sonnet-5-5
-status: running
+status: review
 instructions: >-
   Ohne Webzugriff; Grundlage sind nur die Dateien im Website-Repository.
   Vor jedem Anlegen in data/ suchen (Bezeichnung, Namensvarianten, Datum und

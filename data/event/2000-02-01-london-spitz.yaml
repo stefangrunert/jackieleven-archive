@@ -1,0 +1,46 @@
+id: event/2000-02-01-london-spitz
+type: Event
+label: Jackie Leven, Spitz, London (2000-02-01)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-234f7feb6845
+  edtf_value: '2000-02-01'
+  note: Dienstag, 1. Februar 2000; Release-Konzert zum Album Defending Ancient Springs.
+  references:
+  - document: document/2000-01-cooking-vinyl-defending-ancient-springs-brand-new-studio-album
+    locator: Cooking Vinyl, 2000-01
+    quote: Release-Konzert 1. Februar 2000, Spitz, Commercial Street
+    evidence_type: primary_document
+took_place_at:
+- statement_id: st-83ec36b6b54a
+  entity_value: place/spitz-london
+  references:
+  - document: document/2000-01-cooking-vinyl-defending-ancient-springs-brand-new-studio-album
+    locator: Cooking Vinyl, 2000-01
+    quote: Release-Konzert 1. Februar 2000, Spitz, Commercial Street
+    evidence_type: primary_document
+participants:
+- statement_id: st-156fe9c89824
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2000-01-cooking-vinyl-defending-ancient-springs-brand-new-studio-album
+    locator: Cooking Vinyl, 2000-01
+    quote: Release-Konzert 1. Februar 2000, Spitz, Commercial Street
+    evidence_type: primary_document
+performance_status:
+- statement_id: st-1309d96d90b5
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2000-01-cooking-vinyl-defending-ancient-springs-brand-new-studio-album
+    locator: Cooking Vinyl, 2000-01
+    quote: Release-Konzert 1. Februar 2000, Spitz, Commercial Street
+    evidence_type: primary_document
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

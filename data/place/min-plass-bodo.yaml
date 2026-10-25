@@ -1,0 +1,16 @@
+id: place/min-plass-bodo
+type: Place
+label: Min Plass
+place_type: venue
+located_in:
+- statement_id: st-1e2393245cf1
+  entity_value: place/bodo
+  references:
+  - document: document/2001-09-01-nordlands-framtid-konsertvorbericht-min-plass
+    locator: Nordlands Framtid, 01.09.2001, S. 30
+    evidence_type: third_party
+    scope: 'Vorbericht: Konzert am Sonntag, 02.09.2001, im Min Plass'
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

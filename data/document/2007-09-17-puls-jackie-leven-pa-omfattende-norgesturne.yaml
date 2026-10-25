@@ -1,0 +1,27 @@
+id: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+type: Document
+label: 'Puls, 17.09.2007: Jackie Leven på omfattende Norgesturnè (Tourankündigung)'
+document_type: news
+language: 'no'
+access: live
+about:
+- person/jackie-leven
+participants:
+- statement_id: st-14ad6ac59ad0
+  agent_ref: person/espen-r-hovelsen
+  roles:
+  - author
+  credited_as: Espen R. Hovelsen
+  references: []
+published:
+- statement_id: st-6f151a27a317
+  edtf_value: '2007-09-17'
+  references: []
+published_in:
+- statement_id: st-236c5cb0d53a
+  entity_value: publication/puls
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,20 @@
+id: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+type: Document
+label: 'Glasgow Life: Leventime: A Tribute to Jackie Leven *CANCELLED*'
+document_type: calendar
+language: en
+url: https://www.glasgowlife.org.uk/event/1/leventime-a-tribute-to-jackie-leven-cancelled
+archive_url: https://web.archive.org/web/20220116191738/https://www.glasgowlife.org.uk/event/1/leventime-a-tribute-to-jackie-leven-cancelled
+access: live
+note: Datum im Schlüssel ist das Veranstaltungsdatum; Veröffentlichungsdatum der Seite nicht erkennbar.
+  Der Archivabzug (2022-01-16) liegt vor der Absage.
+about:
+- person/jackie-leven
+published_in:
+- statement_id: st-f5ea0389fd18
+  entity_value: publication/glasgow-life
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,103 @@
+id: event/2007-09-23-tromso-kaos
+type: Event
+label: Jackie Leven, Kaos, Tromsø (2007-09-23)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-7d5844ce8915
+  edtf_value: '2007-09-23'
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-09-03-tromso-konzertvorschau-kaos
+    locator: Tromsø, 03.09.2007, S. 21
+    evidence_type: third_party
+  - document: document/2007-09-22-nordlys-jackie-leven-tilbake-i-tromso
+    locator: Nordlys, 22.09.2007, S. 42, 50
+    quote: Jackie Leven tilbake i Tromsø
+    evidence_type: third_party
+  note: Angekündigt für Sonntag, 23.09.2007.
+took_place_at:
+- statement_id: st-99c3fa671297
+  entity_value: place/kaos-tromso
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-09-03-tromso-konzertvorschau-kaos
+    locator: Tromsø, 03.09.2007, S. 21
+    evidence_type: third_party
+  - document: document/2007-09-22-nordlys-jackie-leven-tilbake-i-tromso
+    locator: Nordlys, 22.09.2007, S. 42, 50
+    quote: Jackie Leven tilbake i Tromsø
+    evidence_type: third_party
+participants:
+- statement_id: st-c422eb4280f5
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-09-03-tromso-konzertvorschau-kaos
+    locator: Tromsø, 03.09.2007, S. 21
+    evidence_type: third_party
+  - document: document/2007-09-22-nordlys-jackie-leven-tilbake-i-tromso
+    locator: Nordlys, 22.09.2007, S. 42, 50
+    quote: Jackie Leven tilbake i Tromsø
+    evidence_type: third_party
+- statement_id: st-adae3d80f85e
+  agent_ref: group/the-other-cheek
+  roles:
+  - support_act
+  references:
+  - document: document/2007-09-22-nordlys-jackie-leven-tilbake-i-tromso
+    locator: Nordlys, 22.09.2007, S. 42, 50
+    quote: Jackie Leven tilbake i Tromsø
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
+- statement_id: st-5250f3511584
+  agent_ref: person/egon-holstad
+  roles:
+  - promoter
+  references:
+  - document: document/2007-09-22-nordlys-jackie-leven-tilbake-i-tromso
+    locator: Nordlys, 22.09.2007, S. 42, 50
+    quote: Jackie Leven tilbake i Tromsø
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
+performance_status:
+- statement_id: st-0696ea492fb4
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-09-03-tromso-konzertvorschau-kaos
+    locator: Tromsø, 03.09.2007, S. 21
+    evidence_type: third_party
+  - document: document/2007-09-22-nordlys-jackie-leven-tilbake-i-tromso
+    locator: Nordlys, 22.09.2007, S. 42, 50
+    quote: Jackie Leven tilbake i Tromsø
+    evidence_type: third_party
+part_of:
+- statement_id: st-468c679aecab
+  entity_value: event/2007-09-norwegen-tournee
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

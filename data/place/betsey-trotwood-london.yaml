@@ -1,0 +1,16 @@
+id: place/betsey-trotwood-london
+type: Place
+label: The Betsey Trotwood
+place_type: venue
+located_in:
+- statement_id: st-d62db05b1325
+  entity_value: place/london
+  references:
+  - document: document/2023-11-18-betsey-trotwood-levenland
+    locator: Ankündigungstext
+    quote: Deborah Greenwood and Jinder celebrate the life and music of Jackie Leven.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

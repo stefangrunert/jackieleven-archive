@@ -1,0 +1,24 @@
+id: document/1979-12-08-record-mirror-doll-by-doll-nixed
+type: Document
+label: 'Record Mirror, 08.12.1979: Doll By Doll nixed (Ende der Hawkwind-Tour)'
+document_type: news
+language: en
+url: https://www.worldradiohistory.com/UK/Record-Mirror/70s/79/Record-Mirror-1979-12-08-OCR.pdf
+archive_url: https://web.archive.org/web/20260210094147/https://www.worldradiohistory.com/UK/Record-Mirror/70s/79/Record-Mirror-1979-12-08-OCR.pdf
+access: live
+note: OCR stark fehlerhaft; Wortlaut des Statements nur sinngemäß.
+about:
+- group/doll-by-doll
+- group/hawkwind
+published:
+- statement_id: st-a42ddffa8876
+  edtf_value: '1979-12-08'
+  references: []
+published_in:
+- statement_id: st-e850c8091a4a
+  entity_value: publication/record-mirror
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,24 @@
+id: place/pikant-foerde
+type: Place
+label: Pikant
+place_type: venue
+located_in:
+- statement_id: st-7a86e3387848
+  entity_value: place/foerde
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2005-10-22-firda-konzerthinweis-leven-pikant
+    locator: Firda, 22.10.2005, S. 46
+    quote: Antonius arrangerer konsert med Jackie Leven på Pikant i kveld
+    evidence_type: third_party
+  - document: document/2007-09-15-firda-konzertankuendigung-pikant
+    locator: Firda, 15.09.2007, S. 34
+    evidence_type: third_party
+  note: Ort aus dem Erscheinungsort der Zeitung (Firda) erschlossen; die Meldung nennt nur Pikant.
+  certainty: probable
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,54 @@
+id: event/2008-cardiff-barfly
+type: Event
+label: Jackie Leven, Barfly, Cardiff (2008)
+event_type: concert
+note: Taylor-Beales eröffnete laut eigenem Statement das Konzert und lernte Leven dort kennen.
+time:
+- statement_id: st-427ef5185090
+  edtf_value: '2008'
+  note: Jahr laut Erinnerung von Rachel Taylor-Beales; genaues Datum nicht genannt (mit Kalender abzugleichen).
+  references:
+  - document: document/2020-07-03-klof-mag-watch-rachel-taylor-beales-jackies-coming-around
+    locator: Statement Taylor-Beales
+    evidence_type: third_party
+    asserted_by: person/rachel-taylor-beales
+took_place_at:
+- statement_id: st-0326a23d0b34
+  entity_value: place/barfly-cardiff
+  references:
+  - document: document/2020-07-03-klof-mag-watch-rachel-taylor-beales-jackies-coming-around
+    locator: Statement Taylor-Beales
+    evidence_type: third_party
+    asserted_by: person/rachel-taylor-beales
+participants:
+- statement_id: st-2caab03a8c73
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  references:
+  - document: document/2020-07-03-klof-mag-watch-rachel-taylor-beales-jackies-coming-around
+    locator: Statement Taylor-Beales
+    evidence_type: third_party
+    asserted_by: person/rachel-taylor-beales
+- statement_id: st-9016267ab9ec
+  agent_ref: person/rachel-taylor-beales
+  roles:
+  - support_act
+  references:
+  - document: document/2020-07-03-klof-mag-watch-rachel-taylor-beales-jackies-coming-around
+    locator: Statement Taylor-Beales
+    evidence_type: third_party
+    asserted_by: person/rachel-taylor-beales
+performance_status:
+- statement_id: st-f4e74157ab4a
+  status_value: took_place
+  note: Beleg ist die Erinnerung der Vorgruppen-Künstlerin im Statement, wiedergegeben von KLOF Mag.
+  references:
+  - document: document/2020-07-03-klof-mag-watch-rachel-taylor-beales-jackies-coming-around
+    locator: Statement Taylor-Beales
+    evidence_type: third_party
+    asserted_by: person/rachel-taylor-beales
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

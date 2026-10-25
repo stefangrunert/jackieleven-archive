@@ -1,0 +1,27 @@
+id: document/1996-03-09-bergensavisen-leven-laerer-later
+type: Document
+label: 'Bergensavisen, 09.03.1996: Leven lærer låter (Songwriter-Seminar, Ole Blues)'
+document_type: news
+language: 'no'
+access: live
+about:
+- person/jackie-leven
+participants:
+- statement_id: st-48b4ce8f336b
+  agent_ref: person/bard-ose
+  roles:
+  - author
+  credited_as: Bård Ose
+  references: []
+published:
+- statement_id: st-98a7e2da4b08
+  edtf_value: '1996-03-09'
+  references: []
+published_in:
+- statement_id: st-2b9333f74e9f
+  entity_value: publication/bergensavisen
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

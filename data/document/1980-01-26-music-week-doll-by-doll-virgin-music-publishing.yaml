@@ -1,0 +1,26 @@
+id: document/1980-01-26-music-week-doll-by-doll-virgin-music-publishing
+type: Document
+label: 'Music Week, 26.01.1980: Doll by Doll unterschreiben bei Virgin Music (Bildmeldung)'
+document_type: news
+language: en
+url: https://www.worldradiohistory.com/UK/Music-Week/1980/Music-Week-1980-01-26.pdf
+access: live
+note: Bildmeldung; abgebildet sind Bruce Williamson (Manager), Tony Waite, Dave McIntosh, Jackie Leven,
+  Jo Shaw und Rob Gold (Virgin Music).
+about:
+- group/doll-by-doll
+- organization/virgin-music
+- person/bruce-williamson
+- person/rob-gold
+published:
+- statement_id: st-0a47bb2a1fdd
+  edtf_value: '1980-01-26'
+  references: []
+published_in:
+- statement_id: st-e562c3bf880a
+  entity_value: publication/music-week
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

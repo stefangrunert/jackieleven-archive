@@ -1,0 +1,15 @@
+id: place/stokkoya-fosen
+type: Place
+label: Stokkøya
+place_type: venue
+located_in:
+- statement_id: st-bf48c46981f4
+  entity_value: place/fosen
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

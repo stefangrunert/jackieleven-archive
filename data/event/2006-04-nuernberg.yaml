@@ -1,0 +1,63 @@
+id: event/2006-04-nuernberg
+type: Event
+label: Jackie Leven, Nürnberg (2006-04)
+event_type: concert
+time:
+- statement_id: st-ca6cc144d136
+  edtf_value: 2006-04
+  note: Genauer Tag nicht genannt.
+  references:
+  - document: document/2007-kevin-coyne-home-page-news-coyne-of-the-realm
+    locator: Kevin Coyne Home Page, News 2007 (Auszug aus „The Deep Pool“, Mai 2006)
+    quote: Tour with Michael Cosgrave through Germany and Austria in April 2006
+    evidence_type: self_statement
+    asserted_by: person/jackie-leven
+    scope: Selbstaussage Levens in seiner Kolumne, von der Fanseite wörtlich übernommen.
+took_place_at:
+- statement_id: st-2e59a783cc1e
+  entity_value: place/nuernberg
+  references:
+  - document: document/2007-kevin-coyne-home-page-news-coyne-of-the-realm
+    locator: Kevin Coyne Home Page, News 2007 (Auszug aus „The Deep Pool“, Mai 2006)
+    quote: Tour with Michael Cosgrave through Germany and Austria in April 2006
+    evidence_type: self_statement
+    asserted_by: person/jackie-leven
+    scope: Selbstaussage Levens in seiner Kolumne, von der Fanseite wörtlich übernommen.
+participants:
+- statement_id: st-78648ba26197
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-kevin-coyne-home-page-news-coyne-of-the-realm
+    locator: Kevin Coyne Home Page, News 2007 (Auszug aus „The Deep Pool“, Mai 2006)
+    quote: Tour with Michael Cosgrave through Germany and Austria in April 2006
+    evidence_type: self_statement
+    asserted_by: person/jackie-leven
+    scope: Selbstaussage Levens in seiner Kolumne, von der Fanseite wörtlich übernommen.
+performance_status:
+- statement_id: st-2c6c25d8965d
+  status_value: took_place
+  note: Leven berichtet vom vollen Saal und davon, Kevin Coyne von der Bühne aus erwähnt zu haben.
+  references:
+  - document: document/2007-kevin-coyne-home-page-news-coyne-of-the-realm
+    locator: Kevin Coyne Home Page, News 2007 (Auszug aus „The Deep Pool“, Mai 2006)
+    quote: Tour with Michael Cosgrave through Germany and Austria in April 2006
+    evidence_type: self_statement
+    asserted_by: person/jackie-leven
+    scope: Selbstaussage Levens in seiner Kolumne, von der Fanseite wörtlich übernommen.
+part_of:
+- statement_id: st-3b444bbcdc32
+  entity_value: event/2006-04-deutschland-oesterreich-tour
+  references:
+  - document: document/2007-kevin-coyne-home-page-news-coyne-of-the-realm
+    locator: Kevin Coyne Home Page, News 2007 (Auszug aus „The Deep Pool“, Mai 2006)
+    quote: Tour with Michael Cosgrave through Germany and Austria in April 2006
+    evidence_type: self_statement
+    asserted_by: person/jackie-leven
+    scope: Selbstaussage Levens in seiner Kolumne, von der Fanseite wörtlich übernommen.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

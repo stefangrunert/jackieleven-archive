@@ -1,0 +1,21 @@
+id: document/2001-09-01-nordlands-framtid-konsertvorbericht-min-plass
+type: Document
+label: 'Nordlands Framtid, 01.09.2001: Konzertvorbericht Min Plass, Bodø'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlandsframtid_null_null_20010901_92_201_1
+access: live
+about:
+- event/2001-09-02-bodo-min-plass
+published:
+- statement_id: st-9ab95fa3b8d1
+  edtf_value: '2001-09-01'
+  references: []
+published_in:
+- statement_id: st-23d012b50c22
+  entity_value: publication/nordlands-framtid
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

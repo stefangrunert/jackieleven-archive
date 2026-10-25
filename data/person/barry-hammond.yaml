@@ -1,0 +1,7 @@
+id: person/barry-hammond
+type: Person
+label: Barry Hammond
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

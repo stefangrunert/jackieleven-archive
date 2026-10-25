@@ -1,0 +1,18 @@
+id: place/12-bar-club-london
+type: Place
+label: 12 Bar Club
+place_type: venue
+located_in:
+- statement_id: st-08e4e0d877f3
+  entity_value: place/london
+  references:
+  - document: document/2004-cooking-vinyl-for-peace-comes-dropping-slow-reissue
+    locator: Cooking Vinyl, 2004
+    quote: recorded in 1993 at the 12 Bar Club
+    evidence_type: primary_document
+    scope: Aufnahmejahr laut Labeltext; steht im Widerspruch zu anderen Angaben der Recherche (Heylin-Interview
+      1997).
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,22 @@
+id: document/2021-michael-weston-king-the-wanderer-store
+type: Document
+label: 'michaelwestonking.com, 2021: The Wanderer – a tribute to Jackie Leven (Store)'
+document_type: website
+language: en
+url: https://michaelwestonking.com/store/the-wanderer-a-tribute-to-jackie-leven/
+access: live
+note: Verkaufsseite; wortgleich mit dem Bandcamp-Text. Keine Konzertangaben.
+about:
+- person/jackie-leven
+published:
+- statement_id: st-309207675a5e
+  edtf_value: '2021'
+  references: []
+published_in:
+- statement_id: st-138dff3e7ca9
+  entity_value: publication/michaelwestonking-com
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

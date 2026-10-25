@@ -1,0 +1,24 @@
+id: document/2011-11-17-terrorverlag-saenger-songwriter-jackie-leven-verstorben
+type: Document
+label: 'Terrorverlag, 17.11.2011: Sänger & Songwriter Jackie Leven verstorben'
+document_type: press_release
+language: de
+url: https://www.terrorverlag.com/news/sanger-songwriter-jackie-leven-verstorben-65652/
+access: live
+note: 'Deutsche Fassung der Promo-Biografie von Cooking Vinyl (Text: COMMUNITY Presse-Promotion, eingestellt
+  von Alexander Vogt); kein eigener Autor. Kindheitsangaben stammen letztlich von Leven selbst. Die englische
+  Vorlage ist nicht als Dokument erfasst.'
+about:
+- person/jackie-leven
+published:
+- statement_id: st-413d2b40800e
+  edtf_value: '2011-11-17'
+  references: []
+published_in:
+- statement_id: st-e0d2ddcbcf8a
+  entity_value: publication/terrorverlag
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

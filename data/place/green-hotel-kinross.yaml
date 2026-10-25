@@ -1,0 +1,15 @@
+id: place/green-hotel-kinross
+type: Place
+label: Green Hotel
+place_type: venue
+located_in:
+- statement_id: st-25c5c942e0f4
+  entity_value: place/kinross
+  references:
+  - document: document/2021-08-13-fife-today-new-compilation-album-celebrates-jackie-leven
+    locator: Absatz zu Wayside Shrines
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

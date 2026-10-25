@@ -1,0 +1,71 @@
+id: event/2010-04-haugesund-dikselen
+type: Event
+label: Jackie Leven, Dikselen, Haugesund (2010-04)
+event_type: concert
+note: Die Meldung berichtet nur über den abgelehnten Antrag auf eine Defizitgarantie; ob das Konzert stattfand,
+  sagt sie nicht.
+time:
+- statement_id: st-87407009ee9d
+  edtf_value: 2010-04
+  certainty: probable
+  note: Konzert „am Donnerstag“ laut Meldung vom 10.04.2010; genauer Tag nicht genannt.
+  references:
+  - document: document/2010-04-10-haugesunds-avis-hvem-far-underskuddsgaranti
+    locator: Haugesunds Avis, 10.04.2010, S. 41-42
+    evidence_type: third_party
+    scope: Inventum organisiert Kulturveranstaltungen auf Byscenen, Flytten und Dikselen; Bertelsen ist
+      dort für das Booking zuständig (sinngemäß)
+took_place_at:
+- statement_id: st-0baae70bd618
+  entity_value: place/dikselen-haugesund
+  references:
+  - document: document/2010-04-10-haugesunds-avis-hvem-far-underskuddsgaranti
+    locator: Haugesunds Avis, 10.04.2010, S. 41-42
+    evidence_type: third_party
+    scope: Inventum organisiert Kulturveranstaltungen auf Byscenen, Flytten und Dikselen; Bertelsen ist
+      dort für das Booking zuständig (sinngemäß)
+participants:
+- statement_id: st-0209db1f1bc8
+  agent_ref: person/jackie-leven
+  roles:
+  - performer
+  references:
+  - document: document/2010-04-10-haugesunds-avis-hvem-far-underskuddsgaranti
+    locator: Haugesunds Avis, 10.04.2010, S. 41-42
+    evidence_type: third_party
+    scope: Inventum organisiert Kulturveranstaltungen auf Byscenen, Flytten und Dikselen; Bertelsen ist
+      dort für das Booking zuständig (sinngemäß)
+- statement_id: st-5b0e97f46480
+  agent_ref: person/helge-bertelsen
+  roles:
+  - promoter
+  references:
+  - document: document/2010-04-10-haugesunds-avis-hvem-far-underskuddsgaranti
+    locator: Haugesunds Avis, 10.04.2010, S. 41-42
+    evidence_type: third_party
+    scope: Inventum organisiert Kulturveranstaltungen auf Byscenen, Flytten und Dikselen; Bertelsen ist
+      dort für das Booking zuständig (sinngemäß)
+- statement_id: st-c8e971347e3f
+  agent_ref: organization/inventum
+  roles:
+  - promoter
+  references:
+  - document: document/2010-04-10-haugesunds-avis-hvem-far-underskuddsgaranti
+    locator: Haugesunds Avis, 10.04.2010, S. 41-42
+    evidence_type: third_party
+    scope: Inventum organisiert Kulturveranstaltungen auf Byscenen, Flytten und Dikselen; Bertelsen ist
+      dort für das Booking zuständig (sinngemäß)
+performance_status:
+- statement_id: st-bf2d4b89907b
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2010-04-10-haugesunds-avis-hvem-far-underskuddsgaranti
+    locator: Haugesunds Avis, 10.04.2010, S. 41-42
+    evidence_type: third_party
+    scope: Inventum organisiert Kulturveranstaltungen auf Byscenen, Flytten und Dikselen; Bertelsen ist
+      dort für das Booking zuständig (sinngemäß)
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

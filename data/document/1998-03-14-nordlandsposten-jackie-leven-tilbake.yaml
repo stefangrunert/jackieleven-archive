@@ -1,0 +1,19 @@
+id: document/1998-03-14-nordlandsposten-jackie-leven-tilbake
+type: Document
+label: 'Nordlandsposten, 14.03.1998: Vorbericht „Jackie Leven tilbake“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlandsposten_null_null_19980314_136_62_1
+access: live
+published:
+- statement_id: st-b839fe278e9b
+  edtf_value: '1998-03-14'
+  references: []
+published_in:
+- statement_id: st-29261c9b0f79
+  entity_value: publication/nordlandsposten
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

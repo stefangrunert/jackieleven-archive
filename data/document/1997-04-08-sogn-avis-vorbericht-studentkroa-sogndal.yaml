@@ -1,0 +1,25 @@
+id: document/1997-04-08-sogn-avis-vorbericht-studentkroa-sogndal
+type: Document
+label: 'Sogn Avis, 08.04.1997: Vorbericht Studentkroa Sogndal'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_sognavis_null_null_19970408_5_66_1
+access: live
+participants:
+- statement_id: st-353727583e28
+  agent_ref: person/jan-inge-fardal
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-aa250518e223
+  edtf_value: '1997-04-08'
+  references: []
+published_in:
+- statement_id: st-d3161b92530e
+  entity_value: publication/sogn-avis
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

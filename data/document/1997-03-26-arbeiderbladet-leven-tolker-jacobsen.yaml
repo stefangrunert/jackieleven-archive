@@ -1,0 +1,19 @@
+id: document/1997-03-26-arbeiderbladet-leven-tolker-jacobsen
+type: Document
+label: 'Arbeiderbladet, 26.03.1997: Meldung „Leven tolker Jacobsen“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_arbeiderbladet_null_null_19970326_113_72_1
+access: live
+published:
+- statement_id: st-7573de184b40
+  edtf_value: '1997-03-26'
+  references: []
+published_in:
+- statement_id: st-a40b84ba864b
+  entity_value: publication/arbeiderbladet
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

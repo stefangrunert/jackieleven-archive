@@ -1,0 +1,133 @@
+id: event/2022-01-29-glasgow-oran-mor-leventime
+type: Event
+label: 'Leventime: A Tribute to Jackie Leven, Òran Mór, Glasgow (2022-01-29)'
+event_type: concert
+note: Deborah Greenwood und Ian Rankin sollten die Gäste durch den Abend führen. Abgesagt; Nachholtermin
+  siehe event/2023-02-04-glasgow-oran-mor-leventime (Identität nicht von der Quelle gesagt).
+time:
+- statement_id: st-70abe13e7fc3
+  edtf_value: '2022-01-29'
+  note: Samstag, 29. Januar 2022, 19.30 Uhr.
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Veranstaltungsseite
+    quote: 'Leventime: A Tribute to Jackie Leven'
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-00b2f81a0b51
+  entity_value: place/oran-mor-glasgow
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Veranstaltungsseite
+    quote: 'Leventime: A Tribute to Jackie Leven'
+    evidence_type: third_party
+participants:
+- statement_id: st-156813876dcf
+  agent_ref: person/deborah-greenwood
+  roles:
+  - performer
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Veranstaltungsseite
+    quote: 'Leventime: A Tribute to Jackie Leven'
+    evidence_type: third_party
+- statement_id: st-d4804a60ee11
+  agent_ref: person/ian-rankin
+  roles:
+  - performer
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Veranstaltungsseite
+    quote: 'Leventime: A Tribute to Jackie Leven'
+    evidence_type: third_party
+- statement_id: st-26f71b15cd01
+  agent_ref: person/boo-hewerdine
+  roles:
+  - performer
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Veranstaltungsseite
+    quote: 'Leventime: A Tribute to Jackie Leven'
+    evidence_type: third_party
+- statement_id: st-74037dde646c
+  agent_ref: person/rab-noakes
+  roles:
+  - performer
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Veranstaltungsseite
+    quote: 'Leventime: A Tribute to Jackie Leven'
+    evidence_type: third_party
+- statement_id: st-ed0d549ec147
+  agent_ref: person/jinder
+  roles:
+  - performer
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Veranstaltungsseite
+    quote: 'Leventime: A Tribute to Jackie Leven'
+    evidence_type: third_party
+- statement_id: st-0521d165eea7
+  agent_ref: person/michael-weston-king
+  roles:
+  - performer
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Veranstaltungsseite
+    quote: 'Leventime: A Tribute to Jackie Leven'
+    evidence_type: third_party
+- statement_id: st-6bc8274d461d
+  agent_ref: person/malcolm-lindsay
+  roles:
+  - performer
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Veranstaltungsseite
+    quote: 'Leventime: A Tribute to Jackie Leven'
+    evidence_type: third_party
+- statement_id: st-34f80e44fbe1
+  agent_ref: group/doghouse-roses
+  roles:
+  - performer
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Veranstaltungsseite
+    quote: 'Leventime: A Tribute to Jackie Leven'
+    evidence_type: third_party
+- statement_id: st-0ac1af985b08
+  agent_ref: group/dumb-instrument
+  roles:
+  - performer
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Veranstaltungsseite
+    quote: 'Leventime: A Tribute to Jackie Leven'
+    evidence_type: third_party
+performance_status:
+- statement_id: st-7d662866d7c0
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Veranstaltungsseite
+    quote: 'Leventime: A Tribute to Jackie Leven'
+    evidence_type: third_party
+- statement_id: st-58aeaacf86c2
+  status_value: cancelled
+  note: Absage wegen der Auswirkungen der Omikron-Variante.
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Hinweis oben auf der Seite
+    quote: CANCELLED
+    evidence_type: third_party
+part_of:
+- statement_id: st-584270998f68
+  entity_value: event/2022-01-glasgow-celtic-connections
+  references:
+  - document: document/2022-01-29-glasgow-life-leventime-tribute-cancelled
+    locator: Quellenkopf
+    evidence_type: inferred
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

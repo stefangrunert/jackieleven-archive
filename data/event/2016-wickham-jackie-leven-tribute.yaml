@@ -1,0 +1,40 @@
+id: event/2016-wickham-jackie-leven-tribute
+type: Event
+label: Jackie Leven Tribute, Wickham Festival (2016)
+event_type: concert
+note: 'Gedenkauftritt beim Wickham Festival; Besetzung und genaues Datum nicht genannt. Der Ort Wickham
+  ergibt sich aus dem Festivalnamen und der Quelle (Hampshire-Festival); Datierung und Besetzung unsicher
+  (Quelldatei: Text wohl 2011 verfasst und 2016 wiederverwendet).'
+time:
+- statement_id: st-bdb3b44cbfaa
+  edtf_value: '2016'
+  references:
+  - document: document/2016-wickham-festival-jackie-leven-tribute
+    locator: Künstlerseite, Kopf (appeared in 2016)
+    quote: appeared in 2016
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-895ae6d9a09f
+  entity_value: place/wickham
+  references:
+  - document: document/2016-wickham-festival-jackie-leven-tribute
+    locator: Künstlerseite
+    evidence_type: third_party
+performance_status:
+- statement_id: st-543ea924466b
+  status_value: took_place
+  certainty: probable
+  note: Seitenvermerk „appeared in 2016“ ohne Programmangaben; ob und wie der Tribute stattfand, ist unsicher.
+  references:
+  - document: document/2016-wickham-festival-jackie-leven-tribute
+    locator: Künstlerseite, Kopf (appeared in 2016)
+    quote: appeared in 2016
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

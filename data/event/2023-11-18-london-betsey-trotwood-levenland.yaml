@@ -1,0 +1,54 @@
+id: event/2023-11-18-london-betsey-trotwood-levenland
+type: Event
+label: Levenland, The Betsey Trotwood, London (2023-11-18)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-648c39960a67
+  edtf_value: '2023-11-18'
+  note: Samstag, 19–23 Uhr.
+  references:
+  - document: document/2023-11-18-betsey-trotwood-levenland
+    locator: Ankündigungstext
+    quote: Deborah Greenwood and Jinder celebrate the life and music of Jackie Leven.
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-7b0b3f256463
+  entity_value: place/betsey-trotwood-london
+  references:
+  - document: document/2023-11-18-betsey-trotwood-levenland
+    locator: Ankündigungstext
+    quote: Deborah Greenwood and Jinder celebrate the life and music of Jackie Leven.
+    evidence_type: third_party
+participants:
+- statement_id: st-19504cd44744
+  agent_ref: person/deborah-greenwood
+  roles:
+  - performer
+  references:
+  - document: document/2023-11-18-betsey-trotwood-levenland
+    locator: Ankündigungstext
+    quote: Deborah Greenwood and Jinder celebrate the life and music of Jackie Leven.
+    evidence_type: third_party
+- statement_id: st-e065096c558c
+  agent_ref: person/jinder
+  roles:
+  - performer
+  references:
+  - document: document/2023-11-18-betsey-trotwood-levenland
+    locator: Ankündigungstext
+    quote: Deborah Greenwood and Jinder celebrate the life and music of Jackie Leven.
+    evidence_type: third_party
+performance_status:
+- statement_id: st-01e734d22516
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2023-11-18-betsey-trotwood-levenland
+    locator: Ankündigungstext
+    quote: Deborah Greenwood and Jinder celebrate the life and music of Jackie Leven.
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

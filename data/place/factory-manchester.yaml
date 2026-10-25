@@ -1,0 +1,15 @@
+id: place/factory-manchester
+type: Place
+label: Factory
+place_type: venue
+located_in:
+- statement_id: st-69d43458713b
+  entity_value: place/manchester
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

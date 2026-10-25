@@ -13,6 +13,9 @@ time:
   - document: document/1997-04-11-lofotposten-hvit-soul
     locator: Lofotposten, 11.04.1997
     evidence_type: inferred
+  - document: document/1997-04-05-tromso-kurzvorbericht-bla-rock-cafe
+    locator: Tromsø, 05.04.1997, S. 34
+    evidence_type: third_party
 took_place_at:
 - statement_id: st-483ce31d3adf
   entity_value: place/bla-rock-cafe-tromso
@@ -22,6 +25,9 @@ took_place_at:
     evidence_type: third_party
   - document: document/1997-04-11-lofotposten-hvit-soul
     locator: Lofotposten, 11.04.1997
+    evidence_type: third_party
+  - document: document/1997-04-05-tromso-kurzvorbericht-bla-rock-cafe
+    locator: Tromsø, 05.04.1997, S. 34
     evidence_type: third_party
 participants:
 - statement_id: st-5395e91b6474
@@ -35,6 +41,9 @@ participants:
     evidence_type: third_party
   - document: document/1997-04-11-lofotposten-hvit-soul
     locator: Lofotposten, 11.04.1997
+    evidence_type: third_party
+  - document: document/1997-04-05-tromso-kurzvorbericht-bla-rock-cafe
+    locator: Tromsø, 05.04.1997, S. 34
     evidence_type: third_party
 performance_status:
 - statement_id: st-d09f5b015152

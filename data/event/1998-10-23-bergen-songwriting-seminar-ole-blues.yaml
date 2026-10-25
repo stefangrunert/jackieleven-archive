@@ -1,0 +1,78 @@
+id: event/1998-10-23-bergen-songwriting-seminar-ole-blues
+type: Event
+label: Songwriting-Seminar (Ole Blues / Norsk Musikkråd), Hagstrøm, Bergen (1998-10)
+event_type: other
+note: 'Rolle „other“: Kursleiter/Dozent (kein eigener Rollenwert). Mitwirkung von Leven und Lofgren im
+  Rückblick bestätigt.'
+time:
+- statement_id: st-f965c9f09d95
+  edtf_value: '[1998-10-23,1998-10-24,1998-10-28,1998-10-30]'
+  note: Kurstage laut Kursankündigung.
+  references:
+  - document: document/1998-10-13-bergensavisen-kursankuendigung-songwriting
+    locator: Bergensavisen, 13.10.1998, S. 35
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-b667ee0c42a2
+  entity_value: place/hagstrom-bergen
+  references:
+  - document: document/1998-10-13-bergensavisen-kursankuendigung-songwriting
+    locator: Bergensavisen, 13.10.1998, S. 35
+    evidence_type: third_party
+participants:
+- statement_id: st-d07e310df4a3
+  agent_ref: person/jackie-leven
+  roles:
+  - other
+  references:
+  - document: document/1998-10-13-bergensavisen-kursankuendigung-songwriting
+    locator: Bergensavisen, 13.10.1998, S. 35
+    evidence_type: third_party
+  - document: document/1999-03-17-bergensavisen-ole-blues-seminare-rueckblick
+    locator: Bergensavisen, 17.03.1999, S. 27
+    evidence_type: third_party
+- statement_id: st-102877b7e0d0
+  agent_ref: person/mads-eriksen
+  roles:
+  - other
+  references:
+  - document: document/1998-10-13-bergensavisen-kursankuendigung-songwriting
+    locator: Bergensavisen, 13.10.1998, S. 35
+    evidence_type: third_party
+- statement_id: st-87a468df2e42
+  agent_ref: person/nils-lofgren
+  roles:
+  - other
+  references:
+  - document: document/1998-10-13-bergensavisen-kursankuendigung-songwriting
+    locator: Bergensavisen, 13.10.1998, S. 35
+    evidence_type: third_party
+  - document: document/1999-03-17-bergensavisen-ole-blues-seminare-rueckblick
+    locator: Bergensavisen, 17.03.1999, S. 27
+    evidence_type: third_party
+- statement_id: st-d3434c4ea3d2
+  agent_ref: person/andy-white
+  roles:
+  - other
+  references:
+  - document: document/1998-10-13-bergensavisen-kursankuendigung-songwriting
+    locator: Bergensavisen, 13.10.1998, S. 35
+    evidence_type: third_party
+performance_status:
+- statement_id: st-ce4a57a49211
+  status_value: announced
+  references:
+  - document: document/1998-10-13-bergensavisen-kursankuendigung-songwriting
+    locator: Bergensavisen, 13.10.1998, S. 35
+    evidence_type: third_party
+- statement_id: st-6e05827114d2
+  status_value: took_place
+  note: Rückblick auf den ausgebuchten Herbstkurs 1998; Tage nicht genannt.
+  references:
+  - document: document/1999-03-17-bergensavisen-ole-blues-seminare-rueckblick
+    locator: Bergensavisen, 17.03.1999, S. 27
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

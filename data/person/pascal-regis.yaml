@@ -1,0 +1,7 @@
+id: person/pascal-regis
+type: Person
+label: Pascal Regis
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

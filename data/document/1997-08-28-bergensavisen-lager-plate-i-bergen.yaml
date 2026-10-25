@@ -1,0 +1,28 @@
+id: document/1997-08-28-bergensavisen-lager-plate-i-bergen
+type: Document
+label: 'Bergensavisen, 28.08.1997: Lager plate i Bergen (Vorbericht Reunion-Konzert)'
+document_type: news
+language: 'no'
+access: live
+about:
+- event/1997-08-29-bergen-garage
+- group/doll-by-doll
+participants:
+- statement_id: st-a58039d367d7
+  agent_ref: person/bard-ose
+  roles:
+  - author
+  credited_as: Bård Ose
+  references: []
+published:
+- statement_id: st-f3b2dcce8e6f
+  edtf_value: '1997-08-28'
+  references: []
+published_in:
+- statement_id: st-54aee7fcd28d
+  entity_value: publication/bergensavisen
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

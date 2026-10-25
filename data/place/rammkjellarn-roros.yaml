@@ -1,0 +1,15 @@
+id: place/rammkjellarn-roros
+type: Place
+label: Rammkjellar’n
+place_type: venue
+located_in:
+- statement_id: st-1b1727a89fdc
+  entity_value: place/roros
+  references:
+  - document: document/2007-09-27-fjell-ljom-kurzvorschau-rammkjellarn
+    locator: Fjell-Ljom, 27.09.2007, S. 4
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

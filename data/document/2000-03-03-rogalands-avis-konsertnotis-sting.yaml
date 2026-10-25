@@ -1,0 +1,21 @@
+id: document/2000-03-03-rogalands-avis-konsertnotis-sting
+type: Document
+label: 'Rogalands Avis, 03.03.2000: Konzertnotiz Sting, Stavanger'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_rogalandsavis_null_null_20000303_102_53_1
+access: live
+about:
+- event/2000-03-05-stavanger-sting-nere
+published:
+- statement_id: st-cbfb1b61d304
+  edtf_value: '2000-03-03'
+  references: []
+published_in:
+- statement_id: st-86540d7d06d2
+  entity_value: publication/rogalands-avis
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

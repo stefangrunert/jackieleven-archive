@@ -11,12 +11,26 @@ time:
   - document: document/1996-04-27-tromso-en-skotsk-personlighet
     locator: Tromsø, 27.04.1996
     evidence_type: third_party
+  - document: document/1996-04-26-tromso-i-helga-jackie-leven
+    locator: Tromsø, 26.04.1996, S. 31
+    quote: 'I helga: Jackie Leven'
+    evidence_type: third_party
+  - document: document/1996-04-27-nordlys-konzertanzeige-bla-rock-cafe
+    locator: Nordlys, 27.04.1996, S. 28
+    evidence_type: third_party
 took_place_at:
 - statement_id: st-52cb7c5e6adc
   entity_value: place/bla-rock-cafe-tromso
   references:
   - document: document/1996-04-27-tromso-en-skotsk-personlighet
     locator: Tromsø, 27.04.1996
+    evidence_type: third_party
+  - document: document/1996-04-26-tromso-i-helga-jackie-leven
+    locator: Tromsø, 26.04.1996, S. 31
+    quote: 'I helga: Jackie Leven'
+    evidence_type: third_party
+  - document: document/1996-04-27-nordlys-konzertanzeige-bla-rock-cafe
+    locator: Nordlys, 27.04.1996, S. 28
     evidence_type: third_party
 participants:
 - statement_id: st-4646987bd020
@@ -28,6 +42,13 @@ participants:
   - document: document/1996-04-27-tromso-en-skotsk-personlighet
     locator: Tromsø, 27.04.1996
     evidence_type: third_party
+  - document: document/1996-04-26-tromso-i-helga-jackie-leven
+    locator: Tromsø, 26.04.1996, S. 31
+    quote: 'I helga: Jackie Leven'
+    evidence_type: third_party
+  - document: document/1996-04-27-nordlys-konzertanzeige-bla-rock-cafe
+    locator: Nordlys, 27.04.1996, S. 28
+    evidence_type: third_party
 - statement_id: st-8db48091870f
   agent_ref: person/andy-white
   roles:
@@ -36,12 +57,26 @@ participants:
   - document: document/1996-04-27-tromso-en-skotsk-personlighet
     locator: Tromsø, 27.04.1996
     evidence_type: third_party
+  - document: document/1996-04-26-tromso-i-helga-jackie-leven
+    locator: Tromsø, 26.04.1996, S. 31
+    quote: 'I helga: Jackie Leven'
+    evidence_type: third_party
+  - document: document/1996-04-27-nordlys-konzertanzeige-bla-rock-cafe
+    locator: Nordlys, 27.04.1996, S. 28
+    evidence_type: third_party
 performance_status:
 - statement_id: st-1d58ac81f616
   status_value: announced
   references:
   - document: document/1996-04-27-tromso-en-skotsk-personlighet
     locator: Tromsø, 27.04.1996
+    evidence_type: third_party
+  - document: document/1996-04-26-tromso-i-helga-jackie-leven
+    locator: Tromsø, 26.04.1996, S. 31
+    quote: 'I helga: Jackie Leven'
+    evidence_type: third_party
+  - document: document/1996-04-27-nordlys-konzertanzeige-bla-rock-cafe
+    locator: Nordlys, 27.04.1996, S. 28
     evidence_type: third_party
 note: Nur angekündigt; Durchführung nicht belegt.
 recorded_by:

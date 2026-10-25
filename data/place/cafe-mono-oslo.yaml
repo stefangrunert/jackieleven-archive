@@ -1,0 +1,15 @@
+id: place/cafe-mono-oslo
+type: Place
+label: Café Mono
+place_type: venue
+located_in:
+- statement_id: st-11ffff0f2b20
+  entity_value: place/oslo
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

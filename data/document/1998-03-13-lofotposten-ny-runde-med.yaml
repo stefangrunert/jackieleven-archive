@@ -1,0 +1,19 @@
+id: document/1998-03-13-lofotposten-ny-runde-med
+type: Document
+label: 'Lofotposten, 13.03.1998: Vorbericht „Ny runde med …“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_lofotposten_null_null_19980313_103_61_1
+access: live
+published:
+- statement_id: st-661cef089f8c
+  edtf_value: '1998-03-13'
+  references: []
+published_in:
+- statement_id: st-2cdc022315da
+  entity_value: publication/lofotposten
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,28 @@
+id: document/1998-03-12-tromso-en-skotte-i-tromso
+type: Document
+label: 'Tromsø, 12.03.1998: Vorbericht „En skotte i Tromsø“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromso_null_null_19980312_101_60_1
+access: live
+note: Weitgehend Wiederverwertung des Textes vom 27.04.1996 (derived_from); keine unabhängige Bestätigung.
+derived_from:
+- document/1996-04-27-tromso-en-skotsk-personlighet
+participants:
+- statement_id: st-6cf617d603ef
+  agent_ref: person/helge-matland
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-d19cf1461ff3
+  edtf_value: '1998-03-12'
+  references: []
+published_in:
+- statement_id: st-d089f46e3208
+  entity_value: publication/tromso
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

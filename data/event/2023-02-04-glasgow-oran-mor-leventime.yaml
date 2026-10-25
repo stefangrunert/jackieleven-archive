@@ -1,0 +1,91 @@
+id: event/2023-02-04-glasgow-oran-mor-leventime
+type: Event
+label: 'Leventime: A Tribute to Jackie Leven, Òran Mór, Glasgow (2023-02-04)'
+event_type: concert
+note: Titelgleich mit dem am 2022-01-29 abgesagten Abend; ob es sich um den Nachholtermin handelt, sagen
+  die hier belegten Quellen nicht. Mitwirkende nur laut Vorschau (Americana UK); das Programm nennt keine.
+  Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-0cf8bd97f5a9
+  edtf_value: '2023-02-04'
+  note: Samstag, 4. Februar 2023, 19.30 Uhr laut Festivalprogramm.
+  references:
+  - document: document/undatiert-celtic-connections-celtic-connections-2023-online-programm
+    locator: PDF-Seite 6
+    evidence_type: primary_document
+took_place_at:
+- statement_id: st-fe4ca7952551
+  entity_value: place/oran-mor-glasgow
+  references:
+  - document: document/undatiert-celtic-connections-celtic-connections-2023-online-programm
+    locator: PDF-Seite 6
+    evidence_type: primary_document
+participants:
+- statement_id: st-2ca5f0c3fbac
+  agent_ref: person/michael-weston-king
+  roles:
+  - performer
+  references:
+  - document: document/2023-01-16-americana-uk-celtic-connections-kicks-off-this-week
+    locator: Abschnitt Americana-Acts
+    quote: 'Highly anticipated is Leventime: A tribute to Jackie Leven'
+    evidence_type: third_party
+- statement_id: st-54e3e7981e4f
+  agent_ref: person/boo-hewerdine
+  roles:
+  - performer
+  references:
+  - document: document/2023-01-16-americana-uk-celtic-connections-kicks-off-this-week
+    locator: Abschnitt Americana-Acts
+    quote: 'Highly anticipated is Leventime: A tribute to Jackie Leven'
+    evidence_type: third_party
+- statement_id: st-146a7a3ea1a7
+  agent_ref: group/doghouse-roses
+  roles:
+  - performer
+  references:
+  - document: document/2023-01-16-americana-uk-celtic-connections-kicks-off-this-week
+    locator: Abschnitt Americana-Acts
+    quote: 'Highly anticipated is Leventime: A tribute to Jackie Leven'
+    evidence_type: third_party
+- statement_id: st-14fc14263872
+  agent_ref: group/dumb-instrument
+  roles:
+  - performer
+  references:
+  - document: document/2023-01-16-americana-uk-celtic-connections-kicks-off-this-week
+    locator: Abschnitt Americana-Acts
+    quote: 'Highly anticipated is Leventime: A tribute to Jackie Leven'
+    evidence_type: third_party
+- statement_id: st-530a04f08389
+  agent_ref: person/ian-rankin
+  roles:
+  - performer
+  references:
+  - document: document/2023-01-16-americana-uk-celtic-connections-kicks-off-this-week
+    locator: Abschnitt Americana-Acts
+    quote: 'Highly anticipated is Leventime: A tribute to Jackie Leven'
+    evidence_type: third_party
+performance_status:
+- statement_id: st-c4acc25fc26a
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/undatiert-celtic-connections-celtic-connections-2023-online-programm
+    locator: PDF-Seite 6
+    evidence_type: primary_document
+  - document: document/2023-01-16-americana-uk-celtic-connections-kicks-off-this-week
+    locator: Abschnitt Americana-Acts
+    quote: 'Highly anticipated is Leventime: A tribute to Jackie Leven'
+    evidence_type: third_party
+part_of:
+- statement_id: st-7c0da7744816
+  entity_value: event/2023-01-glasgow-celtic-connections
+  references:
+  - document: document/undatiert-celtic-connections-celtic-connections-2023-online-programm
+    locator: PDF-Seite 6
+    evidence_type: primary_document
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

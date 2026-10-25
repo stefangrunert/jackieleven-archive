@@ -17,6 +17,12 @@ took_place_at:
   - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
     locator: Laagendalsposten, 13.04.2010
     evidence_type: third_party
+  - document: document/2010-03-20-hordaland-osa-jubilaeum-ulvik
+    locator: Hordaland, 20.03.2010, S. 10
+    evidence_type: third_party
+  - document: document/2010-05-04-hordaland-harding-folk-ulvik
+    locator: Hordaland, 04.05.2010, S. 16
+    evidence_type: third_party
 participants:
 - statement_id: st-d0cc54ada9aa
   agent_ref: person/jackie-leven
@@ -27,6 +33,12 @@ participants:
   - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
     locator: Laagendalsposten, 13.04.2010
     evidence_type: third_party
+  - document: document/2010-03-20-hordaland-osa-jubilaeum-ulvik
+    locator: Hordaland, 20.03.2010, S. 10
+    evidence_type: third_party
+  - document: document/2010-05-04-hordaland-harding-folk-ulvik
+    locator: Hordaland, 04.05.2010, S. 16
+    evidence_type: third_party
 - statement_id: st-3947b9379331
   agent_ref: person/knut-buen
   roles:
@@ -36,6 +48,12 @@ participants:
   - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
     locator: Laagendalsposten, 13.04.2010
     evidence_type: third_party
+  - document: document/2010-03-20-hordaland-osa-jubilaeum-ulvik
+    locator: Hordaland, 20.03.2010, S. 10
+    evidence_type: third_party
+  - document: document/2010-05-04-hordaland-harding-folk-ulvik
+    locator: Hordaland, 04.05.2010, S. 16
+    evidence_type: third_party
 performance_status:
 - statement_id: st-b67646be7f30
   status_value: announced
@@ -43,6 +61,22 @@ performance_status:
   - document: document/2010-04-13-laagendalsposten-leven-og-buen-igjen
     locator: Laagendalsposten, 13.04.2010
     evidence_type: third_party
+  - document: document/2010-03-20-hordaland-osa-jubilaeum-ulvik
+    locator: Hordaland, 20.03.2010, S. 10
+    evidence_type: third_party
+- statement_id: st-4efeb4f2f1d9
+  status_value: took_place
+  certainty: probable
+  note: Einzeiliger Bericht vom 04.05.2010 über Harding Folk; er nennt Leven mit Buen als „erwarteten
+    Höhepunkt“. Ob der Auftritt stattfand, geht aus der Sammeldatei nicht eindeutig hervor.
+  references:
+  - document: document/2010-05-04-hordaland-harding-folk-ulvik
+    locator: Hordaland, 04.05.2010, S. 16
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 note: Nur angekündigt; Durchführung nicht belegt.
 recorded_by:
   agent: claude-code

@@ -1,0 +1,29 @@
+id: document/2022-06-29-americana-uk-video-michael-weston-king-final-reel
+type: Document
+label: 'Americana UK, 29.06.2022: Video: Michael Weston King "The Final Reel"'
+document_type: news
+language: en
+url: https://americana-uk.com/?p=104337
+access: live
+note: Hommage-Lied an Leven; die genannten Konzerte Weston Kings (Birmingham, Liverpool, Edinburgh) sind
+  keine Leven-Tribute-Konzerte und werden nicht erfasst.
+about:
+- person/jackie-leven
+participants:
+- statement_id: st-291ebc6a2855
+  agent_ref: person/andrew-frolish
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-50e4a5454584
+  edtf_value: '2022-06-29'
+  references: []
+published_in:
+- statement_id: st-add7150524ec
+  entity_value: publication/americana-uk
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

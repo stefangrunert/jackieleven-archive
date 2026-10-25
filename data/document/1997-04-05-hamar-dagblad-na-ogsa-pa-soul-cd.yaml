@@ -1,0 +1,20 @@
+id: document/1997-04-05-hamar-dagblad-na-ogsa-pa-soul-cd
+type: Document
+label: 'Hamar Dagblad, 05.04.1997: Notiz „Nå også på soul-CD“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_hamardagblad_null_null_19970405_27_77_1
+access: live
+note: Beruft sich laut Quellendatei auf Glåmdalen; keine unabhängige Bestätigung.
+published:
+- statement_id: st-69731866fa44
+  edtf_value: '1997-04-05'
+  references: []
+published_in:
+- statement_id: st-e2d08f3730a3
+  entity_value: publication/hamar-dagblad
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,8 @@
+id: person/rob-gold
+type: Person
+label: Rob Gold
+note: Geschäftsführer von Virgin Music laut Music Week.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

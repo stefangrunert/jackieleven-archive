@@ -1,0 +1,20 @@
+id: document/2019-12-07-cca-glasgow-leventime-a-celebration-of-jackie-leven
+type: Document
+label: 'CCA Glasgow: Sounds in the Suburbs presents Leventime: A Celebration of Jackie Leven'
+document_type: calendar
+language: en
+url: https://cca-glasgow.com/programme/sounds-in-the-suburbs-presents-leventime-a-celebration-of-jackie-leven
+archive_url: https://web.archive.org/web/20260314103156/https://www.cca-glasgow.com/programme/sounds-in-the-suburbs-presents-leventime-a-celebration-of-jackie-leven
+access: archive
+note: 'Datum im Schlüssel ist das Veranstaltungsdatum; Veröffentlichungsdatum der Seite unbekannt. Das
+  Jahr 2019 steht nicht auf der Seite selbst (Quelldatei: laut Suchmaschinenauszug und Wochentag).'
+about:
+- person/jackie-leven
+published_in:
+- statement_id: st-ae2e9cc0cf8e
+  entity_value: publication/cca-glasgow
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -16,6 +16,10 @@ time:
   - document: document/2000-03-04-tromso-en-opplagt-jackie-leven
     locator: Tromsø, 04.03.2000
     evidence_type: third_party
+  - document: document/2000-02-25-nordlys-konsertnotis-blarock-tromso
+    locator: Nordlys, 25.02.2000, S. 20
+    evidence_type: third_party
+    scope: 'Notiz: Konzert am Donnerstag (02.03.2000)'
 took_place_at:
 - statement_id: st-f91dfa28a0e5
   entity_value: place/bla-rock-cafe-tromso
@@ -52,6 +56,10 @@ performance_status:
   - document: document/2000-03-02-tromso-jackie-leven-vender-tilbake
     locator: Tromsø, 02.03.2000
     evidence_type: third_party
+  - document: document/2000-02-25-nordlys-konsertnotis-blarock-tromso
+    locator: Nordlys, 25.02.2000, S. 20
+    evidence_type: third_party
+    scope: 'Notiz: Konzert am Donnerstag (02.03.2000)'
 - statement_id: st-ec1d6b97257a
   status_value: took_place
   references:

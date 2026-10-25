@@ -1,0 +1,7 @@
+id: publication/jackie-leven-com
+type: Publication
+label: jackie-leven.com
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

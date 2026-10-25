@@ -1,0 +1,7 @@
+id: publication/jackieleven-co-uk
+type: Publication
+label: jackieleven.co.uk (offizielle Website)
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

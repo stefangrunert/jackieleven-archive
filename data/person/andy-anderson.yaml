@@ -1,0 +1,7 @@
+id: person/andy-anderson
+type: Person
+label: Andy Anderson
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

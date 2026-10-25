@@ -1,0 +1,7 @@
+id: publication/fan-lexikon
+type: Publication
+label: fan-lexikon.de
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,25 @@
+id: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
+type: Document
+label: 'Celtic Connections, 27.01.2004: Pressemitteilung Ian Rankin and Jackie Leven present „Jackie Leven
+  Said“'
+document_type: press_release
+language: en
+access: archive
+note: Abschrift auf jackieleven.com; Herkunft der Pressemitteilung (Festival, Agentur oder Label) nicht
+  angegeben.
+about:
+- person/jackie-leven
+- person/ian-rankin
+- event/2004-01-27-glasgow-royal-concert-hall-jackie-leven-said
+published:
+- statement_id: st-7f9f48016937
+  edtf_value: '2004-01-27'
+  references: []
+published_in:
+- statement_id: st-3cd013381ffd
+  entity_value: publication/jackieleven-com
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

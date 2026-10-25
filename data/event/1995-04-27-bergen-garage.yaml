@@ -10,12 +10,19 @@ time:
   - document: document/1995-04-29-bergensavisen-bra-med-leven
     locator: Bergensavisen, 29.04.1995
     evidence_type: third_party
+  - document: document/1995-04-24-bergensavisen-leven-pa-garage
+    locator: Bergensavisen, 24.04.1995
+    evidence_type: third_party
+    scope: Konzert am Donnerstag, 27. April 1995 im Garage angekündigt.
 took_place_at:
 - statement_id: st-b15d5270e265
   entity_value: place/garage-bergen
   references:
   - document: document/1995-04-29-bergensavisen-bra-med-leven
     locator: Bergensavisen, 29.04.1995
+    evidence_type: third_party
+  - document: document/1995-04-24-bergensavisen-leven-pa-garage
+    locator: Bergensavisen, 24.04.1995
     evidence_type: third_party
 participants:
 - statement_id: st-47762613acdf
@@ -27,6 +34,9 @@ participants:
   - document: document/1995-04-29-bergensavisen-bra-med-leven
     locator: Bergensavisen, 29.04.1995
     evidence_type: third_party
+  - document: document/1995-04-24-bergensavisen-leven-pa-garage
+    locator: Bergensavisen, 24.04.1995
+    evidence_type: third_party
 performance_status:
 - statement_id: st-95c801176817
   status_value: took_place
@@ -36,6 +46,17 @@ performance_status:
     quote: Skotske Leven er en av de få som kan sitte alene på en scene, med kun kassegitar og seg selv
       å tilby publikum.
     evidence_type: third_party
+- statement_id: st-eb5e7fc59e72
+  status_value: announced
+  references:
+  - document: document/1995-04-24-bergensavisen-leven-pa-garage
+    locator: Bergensavisen, 24.04.1995
+    quote: Jackie Leven er i sannhet en særegen artist
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

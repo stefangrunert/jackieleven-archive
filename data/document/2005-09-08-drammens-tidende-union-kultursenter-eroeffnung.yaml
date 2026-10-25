@@ -1,0 +1,22 @@
+id: document/2005-09-08-drammens-tidende-union-kultursenter-eroeffnung
+type: Document
+label: 'Drammens Tidende, 08.09.2005: Eröffnung des Kultursenters Union, Leven als Hauptact'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_drammenstidende_null_null_20050908_1_239_1
+access: live
+note: Ankündigung der Eröffnung; Leven als Hauptact genannt.
+about:
+- event/2005-09-24-drammen-union-scene
+published:
+- statement_id: st-fc2238ee5582
+  edtf_value: '2005-09-08'
+  references: []
+published_in:
+- statement_id: st-5bf3cf633267
+  entity_value: publication/drammens-tidende
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

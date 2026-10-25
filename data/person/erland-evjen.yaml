@@ -1,0 +1,7 @@
+id: person/erland-evjen
+type: Person
+label: Erland Evjen
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

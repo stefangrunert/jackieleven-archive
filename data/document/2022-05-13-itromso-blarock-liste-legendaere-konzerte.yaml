@@ -1,0 +1,23 @@
+id: document/2022-05-13-itromso-blarock-liste-legendaere-konzerte
+type: Document
+label: 'iTromsø, 13.05.2022: Liste legendärer Blårock-Konzerte (Platz 19: Jackie Leven, 02.03.2003)'
+document_type: memory
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_itromso_null_null_20220513_124_110_1
+access: live
+note: Fundstelle aus der Sammeldatei Nasjonalbiblioteket 2022–2026 (S. 21); Autor in der Sammeldatei nicht
+  genannt. Rückblick auf den Auftritt vom 2003-03-02.
+about:
+- person/jackie-leven
+published:
+- statement_id: st-c30d5f73fe8b
+  edtf_value: '2022-05-13'
+  references: []
+published_in:
+- statement_id: st-7561589f6cb3
+  entity_value: publication/itromso
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

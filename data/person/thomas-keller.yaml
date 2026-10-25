@@ -1,0 +1,8 @@
+id: person/thomas-keller
+type: Person
+label: Thomas Keller
+note: Zeichnet im FolkWorld-Bericht als „Walkin' T:-)M“.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

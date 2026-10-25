@@ -1,0 +1,15 @@
+id: place/taboo-club-scarborough
+type: Place
+label: Taboo Club
+place_type: venue
+located_in:
+- statement_id: st-fc5d75ad2865
+  entity_value: place/scarborough
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

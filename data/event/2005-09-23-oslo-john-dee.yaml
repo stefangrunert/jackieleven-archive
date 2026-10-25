@@ -1,0 +1,53 @@
+id: event/2005-09-23-oslo-john-dee
+type: Event
+label: Jackie Leven, John Dee, Oslo (2005-09-23)
+event_type: concert
+time:
+- statement_id: st-d832fe343b3d
+  edtf_value: '2005-09-23'
+  references:
+  - document: document/2005-09-23-dagsavisen-tagestipp-leven-john-dee
+    locator: Dagsavisen, 23.09.2005, S. 50
+    quote: Jackie Leven & The Small World Orchestra
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-084fa51a387e
+  entity_value: place/john-dee-oslo
+  references:
+  - document: document/2005-09-23-dagsavisen-tagestipp-leven-john-dee
+    locator: Dagsavisen, 23.09.2005, S. 50
+    quote: Jackie Leven & The Small World Orchestra
+    evidence_type: third_party
+participants:
+- statement_id: st-ffc178d9a9a6
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2005-09-23-dagsavisen-tagestipp-leven-john-dee
+    locator: Dagsavisen, 23.09.2005, S. 50
+    quote: Jackie Leven & The Small World Orchestra
+    evidence_type: third_party
+- statement_id: st-27d77deb3824
+  agent_ref: group/small-world-orchestra
+  roles:
+  - performer
+  references:
+  - document: document/2005-09-23-dagsavisen-tagestipp-leven-john-dee
+    locator: Dagsavisen, 23.09.2005, S. 50
+    quote: Jackie Leven & The Small World Orchestra
+    evidence_type: third_party
+performance_status:
+- statement_id: st-5c7502a46155
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2005-09-23-dagsavisen-tagestipp-leven-john-dee
+    locator: Dagsavisen, 23.09.2005, S. 50
+    quote: Jackie Leven & The Small World Orchestra
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,22 @@
+id: document/1983-09-10-nme-jackie-leven-debut-solo-single
+type: Document
+label: 'NME, 10.09.1983: Kurzmeldung zur Debütsingle „Love Is Shining Down On Me“'
+document_type: news
+language: en
+url: https://www.worldradiohistory.com/UK/New-Musical-Express/80s/83/NME-1983-09-10.pdf
+access: live
+about:
+- person/jackie-leven
+- organization/charisma-records
+published:
+- statement_id: st-a3f6fdfaefa1
+  edtf_value: '1983-09-10'
+  references: []
+published_in:
+- statement_id: st-d4d4cb9e46bd
+  entity_value: publication/nme
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

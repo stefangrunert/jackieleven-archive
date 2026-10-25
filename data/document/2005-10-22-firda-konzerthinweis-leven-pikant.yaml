@@ -1,0 +1,22 @@
+id: document/2005-10-22-firda-konzerthinweis-leven-pikant
+type: Document
+label: 'Firda, 22.10.2005: Konzerthinweis Jackie Leven, Pikant'
+document_type: calendar
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_firda_null_null_20051022_88_245_1
+access: live
+note: Hinweis auf das Konzert am selben Abend; Veranstalter laut Meldung Antonius.
+about:
+- event/2005-10-22-foerde-pikant
+published:
+- statement_id: st-63e926a41b67
+  edtf_value: '2005-10-22'
+  references: []
+published_in:
+- statement_id: st-9d4c2eb432a0
+  entity_value: publication/firda
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

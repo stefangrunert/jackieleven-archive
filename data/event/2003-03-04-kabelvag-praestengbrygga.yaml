@@ -35,6 +35,17 @@ performance_status:
     locator: Lofotposten, 06.03.2003
     quote: Stillferdig, men til tider kraftfull soul/blues/rock av absolutt beste merke.
     evidence_type: third_party
+- statement_id: st-45d4c74aedd8
+  status_value: announced
+  references:
+  - document: document/2003-03-04-lofotposten-konsertnotis-praestengbrygga
+    locator: Lofotposten, 04.03.2003, S. 23
+    evidence_type: third_party
+    scope: 'Notiz: Konzert heute (04.03.2003)'
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

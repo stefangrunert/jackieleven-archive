@@ -1,0 +1,19 @@
+id: document/2022-06-23-paxos-festival-the-songs-of-jackie-leven
+type: Document
+label: 'Paxos Festival: The Songs of Jackie Leven'
+document_type: calendar
+language: en
+url: https://paxosfestival.com/event/the-songs-of-jackie-leven/
+archive_url: https://web.archive.org/web/20260612050306/https://paxosfestival.com/event/the-songs-of-jackie-leven/
+access: live
+note: Datum im Schlüssel ist das Veranstaltungsdatum; Veröffentlichungsdatum der Seite unbekannt.
+about:
+- person/jackie-leven
+published_in:
+- statement_id: st-48d2ff2e62d5
+  entity_value: publication/paxos-festival
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

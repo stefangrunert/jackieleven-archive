@@ -1,0 +1,23 @@
+id: document/2007-09-21-fjordenes-tidende-leven-pa-jibben
+type: Document
+label: 'Fjordenes Tidende, 21.09.2007: Vorbericht „Leven på Jibben“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_fjordenestidende_null_null_20070921_97_110_1
+access: live
+note: Pressetext; nennt die Albumkritik von Fredrik Wandrup (Dagbladet, Würfelwurf 5). Inhalt nach der
+  Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2007-09-21-maloy-jibben
+published:
+- statement_id: st-7248c5d2ca11
+  edtf_value: '2007-09-21'
+  references: []
+published_in:
+- statement_id: st-72d9dc1c67e5
+  entity_value: publication/fjordenes-tidende
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,21 @@
+id: document/2003-03-04-lofotposten-konsertnotis-praestengbrygga
+type: Document
+label: 'Lofotposten, 04.03.2003: Konzertnotiz Præstengbrygga, Kabelvåg'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_lofotposten_null_null_20030304_108_53_1
+access: live
+about:
+- event/2003-03-04-kabelvag-praestengbrygga
+published:
+- statement_id: st-e3a5a5120df7
+  edtf_value: '2003-03-04'
+  references: []
+published_in:
+- statement_id: st-69c5de4ff7ef
+  entity_value: publication/lofotposten
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

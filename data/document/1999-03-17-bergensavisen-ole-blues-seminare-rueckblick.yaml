@@ -1,0 +1,20 @@
+id: document/1999-03-17-bergensavisen-ole-blues-seminare-rueckblick
+type: Document
+label: 'Bergensavisen, 17.03.1999: Rückblick Ole-Blues-Seminare Herbst 1998'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_19990317_73_75_1
+access: live
+note: Herbstkurs 1998 (Leven, Nils Lofgren) mit langen Wartelisten.
+published:
+- statement_id: st-4d539519e809
+  edtf_value: '1999-03-17'
+  references: []
+published_in:
+- statement_id: st-84aa6b842408
+  entity_value: publication/bergensavisen
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

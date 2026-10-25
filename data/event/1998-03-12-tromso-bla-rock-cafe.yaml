@@ -1,0 +1,45 @@
+id: event/1998-03-12-tromso-bla-rock-cafe
+type: Event
+label: Jackie Leven, Blå Rock Café, Tromsø (1998-03-12)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-28ee34325e6c
+  edtf_value: '1998-03-12'
+  note: „heute“ (12.03.1998) laut Vorbericht.
+  references:
+  - document: document/1998-03-12-tromso-en-skotte-i-tromso
+    locator: Tromsø, 12.03.1998, S. 38
+    quote: En skotte i Tromsø
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-ee5bb79be7c5
+  entity_value: place/bla-rock-cafe-tromso
+  references:
+  - document: document/1998-03-12-tromso-en-skotte-i-tromso
+    locator: Tromsø, 12.03.1998, S. 38
+    quote: En skotte i Tromsø
+    evidence_type: third_party
+participants:
+- statement_id: st-976edbc525c3
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1998-03-12-tromso-en-skotte-i-tromso
+    locator: Tromsø, 12.03.1998, S. 38
+    quote: En skotte i Tromsø
+    evidence_type: third_party
+performance_status:
+- statement_id: st-3dac2382e8c3
+  status_value: announced
+  references:
+  - document: document/1998-03-12-tromso-en-skotte-i-tromso
+    locator: Tromsø, 12.03.1998, S. 38
+    quote: En skotte i Tromsø
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

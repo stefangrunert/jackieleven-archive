@@ -30,6 +30,10 @@ located_in:
   - document: document/2003-03-01-nordlys-kiltkledd-helt-tilbake-i-byen
     locator: Nordlys, 01.03.2003
     evidence_type: third_party
+  - document: document/2005-09-28-bladet-tromso-leven-pa-bla-rock
+    locator: Bladet Tromsø, 28.09.2005
+    quote: En kveld med Jackie Leven på scenen er en stor opplevelse
+    evidence_type: third_party
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

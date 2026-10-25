@@ -1,0 +1,16 @@
+id: place/barfly-cardiff
+type: Place
+label: Barfly
+place_type: venue
+located_in:
+- statement_id: st-7367c768d4bf
+  entity_value: place/cardiff
+  references:
+  - document: document/2020-07-03-klof-mag-watch-rachel-taylor-beales-jackies-coming-around
+    locator: Statement Taylor-Beales
+    evidence_type: third_party
+    asserted_by: person/rachel-taylor-beales
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

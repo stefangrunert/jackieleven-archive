@@ -1,0 +1,45 @@
+id: event/2000-11-29-rome-big-mama
+type: Event
+label: Jackie Leven, Big Mama, Rom (2000-11-29)
+event_type: concert
+time:
+- statement_id: st-b50921977600
+  edtf_value: '2000-11-29'
+  references:
+  - document: document/2000-11-28-rockol-jackie-leven-non-verra-in-italia
+    locator: Rockol, 28.11.2000
+    quote: Jackie Leven non verrà in Italia
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-c575ff9e3875
+  entity_value: place/big-mama-rome
+  references:
+  - document: document/2000-11-28-rockol-jackie-leven-non-verra-in-italia
+    locator: Rockol, 28.11.2000
+    quote: Jackie Leven non verrà in Italia
+    evidence_type: third_party
+participants:
+- statement_id: st-59bad3cd38c0
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2000-11-28-rockol-jackie-leven-non-verra-in-italia
+    locator: Rockol, 28.11.2000
+    quote: Jackie Leven non verrà in Italia
+    evidence_type: third_party
+performance_status:
+- statement_id: st-9579edb78ddc
+  status_value: cancelled
+  note: Abgesagt wegen einer Erkrankung, die Leven sich laut Meldung im vorangegangenen Norwegenaufenthalt
+    zugezogen hatte.
+  references:
+  - document: document/2000-11-28-rockol-jackie-leven-non-verra-in-italia
+    locator: Rockol, 28.11.2000
+    quote: Jackie Leven non verrà in Italia
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,23 @@
+id: document/2007-10-05-varden-kultlegende-til-lundetangen
+type: Document
+label: 'Varden, 05.10.2007: Vorbericht „Kultlegende til Lundetangen“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_varden_null_null_20071005_133_232_1
+access: live
+note: Der Text steht auf der Seite doppelt gedruckt. Inhalt nach der Fundstellenliste der Sammeldatei;
+  Volltext nicht gesichtet.
+about:
+- event/2007-10-06-skien-lundetangen-pub
+published:
+- statement_id: st-97e67b16a08f
+  edtf_value: '2007-10-05'
+  references: []
+published_in:
+- statement_id: st-3b5297d52395
+  entity_value: publication/varden
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

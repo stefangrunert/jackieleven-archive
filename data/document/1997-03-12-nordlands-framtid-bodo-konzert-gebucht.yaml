@@ -1,0 +1,26 @@
+id: document/1997-03-12-nordlands-framtid-bodo-konzert-gebucht
+type: Document
+label: 'Nordlands framtid, 12.03.1997: Vorbericht Bodø-Konzert gebucht'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlandsframtid_null_null_19970312_88_60_1
+access: live
+note: 'Datum offen: 5., 6. oder 13.04., je nach Auftritt im schwedischen Fernsehen; Band oder solo offen.'
+participants:
+- statement_id: st-6da234ac9764
+  agent_ref: person/kjell-nordeng
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-036a7cf23484
+  edtf_value: '1997-03-12'
+  references: []
+published_in:
+- statement_id: st-847032ccdf86
+  entity_value: publication/nordlands-framtid
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

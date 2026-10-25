@@ -1,0 +1,16 @@
+id: place/leytonstone-ex-servicemens-club-london
+type: Place
+label: Leytonstone Ex-Servicemen's Club
+place_type: venue
+located_in:
+- statement_id: st-a4450e529d31
+  entity_value: place/london
+  references:
+  - document: document/2026-12-09-ents24-main-travelled-roads-tribute
+    locator: Ankündigung
+    quote: Main Travelled Roads - A Tribute to Jackie Leven
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

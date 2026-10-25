@@ -1,0 +1,55 @@
+id: event/2007-03-24-glasgow-king-tuts
+type: Event
+label: Jackie Leven, King Tut's Wah Wah Hut, Glasgow (2007-03-24)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-4b7d0ea694c3
+  edtf_value: '2007-03-24'
+  note: Jahr 2007 aus Erscheinungsmonat der Vorschau und dem Albumbezug erschlossen (Samstag, 24. März
+    2007).
+  references:
+  - document: document/2007-03-the-list-5-reasons-to-go-see-jackie-leven
+    locator: The List, 03/2007
+    quote: King Tut's
+    evidence_type: inferred
+    scope: Konzert am Samstag, 24. März (2007) im King Tut's angekündigt; Jahr aus dem Erscheinungsmonat
+      erschlossen.
+took_place_at:
+- statement_id: st-4493260d93cb
+  entity_value: place/king-tuts-glasgow
+  references:
+  - document: document/2007-03-the-list-5-reasons-to-go-see-jackie-leven
+    locator: The List, 03/2007
+    quote: King Tut's
+    evidence_type: third_party
+    scope: Konzert am Samstag, 24. März (2007) im King Tut's angekündigt; Jahr aus dem Erscheinungsmonat
+      erschlossen.
+participants:
+- statement_id: st-422a0211bd8b
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-03-the-list-5-reasons-to-go-see-jackie-leven
+    locator: The List, 03/2007
+    quote: King Tut's
+    evidence_type: third_party
+    scope: Konzert am Samstag, 24. März (2007) im King Tut's angekündigt; Jahr aus dem Erscheinungsmonat
+      erschlossen.
+performance_status:
+- statement_id: st-c5840a4655df
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2007-03-the-list-5-reasons-to-go-see-jackie-leven
+    locator: The List, 03/2007
+    quote: King Tut's
+    evidence_type: third_party
+    scope: Konzert am Samstag, 24. März (2007) im King Tut's angekündigt; Jahr aus dem Erscheinungsmonat
+      erschlossen.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

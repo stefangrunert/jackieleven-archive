@@ -1,0 +1,31 @@
+id: document/2010-03-bergen-sentrum-jackie-leven-pa-madam-felle-9-april
+type: Document
+label: 'Bergen Sentrum, 2010-03: Jackie Leven på Madam Felle 9. april'
+document_type: news
+language: 'no'
+url: https://www.bergensentrum.no/nyheter/jackie-leven-pa-madam-felle-9-april/
+archive_url: https://web.archive.org/web/20250512175736/https://www.bergensentrum.no/nyheter/jackie-leven-pa-madam-felle-9-april/
+access: live
+note: Konzertankündigung. Die Seite datiert den Beitrag auf 13.03.2013, unmöglich (Leven starb 2011);
+  Monat und Jahr sind aus Freitag, 9. April, und dem Album Gothic Road (Erscheinungsdatum 5. April 2010)
+  erschlossen.
+about:
+- event/2010-04-09-bergen-madam-felle
+participants:
+- statement_id: st-e670e6d5bcbe
+  agent_ref: person/isabella-nordbo
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-0784ca08f25e
+  edtf_value: 2010-03?
+  references: []
+published_in:
+- statement_id: st-b347edd710b4
+  entity_value: publication/bergen-sentrum
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

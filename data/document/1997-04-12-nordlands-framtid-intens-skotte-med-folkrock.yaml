@@ -1,0 +1,25 @@
+id: document/1997-04-12-nordlands-framtid-intens-skotte-med-folkrock
+type: Document
+label: 'Nordlands framtid, 12.04.1997: Vorbericht „Intens skotte med folkrock“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlandsframtid_null_null_19970412_88_83_1
+access: live
+participants:
+- statement_id: st-9ff1003ce12c
+  agent_ref: person/kjell-nordeng
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-290b17923cf6
+  edtf_value: '1997-04-12'
+  references: []
+published_in:
+- statement_id: st-984694ba7f82
+  entity_value: publication/nordlands-framtid
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,41 @@
+id: event/1997-08-trondheim-trakk-97
+type: Event
+label: Doll by Doll, Tråkk 97, Trondheim (1997-08)
+event_type: festival_appearance
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-e3d04477906f
+  edtf_value: 1997-08
+  note: 'Festival laut Vorschau ab Do 28.08.1997; Auftrittstag nicht in der erfassten Fundstelle (Konzertguide
+    Arbeiderbladet 29.08.1997, nur gezählt: Sa 30.08.).'
+  references:
+  - document: document/1997-08-22-arbeiderbladet-vorschau-trakk-festival
+    locator: Arbeiderbladet, 22.08.1997, S. 27
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-b124608a9459
+  entity_value: place/trondheim
+  references:
+  - document: document/1997-08-22-arbeiderbladet-vorschau-trakk-festival
+    locator: Arbeiderbladet, 22.08.1997, S. 27
+    evidence_type: third_party
+participants:
+- statement_id: st-0fb3afe6a1b8
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1997-08-22-arbeiderbladet-vorschau-trakk-festival
+    locator: Arbeiderbladet, 22.08.1997, S. 27
+    evidence_type: third_party
+performance_status:
+- statement_id: st-177d15035db1
+  status_value: announced
+  references:
+  - document: document/1997-08-22-arbeiderbladet-vorschau-trakk-festival
+    locator: Arbeiderbladet, 22.08.1997, S. 27
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

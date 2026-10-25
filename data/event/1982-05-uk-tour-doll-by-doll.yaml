@@ -1,0 +1,37 @@
+id: event/1982-05-uk-tour-doll-by-doll
+type: Event
+label: Doll by Doll, Großbritannien-Tour Frühjahr 1982
+event_type: tour
+time:
+- statement_id: st-b7f5b95a4fe9
+  edtf_value: 1982-05
+  certainty: probable
+  note: Laufende Tour im Mai 1982; Termine nicht genannt.
+  references:
+  - document: document/1982-05-15-nme-doll-by-doll-off
+    locator: NME, 15.05.1982, S. 41
+    quote: have called off their current UK tour
+    evidence_type: inferred
+participants:
+- statement_id: st-23dbcbd33de3
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1982-05-15-nme-doll-by-doll-off
+    locator: NME, 15.05.1982, S. 41
+    quote: have called off their current UK tour
+    evidence_type: third_party
+performance_status:
+- statement_id: st-25dedcc83596
+  status_value: cancelled
+  note: Abgesagt wegen „traumatischer Streitigkeiten“ mit Magnet Records laut NME; Sicht der Band.
+  references:
+  - document: document/1982-05-15-nme-doll-by-doll-off
+    locator: NME, 15.05.1982, S. 41
+    quote: have called off their current UK tour
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

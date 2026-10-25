@@ -1,0 +1,15 @@
+id: place/pembroke-arms-bournemouth
+type: Place
+label: Pembroke Arms
+place_type: venue
+located_in:
+- statement_id: st-1c42997673f1
+  entity_value: place/bournemouth
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 33 (Folk)
+    evidence_type: primary_document
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

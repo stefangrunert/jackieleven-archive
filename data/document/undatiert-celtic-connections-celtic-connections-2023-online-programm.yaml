@@ -1,0 +1,19 @@
+id: document/undatiert-celtic-connections-celtic-connections-2023-online-programm
+type: Document
+label: 'Celtic Connections 2023: Online-Programm (PDF)'
+document_type: calendar
+language: en
+url: https://www.celticconnections.com/media/32ce5fuz/cc-online-programme.pdf
+access: live
+note: Festivalprogramm; belegt die Planung, nicht den Verlauf. Eintrag auf PDF-Seite 6. Publikationsdatum
+  nicht ermittelt.
+about:
+- person/jackie-leven
+published_in:
+- statement_id: st-de46e65a09fe
+  entity_value: publication/celtic-connections
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

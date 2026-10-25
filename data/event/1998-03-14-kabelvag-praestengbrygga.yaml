@@ -10,12 +10,20 @@ time:
   - document: document/1998-03-16-lofotposten-leven-for-dove-orer
     locator: Lofotposten, 16.03.1998
     evidence_type: inferred
+  - document: document/1998-03-13-lofotposten-ny-runde-med
+    locator: Lofotposten, 13.03.1998, S. 30
+    quote: Ny runde med
+    evidence_type: third_party
 took_place_at:
 - statement_id: st-5da8acab5dd8
   entity_value: place/praestengbrygga-kabelvag
   references:
   - document: document/1998-03-16-lofotposten-leven-for-dove-orer
     locator: Lofotposten, 16.03.1998
+    evidence_type: third_party
+  - document: document/1998-03-13-lofotposten-ny-runde-med
+    locator: Lofotposten, 13.03.1998, S. 30
+    quote: Ny runde med
     evidence_type: third_party
 participants:
 - statement_id: st-900c55fe1554
@@ -26,6 +34,10 @@ participants:
   references:
   - document: document/1998-03-16-lofotposten-leven-for-dove-orer
     locator: Lofotposten, 16.03.1998
+    evidence_type: third_party
+  - document: document/1998-03-13-lofotposten-ny-runde-med
+    locator: Lofotposten, 13.03.1998, S. 30
+    quote: Ny runde med
     evidence_type: third_party
 performance_status:
 - statement_id: st-f7feba0a49f0

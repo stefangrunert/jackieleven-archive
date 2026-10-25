@@ -1,0 +1,16 @@
+id: place/woolwich-tramshed-london
+type: Place
+label: Woolwich Tramshed
+place_type: venue
+located_in:
+- statement_id: st-5e1f45591f9e
+  entity_value: place/london
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Forthcoming Visitors
+    quote: Woolwich Tramshed on March 24
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

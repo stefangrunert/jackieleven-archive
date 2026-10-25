@@ -1,0 +1,24 @@
+id: document/2008-11-04-tromso-madrugada-konzert-kulturhuset
+type: Document
+label: 'Tromsø, 04.11.2008: Konzertkritik Madrugada, Kulturhuset (03.11.2008), nennt Leven als Vorgruppe'
+document_type: concert_review
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromso_null_null_20081104_110_258_1
+access: live
+note: Inhalt nach der Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+reviews:
+- event/2008-11-03-tromso-kulturhuset
+about:
+- event/2008-11-03-tromso-kulturhuset
+published:
+- statement_id: st-759129d615d3
+  edtf_value: '2008-11-04'
+  references: []
+published_in:
+- statement_id: st-e4cef26b6127
+  entity_value: publication/tromso
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen
