@@ -1,0 +1,45 @@
+id: event/2005-10-22-foerde-pikant
+type: Event
+label: Jackie Leven, Pikant, Førde (2005-10-22)
+event_type: concert
+note: Ort Førde erschlossen (Lokalzeitung Firda); Spielstätte Pikant laut Meldung.
+time:
+- statement_id: st-39fa1ffc12e9
+  edtf_value: '2005-10-22'
+  references:
+  - document: document/2005-10-22-firda-konzerthinweis-leven-pikant
+    locator: Firda, 22.10.2005, S. 46
+    quote: Antonius arrangerer konsert med Jackie Leven på Pikant i kveld
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-c0be68f4cc34
+  entity_value: place/pikant-foerde
+  references:
+  - document: document/2005-10-22-firda-konzerthinweis-leven-pikant
+    locator: Firda, 22.10.2005, S. 46
+    quote: Antonius arrangerer konsert med Jackie Leven på Pikant i kveld
+    evidence_type: third_party
+participants:
+- statement_id: st-6d8f01f2d510
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2005-10-22-firda-konzerthinweis-leven-pikant
+    locator: Firda, 22.10.2005, S. 46
+    quote: Antonius arrangerer konsert med Jackie Leven på Pikant i kveld
+    evidence_type: third_party
+performance_status:
+- statement_id: st-5329b5fc7573
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2005-10-22-firda-konzerthinweis-leven-pikant
+    locator: Firda, 22.10.2005, S. 46
+    quote: Antonius arrangerer konsert med Jackie Leven på Pikant i kveld
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

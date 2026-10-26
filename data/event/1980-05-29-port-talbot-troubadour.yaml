@@ -1,0 +1,47 @@
+id: event/1980-05-29-port-talbot-troubadour
+type: Event
+label: Doll by Doll, Troubadour, Port Talbot (1980-05-29)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-d344e75dbde8
+  edtf_value: '1980-05-29'
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-6d21318f3d0d
+  entity_value: place/troubadour-port-talbot
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+participants:
+- statement_id: st-78b8c3799916
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+performance_status:
+- statement_id: st-62bdaf174a06
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+part_of:
+- statement_id: st-ccb4b4b35293
+  entity_value: event/1980-05-uk-tour-doll-by-doll
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

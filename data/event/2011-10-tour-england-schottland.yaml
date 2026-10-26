@@ -1,0 +1,38 @@
+id: event/2011-10-tour-england-schottland
+type: Event
+label: Jackie Leven, Tour Oktober 2011 (England, Schottland)
+event_type: tour
+note: Einzelne Termine sind aus dieser Quelle nicht erfasst (nur Ortsnamen). Laut Quelldatei wurden mehrere
+  Konzerte vor Levens Tod abgesagt; das steht nicht auf der Seite selbst.
+time:
+- statement_id: st-7d4c99b3d317
+  edtf_value: 2011-10
+  certainty: probable
+  references:
+  - document: document/2010-cooking-vinyl-gothic-road-albumtext
+    locator: Tourplan unter dem Albumtext, Capture 19.07.2011
+    evidence_type: third_party
+    scope: Tourplan Oktober 2011 mit mehreren Orten in England und Schottland (sinngemäß)
+participants:
+- statement_id: st-99c99fb3010f
+  agent_ref: person/jackie-leven
+  roles:
+  - performer
+  references:
+  - document: document/2010-cooking-vinyl-gothic-road-albumtext
+    locator: Tourplan unter dem Albumtext, Capture 19.07.2011
+    evidence_type: third_party
+    scope: Tourplan Oktober 2011 mit mehreren Orten in England und Schottland (sinngemäß)
+performance_status:
+- statement_id: st-2c4956d02438
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2010-cooking-vinyl-gothic-road-albumtext
+    locator: Tourplan unter dem Albumtext, Capture 19.07.2011
+    evidence_type: third_party
+    scope: Tourplan Oktober 2011 mit mehreren Orten in England und Schottland (sinngemäß)
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,60 @@
+id: event/2007-09-19-bergen-madam-felle
+type: Event
+label: Jackie Leven, Madam Felle, Bergen (2007-09-19)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-86d7451de7dc
+  edtf_value: '2007-09-19'
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-08-26-bergensavisen-kurzvorschau-madam-felle
+    locator: Bergensavisen, 26.08.2007, S. 23
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-8a11a8490904
+  entity_value: place/madam-felle-bergen
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-08-26-bergensavisen-kurzvorschau-madam-felle
+    locator: Bergensavisen, 26.08.2007, S. 23
+    evidence_type: third_party
+participants:
+- statement_id: st-2a01328fbec7
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-08-26-bergensavisen-kurzvorschau-madam-felle
+    locator: Bergensavisen, 26.08.2007, S. 23
+    evidence_type: third_party
+performance_status:
+- statement_id: st-406d49e0e651
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-08-26-bergensavisen-kurzvorschau-madam-felle
+    locator: Bergensavisen, 26.08.2007, S. 23
+    evidence_type: third_party
+part_of:
+- statement_id: st-5e8f5b4247a2
+  entity_value: event/2007-09-norwegen-tournee
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

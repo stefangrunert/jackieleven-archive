@@ -1,0 +1,7 @@
+id: person/kjell-nordeng
+type: Person
+label: Kjell Nordeng
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

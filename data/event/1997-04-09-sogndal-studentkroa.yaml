@@ -1,0 +1,41 @@
+id: event/1997-04-09-sogndal-studentkroa
+type: Event
+label: Jackie Leven, Studentkroa, Sogndal (1997-04-09)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-4419d97d2f9c
+  edtf_value: '1997-04-09'
+  note: Mi 09.04.1997 laut Vorbericht.
+  references:
+  - document: document/1997-04-08-sogn-avis-vorbericht-studentkroa-sogndal
+    locator: Sogn Avis, 08.04.1997, S. 16
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-1b5bcac8ec55
+  entity_value: place/studentkroa-sogndal
+  references:
+  - document: document/1997-04-08-sogn-avis-vorbericht-studentkroa-sogndal
+    locator: Sogn Avis, 08.04.1997, S. 16
+    evidence_type: third_party
+participants:
+- statement_id: st-c25250dcbb7c
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1997-04-08-sogn-avis-vorbericht-studentkroa-sogndal
+    locator: Sogn Avis, 08.04.1997, S. 16
+    evidence_type: third_party
+performance_status:
+- statement_id: st-05faad8353a1
+  status_value: announced
+  references:
+  - document: document/1997-04-08-sogn-avis-vorbericht-studentkroa-sogndal
+    locator: Sogn Avis, 08.04.1997, S. 16
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,18 @@
+id: document/2023-11-18-betsey-trotwood-levenland
+type: Document
+label: 'The Betsey Trotwood: Levenland'
+document_type: calendar
+language: en
+url: https://thebetsey.com/music-events/levenland
+access: live
+note: Datum im Schlüssel ist das Veranstaltungsdatum; Veröffentlichungsdatum der Seite unbekannt.
+about:
+- person/jackie-leven
+published_in:
+- statement_id: st-7fe5bbc36e9d
+  entity_value: publication/betsey-trotwood
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

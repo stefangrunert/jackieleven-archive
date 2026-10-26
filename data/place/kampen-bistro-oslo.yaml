@@ -1,0 +1,15 @@
+id: place/kampen-bistro-oslo
+type: Place
+label: Kampen Bistro
+place_type: venue
+located_in:
+- statement_id: st-36f22187dc01
+  entity_value: place/oslo
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

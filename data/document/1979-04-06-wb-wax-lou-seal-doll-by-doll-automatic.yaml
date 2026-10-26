@@ -1,0 +1,31 @@
+id: document/1979-04-06-wb-wax-lou-seal-doll-by-doll-automatic
+type: Document
+label: 'WB Wax, 06.04.1979: Kolumne von Lou Seal über Doll by Doll'
+document_type: column
+language: en
+url: https://www.worldradiohistory.com/Archive-All-Music/WB-Records/WB-Wax-1979-04-06.pdf
+access: live
+note: Hauszeitschrift von Warner Bros. Records; Label-Werbung, kein unabhängiges Urteil.
+about:
+- group/doll-by-doll
+- person/nick-mobbs
+- organization/automatic-records
+participants:
+- statement_id: st-42d78a9fcad5
+  agent_ref: person/lou-seal
+  roles:
+  - author
+  credited_as: Lou Seal
+  references: []
+published:
+- statement_id: st-9dafff17a2a3
+  edtf_value: '1979-04-06'
+  references: []
+published_in:
+- statement_id: st-fc9fe08740a2
+  entity_value: publication/wb-wax
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

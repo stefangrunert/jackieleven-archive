@@ -1,0 +1,8 @@
+id: person/lou-seal
+type: Person
+label: Lou Seal
+note: Autorenname der Kolumne in WB Wax; ob Pseudonym, geht aus der Quelle nicht hervor.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

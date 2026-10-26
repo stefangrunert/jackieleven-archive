@@ -1,0 +1,18 @@
+id: place/royal-concert-hall-glasgow
+type: Place
+label: Royal Concert Hall
+place_type: venue
+note: Strathclyde Suite.
+located_in:
+- statement_id: st-df58307b756f
+  entity_value: place/glasgow
+  references:
+  - document: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
+    locator: Pressemitteilung, 27.01.2004
+    evidence_type: primary_document
+    scope: Uraufführung von Jackie Leven Said am 27. Januar 2004 in der Strathclyde Suite der Royal Concert
+      Hall Glasgow, im Rahmen von Celtic Connections.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

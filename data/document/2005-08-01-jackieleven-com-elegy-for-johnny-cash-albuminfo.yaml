@@ -1,0 +1,23 @@
+id: document/2005-08-01-jackieleven-com-elegy-for-johnny-cash-albuminfo
+type: Document
+label: 'jackieleven.com, 01.08.2005: Albuminfo „Elegy For Johnny Cash“ (COOKCD331)'
+document_type: press_release
+language: en
+access: archive
+note: Pressetext von Cooking Vinyl mit Songnotizen Levens; Kontaktdaten nicht übernommen.
+about:
+- person/jackie-leven
+- organization/cooking-vinyl
+- person/david-wrench
+published:
+- statement_id: st-1c1e10fbc8c9
+  edtf_value: '2005-08-01'
+  references: []
+published_in:
+- statement_id: st-c78fdd69cf4e
+  entity_value: publication/jackieleven-com
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

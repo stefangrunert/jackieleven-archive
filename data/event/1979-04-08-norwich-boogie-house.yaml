@@ -1,0 +1,47 @@
+id: event/1979-04-08-norwich-boogie-house
+type: Event
+label: Doll by Doll, Boogie House, Norwich (1979-04-08)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-d7dd3f5d02fd
+  edtf_value: '1979-04-08'
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-2b3a850f2182
+  entity_value: place/boogie-house-norwich
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+participants:
+- statement_id: st-f743a6f450bd
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+performance_status:
+- statement_id: st-1c80d6092642
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+part_of:
+- statement_id: st-e722e3ead6b1
+  entity_value: event/1979-03-tour-fruehjahr-doll-by-doll
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

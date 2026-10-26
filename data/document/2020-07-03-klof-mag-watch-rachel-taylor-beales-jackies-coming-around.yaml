@@ -1,0 +1,23 @@
+id: document/2020-07-03-klof-mag-watch-rachel-taylor-beales-jackies-coming-around
+type: Document
+label: 'KLOF Mag, 03.07.2020: Watch: Rachel Taylor Beales – Jackie''s Coming Around'
+document_type: news
+language: en
+url: https://klofmag.com/2020/07/watch-rachel-taylor-beales-jackies-coming-around/
+access: live
+note: 'Kopf: KLOF Staff (Redaktionskürzel, kein Klarname). Enthält Erinnerung von Rachel Taylor-Beales
+  an ein Leven-Konzert in Cardiff 2008.'
+about:
+- person/jackie-leven
+published:
+- statement_id: st-5fe5610e5b9a
+  edtf_value: '2020-07-03'
+  references: []
+published_in:
+- statement_id: st-c0ff4df13982
+  entity_value: publication/klof-mag
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

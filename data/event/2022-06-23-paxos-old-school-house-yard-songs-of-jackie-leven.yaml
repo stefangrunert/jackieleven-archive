@@ -1,0 +1,63 @@
+id: event/2022-06-23-paxos-old-school-house-yard-songs-of-jackie-leven
+type: Event
+label: The Songs of Jackie Leven, Old School House Yard, Loggos, Paxos (2022-06-23)
+event_type: concert
+note: Zusätzlich Gäste aus der Inselszene (nicht namentlich). Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-309f07f1450c
+  edtf_value: '2022-06-23'
+  note: 20 Uhr.
+  references:
+  - document: document/2022-06-23-paxos-festival-the-songs-of-jackie-leven
+    locator: Ankündigungstext
+    quote: The Songs of Jackie Leven
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-1be8eb4fe69f
+  entity_value: place/old-school-house-yard-loggos
+  references:
+  - document: document/2022-06-23-paxos-festival-the-songs-of-jackie-leven
+    locator: Ankündigungstext
+    quote: The Songs of Jackie Leven
+    evidence_type: third_party
+participants:
+- statement_id: st-01f0c66546d2
+  agent_ref: person/jinder
+  roles:
+  - performer
+  references:
+  - document: document/2022-06-23-paxos-festival-the-songs-of-jackie-leven
+    locator: Ankündigungstext
+    quote: The Songs of Jackie Leven
+    evidence_type: third_party
+- statement_id: st-add2b1aef311
+  agent_ref: person/michael-weston-king
+  roles:
+  - performer
+  references:
+  - document: document/2022-06-23-paxos-festival-the-songs-of-jackie-leven
+    locator: Ankündigungstext
+    quote: The Songs of Jackie Leven
+    evidence_type: third_party
+- statement_id: st-dc6ca740bdc5
+  agent_ref: person/deborah-greenwood
+  roles:
+  - performer
+  references:
+  - document: document/2022-06-23-paxos-festival-the-songs-of-jackie-leven
+    locator: Ankündigungstext
+    quote: The Songs of Jackie Leven
+    evidence_type: third_party
+performance_status:
+- statement_id: st-99271b917b46
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2022-06-23-paxos-festival-the-songs-of-jackie-leven
+    locator: Ankündigungstext
+    quote: The Songs of Jackie Leven
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

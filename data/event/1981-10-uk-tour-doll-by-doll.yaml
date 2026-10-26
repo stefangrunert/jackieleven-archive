@@ -1,0 +1,35 @@
+id: event/1981-10-uk-tour-doll-by-doll
+type: Event
+label: Doll by Doll, Großbritannien-Tour Herbst 1981
+event_type: tour
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-ed4a30463a61
+  edtf_value: 1981-10~
+  note: „in Kürze“ nach Erscheinen der Meldung vom 03.10.1981.
+  references:
+  - document: document/1981-10-03-record-mirror-tour-by-doll-line-up-change
+    locator: Record Mirror, 03.10.1981
+    evidence_type: third_party
+    scope: Große Großbritannien-Tour „in Kürze“ angekündigt.
+participants:
+- statement_id: st-0722461d83ae
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1981-10-03-record-mirror-tour-by-doll-line-up-change
+    locator: Record Mirror, 03.10.1981
+    evidence_type: third_party
+performance_status:
+- statement_id: st-e086726edfe2
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1981-10-03-record-mirror-tour-by-doll-line-up-change
+    locator: Record Mirror, 03.10.1981
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

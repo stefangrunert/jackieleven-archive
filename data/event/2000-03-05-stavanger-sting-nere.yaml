@@ -1,0 +1,51 @@
+id: event/2000-03-05-stavanger-sting-nere
+type: Event
+label: Jackie Leven, Sting Nere, Stavanger (2000-03-05)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt. Die Quelle nennt das Lokal nur „Sting“ (Café Sting);
+  Gleichsetzung mit Sting Nere angenommen.
+time:
+- statement_id: st-9ab34fb0a482
+  edtf_value: '2000-03-05'
+  references:
+  - document: document/2000-03-03-rogalands-avis-konsertnotis-sting
+    locator: Rogalands Avis, 03.03.2000, S. 26
+    evidence_type: third_party
+    scope: 'Notiz: Konzert am Sonntag, 05.03.2000, im „Sting“'
+participants:
+- statement_id: st-9c4e708026cf
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2000-03-03-rogalands-avis-konsertnotis-sting
+    locator: Rogalands Avis, 03.03.2000, S. 26
+    evidence_type: third_party
+    scope: 'Notiz: Konzert am Sonntag, 05.03.2000, im „Sting“'
+performance_status:
+- statement_id: st-f9c8e778c171
+  status_value: announced
+  references:
+  - document: document/2000-03-03-rogalands-avis-konsertnotis-sting
+    locator: Rogalands Avis, 03.03.2000, S. 26
+    evidence_type: third_party
+    scope: 'Notiz: Konzert am Sonntag, 05.03.2000, im „Sting“'
+took_place_at:
+- statement_id: st-505577b63932
+  entity_value: place/sting-nere-stavanger
+  certainty: probable
+  note: Lokal in der Quelle nur als „Sting“ genannt; Gleichsetzung mit Sting Nere angenommen.
+  references:
+  - document: document/2000-03-03-rogalands-avis-konsertnotis-sting
+    locator: Rogalands Avis, 03.03.2000, S. 26
+    evidence_type: third_party
+    scope: 'Notiz: Konzert am Sonntag, 05.03.2000, im „Sting“'
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

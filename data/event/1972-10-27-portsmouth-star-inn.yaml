@@ -1,0 +1,53 @@
+id: event/1972-10-27-portsmouth-star-inn
+type: Event
+label: John St Field, Star Inn, Portsmouth (1972-10-27)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-d5e6520b7e43
+  edtf_value: '1972-10-27'
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 24 (Folk)
+    quote: John St Field
+    evidence_type: primary_document
+took_place_at:
+- statement_id: st-58dd173f6e64
+  entity_value: place/star-inn-portsmouth
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 24 (Folk)
+    quote: John St Field
+    evidence_type: primary_document
+participants:
+- statement_id: st-f526b89489c6
+  agent_ref: persona/john-st-field
+  roles:
+  - performer
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 24 (Folk)
+    quote: John St Field
+    evidence_type: primary_document
+- statement_id: st-042463922274
+  agent_ref: person/helen-woodall
+  roles:
+  - performer
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 24 (Folk)
+    quote: John St Field
+    evidence_type: primary_document
+performance_status:
+- statement_id: st-886f2bd92670
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 24 (Folk)
+    quote: John St Field
+    evidence_type: primary_document
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

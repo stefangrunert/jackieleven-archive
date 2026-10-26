@@ -1,0 +1,47 @@
+id: event/1980-02-03-newbridge-institute
+type: Event
+label: Doll by Doll, Newbridge Institute (1980-02-03)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-08ce0b763ba4
+  edtf_value: '1980-02-03'
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-02c333d383d2
+  entity_value: place/newbridge-institute
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+participants:
+- statement_id: st-d182880f741e
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+performance_status:
+- statement_id: st-3f8b64317ddd
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+part_of:
+- statement_id: st-d2c8417c43f6
+  entity_value: event/1980-02-tour-doll-by-doll
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

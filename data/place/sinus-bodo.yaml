@@ -1,0 +1,15 @@
+id: place/sinus-bodo
+type: Place
+label: Sinus
+place_type: venue
+located_in:
+- statement_id: st-26ca5e1111aa
+  entity_value: place/bodo
+  references:
+  - document: document/2007-09-26-avisa-nordland-vorbericht-sinus
+    locator: Avisa Nordland, 26.09.2007, S. 30
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

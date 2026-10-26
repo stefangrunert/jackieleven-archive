@@ -1,0 +1,7 @@
+id: person/john-shearlaw
+type: Person
+label: John Shearlaw
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

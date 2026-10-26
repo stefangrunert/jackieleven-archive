@@ -1,0 +1,21 @@
+id: document/2000-02-25-nordlys-konsertnotis-blarock-tromso
+type: Document
+label: 'Nordlys, 25.02.2000: Konzertnotiz Blårock, Tromsø'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlys_null_null_20000225_99_47_1
+access: live
+about:
+- event/2000-03-02-tromso-bla-rock-cafe
+published:
+- statement_id: st-7dd45922b675
+  edtf_value: '2000-02-25'
+  references: []
+published_in:
+- statement_id: st-cc554af50300
+  entity_value: publication/nordlys
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

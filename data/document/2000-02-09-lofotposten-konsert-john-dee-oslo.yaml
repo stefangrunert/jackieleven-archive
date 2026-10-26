@@ -1,0 +1,21 @@
+id: document/2000-02-09-lofotposten-konsert-john-dee-oslo
+type: Document
+label: 'Lofotposten, 09.02.2000: Konzertmeldung John Dee, Oslo'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_lofotposten_null_null_20000209_105_33_1
+access: live
+about:
+- event/2000-02-28-oslo-john-dee
+published:
+- statement_id: st-4853a9b09086
+  edtf_value: '2000-02-09'
+  references: []
+published_in:
+- statement_id: st-fd5c5c5df7b1
+  entity_value: publication/lofotposten
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

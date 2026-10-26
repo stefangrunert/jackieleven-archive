@@ -1,0 +1,23 @@
+id: document/2010-03-20-hordaland-osa-jubilaeum-ulvik
+type: Document
+label: 'Hordaland, 20.03.2010: Vorbericht Osa-Jubiläum Ulvik: Knut Buen mit Leven'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_hordaland_null_null_20100320_127_33_1
+access: live
+note: Nennt das Duo seit Kongsberg Jazz 2009. Inhalt nach der Fundstellenliste der Sammeldatei; Volltext
+  nicht gesichtet.
+about:
+- event/2010-05-01-ulvik-harding-folk
+published:
+- statement_id: st-dfbe930aeafa
+  edtf_value: '2010-03-20'
+  references: []
+published_in:
+- statement_id: st-a84d3e674e0c
+  entity_value: publication/hordaland
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,16 @@
+id: place/star-inn-portsmouth
+type: Place
+label: Star Inn
+place_type: venue
+located_in:
+- statement_id: st-4220b6ca37f1
+  entity_value: place/portsmouth
+  references:
+  - document: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+    locator: NME, 28.10.1972, S. 24 (Folk)
+    quote: John St Field
+    evidence_type: primary_document
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,45 @@
+id: event/2011-11-18-kinross-green-hotel
+type: Event
+label: Jackie Leven, Green Hotel, Kinross (2011-11-18)
+event_type: concert
+note: Geplanter Auftritt unmittelbar nach Levens Tod; Datum nur erschlossen (Zeitangabe und Bezug des
+  „danach“ unsicher).
+time:
+- statement_id: st-d8cbe6f68ab8
+  edtf_value: '2011-11-18'
+  certainty: probable
+  note: Abgeleitet aus „am Freitag danach“ (nach dem Tod am Montag, 14.11.2011); die Quelle nennt kein
+    Datum.
+  references:
+  - document: document/2021-08-13-fife-today-new-compilation-album-celebrates-jackie-leven
+    locator: Absatz zu Wayside Shrines
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-2db522a7ecc8
+  entity_value: place/green-hotel-kinross
+  references:
+  - document: document/2021-08-13-fife-today-new-compilation-album-celebrates-jackie-leven
+    locator: Absatz zu Wayside Shrines
+    evidence_type: third_party
+participants:
+- statement_id: st-3e5eb9b363c5
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  references:
+  - document: document/2021-08-13-fife-today-new-compilation-album-celebrates-jackie-leven
+    locator: Absatz zu Wayside Shrines
+    evidence_type: third_party
+performance_status:
+- statement_id: st-3a69ddb1e82b
+  status_value: announced
+  note: Fife Today sagt nur, Leven „sollte“ dort spielen; eine Absage wird nicht ausdrücklich genannt.
+    Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2021-08-13-fife-today-new-compilation-album-celebrates-jackie-leven
+    locator: Absatz zu Wayside Shrines
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

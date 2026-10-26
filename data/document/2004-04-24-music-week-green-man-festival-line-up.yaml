@@ -1,0 +1,21 @@
+id: document/2004-04-24-music-week-green-man-festival-line-up
+type: Document
+label: 'Music Week, 24.04.2004: Festivalvorschau mit dem Green Man Festival'
+document_type: news
+language: en
+access: live
+note: Seite 8, Meldung „Smaller festivals line up impressive range of acts“.
+about:
+- person/jackie-leven
+published:
+- statement_id: st-89f51620a417
+  edtf_value: '2004-04-24'
+  references: []
+published_in:
+- statement_id: st-fa26ef1ae91f
+  entity_value: publication/music-week
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -9,6 +9,9 @@ located_in:
   - document: document/1981-09-12-record-mirror-doll-by-doll-nite-club-edinburgh
     locator: Record Mirror, 12.09.1981, S. 18
     evidence_type: third_party
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

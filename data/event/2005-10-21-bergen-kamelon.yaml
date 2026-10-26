@@ -1,0 +1,40 @@
+id: event/2005-10-21-bergen-kamelon
+type: Event
+label: Jackie Leven, Kamelon, Bergen (2005-10-21)
+event_type: concert
+time:
+- statement_id: st-f5929e021725
+  edtf_value: '2005-10-21'
+  references:
+  - document: document/2005-09-07-bergensavisen-konzertmeldung-leven-kamelon
+    locator: Bergensavisen, 07.09.2005, S. 32
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-f43f2d4cfef5
+  entity_value: place/kamelon-bergen
+  references:
+  - document: document/2005-09-07-bergensavisen-konzertmeldung-leven-kamelon
+    locator: Bergensavisen, 07.09.2005, S. 32
+    evidence_type: third_party
+participants:
+- statement_id: st-63a8f7948f76
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2005-09-07-bergensavisen-konzertmeldung-leven-kamelon
+    locator: Bergensavisen, 07.09.2005, S. 32
+    evidence_type: third_party
+performance_status:
+- statement_id: st-488fdda37f61
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2005-09-07-bergensavisen-konzertmeldung-leven-kamelon
+    locator: Bergensavisen, 07.09.2005, S. 32
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

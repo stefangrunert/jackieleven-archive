@@ -1,0 +1,15 @@
+id: place/porterhouse-retford
+type: Place
+label: Porterhouse
+place_type: venue
+located_in:
+- statement_id: st-3284b65a945d
+  entity_value: place/retford
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

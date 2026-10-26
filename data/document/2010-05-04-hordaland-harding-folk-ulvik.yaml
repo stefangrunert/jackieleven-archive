@@ -1,0 +1,23 @@
+id: document/2010-05-04-hordaland-harding-folk-ulvik
+type: Document
+label: 'Hordaland, 04.05.2010: Bericht Harding Folk Ulvik (eine Zeile): Leven mit Buen als erwarteter
+  Höhepunkt'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_hordaland_null_null_20100504_127_48_1
+access: live
+note: Inhalt nach der Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2010-05-01-ulvik-harding-folk
+published:
+- statement_id: st-29f09dd7647a
+  edtf_value: '2010-05-04'
+  references: []
+published_in:
+- statement_id: st-40face3f4522
+  entity_value: publication/hordaland
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

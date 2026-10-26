@@ -1,0 +1,35 @@
+id: event/1979-10-europe-tour-doll-by-doll
+type: Event
+label: Doll by Doll, Europatour Oktober 1979
+event_type: tour
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-6df85688389b
+  edtf_value: 1979-10
+  note: Europatour „für Oktober fixiert“.
+  references:
+  - document: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
+    locator: Record Mirror, 28.07.1979, S. 4
+    evidence_type: third_party
+    scope: Europatour für Oktober als fest geplant gemeldet.
+participants:
+- statement_id: st-220356788041
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
+    locator: Record Mirror, 28.07.1979, S. 4
+    evidence_type: third_party
+performance_status:
+- statement_id: st-7ac791ff5530
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
+    locator: Record Mirror, 28.07.1979, S. 4
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

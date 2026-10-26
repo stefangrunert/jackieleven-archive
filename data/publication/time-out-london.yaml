@@ -1,0 +1,7 @@
+id: publication/time-out-london
+type: Publication
+label: Time Out London
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,22 @@
+id: place/cementen-stavanger
+type: Place
+label: Cementen
+place_type: venue
+located_in:
+- statement_id: st-eb1fd49b54f0
+  entity_value: place/stavanger
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-09-28-rogalands-avis-anzeige-cementen
+    locator: Rogalands Avis, 28.09.2007, S. 59
+    evidence_type: primary_document
+  - document: document/2008-11-11-rogalands-avis-leven-i-stavanger
+    locator: Rogalands Avis, 11.11.2008, S. 31
+    quote: Leven i Stavanger
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

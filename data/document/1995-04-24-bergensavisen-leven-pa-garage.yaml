@@ -1,0 +1,20 @@
+id: document/1995-04-24-bergensavisen-leven-pa-garage
+type: Document
+label: 'Bergensavisen, 24.04.1995: Leven på Garage (Vorbericht)'
+document_type: news
+language: 'no'
+access: live
+about:
+- event/1995-04-27-bergen-garage
+published:
+- statement_id: st-ceb7d020d3cc
+  edtf_value: '1995-04-24'
+  references: []
+published_in:
+- statement_id: st-5ee02f563496
+  entity_value: publication/bergensavisen
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

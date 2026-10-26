@@ -1,0 +1,47 @@
+id: event/1979-04-13-retford-porterhouse
+type: Event
+label: Doll by Doll, Porterhouse, Retford (1979-04-13)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-8dfaeb5563e4
+  edtf_value: '1979-04-13'
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-801140b90f18
+  entity_value: place/porterhouse-retford
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+participants:
+- statement_id: st-3a8b9b8bedc9
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+performance_status:
+- statement_id: st-54f64a670906
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+part_of:
+- statement_id: st-cf6436cd7770
+  entity_value: event/1979-03-tour-fruehjahr-doll-by-doll
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

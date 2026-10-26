@@ -1,0 +1,9 @@
+id: place/baskerville-hall-powys
+type: Place
+label: Baskerville Hall
+place_type: venue
+note: Powys.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

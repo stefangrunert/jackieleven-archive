@@ -1,0 +1,54 @@
+id: event/1981-08-gateshead-rock-on-the-tyne
+type: Event
+label: Doll by Doll, Rock on the Tyne, Gateshead (1981-08)
+event_type: festival_appearance
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-0723cb2365d1
+  edtf_value: 1981-08
+  certainty: probable
+  note: Monat aus dem Erscheinungsdatum der Festivalbeilage (22.08.1981) erschlossen.
+  references:
+  - document: document/1981-08-22-music-week-doll-by-doll-caritas-single
+    locator: Music Week, 22.08.1981, Beilage Rock on the Tyne, S. 37
+    quote: IN SEPTEMBER 1980, Doll By Doll signed to Magnet Records
+    evidence_type: inferred
+    scope: Das Kurzprofil in der Festivalbeilage deutet auf eine Festival-Teilnahme hin; ein Auftritt
+      wird nicht ausdrücklich genannt.
+took_place_at:
+- statement_id: st-8233ae951e53
+  entity_value: place/gateshead
+  references:
+  - document: document/1981-08-22-music-week-doll-by-doll-caritas-single
+    locator: Music Week, 22.08.1981, Beilage Rock on the Tyne, S. 37
+    quote: IN SEPTEMBER 1980, Doll By Doll signed to Magnet Records
+    evidence_type: third_party
+    scope: Das Kurzprofil in der Festivalbeilage deutet auf eine Festival-Teilnahme hin; ein Auftritt
+      wird nicht ausdrücklich genannt.
+participants:
+- statement_id: st-3a22e700ed7c
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1981-08-22-music-week-doll-by-doll-caritas-single
+    locator: Music Week, 22.08.1981, Beilage Rock on the Tyne, S. 37
+    quote: IN SEPTEMBER 1980, Doll By Doll signed to Magnet Records
+    evidence_type: third_party
+    scope: Das Kurzprofil in der Festivalbeilage deutet auf eine Festival-Teilnahme hin; ein Auftritt
+      wird nicht ausdrücklich genannt.
+performance_status:
+- statement_id: st-18f9d24c2da1
+  status_value: announced
+  note: Nur angekündigt (Bandprofil in der Festivalbeilage); Durchführung nicht belegt.
+  references:
+  - document: document/1981-08-22-music-week-doll-by-doll-caritas-single
+    locator: Music Week, 22.08.1981, Beilage Rock on the Tyne, S. 37
+    quote: IN SEPTEMBER 1980, Doll By Doll signed to Magnet Records
+    evidence_type: third_party
+    scope: Das Kurzprofil in der Festivalbeilage deutet auf eine Festival-Teilnahme hin; ein Auftritt
+      wird nicht ausdrücklich genannt.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,19 @@
+id: document/1996-04-26-tromso-i-helga-jackie-leven
+type: Document
+label: 'Tromsø, 26.04.1996: Kurzvorbericht „I helga: Jackie Leven“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromso_null_null_19960426_0_97_1
+access: live
+published:
+- statement_id: st-739bf4e1a09e
+  edtf_value: '1996-04-26'
+  references: []
+published_in:
+- statement_id: st-02f4d7a688df
+  entity_value: publication/tromso
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

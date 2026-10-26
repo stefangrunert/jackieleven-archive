@@ -1,0 +1,22 @@
+id: document/2010-04-27-haugesunds-avis-bergenfest-vorschau
+type: Document
+label: 'Haugesunds Avis, 27.04.2010: Bergenfest-Vorschau: Leven mit Knut Buen, 30. April, DNS'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_haugesundsavis_null_null_20100427_116_95_1
+access: live
+note: Inhalt nach der Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2010-04-30-bergen-den-nationale-scene
+published:
+- statement_id: st-6d2130e201fc
+  edtf_value: '2010-04-27'
+  references: []
+published_in:
+- statement_id: st-3ec87f555cc8
+  entity_value: publication/haugesunds-avis
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

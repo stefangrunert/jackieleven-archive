@@ -1,0 +1,28 @@
+id: document/2010-12-03-the-guardian-albums-of-2010-how-guardian-critics-voted
+type: Document
+label: 'The Guardian, 03.12.2010: Albums of 2010, how Guardian music critics voted'
+document_type: review
+language: en
+url: https://www.theguardian.com/music/2010/dec/03/albums-2010-guardian-music-critics
+access: live
+note: Jahresbestenliste; Atkinsons Top 10 nennt Gothic Road auf Platz 6. Keine Konzert- oder Personenangaben.
+about:
+- person/jackie-leven
+participants:
+- statement_id: st-b71e2586edd7
+  agent_ref: person/mike-atkinson
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-46a62b12116d
+  edtf_value: '2010-12-03'
+  references: []
+published_in:
+- statement_id: st-9deedab4ee9d
+  entity_value: publication/the-guardian
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

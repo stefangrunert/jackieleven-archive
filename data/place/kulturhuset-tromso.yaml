@@ -1,0 +1,19 @@
+id: place/kulturhuset-tromso
+type: Place
+label: Kulturhuset
+place_type: venue
+located_in:
+- statement_id: st-96db8e3a7fd4
+  entity_value: place/tromso
+  references:
+  - document: document/2008-11-03-tromso-madrugada-abschiedskonzert-kulturhuset
+    locator: Tromsø, 03.11.2008, S. 8
+    evidence_type: third_party
+  - document: document/2008-11-04-tromso-madrugada-konzert-kulturhuset
+    locator: Tromsø, 04.11.2008, S. 23
+    quote: karismatiske visesangeren
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

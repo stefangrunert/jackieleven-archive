@@ -1,0 +1,23 @@
+id: document/1984-04-21-music-week-studio-chipping-norton-jackie-leven
+type: Document
+label: 'Music Week, 21.04.1984: Studiorubrik, Jackie Leven in den Chipping Norton Studios'
+document_type: news
+language: en
+url: https://www.worldradiohistory.com/UK/Music-Week/1984/Music-Week-1984-04-21.pdf
+access: live
+about:
+- person/jackie-leven
+- person/barry-hammond
+- organization/charisma-records
+published:
+- statement_id: st-41e013583f56
+  edtf_value: '1984-04-21'
+  references: []
+published_in:
+- statement_id: st-2eb51e2c9ea2
+  entity_value: publication/music-week
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

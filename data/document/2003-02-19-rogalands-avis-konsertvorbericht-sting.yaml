@@ -1,0 +1,28 @@
+id: document/2003-02-19-rogalands-avis-konsertvorbericht-sting
+type: Document
+label: 'Rogalands Avis, 19.02.2003: Konzertvorbericht Sting, Stavanger'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_rogalandsavis_null_null_20030219_105_42_1
+access: live
+about:
+- event/2003-03-09-stavanger-sting-nere
+participants:
+- statement_id: st-d527a7aff4f7
+  agent_ref: person/einar-owe-einarsen
+  roles:
+  - author
+  credited_as: Einar Owe Einarsen
+  references: []
+published:
+- statement_id: st-b58ff3eceddf
+  edtf_value: '2003-02-19'
+  references: []
+published_in:
+- statement_id: st-3ec490c560f4
+  entity_value: publication/rogalands-avis
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

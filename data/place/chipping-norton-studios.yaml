@@ -1,0 +1,17 @@
+id: place/chipping-norton-studios
+type: Place
+label: Chipping Norton Studios
+place_type: venue
+note: Oxfordshire; „Chippie“ in der Quelle.
+located_in:
+- statement_id: st-531d924ea98c
+  entity_value: place/chipping-norton
+  references:
+  - document: document/1984-04-21-music-week-studio-chipping-norton-jackie-leven
+    locator: Music Week, 21.04.1984, Studiorubrik
+    quote: new Charisma signing Jackie Leven with Barry Hammond engineering
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

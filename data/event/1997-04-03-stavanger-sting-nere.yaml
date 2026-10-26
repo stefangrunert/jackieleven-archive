@@ -1,0 +1,47 @@
+id: event/1997-04-03-stavanger-sting-nere
+type: Event
+label: Jackie Leven, Sting Nere, Stavanger (1997-04-03)
+event_type: concert
+note: 'Nur angekündigt; Durchführung nicht belegt. Widerspruch: Am selben Tag ist Oslo als Tourstart angekündigt;
+  Stavanger-Datum unsicher.'
+time:
+- statement_id: st-76ed8f4c12cf
+  edtf_value: '1997-04-03'
+  certainty: uncertain
+  note: Do 03.04.1997 laut Vorbericht; Arbeiderbladet nennt für denselben Tag Oslo (event/1997-04-03-oslo).
+  references:
+  - document: document/1997-04-01-rogalands-avis-jackie-leven-til-sting
+    locator: Rogalands Avis, 01.04.1997, S. 14
+    quote: Jackie Leven til Sting
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-0748535dd840
+  entity_value: place/sting-nere-stavanger
+  references:
+  - document: document/1997-04-01-rogalands-avis-jackie-leven-til-sting
+    locator: Rogalands Avis, 01.04.1997, S. 14
+    quote: Jackie Leven til Sting
+    evidence_type: third_party
+participants:
+- statement_id: st-efe356110563
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1997-04-01-rogalands-avis-jackie-leven-til-sting
+    locator: Rogalands Avis, 01.04.1997, S. 14
+    quote: Jackie Leven til Sting
+    evidence_type: third_party
+performance_status:
+- statement_id: st-88b7751eb298
+  status_value: announced
+  references:
+  - document: document/1997-04-01-rogalands-avis-jackie-leven-til-sting
+    locator: Rogalands Avis, 01.04.1997, S. 14
+    quote: Jackie Leven til Sting
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

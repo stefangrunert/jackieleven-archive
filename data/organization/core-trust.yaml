@@ -1,0 +1,8 @@
+id: organization/core-trust
+type: Organization
+label: CORE Trust
+organization_type: charity
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

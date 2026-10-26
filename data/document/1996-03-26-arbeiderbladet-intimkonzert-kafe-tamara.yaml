@@ -1,0 +1,19 @@
+id: document/1996-03-26-arbeiderbladet-intimkonzert-kafe-tamara
+type: Document
+label: 'Arbeiderbladet, 26.03.1996: Meldung Intimkonzert Kafé Tamara und Rebekka West'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_arbeiderbladet_null_null_19960326_112_73_1
+access: live
+published:
+- statement_id: st-4a3da78060e6
+  edtf_value: '1996-03-26'
+  references: []
+published_in:
+- statement_id: st-2b283501390f
+  entity_value: publication/arbeiderbladet
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

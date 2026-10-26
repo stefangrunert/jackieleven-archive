@@ -1,0 +1,29 @@
+id: document/2010-04-10-haugesunds-avis-hvem-far-underskuddsgaranti
+type: Document
+label: 'Haugesunds Avis, 10.04.2010: Defizitgarantie für Jackie-Leven-Konzert abgelehnt'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_haugesundsavis_null_null_20100410_116_81_1
+access: live
+note: Lokalmeldung zur Kulturförderung (S. 41-42, OCR). Der Kopf der Quelldatei nennt „anonym“; der Text
+  nennt Roar Eskild Jacobsen als Autor.
+about:
+- event/2010-04-haugesund-dikselen
+participants:
+- statement_id: st-719aa1370a3d
+  agent_ref: person/roar-eskild-jacobsen
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-8df29ffb09c1
+  edtf_value: '2010-04-10'
+  references: []
+published_in:
+- statement_id: st-f558ab012278
+  entity_value: publication/haugesunds-avis
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,44 @@
+id: event/1979-12-17-london-nashville
+type: Event
+label: Doll by Doll, Nashville, London (1979-12-17)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-c8f4564a1175
+  edtf_value: '1979-12-17'
+  references:
+  - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
+    locator: Record Mirror, 08.12.1979
+    evidence_type: third_party
+    scope: Zwei weitere Konzerte vor Weihnachten angekündigt (17.12. Nashville, 21.12. Marquee).
+took_place_at:
+- statement_id: st-bd90e927bd1f
+  entity_value: place/nashville-london
+  references:
+  - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
+    locator: Record Mirror, 08.12.1979
+    evidence_type: third_party
+    scope: Zwei weitere Konzerte vor Weihnachten angekündigt (17.12. Nashville, 21.12. Marquee).
+participants:
+- statement_id: st-c04b10f18005
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
+    locator: Record Mirror, 08.12.1979
+    evidence_type: third_party
+    scope: Zwei weitere Konzerte vor Weihnachten angekündigt (17.12. Nashville, 21.12. Marquee).
+performance_status:
+- statement_id: st-6ec36f652f66
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
+    locator: Record Mirror, 08.12.1979
+    evidence_type: third_party
+    scope: Zwei weitere Konzerte vor Weihnachten angekündigt (17.12. Nashville, 21.12. Marquee).
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

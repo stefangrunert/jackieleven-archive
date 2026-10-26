@@ -1,0 +1,7 @@
+id: publication/rolling-stone-de
+type: Publication
+label: Rolling Stone (deutsche Ausgabe)
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,28 @@
+id: document/2023-01-16-americana-uk-celtic-connections-kicks-off-this-week
+type: Document
+label: 'Americana UK, 16.01.2023: Celtic Connections kicks off this week, celebrating its 30th year'
+document_type: news
+language: en
+url: https://americana-uk.com/celtic-connections-kicks-off-this-week-celebrating-its-30th-year
+access: live
+note: Festivalvorschau (Ankündigung), kein Bericht über den Abend.
+about:
+- person/jackie-leven
+participants:
+- statement_id: st-614f52e6c896
+  agent_ref: person/paul-kerr
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-8fbb7f8e4e3b
+  edtf_value: '2023-01-16'
+  references: []
+published_in:
+- statement_id: st-2b5aaf4ab32a
+  entity_value: publication/americana-uk
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

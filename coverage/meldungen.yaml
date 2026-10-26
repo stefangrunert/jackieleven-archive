@@ -1,0 +1,108 @@
+coverage_id: coverage/meldungen
+source: research/quellen/meldungen
+coverage_scope:
+  materials:
+  - research/quellen/meldungen/*.md
+method: extraction
+completeness: readable
+searched_on: '2026-10-25'
+searched_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen
+job: job/meldungen
+result:
+  items_total: 99
+  items_unavailable:
+  - '1994_nasjonalbiblioteket_jackie-leven-sammelfunde-1994.md: 18 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '1995_nasjonalbiblioteket_jackie-leven-sammelfunde-1995.md: 37 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '1996_nasjonalbiblioteket_jackie-leven-sammelfunde-1996.md: 77 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '1997_nasjonalbiblioteket_jackie-leven-sammelfunde-1997.md: 64 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '1998_nasjonalbiblioteket_jackie-leven-sammelfunde-1998.md: 58 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '1999_nasjonalbiblioteket_jackie-leven-sammelfunde-1999.md: 8 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '1995_hemerotecas-es_jackie-leven-spanien-sammelfunde-1995-2000.md: 1 Angaben zu nicht frei lesbaren,
+    nicht lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall);
+    nur gezählt, Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '2000_nasjonalbiblioteket_jackie-leven-sammelfunde-2000.md: 1 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '2001_nasjonalbiblioteket_jackie-leven-sammelfunde-2001.md: 1 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '2002_nasjonalbiblioteket_jackie-leven-sammelfunde-2002.md: 1 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '2003_nasjonalbiblioteket_jackie-leven-sammelfunde-2003.md: 1 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '2004_nasjonalbiblioteket_jackie-leven-sammelfunde-2004.md: 1 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '2005_nasjonalbiblioteket_jackie-leven-sammelfunde-2005.md: 2 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '2006_nasjonalbiblioteket_jackie-leven-sammelfunde-2006.md: 2 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '2007_nasjonalbiblioteket_jackie-leven-sammelfunde-2007.md: 1 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '2008_nasjonalbiblioteket_jackie-leven-sammelfunde-2008.md: 1 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '2009_nasjonalbiblioteket_jackie-leven-sammelfunde-2009.md: 2 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '2010_nasjonalbiblioteket_jackie-leven-sammelfunde-2010.md: 1 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '2011_nasjonalbiblioteket_jackie-leven-sammelfunde-2011.md: 1 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '2012-2020_nasjonalbiblioteket_jackie-leven-sammelfunde-2012-2020.md: 2 Angaben zu nicht frei lesbaren,
+    nicht lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall);
+    nur gezählt, Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '2021_nasjonalbiblioteket_jackie-leven-sammelfunde-2021.md: 2 Angaben zu nicht frei lesbaren, nicht
+    lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall); nur gezählt,
+    Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '2022-2026_nasjonalbiblioteket_jackie-leven-sammelfunde-2022-2026.md: 2 Angaben zu nicht frei lesbaren,
+    nicht lesbaren oder gesperrten Fundstellen (nur über nb.no mit norwegischem Zugang bzw. Paywall);
+    nur gezählt, Einzelaufstellung im Teilergebnis der Sitzung.'
+  - '1990-10-10_nursing-standard_core-trust-day-centre.md: Volltext nur für Abonnenten; Leven wird im
+    frei sichtbaren Teil nicht genannt.'
+  - '1975_hemerotecas-es_john-st-field-sammelfunde-1975-1999.md: Hemeroteca-Digital-Seiten nach 1940 nur
+    als Trefferausschnitte lesbar; nur gezählt.'
+  - '1982-05-15_nme_doll-by-doll-off.md: Original nicht eingesehen, nur Online-Abschrift mit fremder Kopfzeile.'
+  - '1979-12-08_record-mirror_doll-by-doll-nixed.md: OCR stark fehlerhaft, Wortlaut des Statements nur
+    sinngemäß.'
+  - '1981-10-03_record-mirror_tour-by-doll-line-up-change.md: OCR sehr fehlerhaft, Schreibung „John Read“
+    unsicher.'
+  - '1983_music-week_radio-airplay-love-is-shining-down-on-me.md: Airplay-Tabellen mehrspaltig, Zuordnung
+    der Sender unsicher; Listennennungen, nur gezählt (5 Fundstellen).'
+  - '2004-04-24_music-week_green-man-festival-line-up.md: Festivaltermin „21. bis 22. Juli“ im Druck mit
+    den V Festivals (August) unvereinbar.'
+  found: 161
+  candidates: 560
+note: 'Alle 99 Quelldateien wurden ausgewertet: 75 Einzelmeldungen (je ein Dokument) und 24 Sammeldateien
+  (21 Nasjonalbiblioteket-Jahresdateien, 2 spanische Hemeroteca-Dateien, 1 Airplay-Sammlung von Music
+  Week). Aus den Sammeldateien entstanden 86 Dokumente für frei lesbare Fundstellen mit eigenem Permalink,
+  die eine Aussage belegen; die übrigen rund 1.400 Fundstellen (Programm- und Listennennungen, Kalender,
+  nicht frei lesbare Ausgaben) wurden nur gezählt. Die Fundstellen selbst wurden ohne Webzugriff nicht
+  geöffnet: Grundlage sind die Tabellen und Inhaltsangaben der Sammeldateien, bei den Dokumenten 2007
+  bis 2010 nur die Spalte „Art“ (Volltext nicht gesichtet). Deshalb gilt der Bestand als lesbar, nicht
+  als vollständig geprüft. Veröffentlichungen (Alben, Singles) wurden nicht erfasst. Die 560 Kandidaten
+  sind neue Entitäten (161 Dokumente, 138 Ereignisse, 128 Orte, 59 Personen, 57 Publikationen, 6 Gruppen,
+  10 Organisationen, 1 Persona); zusätzlich wurden 37 bestehende Entitäten um Belege ergänzt (28 Ereignisse,
+  7 Orte, 1 Gruppe, 1 Person); drei Monatsereignisse des Piloten wurden in neue Tagesereignisse überführt.'

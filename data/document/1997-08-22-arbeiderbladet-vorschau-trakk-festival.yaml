@@ -1,0 +1,20 @@
+id: document/1997-08-22-arbeiderbladet-vorschau-trakk-festival
+type: Document
+label: 'Arbeiderbladet, 22.08.1997: Vorschau Tråkk-Festival Trondheim'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_arbeiderbladet_null_null_19970822_113_192_1
+access: live
+note: Festivalvorschau; Leven „mit seiner alten Gruppe Doll By Doll“ unter den genannten Namen.
+published:
+- statement_id: st-d20e2d10d48d
+  edtf_value: '1997-08-22'
+  references: []
+published_in:
+- statement_id: st-82560192aea8
+  entity_value: publication/arbeiderbladet
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

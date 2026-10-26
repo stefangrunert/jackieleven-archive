@@ -1,0 +1,48 @@
+id: event/1980-05-belsay-belsay-castle
+type: Event
+label: Doll by Doll, Belsay Castle, Belsay (1980-05)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-2ea3aa0d13eb
+  edtf_value: 1980-05-19/1980-05-29
+  note: Tag nicht genannt; zwischen Tourbeginn (19.05.) und Tourende (29.05.1980). Northumberland.
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-21894630923c
+  entity_value: place/belsay-castle
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+participants:
+- statement_id: st-028a6748f1a6
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+performance_status:
+- statement_id: st-4028d90ee10b
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+part_of:
+- statement_id: st-572a0a689401
+  entity_value: event/1980-05-uk-tour-doll-by-doll
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

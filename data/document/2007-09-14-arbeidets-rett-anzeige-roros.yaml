@@ -1,0 +1,23 @@
+id: document/2007-09-14-arbeidets-rett-anzeige-roros
+type: Document
+label: 'Arbeidets Rett, 14.09.2007: Anzeige Røros, Freitag 28. September'
+document_type: calendar
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_arbeidetsrett_null_null_20070914_101_134_1
+access: live
+note: Anzeige mit „Jackie Leven – direkte fra Skottland“. Inhalt nach der Fundstellenliste der Sammeldatei;
+  Volltext nicht gesichtet.
+about:
+- event/2007-09-28-roros-rammkjellarn
+published:
+- statement_id: st-5d58865a6fcd
+  edtf_value: '2007-09-14'
+  references: []
+published_in:
+- statement_id: st-6950f81309e8
+  entity_value: publication/arbeidets-rett
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

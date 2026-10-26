@@ -1,0 +1,41 @@
+id: event/1997-04-08-foerde-studentkroa
+type: Event
+label: Jackie Leven, Studentkroa, Førde (1997-04-08)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-ce8ccdceec09
+  edtf_value: '1997-04-08'
+  note: Di 08.04.1997 laut Vorbericht.
+  references:
+  - document: document/1997-04-08-firda-vorbericht-studentkroa-foerde
+    locator: Firda, 08.04.1997, S. 9
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-968159c0477a
+  entity_value: place/studentkroa-foerde
+  references:
+  - document: document/1997-04-08-firda-vorbericht-studentkroa-foerde
+    locator: Firda, 08.04.1997, S. 9
+    evidence_type: third_party
+participants:
+- statement_id: st-9bf0529bad38
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1997-04-08-firda-vorbericht-studentkroa-foerde
+    locator: Firda, 08.04.1997, S. 9
+    evidence_type: third_party
+performance_status:
+- statement_id: st-664a54e678ac
+  status_value: announced
+  references:
+  - document: document/1997-04-08-firda-vorbericht-studentkroa-foerde
+    locator: Firda, 08.04.1997, S. 9
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,7 @@
+id: publication/kevin-coyne-home-page
+type: Publication
+label: Pascal's Kevin Coyne Home Page
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

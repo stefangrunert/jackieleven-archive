@@ -1,0 +1,22 @@
+id: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+type: Document
+label: 'Record Mirror, 31.03.1979: Tourmeldung Doll by Doll (Frühjahr 1979)'
+document_type: news
+language: en
+url: https://www.worldradiohistory.com/UK/Record-Mirror/70s/79/Record-Mirror-1979-03-31.pdf
+archive_url: https://web.archive.org/web/20260311164301/https://www.worldradiohistory.com/UK/Record-Mirror/70s/79/Record-Mirror-1979-03-31.pdf
+access: live
+about:
+- group/doll-by-doll
+published:
+- statement_id: st-4bd6390129a9
+  edtf_value: '1979-03-31'
+  references: []
+published_in:
+- statement_id: st-000f948e370d
+  entity_value: publication/record-mirror
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

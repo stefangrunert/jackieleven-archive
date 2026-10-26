@@ -1,0 +1,20 @@
+id: document/1997-04-12-nordlandsposten-konzertanzeige-den-siste-glaede
+type: Document
+label: 'Nordlandsposten, 12.04.1997: Konzertanzeige Den Siste Glæde'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlandsposten_null_null_19970412_135_83_1
+access: live
+note: 'Anzeige: Den Siste Glæde, So 13.04.1997.'
+published:
+- statement_id: st-0d10dd013958
+  edtf_value: '1997-04-12'
+  references: []
+published_in:
+- statement_id: st-5150bde934cd
+  entity_value: publication/nordlandsposten
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

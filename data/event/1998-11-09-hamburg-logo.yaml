@@ -1,0 +1,45 @@
+id: event/1998-11-09-hamburg-logo
+type: Event
+label: Jackie Leven, Logo, Hamburg (1998-11-09)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-f8a7856bef9b
+  edtf_value: '1998-11-09'
+  references:
+  - document: document/1998-11-09-taz-soundcheck-taraf-de-haidouks-jackie-leven
+    locator: taz, 09.11.1998, Soundcheck
+    quote: Schwere Jahre hat der Mann hinter sich
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-6035f1ea7eb5
+  entity_value: place/logo-hamburg
+  references:
+  - document: document/1998-11-09-taz-soundcheck-taraf-de-haidouks-jackie-leven
+    locator: taz, 09.11.1998, Soundcheck
+    quote: Schwere Jahre hat der Mann hinter sich
+    evidence_type: third_party
+participants:
+- statement_id: st-5331f1e0f592
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1998-11-09-taz-soundcheck-taraf-de-haidouks-jackie-leven
+    locator: taz, 09.11.1998, Soundcheck
+    quote: Schwere Jahre hat der Mann hinter sich
+    evidence_type: third_party
+performance_status:
+- statement_id: st-3ed5a5a1d970
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1998-11-09-taz-soundcheck-taraf-de-haidouks-jackie-leven
+    locator: taz, 09.11.1998, Soundcheck
+    quote: Schwere Jahre hat der Mann hinter sich
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

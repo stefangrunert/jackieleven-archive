@@ -1,0 +1,54 @@
+id: event/2007-09-28-roros-rammkjellarn
+type: Event
+label: Jackie Leven, Rammkjellar’n, Røros (2007-09-28)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt. Die Tourankündigung in Puls (17.09.2007) nennt für Røros
+  den 29.09. (Vertshuset); Datum und Spielstätte weichen ab.
+time:
+- statement_id: st-691f3631313d
+  edtf_value: '2007-09-28'
+  note: Angekündigt für Freitag, 28.09.2007.
+  references:
+  - document: document/2007-09-14-arbeidets-rett-anzeige-roros
+    locator: Arbeidets Rett, 14.09.2007, S. 24
+    quote: direkte fra Skottland
+    evidence_type: primary_document
+  - document: document/2007-09-27-fjell-ljom-kurzvorschau-rammkjellarn
+    locator: Fjell-Ljom, 27.09.2007, S. 4
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-2ae250622983
+  entity_value: place/rammkjellarn-roros
+  references:
+  - document: document/2007-09-27-fjell-ljom-kurzvorschau-rammkjellarn
+    locator: Fjell-Ljom, 27.09.2007, S. 4
+    evidence_type: third_party
+participants:
+- statement_id: st-75b11f07117a
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-09-14-arbeidets-rett-anzeige-roros
+    locator: Arbeidets Rett, 14.09.2007, S. 24
+    quote: direkte fra Skottland
+    evidence_type: primary_document
+  - document: document/2007-09-27-fjell-ljom-kurzvorschau-rammkjellarn
+    locator: Fjell-Ljom, 27.09.2007, S. 4
+    evidence_type: third_party
+performance_status:
+- statement_id: st-4ee2f4ea37c8
+  status_value: announced
+  references:
+  - document: document/2007-09-14-arbeidets-rett-anzeige-roros
+    locator: Arbeidets Rett, 14.09.2007, S. 24
+    quote: direkte fra Skottland
+    evidence_type: primary_document
+  - document: document/2007-09-27-fjell-ljom-kurzvorschau-rammkjellarn
+    locator: Fjell-Ljom, 27.09.2007, S. 4
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

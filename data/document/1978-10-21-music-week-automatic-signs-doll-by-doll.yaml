@@ -1,0 +1,25 @@
+id: document/1978-10-21-music-week-automatic-signs-doll-by-doll
+type: Document
+label: 'Music Week, 21.10.1978: Automatic Records unterschreibt Doll by Doll'
+document_type: news
+language: en
+url: https://www.worldradiohistory.com/UK/Music-Week/1978/Music-Week-1978-10-21.pdf
+archive_url: https://web.archive.org/web/20251207012042/https://www.worldradiohistory.com/UK/Music-Week/1978/Music-Week-1978-10-21.pdf
+access: live
+note: 'Zwei Kurzmeldungen: Nachrichtenspalte und Rubrik „Tipsheet“.'
+about:
+- group/doll-by-doll
+- person/nick-mobbs
+- organization/automatic-records
+published:
+- statement_id: st-d2f9c8600edd
+  edtf_value: '1978-10-21'
+  references: []
+published_in:
+- statement_id: st-6b92ebdcb2c9
+  entity_value: publication/music-week
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

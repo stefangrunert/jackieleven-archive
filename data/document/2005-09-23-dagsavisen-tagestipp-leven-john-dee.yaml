@@ -1,0 +1,22 @@
+id: document/2005-09-23-dagsavisen-tagestipp-leven-john-dee
+type: Document
+label: 'Dagsavisen, 23.09.2005: Tagestipp Jackie Leven & The Small World Orchestra, John Dee'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_dagsavisen_null_null_20050923_121_255_1
+access: live
+note: Tagestipp zum Konzert im John Dee, Oslo.
+about:
+- event/2005-09-23-oslo-john-dee
+published:
+- statement_id: st-a9a2da1e82d9
+  edtf_value: '2005-09-23'
+  references: []
+published_in:
+- statement_id: st-e1f15474d7b9
+  entity_value: publication/dagsavisen
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

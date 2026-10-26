@@ -1,0 +1,48 @@
+id: event/2007-09-30-trondheim-credo
+type: Event
+label: Jackie Leven, Credo, Trondheim (2007-09-30)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-99d6d13f3c53
+  edtf_value: '2007-09-30'
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-9b92d12ec6bf
+  entity_value: place/credo-trondheim
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+participants:
+- statement_id: st-4b91a9a60df1
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+performance_status:
+- statement_id: st-9ddb7ffd1675
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+part_of:
+- statement_id: st-2defa8670c5b
+  entity_value: event/2007-09-norwegen-tournee
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

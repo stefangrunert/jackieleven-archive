@@ -1,0 +1,22 @@
+id: document/2005-09-07-bergensavisen-konzertmeldung-leven-kamelon
+type: Document
+label: 'Bergensavisen, 07.09.2005: Konzertmeldung Leven, Kamelon, Bergen'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_20050907_79_240_1
+access: live
+note: 'Meldung: Konzert am 21.10. in Bergen, Teil einer Skandinavien-Tour.'
+about:
+- event/2005-10-21-bergen-kamelon
+published:
+- statement_id: st-e7fa1d12d3ad
+  edtf_value: '2005-09-07'
+  references: []
+published_in:
+- statement_id: st-8eaf8d64b2d8
+  entity_value: publication/bergensavisen
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

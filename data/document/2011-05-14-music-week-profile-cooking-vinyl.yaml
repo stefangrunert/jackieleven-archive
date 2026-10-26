@@ -1,0 +1,22 @@
+id: document/2011-05-14-music-week-profile-cooking-vinyl
+type: Document
+label: 'Music Week, 14.05.2011: Profile Cooking Vinyl'
+document_type: portrait
+language: en
+url: https://www.worldradiohistory.com/UK/Music-Week/2011/2011-05-14-Music-Week.pdf
+access: live
+note: Labelporträt mit Passage zu Levens Veröffentlichungsfrequenz (S. 18). Keine Konzert- oder Beteiligungsangaben.
+about:
+- person/jackie-leven
+published:
+- statement_id: st-091cddc6cdcf
+  edtf_value: '2011-05-14'
+  references: []
+published_in:
+- statement_id: st-3afd4ed6f024
+  entity_value: publication/music-week
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

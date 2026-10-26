@@ -1,0 +1,7 @@
+id: group/dumb-instrument
+type: Group
+label: Dumb Instrument
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

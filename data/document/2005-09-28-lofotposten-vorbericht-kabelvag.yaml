@@ -1,0 +1,28 @@
+id: document/2005-09-28-lofotposten-vorbericht-kabelvag
+type: Document
+label: 'Lofotposten, 28.09.2005: Vorbericht Konzert Præstengbrygga, Kabelvåg'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_lofotposten_null_null_20050928_110_224_1
+access: live
+note: 'Vorbericht: Hot Club de Norvège, danach Leven solo.'
+about:
+- event/2005-09-29-kabelvag-praestengbrygga
+participants:
+- statement_id: st-698cfccc0cc6
+  agent_ref: person/gullik-maas-pedersen
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-ff3faae820fd
+  edtf_value: '2005-09-28'
+  references: []
+published_in:
+- statement_id: st-14fcabd06f65
+  entity_value: publication/lofotposten
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

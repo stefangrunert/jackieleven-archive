@@ -1,0 +1,8 @@
+id: place/scarborough
+type: Place
+label: Scarborough
+place_type: city
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

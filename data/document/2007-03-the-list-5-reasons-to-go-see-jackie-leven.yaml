@@ -1,0 +1,29 @@
+id: document/2007-03-the-list-5-reasons-to-go-see-jackie-leven
+type: Document
+label: 'The List, 03/2007: 5 Reasons To Go See Jackie Leven (King Tut''s, Glasgow)'
+document_type: news
+language: en
+access: live
+note: Konzertvorschau; die Diana-Anekdote ist eine Selbsterzählung Levens, die der Autor weitergibt.
+about:
+- person/jackie-leven
+- event/2007-03-24-glasgow-king-tuts
+participants:
+- statement_id: st-7552c4410e4a
+  agent_ref: person/doug-johnstone
+  roles:
+  - author
+  credited_as: Doug Johnstone
+  references: []
+published:
+- statement_id: st-db2f1d397b3d
+  edtf_value: 2007-03
+  references: []
+published_in:
+- statement_id: st-107fcb98b1d7
+  entity_value: publication/the-list
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

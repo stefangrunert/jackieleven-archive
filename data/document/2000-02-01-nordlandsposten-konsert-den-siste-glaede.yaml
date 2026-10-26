@@ -1,0 +1,21 @@
+id: document/2000-02-01-nordlandsposten-konsert-den-siste-glaede
+type: Document
+label: 'Nordlandsposten, 01.02.2000: Konzertankündigung Den Siste Glæde, Bodø'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlandsposten_null_null_20000201_138_26_1
+access: live
+about:
+- event/2000-02-24-bodo-den-siste-glaede
+published:
+- statement_id: st-481efdb99467
+  edtf_value: '2000-02-01'
+  references: []
+published_in:
+- statement_id: st-90585b4f3a40
+  entity_value: publication/nordlandsposten
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

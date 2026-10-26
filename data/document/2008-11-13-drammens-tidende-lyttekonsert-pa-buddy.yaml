@@ -1,0 +1,23 @@
+id: document/2008-11-13-drammens-tidende-lyttekonsert-pa-buddy
+type: Document
+label: 'Drammens Tidende, 13.11.2008: Vorbericht „Lyttekonsert på Buddy“ (13.11.2008, 20.00)'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_drammenstidende_null_null_20081113_0_308_1
+access: live
+note: Nennt Levens fünften Besuch in Drammen; dazu Veranstaltungskalender. Inhalt nach der Fundstellenliste
+  der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2008-11-13-drammen-buddy
+published:
+- statement_id: st-4250677abe2f
+  edtf_value: '2008-11-13'
+  references: []
+published_in:
+- statement_id: st-c0e67605a14d
+  entity_value: publication/drammens-tidende
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

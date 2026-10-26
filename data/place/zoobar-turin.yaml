@@ -1,0 +1,16 @@
+id: place/zoobar-turin
+type: Place
+label: Zoobar
+place_type: venue
+located_in:
+- statement_id: st-105634a1cbf4
+  entity_value: place/turin
+  references:
+  - document: document/2000-11-28-rockol-jackie-leven-non-verra-in-italia
+    locator: Rockol, 28.11.2000
+    quote: Jackie Leven non verrà in Italia
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,55 @@
+id: event/1996-03-bergen-ole-blues-festival
+type: Event
+label: Ole Blues Festival, Bergen (1996-03)
+event_type: festival
+note: Leven leitet ein dreitägiges Songwriting-Seminar (15 Plätze) im Rahmen des Festivals.
+time:
+- statement_id: st-89629fe222e3
+  edtf_value: 1996-03
+  certainty: probable
+  note: Erschlossen aus dem Erscheinungsdatum des Vorberichts (09.03.1996); die Seminare liegen im Festivalzeitraum,
+    genaue Termine nicht genannt.
+  references:
+  - document: document/1996-03-09-bergensavisen-leven-laerer-later
+    locator: Bergensavisen, 09.03.1996
+    quote: Leven har fått sitt plateselskap til å være med
+    evidence_type: inferred
+took_place_at:
+- statement_id: st-e73195393778
+  entity_value: place/bergen
+  references:
+  - document: document/1996-03-09-bergensavisen-leven-laerer-later
+    locator: Bergensavisen, 09.03.1996
+    quote: Leven har fått sitt plateselskap til å være med
+    evidence_type: third_party
+participants:
+- statement_id: st-5b0dbf2a9ba4
+  agent_ref: person/jackie-leven
+  roles:
+  - other
+  references:
+  - document: document/1996-03-09-bergensavisen-leven-laerer-later
+    locator: Bergensavisen, 09.03.1996
+    quote: Leven har fått sitt plateselskap til å være med
+    evidence_type: third_party
+- statement_id: st-1d94923d3d03
+  agent_ref: person/andy-white
+  roles:
+  - performer
+  references:
+  - document: document/1996-03-09-bergensavisen-leven-laerer-later
+    locator: Bergensavisen, 09.03.1996, Künstlerliste
+    evidence_type: third_party
+performance_status:
+- statement_id: st-c3843c0a5fcf
+  status_value: announced
+  note: Vorbericht; Durchführung der Seminare nicht belegt.
+  references:
+  - document: document/1996-03-09-bergensavisen-leven-laerer-later
+    locator: Bergensavisen, 09.03.1996
+    quote: Leven har fått sitt plateselskap til å være med
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

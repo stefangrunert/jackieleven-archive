@@ -1,0 +1,23 @@
+id: document/1981-08-22-music-week-doll-by-doll-caritas-single
+type: Document
+label: 'Music Week, 22.08.1981: Single „Caritas“ und Festivalprofil Rock on the Tyne'
+document_type: news
+language: en
+url: https://www.worldradiohistory.com/UK/Music-Week/1981/Music-Week-1981-08-22.pdf
+access: live
+note: Kurzmeldung, Festival-Bandprofil in einer Beilage zu Rock on the Tyne (S. 37) und Magnet-Anzeige.
+about:
+- group/doll-by-doll
+- organization/magnet-records
+published:
+- statement_id: st-f04f2f186743
+  edtf_value: '1981-08-22'
+  references: []
+published_in:
+- statement_id: st-598618ed308c
+  entity_value: publication/music-week
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

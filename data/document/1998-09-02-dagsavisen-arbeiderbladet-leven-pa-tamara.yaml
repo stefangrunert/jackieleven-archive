@@ -1,0 +1,20 @@
+id: document/1998-09-02-dagsavisen-arbeiderbladet-leven-pa-tamara
+type: Document
+label: 'Dagsavisen Arbeiderbladet, 02.09.1998: Meldung „Leven på Tamara“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_dagsavisenarbeiderbladet_null_null_19980902_114_234_1
+access: live
+note: 'Release-Konzert-Hinweis: Lieder vom kommenden Album Night Lilies.'
+published:
+- statement_id: st-2e5830d83b02
+  edtf_value: '1998-09-02'
+  references: []
+published_in:
+- statement_id: st-7e4ac3f79c67
+  entity_value: publication/dagsavisen-arbeiderbladet
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

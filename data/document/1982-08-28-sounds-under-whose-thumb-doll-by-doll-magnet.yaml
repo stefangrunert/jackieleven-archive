@@ -1,0 +1,24 @@
+id: document/1982-08-28-sounds-under-whose-thumb-doll-by-doll-magnet
+type: Document
+label: 'Sounds, 28.08.1982: Under whose thumb? (Doll by Doll und Magnet)'
+document_type: news
+language: en
+url: https://www.worldradiohistory.com/UK/Sounds/80s/82/Sounds-1982-08-28.pdf
+access: live
+about:
+- group/doll-by-doll
+- organization/magnet-records
+- person/helen-turner
+- person/tom-norton
+published:
+- statement_id: st-59252fb06129
+  edtf_value: '1982-08-28'
+  references: []
+published_in:
+- statement_id: st-7e07552eb35a
+  entity_value: publication/sounds
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

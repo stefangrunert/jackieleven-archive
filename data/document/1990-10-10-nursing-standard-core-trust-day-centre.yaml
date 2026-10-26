@@ -1,0 +1,21 @@
+id: document/1990-10-10-nursing-standard-core-trust-day-centre
+type: Document
+label: 'Nursing Standard, 10.10.1990: CORE Trust Day Centre für Drogenabhängige in London eröffnet'
+document_type: news
+language: en
+access: paywall
+note: Bd. 5, Heft 3, S. 11. Leven wird im frei sichtbaren Teil nicht genannt.
+about:
+- organization/core-trust
+published:
+- statement_id: st-1ea4d0ac026f
+  edtf_value: '1990-10-10'
+  references: []
+published_in:
+- statement_id: st-f6e0dd0e9bb0
+  entity_value: publication/nursing-standard
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,15 @@
+id: place/troubadour-port-talbot
+type: Place
+label: Troubadour
+place_type: venue
+located_in:
+- statement_id: st-92f517d35f2b
+  entity_value: place/port-talbot
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -35,6 +35,17 @@ performance_status:
     locator: Lofotposten, 06.09.2001
     quote: En konsert som tydelig traff publikum rett i hjertet.
     evidence_type: third_party
+- statement_id: st-dfd259bb7260
+  status_value: announced
+  references:
+  - document: document/2001-09-04-lofotposten-konsertvorbericht-praestengbrygga
+    locator: Lofotposten, 04.09.2001, S. 27
+    evidence_type: third_party
+    scope: 'Vorbericht: Konzert am Dienstag, 04.09.2001 (einer von 11 ausgewählten Konzertorten)'
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

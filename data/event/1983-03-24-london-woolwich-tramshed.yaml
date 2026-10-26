@@ -1,0 +1,44 @@
+id: event/1983-03-24-london-woolwich-tramshed
+type: Event
+label: Jackie Leven, Woolwich Tramshed, London (1983-03-24)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-a59e7d8545cf
+  edtf_value: '1983-03-24'
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Forthcoming Visitors
+    evidence_type: third_party
+    scope: Auftritt im Woolwich Tramshed am 24. März angekündigt.
+took_place_at:
+- statement_id: st-a41723b42c32
+  entity_value: place/woolwich-tramshed-london
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Forthcoming Visitors
+    evidence_type: third_party
+    scope: Auftritt im Woolwich Tramshed am 24. März angekündigt.
+participants:
+- statement_id: st-fb2222dfd0e8
+  agent_ref: group/jackie-leven-band-1983
+  roles:
+  - performer
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Forthcoming Visitors
+    evidence_type: third_party
+    scope: Auftritt im Woolwich Tramshed am 24. März angekündigt.
+performance_status:
+- statement_id: st-6f2f27155465
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Forthcoming Visitors
+    evidence_type: third_party
+    scope: Auftritt im Woolwich Tramshed am 24. März angekündigt.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,22 @@
+id: document/2009-12-30-dalane-tidende-visefestival-komitee-grand-kjelleren
+type: Document
+label: 'Dalane Tidende, 30.12.2009: Visefestival-Komitee: Leven spielt Freitag, 23.04.2010, im Grand Kjelleren'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_dalanetidende_null_null_20091230_125_151_1
+access: live
+note: Inhalt nach der Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2010-04-23-egersund-grand-kjelleren
+published:
+- statement_id: st-8e9f2cce1085
+  edtf_value: '2009-12-30'
+  references: []
+published_in:
+- statement_id: st-4ff7581d864b
+  entity_value: publication/dalane-tidende
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

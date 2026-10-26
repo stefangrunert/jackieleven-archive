@@ -1,0 +1,21 @@
+id: document/2000-02-25-bergensavisen-konsertnotis-den-stundesloese
+type: Document
+label: 'Bergensavisen, 25.02.2000: Konzertnotiz Den Stundesløse, Bergen'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_bergensavisen_null_null_20000225_74_55_1
+access: live
+about:
+- event/2000-03-01-bergen-den-stundesloese
+published:
+- statement_id: st-1aa6aa3b90f0
+  edtf_value: '2000-02-25'
+  references: []
+published_in:
+- statement_id: st-64af716e4dba
+  entity_value: publication/bergensavisen
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

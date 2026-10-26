@@ -1,0 +1,47 @@
+id: event/1980-02-08-middlesbrough-rock-garden
+type: Event
+label: Doll by Doll, Rock Garden, Middlesbrough (1980-02-08)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-2a97373b816e
+  edtf_value: '1980-02-08'
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-f4c501ec2b09
+  entity_value: place/rock-garden-middlesbrough
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+participants:
+- statement_id: st-9796905a9d39
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+performance_status:
+- statement_id: st-d489722d4728
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+part_of:
+- statement_id: st-705e4cfe1765
+  entity_value: event/1980-02-tour-doll-by-doll
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

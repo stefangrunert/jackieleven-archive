@@ -1,0 +1,19 @@
+id: document/2026-12-09-ents24-main-travelled-roads-tribute
+type: Document
+label: 'Ents24: Main Travelled Roads – A Tribute to Jackie Leven'
+document_type: calendar
+language: en
+url: https://www.ents24.com/london-events/leytonstone-ex-servicemens-club/main-travelled-roads-a-tribute-to-jackie-leven/7527359
+access: live
+note: 'Datum im Schlüssel ist das Veranstaltungsdatum (Stand Abruf 2026-10: Zukunft); Veröffentlichungsdatum
+  der Seite unbekannt.'
+about:
+- person/jackie-leven
+published_in:
+- statement_id: st-da6de7c29caa
+  entity_value: publication/ents24
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

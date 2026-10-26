@@ -1,0 +1,65 @@
+id: group/jackie-leven-band-1983
+type: Group
+label: Jackie Leven (Band 1983)
+note: Neue Formation, die Leven 1983 nach der Auflösung von Doll by Doll unter eigenem Namen gründete;
+  Name der Gruppe ist die Bezeichnung der Quelle („under his own name“).
+members:
+- statement_id: st-94e1b77879e6
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - member
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Forthcoming Visitors
+    quote: has now formed a new outfit which will operate under his own name
+    evidence_type: third_party
+    scope: Gründer der Gruppe, die unter seinem Namen auftritt.
+- statement_id: st-2e5a7c84ff82
+  agent_ref: person/chris-clarke
+  roles:
+  - drums
+  - member
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Forthcoming Visitors
+    quote: has now formed a new outfit which will operate under his own name
+    evidence_type: third_party
+    scope: Besetzung laut NME vom 19.03.1983.
+- statement_id: st-542e986c8e0c
+  agent_ref: person/mark-fletcher
+  roles:
+  - bass
+  - member
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Forthcoming Visitors
+    quote: has now formed a new outfit which will operate under his own name
+    evidence_type: third_party
+    scope: Besetzung laut NME vom 19.03.1983.
+- statement_id: st-11a03d719f16
+  agent_ref: person/garry-jackson
+  roles:
+  - keyboards
+  - member
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Forthcoming Visitors
+    quote: has now formed a new outfit which will operate under his own name
+    evidence_type: third_party
+    scope: Besetzung laut NME vom 19.03.1983; anderweitig „Gary Thompson“ genannt.
+- statement_id: st-62b98bc6a4b0
+  agent_ref: person/carol-pearrett
+  roles:
+  - vocals
+  - member
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Forthcoming Visitors
+    quote: has now formed a new outfit which will operate under his own name
+    evidence_type: third_party
+    scope: Besetzung laut NME vom 19.03.1983; Schreibung anderweitig „Pearett“.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

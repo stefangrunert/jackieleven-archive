@@ -1,0 +1,101 @@
+id: event/2019-12-07-glasgow-cca-leventime
+type: Event
+label: 'Leventime: A Celebration of Jackie Leven, CCA, Glasgow (2019-12-07)'
+event_type: concert
+note: Tribute-Abend der Reihe „Sounds in the Suburbs“; Erlös an die Organisation Refuweegee. Jinder ist
+  als Gast der von Deborah Greenwood zusammengestellten Band genannt. Nur angekündigt; Durchführung nicht
+  belegt.
+time:
+- statement_id: st-2228224381ff
+  edtf_value: '2019-12-07'
+  note: Samstag, 7. Dezember 2019; das Jahr steht nicht auf der Seite (Wochentag und Suchauszug laut Quelldatei).
+  references:
+  - document: document/2019-12-07-cca-glasgow-leventime-a-celebration-of-jackie-leven
+    locator: Programmtext
+    quote: A Celebration of Jackie Leven
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-b69e30bdd519
+  entity_value: place/cca-glasgow
+  references:
+  - document: document/2019-12-07-cca-glasgow-leventime-a-celebration-of-jackie-leven
+    locator: Programmtext
+    quote: A Celebration of Jackie Leven
+    evidence_type: third_party
+participants:
+- statement_id: st-9047f1aae9ea
+  agent_ref: person/andy-white
+  roles:
+  - performer
+  references:
+  - document: document/2019-12-07-cca-glasgow-leventime-a-celebration-of-jackie-leven
+    locator: Programmtext
+    quote: A Celebration of Jackie Leven
+    evidence_type: third_party
+- statement_id: st-736aff25e285
+  agent_ref: person/jinky-gilmour
+  roles:
+  - performer
+  references:
+  - document: document/2019-12-07-cca-glasgow-leventime-a-celebration-of-jackie-leven
+    locator: Programmtext
+    quote: A Celebration of Jackie Leven
+    evidence_type: third_party
+- statement_id: st-e88d7c3bf1ca
+  agent_ref: group/doghouse-roses
+  roles:
+  - performer
+  references:
+  - document: document/2019-12-07-cca-glasgow-leventime-a-celebration-of-jackie-leven
+    locator: Programmtext
+    quote: A Celebration of Jackie Leven
+    evidence_type: third_party
+- statement_id: st-27ddaac5de3c
+  agent_ref: group/dumb-instrument
+  roles:
+  - performer
+  references:
+  - document: document/2019-12-07-cca-glasgow-leventime-a-celebration-of-jackie-leven
+    locator: Programmtext
+    quote: A Celebration of Jackie Leven
+    evidence_type: third_party
+- statement_id: st-ad84b20a2c55
+  agent_ref: person/deborah-greenwood
+  roles:
+  - performer
+  references:
+  - document: document/2019-12-07-cca-glasgow-leventime-a-celebration-of-jackie-leven
+    locator: Programmtext
+    quote: A Celebration of Jackie Leven
+    evidence_type: third_party
+- statement_id: st-d75367a6c100
+  agent_ref: person/jinder
+  roles:
+  - performer
+  references:
+  - document: document/2019-12-07-cca-glasgow-leventime-a-celebration-of-jackie-leven
+    locator: Programmtext
+    quote: A Celebration of Jackie Leven
+    evidence_type: third_party
+- statement_id: st-1b24c1c810ed
+  agent_ref: organization/sounds-in-the-suburbs
+  roles:
+  - promoter
+  references:
+  - document: document/2019-12-07-cca-glasgow-leventime-a-celebration-of-jackie-leven
+    locator: Programmtext
+    quote: A Celebration of Jackie Leven
+    evidence_type: third_party
+performance_status:
+- statement_id: st-f810f1d183ee
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2019-12-07-cca-glasgow-leventime-a-celebration-of-jackie-leven
+    locator: Programmtext
+    quote: A Celebration of Jackie Leven
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,47 @@
+id: event/1980-05-19-london-moonlight-club
+type: Event
+label: Doll by Doll, Moonlight Club, London (1980-05-19)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-995d639cf414
+  edtf_value: '1980-05-19'
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-a177ca997ccb
+  entity_value: place/moonlight-club-london
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+participants:
+- statement_id: st-13ed106aef38
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+performance_status:
+- statement_id: st-21ff8301970a
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+part_of:
+- statement_id: st-008ae52c3a36
+  entity_value: event/1980-05-uk-tour-doll-by-doll
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

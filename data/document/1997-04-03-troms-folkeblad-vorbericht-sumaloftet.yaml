@@ -1,0 +1,19 @@
+id: document/1997-04-03-troms-folkeblad-vorbericht-sumaloftet
+type: Document
+label: 'Troms Folkeblad, 03.04.1997: Vorbericht Sumaloftet Finnsnes'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromsfolkeblad_null_null_19970403_33_73_1
+access: live
+published:
+- statement_id: st-450aab5cfbe8
+  edtf_value: '1997-04-03'
+  references: []
+published_in:
+- statement_id: st-026ab174716d
+  entity_value: publication/troms-folkeblad
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

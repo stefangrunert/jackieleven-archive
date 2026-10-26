@@ -1,0 +1,22 @@
+id: document/2004-cooking-vinyl-for-peace-comes-dropping-slow-reissue
+type: Document
+label: 'Cooking Vinyl, 2004: For Peace Comes Dropping Slow (COOKCD282), Labeltext zur Neuauflage'
+document_type: liner_notes
+language: en
+access: archive
+note: Labeltext mit Zitat Levens.
+about:
+- person/jackie-leven
+- organization/cooking-vinyl
+published:
+- statement_id: st-a87c83747e26
+  edtf_value: '2004'
+  references: []
+published_in:
+- statement_id: st-0aebf0a281c6
+  entity_value: publication/cooking-vinyl
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

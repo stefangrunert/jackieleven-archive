@@ -1,0 +1,47 @@
+id: event/2004-green-man-festival-baskerville-hall
+type: Event
+label: Jackie Leven, Green Man Festival, Baskerville Hall (2004)
+event_type: festival_appearance
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-133e9e36a172
+  edtf_value: 2004-07-21/2004-07-22
+  certainty: uncertain
+  note: Druckangabe „21. bis 22. Juli“ am selben Wochenende wie die V Festivals (August); mit den V Festivals
+    unvereinbar, vermutlich Fehler.
+  references:
+  - document: document/2004-04-24-music-week-green-man-festival-line-up
+    locator: Music Week, 24.04.2004, S. 8
+    quote: Four Tet, James Yorkston and the Athletes, Jackie Leven
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-55f910ed3985
+  entity_value: place/baskerville-hall-powys
+  references:
+  - document: document/2004-04-24-music-week-green-man-festival-line-up
+    locator: Music Week, 24.04.2004, S. 8
+    quote: Four Tet, James Yorkston and the Athletes, Jackie Leven
+    evidence_type: third_party
+participants:
+- statement_id: st-f7726247a7a0
+  agent_ref: person/jackie-leven
+  roles:
+  - performer
+  references:
+  - document: document/2004-04-24-music-week-green-man-festival-line-up
+    locator: Music Week, 24.04.2004, S. 8
+    quote: Four Tet, James Yorkston and the Athletes, Jackie Leven
+    evidence_type: third_party
+performance_status:
+- statement_id: st-64515afae9cc
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2004-04-24-music-week-green-man-festival-line-up
+    locator: Music Week, 24.04.2004, S. 8
+    quote: Four Tet, James Yorkston and the Athletes, Jackie Leven
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

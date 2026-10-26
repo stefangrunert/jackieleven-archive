@@ -1,0 +1,53 @@
+id: event/1979-12-02-london-hammersmith-odeon
+type: Event
+label: Hawkwind, Doll by Doll (Vorgruppe), Hammersmith Odeon, London (1979-12-02)
+event_type: concert
+time:
+- statement_id: st-3a0d0e0e1fc1
+  edtf_value: '1979-12-02'
+  certainty: probable
+  note: Sonntag vor dem Erscheinen der Ausgabe vom 08.12.1979 (ein Samstag); Tagesdatum umgerechnet.
+  references:
+  - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
+    locator: Record Mirror, 08.12.1979
+    evidence_type: inferred
+    scope: Trennung von der Hawkwind-Tour nach dem Auftritt am Sonntag im Hammersmith Odeon.
+took_place_at:
+- statement_id: st-e9c864538a7d
+  entity_value: place/hammersmith-odeon-london
+  references:
+  - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
+    locator: Record Mirror, 08.12.1979
+    evidence_type: third_party
+    scope: Trennung von der Hawkwind-Tour nach dem Auftritt am Sonntag im Hammersmith Odeon.
+participants:
+- statement_id: st-fd3725c7040b
+  agent_ref: group/doll-by-doll
+  roles:
+  - support_act
+  references:
+  - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
+    locator: Record Mirror, 08.12.1979
+    evidence_type: third_party
+    scope: Trennung von der Hawkwind-Tour nach dem Auftritt am Sonntag im Hammersmith Odeon.
+- statement_id: st-6ae8964fe5ff
+  agent_ref: group/hawkwind
+  roles:
+  - performer
+  references:
+  - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
+    locator: Record Mirror, 08.12.1979
+    evidence_type: third_party
+    scope: Trennung von der Hawkwind-Tour nach dem Auftritt am Sonntag im Hammersmith Odeon.
+performance_status:
+- statement_id: st-9e8caacacf1d
+  status_value: took_place
+  references:
+  - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
+    locator: Record Mirror, 08.12.1979
+    evidence_type: third_party
+    scope: Trennung von der Hawkwind-Tour nach dem Auftritt am Sonntag im Hammersmith Odeon.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

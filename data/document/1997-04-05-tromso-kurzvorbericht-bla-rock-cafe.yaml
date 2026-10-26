@@ -1,0 +1,19 @@
+id: document/1997-04-05-tromso-kurzvorbericht-bla-rock-cafe
+type: Document
+label: 'Tromsø, 05.04.1997: Kurzvorbericht Blå Rock Café'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromso_null_null_19970405_0_78_1
+access: live
+published:
+- statement_id: st-d29fb1b15814
+  edtf_value: '1997-04-05'
+  references: []
+published_in:
+- statement_id: st-4fc22607cb57
+  entity_value: publication/tromso
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

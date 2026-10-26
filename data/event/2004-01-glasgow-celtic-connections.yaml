@@ -1,0 +1,39 @@
+id: event/2004-01-glasgow-celtic-connections
+type: Event
+label: Celtic Connections, Glasgow (2004-01)
+event_type: festival
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-dad491e48b56
+  edtf_value: 2004-01
+  certainty: probable
+  note: Festivalzeitraum nicht genannt; Januar erschlossen aus dem Termin der Uraufführung (27.01.2004).
+  references:
+  - document: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
+    locator: Pressemitteilung, 27.01.2004
+    evidence_type: inferred
+    scope: Uraufführung von Jackie Leven Said am 27. Januar 2004 in der Strathclyde Suite der Royal Concert
+      Hall Glasgow, im Rahmen von Celtic Connections.
+took_place_at:
+- statement_id: st-3d504105d630
+  entity_value: place/glasgow
+  references:
+  - document: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
+    locator: Pressemitteilung, 27.01.2004
+    evidence_type: primary_document
+    scope: Uraufführung von Jackie Leven Said am 27. Januar 2004 in der Strathclyde Suite der Royal Concert
+      Hall Glasgow, im Rahmen von Celtic Connections.
+performance_status:
+- statement_id: st-bff4a1bbd331
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
+    locator: Pressemitteilung, 27.01.2004
+    evidence_type: primary_document
+    scope: Uraufführung von Jackie Leven Said am 27. Januar 2004 in der Strathclyde Suite der Royal Concert
+      Hall Glasgow, im Rahmen von Celtic Connections.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

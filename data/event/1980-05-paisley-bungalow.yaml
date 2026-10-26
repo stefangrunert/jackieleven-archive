@@ -1,0 +1,48 @@
+id: event/1980-05-paisley-bungalow
+type: Event
+label: Doll by Doll, Bungalow, Paisley (1980-05)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-9c4d277527eb
+  edtf_value: 1980-05-19/1980-05-29
+  note: Tag nicht genannt; zwischen Tourbeginn (19.05.) und Tourende (29.05.1980).
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-642451d94c6a
+  entity_value: place/bungalow-paisley
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+participants:
+- statement_id: st-35768f0e8192
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+performance_status:
+- statement_id: st-166d6eb91d23
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+part_of:
+- statement_id: st-e9c81c58eab4
+  entity_value: event/1980-05-uk-tour-doll-by-doll
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

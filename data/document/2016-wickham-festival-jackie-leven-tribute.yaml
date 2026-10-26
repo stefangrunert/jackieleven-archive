@@ -1,0 +1,24 @@
+id: document/2016-wickham-festival-jackie-leven-tribute
+type: Document
+label: 'Wickham Festival, 2016: Jackie Leven Tribute (Künstlerseite)'
+document_type: calendar
+language: en
+url: https://www.wickhamfestival.co.uk/artist/jackie-leven-tribute/
+archive_url: https://web.archive.org/web/20260411072428/https://www.wickhamfestival.co.uk/artist/jackie-leven-tribute/
+access: live
+note: Künstlerseite mit Vermerk „appeared in 2016“; Biografietext vermutlich 2011 als Nachruf verfasst.
+  Mitwirkende des Tributes nicht genannt.
+about:
+- person/jackie-leven
+published:
+- statement_id: st-759e2f44553e
+  edtf_value: '2016'
+  references: []
+published_in:
+- statement_id: st-980c126f9caa
+  entity_value: publication/wickham-festival
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

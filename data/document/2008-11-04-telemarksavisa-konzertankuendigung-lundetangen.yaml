@@ -1,0 +1,23 @@
+id: document/2008-11-04-telemarksavisa-konzertankuendigung-lundetangen
+type: Document
+label: 'Telemarksavisa, 04.11.2008: Konzertankündigung Lundetangen pub, Donnerstag 06.11.2008, 21.00'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_telemarksavisa_null_null_20081104_86_258_1
+access: live
+note: Der Wirt Steffensen holt Leven nach dem Samstagscafé 2007 zurück. Inhalt nach der Fundstellenliste
+  der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2008-11-06-skien-lundetangen-pub
+published:
+- statement_id: st-b1aa3bb8950d
+  edtf_value: '2008-11-04'
+  references: []
+published_in:
+- statement_id: st-e24f93ac3cfd
+  entity_value: publication/telemarksavisa
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

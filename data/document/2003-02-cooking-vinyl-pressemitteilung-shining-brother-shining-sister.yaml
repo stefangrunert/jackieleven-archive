@@ -1,0 +1,26 @@
+id: document/2003-02-cooking-vinyl-pressemitteilung-shining-brother-shining-sister
+type: Document
+label: 'Cooking Vinyl, 02/2003: Pressemitteilung zu „Shining Brother Shining Sister“'
+document_type: press_release
+language: en
+archive_url: https://web.archive.org/web/20030207141204/http://www.cookingvinyl.com:80/leven/index.php
+access: archive
+note: Satirischer Labeltext; Datierungen weichen von anderen Quellen ab; der Text bricht im Original mitten
+  im Satz ab.
+about:
+- person/jackie-leven
+- group/doll-by-doll
+- organization/core-trust
+- organization/cooking-vinyl
+published:
+- statement_id: st-599a9d9cf72a
+  edtf_value: 2003-02
+  references: []
+published_in:
+- statement_id: st-cade988df939
+  entity_value: publication/cooking-vinyl
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

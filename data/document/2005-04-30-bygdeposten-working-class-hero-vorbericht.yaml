@@ -1,0 +1,22 @@
+id: document/2005-04-30-bygdeposten-working-class-hero-vorbericht
+type: Document
+label: 'Bygdeposten, 30.04.2005: Vorbericht Working Class Hero'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_bygdeposten_null_null_20050430_52_49_1
+access: live
+note: Vorbericht zum Working Class Hero-Festival; Erland Evjen spielt laut Meldung vor Leven.
+about:
+- event/2005-05-01-working-class-hero-festival
+published:
+- statement_id: st-43ed42146c4b
+  edtf_value: '2005-04-30'
+  references: []
+published_in:
+- statement_id: st-e2b59fd4ae7f
+  entity_value: publication/bygdeposten
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,40 @@
+id: event/undatiert-paxos-old-school-house
+type: Event
+label: Jackie Leven, The Old School House, Paxos (Datum unbekannt)
+event_type: concert
+note: Früheres Leven-Konzert auf Paxos, nur beiläufig im Ankündigungstext erwähnt; Spielstätte unsicher.
+took_place_at:
+- statement_id: st-e258211f4a15
+  entity_value: place/old-school-house-yard-loggos
+  references:
+  - document: document/2022-06-23-paxos-festival-the-songs-of-jackie-leven
+    locator: Absatz zu Paxos
+    quote: a concert at The Old School House that will never be forgotten
+    evidence_type: third_party
+    asserted_by: unknown
+participants:
+- statement_id: st-d0688c78a498
+  agent_ref: person/jackie-leven
+  roles:
+  - performer
+  references:
+  - document: document/2022-06-23-paxos-festival-the-songs-of-jackie-leven
+    locator: Absatz zu Paxos
+    quote: a concert at The Old School House that will never be forgotten
+    evidence_type: third_party
+    asserted_by: unknown
+performance_status:
+- statement_id: st-6fc9631c266d
+  status_value: took_place
+  note: Nur Werbetext des Festivals; Datum nicht genannt. Ob The Old School House und der Old School House
+    Yard in Loggos dieselbe Spielstätte sind, ist nicht belegt.
+  references:
+  - document: document/2022-06-23-paxos-festival-the-songs-of-jackie-leven
+    locator: Absatz zu Paxos
+    quote: a concert at The Old School House that will never be forgotten
+    evidence_type: third_party
+    asserted_by: unknown
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

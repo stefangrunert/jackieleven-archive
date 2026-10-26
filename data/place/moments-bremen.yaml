@@ -1,0 +1,16 @@
+id: place/moments-bremen
+type: Place
+label: Moments
+place_type: venue
+note: Bezeichnet als „Bremer Musikclub“ im Katalogtext.
+located_in:
+- statement_id: st-2a3b97e9bee4
+  entity_value: place/bremen
+  references:
+  - document: document/undatiert-glitterhouse-mailorder-jackie-leven-katalogtexte
+    locator: Artikel Live Or Die (Katalogtext)
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

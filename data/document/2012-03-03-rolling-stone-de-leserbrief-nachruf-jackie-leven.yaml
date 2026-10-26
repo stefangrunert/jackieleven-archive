@@ -1,0 +1,29 @@
+id: document/2012-03-03-rolling-stone-de-leserbrief-nachruf-jackie-leven
+type: Document
+label: 'Rolling Stone (DE), 03.03.2012: Leserbrief Nachruf auf Jackie Leven'
+document_type: obituary
+language: de
+url: https://www.rollingstone.de/leserbriefe-38-548059/
+archive_url: https://web.archive.org/web/20260514105241/https://www.rollingstone.de/leserbriefe-38-548059/
+access: live
+note: Leserbrief; nennt den 14.11.2011 als Todestag.
+about:
+- person/jackie-leven
+participants:
+- statement_id: st-708e3e74a522
+  agent_ref: person/frank-germer
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-edc2ea4bb5d1
+  edtf_value: '2012-03-03'
+  references: []
+published_in:
+- statement_id: st-2e8b8fe4d788
+  entity_value: publication/rolling-stone-de
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

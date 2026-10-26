@@ -1,0 +1,45 @@
+id: event/1980-05-hope-and-anchor
+type: Event
+label: Doll by Doll, Hope and Anchor (1980-05?)
+event_type: concert
+time:
+- statement_id: st-8e4e8f31d630
+  edtf_value: 1980-04/1980-05
+  certainty: uncertain
+  note: Unangekündigter Auftritt am Abend vor Fielders Abreise nach Schottland; Tag nicht genannt, vor
+    Erscheinen der Ausgabe vom 10.05.1980.
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980 (Bericht Hugh Fielder im Genesis-Tourbericht)
+    quote: Doll By Doll (now without a record deal
+    evidence_type: inferred
+took_place_at:
+- statement_id: st-17903a366f85
+  entity_value: place/hope-and-anchor
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980 (Bericht Hugh Fielder im Genesis-Tourbericht)
+    quote: Doll By Doll (now without a record deal
+    evidence_type: third_party
+participants:
+- statement_id: st-dfc10e4c0bbb
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980 (Bericht Hugh Fielder im Genesis-Tourbericht)
+    quote: Doll By Doll (now without a record deal
+    evidence_type: third_party
+performance_status:
+- statement_id: st-a3bad7271ce3
+  status_value: took_place
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980 (Bericht Hugh Fielder im Genesis-Tourbericht)
+    quote: Doll By Doll (now without a record deal
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

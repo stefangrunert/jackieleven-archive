@@ -1,0 +1,22 @@
+id: document/2001-02-19-jackieleven-com-new-release-great-songs-from-eternal-bars
+type: Document
+label: 'jackieleven.com, 19.02.2001: New Release „Great Songs From Eternal Bars“ (4-CD-Box)'
+document_type: news
+language: en
+access: archive
+note: Webmaster-Meldung mit langem Zitat aus dem Cooking-Vinyl-Newsletter.
+about:
+- person/jackie-leven
+- organization/cooking-vinyl
+published:
+- statement_id: st-1e7a1998d019
+  edtf_value: '2001-02-19'
+  references: []
+published_in:
+- statement_id: st-05f548c06a5b
+  entity_value: publication/jackieleven-com
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

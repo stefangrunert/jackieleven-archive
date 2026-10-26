@@ -1,0 +1,23 @@
+id: document/2007-07-16-halden-arbeiderblad-down-on-the-farm-campfire-stage
+type: Document
+label: 'Halden Arbeiderblad, 16.07.2007: Down on the Farm 2007, Campfire Stage mit Robyn Hitchcock, John
+  Paul Jones und Leven'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_haldenarbeiderblad_null_null_20070716_78_161_1
+access: live
+note: Inhalt nach der Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2007-08-03-halden-gribsrod-gard
+published:
+- statement_id: st-73dbaa6cdf68
+  edtf_value: '2007-07-16'
+  references: []
+published_in:
+- statement_id: st-beab2ab7b8c4
+  entity_value: publication/halden-arbeiderblad
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

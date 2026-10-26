@@ -1,0 +1,23 @@
+id: document/2010-time-out-london-jackie-leven-listing
+type: Document
+label: 'Time Out London, 2010: Listing Jackie Leven (Recommended)'
+document_type: calendar
+language: en
+url: https://www.timeout.com/london/music/jackie-leven
+access: live
+note: Ankündigungstext ohne Ort und Termin. Die Seite zeigt 11.10.2012 (vermutlich Migrationsdatum); wegen
+  „April's Gothic Road“ 2010 erschlossen.
+about:
+- person/jackie-leven
+published:
+- statement_id: st-3d95dc4bc62d
+  edtf_value: 2010?
+  references: []
+published_in:
+- statement_id: st-f74db84450b8
+  entity_value: publication/time-out-london
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

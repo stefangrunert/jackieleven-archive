@@ -1,0 +1,7 @@
+id: person/jan-inge-fardal
+type: Person
+label: Jan Inge Fardal
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

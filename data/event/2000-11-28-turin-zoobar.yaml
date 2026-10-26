@@ -1,0 +1,45 @@
+id: event/2000-11-28-turin-zoobar
+type: Event
+label: Jackie Leven, Zoobar, Turin (2000-11-28)
+event_type: concert
+time:
+- statement_id: st-4eb10f817fd6
+  edtf_value: '2000-11-28'
+  references:
+  - document: document/2000-11-28-rockol-jackie-leven-non-verra-in-italia
+    locator: Rockol, 28.11.2000
+    quote: Jackie Leven non verrà in Italia
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-b9b05163a454
+  entity_value: place/zoobar-turin
+  references:
+  - document: document/2000-11-28-rockol-jackie-leven-non-verra-in-italia
+    locator: Rockol, 28.11.2000
+    quote: Jackie Leven non verrà in Italia
+    evidence_type: third_party
+participants:
+- statement_id: st-1aed13a3456c
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2000-11-28-rockol-jackie-leven-non-verra-in-italia
+    locator: Rockol, 28.11.2000
+    quote: Jackie Leven non verrà in Italia
+    evidence_type: third_party
+performance_status:
+- statement_id: st-b623efbd2851
+  status_value: cancelled
+  note: Abgesagt wegen einer Erkrankung, die Leven sich laut Meldung im vorangegangenen Norwegenaufenthalt
+    zugezogen hatte.
+  references:
+  - document: document/2000-11-28-rockol-jackie-leven-non-verra-in-italia
+    locator: Rockol, 28.11.2000
+    quote: Jackie Leven non verrà in Italia
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,73 @@
+id: event/2004-12-beirut-aufnahmen-elegy-for-johnny-cash
+type: Event
+label: Aufnahmen zu Elegy For Johnny Cash, Beirut (2004-12?)
+event_type: recording_session
+time:
+- statement_id: st-3eb0c5d5cf4a
+  edtf_value: 2004-12
+  certainty: uncertain
+  note: Aufnahme „bei dieser Gelegenheit“ vorgeschlagen; Aufnahmedatum nicht genannt, nach Albumveröffentlichung
+    12.09.2005 und Beiruter Konzert erschlossen.
+  references:
+  - document: document/2005-08-01-jackieleven-com-elegy-for-johnny-cash-albuminfo
+    locator: jackieleven.com, 01.08.2005, „Why Beirut?“
+    quote: recorded in Beirut
+    evidence_type: inferred
+    asserted_by: person/jackie-leven
+    scope: Darstellung Levens im Pressetext.
+took_place_at:
+- statement_id: st-bbec56fa16d8
+  entity_value: place/beirut
+  references:
+  - document: document/2005-08-01-jackieleven-com-elegy-for-johnny-cash-albuminfo
+    locator: jackieleven.com, 01.08.2005, „Why Beirut?“
+    quote: recorded in Beirut
+    evidence_type: self_statement
+    asserted_by: person/jackie-leven
+    scope: Darstellung Levens im Pressetext.
+participants:
+- statement_id: st-135c5e521389
+  agent_ref: person/jackie-leven
+  roles:
+  - performer
+  - producer
+  references:
+  - document: document/2005-08-01-jackieleven-com-elegy-for-johnny-cash-albuminfo
+    locator: jackieleven.com, 01.08.2005, „Why Beirut?“
+    quote: recorded in Beirut
+    evidence_type: self_statement
+    asserted_by: person/jackie-leven
+    scope: Darstellung Levens im Pressetext.
+- statement_id: st-c16e02f6cadd
+  agent_ref: person/david-wrench
+  roles:
+  - producer
+  references:
+  - document: document/2005-08-01-jackieleven-com-elegy-for-johnny-cash-albuminfo
+    locator: jackieleven.com, 01.08.2005
+    evidence_type: primary_document
+    scope: Produktion durch Leven und seinen Toningenieur David Wrench.
+- statement_id: st-606566a4b773
+  agent_ref: person/mixalis-kataxanis
+  roles:
+  - performer
+  references:
+  - document: document/2005-08-01-jackieleven-com-elegy-for-johnny-cash-albuminfo
+    locator: jackieleven.com, 01.08.2005
+    evidence_type: primary_document
+    scope: Violasoli auf dem Titelstück.
+performance_status:
+- statement_id: st-431edf084c41
+  status_value: took_place
+  note: Laut Albumtext in Beirut aufgenommen; Mischung in Bethesda (Wales).
+  references:
+  - document: document/2005-08-01-jackieleven-com-elegy-for-johnny-cash-albuminfo
+    locator: jackieleven.com, 01.08.2005, „Why Beirut?“
+    quote: recorded in Beirut
+    evidence_type: self_statement
+    asserted_by: person/jackie-leven
+    scope: Darstellung Levens im Pressetext.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

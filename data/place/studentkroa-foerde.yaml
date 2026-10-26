@@ -1,0 +1,16 @@
+id: place/studentkroa-foerde
+type: Place
+label: Studentkroa (Kulturkafeen)
+place_type: venue
+note: Fundstelle nennt „Studentkroa/Kulturkafeen“ in Førde.
+located_in:
+- statement_id: st-2b4ba0868225
+  entity_value: place/foerde
+  references:
+  - document: document/1997-04-08-firda-vorbericht-studentkroa-foerde
+    locator: Firda, 08.04.1997, S. 9
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

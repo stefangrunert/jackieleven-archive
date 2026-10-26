@@ -1,0 +1,44 @@
+id: event/2001-09-02-bodo-min-plass
+type: Event
+label: Jackie Leven, Min Plass, Bodø (2001-09-02)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-30cfe6c321ad
+  edtf_value: '2001-09-02'
+  references:
+  - document: document/2001-09-01-nordlands-framtid-konsertvorbericht-min-plass
+    locator: Nordlands Framtid, 01.09.2001, S. 30
+    evidence_type: third_party
+    scope: 'Vorbericht: Konzert am Sonntag, 02.09.2001, im Min Plass'
+took_place_at:
+- statement_id: st-9b5303853d12
+  entity_value: place/min-plass-bodo
+  references:
+  - document: document/2001-09-01-nordlands-framtid-konsertvorbericht-min-plass
+    locator: Nordlands Framtid, 01.09.2001, S. 30
+    evidence_type: third_party
+    scope: 'Vorbericht: Konzert am Sonntag, 02.09.2001, im Min Plass'
+participants:
+- statement_id: st-c8bfef8c7f99
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2001-09-01-nordlands-framtid-konsertvorbericht-min-plass
+    locator: Nordlands Framtid, 01.09.2001, S. 30
+    evidence_type: third_party
+    scope: 'Vorbericht: Konzert am Sonntag, 02.09.2001, im Min Plass'
+performance_status:
+- statement_id: st-a54f5f984279
+  status_value: announced
+  references:
+  - document: document/2001-09-01-nordlands-framtid-konsertvorbericht-min-plass
+    locator: Nordlands Framtid, 01.09.2001, S. 30
+    evidence_type: third_party
+    scope: 'Vorbericht: Konzert am Sonntag, 02.09.2001, im Min Plass'
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

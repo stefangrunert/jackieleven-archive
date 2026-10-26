@@ -1,0 +1,7 @@
+id: publication/wegottickets
+type: Publication
+label: WeGotTickets
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

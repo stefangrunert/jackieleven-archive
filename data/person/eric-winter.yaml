@@ -1,0 +1,7 @@
+id: person/eric-winter
+type: Person
+label: Eric Winter
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,24 @@
+id: document/1983-03-19-nme-bred-by-leven
+type: Document
+label: 'NME, 19.03.1983: Bred by Leven (neue Gruppe unter eigenem Namen)'
+document_type: news
+language: en
+url: https://www.worldradiohistory.com/UK/New-Musical-Express/80s/83/NME-1983-03-19.pdf
+access: live
+note: Rubrik „Forthcoming Visitors“; eine Anzeige im selben Heft nennt für das Fulham-Greyhound-Konzert
+  Sonntag, den 20. März.
+about:
+- person/jackie-leven
+- organization/charisma-records
+published:
+- statement_id: st-fefcac8bf210
+  edtf_value: '1983-03-19'
+  references: []
+published_in:
+- statement_id: st-d8a966c011f9
+  entity_value: publication/nme
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

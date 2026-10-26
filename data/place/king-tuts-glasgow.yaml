@@ -1,0 +1,18 @@
+id: place/king-tuts-glasgow
+type: Place
+label: King Tut's Wah Wah Hut
+place_type: venue
+located_in:
+- statement_id: st-46c0ea76c484
+  entity_value: place/glasgow
+  references:
+  - document: document/2007-03-the-list-5-reasons-to-go-see-jackie-leven
+    locator: The List, 03/2007
+    quote: King Tut's
+    evidence_type: third_party
+    scope: Konzert am Samstag, 24. März (2007) im King Tut's angekündigt; Jahr aus dem Erscheinungsmonat
+      erschlossen.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

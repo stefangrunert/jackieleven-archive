@@ -1,0 +1,7 @@
+id: persona/sir-vincent-lone
+type: Persona
+label: Sir Vincent Lone
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

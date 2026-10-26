@@ -1,0 +1,15 @@
+id: place/studentkroa-sogndal
+type: Place
+label: Studentkroa (Studentsamfunnet)
+place_type: venue
+located_in:
+- statement_id: st-b64c3fdb3ea6
+  entity_value: place/sogndal
+  references:
+  - document: document/1997-04-08-sogn-avis-vorbericht-studentkroa-sogndal
+    locator: Sogn Avis, 08.04.1997, S. 16
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

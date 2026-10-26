@@ -1,0 +1,47 @@
+id: event/1979-04-10-london-marquee
+type: Event
+label: Doll by Doll, Marquee, London (1979-04-10)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-efb2d15d5a68
+  edtf_value: '1979-04-10'
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-bcb9c139c8fe
+  entity_value: place/marquee-london
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+participants:
+- statement_id: st-e682684043c9
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+performance_status:
+- statement_id: st-02ba1f7b853a
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+part_of:
+- statement_id: st-f4cfab9072f6
+  entity_value: event/1979-03-tour-fruehjahr-doll-by-doll
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

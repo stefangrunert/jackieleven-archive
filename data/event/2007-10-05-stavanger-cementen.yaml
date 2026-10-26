@@ -1,0 +1,61 @@
+id: event/2007-10-05-stavanger-cementen
+type: Event
+label: Jackie Leven, Cementen, Stavanger (2007-10-05)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-15965937b6d6
+  edtf_value: '2007-10-05'
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-09-28-rogalands-avis-anzeige-cementen
+    locator: Rogalands Avis, 28.09.2007, S. 59
+    evidence_type: primary_document
+  note: Angekündigt für Freitag, 05.10.2007, 22.00.
+took_place_at:
+- statement_id: st-4c9aa23b51d6
+  entity_value: place/cementen-stavanger
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-09-28-rogalands-avis-anzeige-cementen
+    locator: Rogalands Avis, 28.09.2007, S. 59
+    evidence_type: primary_document
+participants:
+- statement_id: st-4ca060e3608b
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-09-28-rogalands-avis-anzeige-cementen
+    locator: Rogalands Avis, 28.09.2007, S. 59
+    evidence_type: primary_document
+performance_status:
+- statement_id: st-15a618615007
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  - document: document/2007-09-28-rogalands-avis-anzeige-cementen
+    locator: Rogalands Avis, 28.09.2007, S. 59
+    evidence_type: primary_document
+part_of:
+- statement_id: st-621583c0a3c4
+  entity_value: event/2007-09-norwegen-tournee
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

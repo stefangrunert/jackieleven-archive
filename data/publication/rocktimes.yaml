@@ -1,0 +1,7 @@
+id: publication/rocktimes
+type: Publication
+label: RockTimes
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

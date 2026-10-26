@@ -1,0 +1,23 @@
+id: document/2021-10-jackieleven-co-uk-news-twitter-feed
+type: Document
+label: 'jackieleven.co.uk, Oktober 2021: News (Twitter-Feed @LevenJackie)'
+document_type: website
+language: en
+url: https://jackieleven.co.uk/news/
+archive_url: https://web.archive.org/web/20211017133307/http://www.jackieleven.co.uk/news/
+access: archive
+note: Spiegel des Twitter-Kontos @LevenJackie; keine Konzertangaben.
+about:
+- person/jackie-leven
+published:
+- statement_id: st-566abe2b0aff
+  edtf_value: 2021-10
+  references: []
+published_in:
+- statement_id: st-e6b2b4a94ca7
+  entity_value: publication/jackieleven-co-uk
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,48 @@
+id: event/1999-bremen-moments
+type: Event
+label: Jackie Leven, Moments, Bremen (1999)
+event_type: concert
+note: Solo (Katalogtext). Titel der Box schwankt zwischen 1994/1995/1999; der Fließtext von RockTimes
+  und der Katalogtext nennen 1999.
+time:
+- statement_id: st-8c8fe4f08a1b
+  edtf_value: '1999'
+  note: Nur das Jahr; Tag nicht genannt.
+  references:
+  - document: document/2024-04-18-rocktimes-jackie-leven-live-in-bremen-angekuendigt
+    locator: Absatz zur Box
+    quote: zwei Konzerte aus Bremen aus den Jahren 1999 sowie 2004
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-e89638811d08
+  entity_value: place/moments-bremen
+  references:
+  - document: document/undatiert-glitterhouse-mailorder-jackie-leven-katalogtexte
+    locator: Artikel Live Or Die (Katalogtext)
+    evidence_type: third_party
+participants:
+- statement_id: st-35b35a560824
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  references:
+  - document: document/undatiert-glitterhouse-mailorder-jackie-leven-katalogtexte
+    locator: Artikel Live Or Die (Katalogtext)
+    evidence_type: third_party
+performance_status:
+- statement_id: st-dc6bd9042ad2
+  status_value: took_place
+  note: Belegt durch einen von Radio Bremen mitgeschnittenen Konzertmitschnitt (Veröffentlichung 2024);
+    Aufnahme ist 4-CD-Set Live Or Die.
+  references:
+  - document: document/2024-04-18-rocktimes-jackie-leven-live-in-bremen-angekuendigt
+    locator: Absatz zur Box
+    quote: zwei Konzerte aus Bremen aus den Jahren 1999 sowie 2004
+    evidence_type: third_party
+  - document: document/undatiert-glitterhouse-mailorder-jackie-leven-katalogtexte
+    locator: Artikel Live Or Die (Katalogtext)
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,7 @@
+id: publication/michaelwestonking-com
+type: Publication
+label: michaelwestonking.com (Store)
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

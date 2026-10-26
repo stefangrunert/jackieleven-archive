@@ -1,0 +1,42 @@
+id: event/2007-09-27-bodo-sinus
+type: Event
+label: Jackie Leven, Sinus, Bodø (2007-09-27)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt. Die Tourankündigung in Puls (17.09.2007) nennt für den
+  27.09. in Bodø die Spielstätte „Public“; mögliche Identität oder Spielstättenwechsel, offen.
+time:
+- statement_id: st-d4cadc6930f3
+  edtf_value: '2007-09-27'
+  note: Angekündigt für Donnerstag, 27.09.2007.
+  references:
+  - document: document/2007-09-26-avisa-nordland-vorbericht-sinus
+    locator: Avisa Nordland, 26.09.2007, S. 30
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-2cb6ed9085c3
+  entity_value: place/sinus-bodo
+  references:
+  - document: document/2007-09-26-avisa-nordland-vorbericht-sinus
+    locator: Avisa Nordland, 26.09.2007, S. 30
+    evidence_type: third_party
+participants:
+- statement_id: st-c721ee388adc
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-09-26-avisa-nordland-vorbericht-sinus
+    locator: Avisa Nordland, 26.09.2007, S. 30
+    evidence_type: third_party
+performance_status:
+- statement_id: st-f231578975e4
+  status_value: announced
+  references:
+  - document: document/2007-09-26-avisa-nordland-vorbericht-sinus
+    locator: Avisa Nordland, 26.09.2007, S. 30
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

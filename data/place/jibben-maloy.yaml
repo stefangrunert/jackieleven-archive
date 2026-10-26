@@ -1,0 +1,16 @@
+id: place/jibben-maloy
+type: Place
+label: Jibben
+place_type: venue
+located_in:
+- statement_id: st-770257933842
+  entity_value: place/maloy
+  references:
+  - document: document/2007-09-21-fjordenes-tidende-leven-pa-jibben
+    locator: Fjordenes Tidende, 21.09.2007, S. 15, 26
+    quote: Leven på Jibben
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,76 @@
+id: event/2004-01-27-glasgow-royal-concert-hall-jackie-leven-said
+type: Event
+label: Ian Rankin und Jackie Leven, „Jackie Leven Said“, Royal Concert Hall, Glasgow (2004-01-27)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-63a083c9b6ca
+  edtf_value: '2004-01-27'
+  references:
+  - document: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
+    locator: Pressemitteilung, 27.01.2004
+    evidence_type: primary_document
+    scope: Uraufführung von Jackie Leven Said am 27. Januar 2004 in der Strathclyde Suite der Royal Concert
+      Hall Glasgow, im Rahmen von Celtic Connections.
+took_place_at:
+- statement_id: st-e5bba24d5b7c
+  entity_value: place/royal-concert-hall-glasgow
+  references:
+  - document: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
+    locator: Pressemitteilung, 27.01.2004
+    evidence_type: primary_document
+    scope: Uraufführung von Jackie Leven Said am 27. Januar 2004 in der Strathclyde Suite der Royal Concert
+      Hall Glasgow, im Rahmen von Celtic Connections.
+participants:
+- statement_id: st-50cbe2d26810
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  references:
+  - document: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
+    locator: Pressemitteilung, 27.01.2004
+    evidence_type: primary_document
+    scope: Uraufführung von Jackie Leven Said am 27. Januar 2004 in der Strathclyde Suite der Royal Concert
+      Hall Glasgow, im Rahmen von Celtic Connections.
+- statement_id: st-f4c507c20a96
+  agent_ref: person/ian-rankin
+  roles:
+  - performer
+  references:
+  - document: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
+    locator: Pressemitteilung, 27.01.2004
+    quote: Ian Rankin
+    evidence_type: primary_document
+    scope: Liest eine eigens geschriebene Kurzgeschichte in Abschnitten.
+- statement_id: st-e5cbedc30462
+  agent_ref: person/michael-cosgrave
+  roles:
+  - performer
+  references:
+  - document: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
+    locator: Pressemitteilung, 27.01.2004
+    evidence_type: primary_document
+    scope: Begleitet beide als Multiinstrumentalist (in der Pressemitteilung als „Breton“ bezeichnet).
+performance_status:
+- statement_id: st-6c36ce719101
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
+    locator: Pressemitteilung, 27.01.2004
+    evidence_type: primary_document
+    scope: Uraufführung von Jackie Leven Said am 27. Januar 2004 in der Strathclyde Suite der Royal Concert
+      Hall Glasgow, im Rahmen von Celtic Connections.
+part_of:
+- statement_id: st-e0a8f8d60d4c
+  entity_value: event/2004-01-glasgow-celtic-connections
+  references:
+  - document: document/2004-01-27-celtic-connections-pressemitteilung-jackie-leven-said
+    locator: Pressemitteilung, 27.01.2004
+    evidence_type: primary_document
+    scope: Uraufführung von Jackie Leven Said am 27. Januar 2004 in der Strathclyde Suite der Royal Concert
+      Hall Glasgow, im Rahmen von Celtic Connections.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

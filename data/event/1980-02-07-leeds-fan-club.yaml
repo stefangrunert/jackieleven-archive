@@ -1,0 +1,47 @@
+id: event/1980-02-07-leeds-fan-club
+type: Event
+label: Doll by Doll, Fan Club, Leeds (1980-02-07)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-7506bf5c6268
+  edtf_value: '1980-02-07'
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-77ac5db07685
+  entity_value: place/fan-club-leeds
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+participants:
+- statement_id: st-1fa41fb31999
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+performance_status:
+- statement_id: st-baa31c66a4a3
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+part_of:
+- statement_id: st-5dbb64eff4f2
+  entity_value: event/1980-02-tour-doll-by-doll
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

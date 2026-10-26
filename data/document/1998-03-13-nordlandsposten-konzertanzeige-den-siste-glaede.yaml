@@ -1,0 +1,20 @@
+id: document/1998-03-13-nordlandsposten-konzertanzeige-den-siste-glaede
+type: Document
+label: 'Nordlandsposten, 13.03.1998: Konzertanzeige Den Siste Glæde'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlandsposten_null_null_19980313_136_61_1
+access: live
+note: 'Anzeige: Den Siste Glæde, So 15.03.1998 („kommer tilbake“).'
+published:
+- statement_id: st-77ad416a6b7c
+  edtf_value: '1998-03-13'
+  references: []
+published_in:
+- statement_id: st-c452c1171940
+  entity_value: publication/nordlandsposten
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,35 @@
+id: event/1990-10-london-core-trust-day-centre-eroeffnung
+type: Event
+label: Eröffnung des CORE Trust Day Centre, London (1990-10?)
+event_type: other
+note: Leven wird in der Meldung nicht genannt; die Verbindung zum CORE Trust ergibt sich aus anderen Quellen.
+time:
+- statement_id: st-a249fdb1aff5
+  edtf_value: 1990-10
+  certainty: probable
+  note: Eröffnungstermin nicht genannt; Meldung vom 10.10.1990.
+  references:
+  - document: document/1990-10-10-nursing-standard-core-trust-day-centre
+    locator: Nursing Standard, Bd. 5, Heft 3, 10.10.1990, S. 11
+    evidence_type: inferred
+    scope: Meldung über die Eröffnung eines Tageszentrums des CORE Trust in London.
+took_place_at:
+- statement_id: st-62a5e1d3356d
+  entity_value: place/london
+  references:
+  - document: document/1990-10-10-nursing-standard-core-trust-day-centre
+    locator: Nursing Standard, Bd. 5, Heft 3, 10.10.1990, S. 11
+    evidence_type: third_party
+    scope: Meldung über die Eröffnung eines Tageszentrums des CORE Trust in London.
+performance_status:
+- statement_id: st-45d381bfb8f5
+  status_value: took_place
+  references:
+  - document: document/1990-10-10-nursing-standard-core-trust-day-centre
+    locator: Nursing Standard, Bd. 5, Heft 3, 10.10.1990, S. 11
+    evidence_type: third_party
+    scope: Meldung über die Eröffnung eines Tageszentrums des CORE Trust in London.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

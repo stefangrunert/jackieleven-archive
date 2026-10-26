@@ -1,0 +1,23 @@
+id: document/2007-09-22-nordlys-jackie-leven-tilbake-i-tromso
+type: Document
+label: 'Nordlys, 22.09.2007: Vorbericht „Jackie Leven tilbake i Tromsø“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlys_null_null_20070922_106_221_1
+access: live
+note: Beruht laut Sammeldatei auf einer Pressemitteilung des Veranstalters Egon Holstad. Inhalt nach der
+  Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2007-09-23-tromso-kaos
+published:
+- statement_id: st-ec1d1254e44e
+  edtf_value: '2007-09-22'
+  references: []
+published_in:
+- statement_id: st-84b5eeec95a3
+  entity_value: publication/nordlys
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

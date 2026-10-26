@@ -11,12 +11,18 @@ time:
   - document: document/1996-05-09-fremtiden-jackie-leven-kom-tilbake-til-norge
     locator: Fremtiden, 09.05.1996, Zwischentitel „En kveld i magiens tegn“
     evidence_type: inferred
+  - document: document/1996-03-26-arbeiderbladet-intimkonzert-kafe-tamara
+    locator: Arbeiderbladet, 26.03.1996, S. 28
+    evidence_type: third_party
 took_place_at:
 - statement_id: st-53855d39032d
   entity_value: place/rebekka-west-oslo
   references:
   - document: document/1996-05-09-fremtiden-jackie-leven-kom-tilbake-til-norge
     locator: Fremtiden, 09.05.1996, Zwischentitel „En kveld i magiens tegn“
+    evidence_type: third_party
+  - document: document/1996-03-26-arbeiderbladet-intimkonzert-kafe-tamara
+    locator: Arbeiderbladet, 26.03.1996, S. 28
     evidence_type: third_party
 participants:
 - statement_id: st-19f5f74ab2de

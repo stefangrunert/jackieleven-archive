@@ -1,0 +1,49 @@
+id: event/1980-05-glenrothes-apollo-lounge
+type: Event
+label: Doll by Doll, Apollo Lounge, Glenrothes (1980-05)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-2565c042da93
+  edtf_value: 1980-05-19/1980-05-29
+  note: Tag nicht genannt; zwischen Tourbeginn (19.05.) und Tourende (29.05.1980). Glenrothes liegt in
+    Fife, Levens Heimatregion.
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-a73bdb1b5207
+  entity_value: place/apollo-lounge-glenrothes
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+participants:
+- statement_id: st-c535a2f21666
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+performance_status:
+- statement_id: st-b7ba5da33562
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+part_of:
+- statement_id: st-4753210cc27a
+  entity_value: event/1980-05-uk-tour-doll-by-doll
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

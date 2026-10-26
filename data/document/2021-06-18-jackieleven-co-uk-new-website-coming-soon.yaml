@@ -1,0 +1,23 @@
+id: document/2021-06-18-jackieleven-co-uk-new-website-coming-soon
+type: Document
+label: 'jackieleven.co.uk, 18.06.2021: New website coming soon…'
+document_type: website
+language: en
+url: http://www.jackieleven.co.uk/
+archive_url: https://web.archive.org/web/20210618114210/http://www.jackieleven.co.uk/
+access: archive
+note: 'Platzhalterseite; Kopf: anonym (Umfeld Cooking Vinyl). Kündigt Tribute-Album an; keine Konzertangaben.'
+about:
+- person/jackie-leven
+published:
+- statement_id: st-d66c6f1aabd5
+  edtf_value: '2021-06-18'
+  references: []
+published_in:
+- statement_id: st-059e714d2ce6
+  entity_value: publication/jackieleven-co-uk
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

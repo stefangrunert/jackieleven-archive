@@ -1,0 +1,7 @@
+id: publication/ents24
+type: Publication
+label: Ents24
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

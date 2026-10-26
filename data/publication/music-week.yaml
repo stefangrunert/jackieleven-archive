@@ -1,0 +1,7 @@
+id: publication/music-week
+type: Publication
+label: Music Week
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

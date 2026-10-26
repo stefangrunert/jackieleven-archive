@@ -1,0 +1,22 @@
+id: document/2007-10-06-varden-ankuendigung-lundetangen
+type: Document
+label: 'Varden, 06.10.2007: Ankündigung Lundetangen Pub, Samstag 06.10.2007, 15.00, Eintritt frei'
+document_type: calendar
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_varden_null_null_20071006_133_233_1
+access: live
+note: Inhalt nach der Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2007-10-06-skien-lundetangen-pub
+published:
+- statement_id: st-d89a4e8dbc41
+  edtf_value: '2007-10-06'
+  references: []
+published_in:
+- statement_id: st-f7979848223e
+  entity_value: publication/varden
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

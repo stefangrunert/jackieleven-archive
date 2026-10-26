@@ -1,0 +1,25 @@
+id: document/2011-12-01-cooking-vinyl-wayside-shrines-releasetext
+type: Document
+label: 'Cooking Vinyl, 01.12.2011: Labeltext zu Wayside Shrines and the Code of the Travelling Man'
+document_type: press_release
+language: en
+url: http://cookingvinyl.com/releases/jackie-leven-michael-cosgrave-wayside-shrines-and-the-code-of-the-travelling-man-2/
+archive_url: https://web.archive.org/web/20111230041411/http://cookingvinyl.com:80/releases/jackie-leven-michael-cosgrave-wayside-shrines-and-the-code-of-the-travelling-man-2/
+access: archive
+note: Labeltext mit Zitaten Levens; Datum der Wiederveröffentlichung im Blog nach Levens Tod. Nur Albumangaben,
+  keine Konzert- oder Ortsangaben.
+about:
+- person/jackie-leven
+- person/michael-cosgrave
+published:
+- statement_id: st-e25de30be70f
+  edtf_value: '2011-12-01'
+  references: []
+published_in:
+- statement_id: st-3996c28cf47b
+  entity_value: publication/cooking-vinyl
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,55 @@
+id: event/2005-05-06-bergen-bergenfest
+type: Event
+label: Jackie Leven und David Thomas, Bergenfest, Bergen (2005-05-06)
+event_type: concert
+note: 'Spielstätte nicht festgelegt: Zeitungslisten, die hier nur gezählt sind, nennen Logen bzw. Kamelon.
+  Möglicherweise Auftritt als UbuDoll (Bergenfest).'
+time:
+- statement_id: st-ab7dd40ee744
+  edtf_value: '2005-05-06'
+  references:
+  - document: document/2005-03-22-dagsavisen-jackie-leven-med-ian-rankin
+    locator: Dagsavisen, 22.03.2005, S. 24
+    quote: Jackie Leven med Ian Rankin
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-4243679418d3
+  entity_value: place/bergen
+  references:
+  - document: document/2005-03-22-dagsavisen-jackie-leven-med-ian-rankin
+    locator: Dagsavisen, 22.03.2005, S. 24
+    quote: Jackie Leven med Ian Rankin
+    evidence_type: third_party
+participants:
+- statement_id: st-0fa94ac33eb8
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2005-03-22-dagsavisen-jackie-leven-med-ian-rankin
+    locator: Dagsavisen, 22.03.2005, S. 24
+    quote: Jackie Leven med Ian Rankin
+    evidence_type: third_party
+- statement_id: st-b8811d9dc4c3
+  agent_ref: person/david-thomas
+  roles:
+  - vocals
+  references:
+  - document: document/2005-03-22-dagsavisen-jackie-leven-med-ian-rankin
+    locator: Dagsavisen, 22.03.2005, S. 24
+    quote: Jackie Leven med Ian Rankin
+    evidence_type: third_party
+performance_status:
+- statement_id: st-94f61f020e4c
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2005-03-22-dagsavisen-jackie-leven-med-ian-rankin
+    locator: Dagsavisen, 22.03.2005, S. 24
+    quote: Jackie Leven med Ian Rankin
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

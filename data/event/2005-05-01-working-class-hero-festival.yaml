@@ -10,6 +10,16 @@ time:
   - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
     locator: Drammens Tidende, 30.08.2005 (Rückblick)
     evidence_type: third_party
+  - document: document/2005-03-22-dagsavisen-jackie-leven-med-ian-rankin
+    locator: Dagsavisen, 22.03.2005, S. 24
+    quote: Jackie Leven med Ian Rankin
+    evidence_type: third_party
+  - document: document/2005-04-30-bygdeposten-working-class-hero-vorbericht
+    locator: Bygdeposten, 30.04.2005, S. 16
+    evidence_type: third_party
+  - document: document/2005-05-02-drammens-tidende-working-class-hero-bilanz
+    locator: Drammens Tidende, 02.05.2005, S. 45
+    evidence_type: third_party
 participants:
 - statement_id: st-4e447ff846b8
   agent_ref: person/jackie-leven
@@ -19,6 +29,16 @@ participants:
   references:
   - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
     locator: Drammens Tidende, 30.08.2005 (Rückblick)
+    evidence_type: third_party
+  - document: document/2005-03-22-dagsavisen-jackie-leven-med-ian-rankin
+    locator: Dagsavisen, 22.03.2005, S. 24
+    quote: Jackie Leven med Ian Rankin
+    evidence_type: third_party
+  - document: document/2005-04-30-bygdeposten-working-class-hero-vorbericht
+    locator: Bygdeposten, 30.04.2005, S. 16
+    evidence_type: third_party
+  - document: document/2005-05-02-drammens-tidende-working-class-hero-bilanz
+    locator: Drammens Tidende, 02.05.2005, S. 45
     evidence_type: third_party
 - statement_id: st-ac1db33c0afd
   agent_ref: person/eivind-kloverod
@@ -36,6 +56,19 @@ participants:
   - document: document/2005-08-30-drammens-tidende-kloverod-small-world-orchestra
     locator: Drammens Tidende, 30.08.2005 (Rückblick)
     evidence_type: third_party
+- statement_id: st-71d6a7817a5b
+  agent_ref: person/erland-evjen
+  roles:
+  - support_act
+  note: Laut Vorbericht spielt Evjen vor Leven; neben dem in anderer Quelle genannten Bent Bredesen Trio.
+  references:
+  - document: document/2005-04-30-bygdeposten-working-class-hero-vorbericht
+    locator: Bygdeposten, 30.04.2005, S. 16
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 performance_status:
 - statement_id: st-bbca0678e018
   status_value: took_place
@@ -44,6 +77,35 @@ performance_status:
     locator: Drammens Tidende, 30.08.2005 (Rückblick)
     quote: Jeg ble nok litt kjekk etter et par øl, og å gjøre dette er jo frekt egentlig.
     evidence_type: third_party
+  - document: document/2005-05-02-drammens-tidende-working-class-hero-bilanz
+    locator: Drammens Tidende, 02.05.2005, S. 45
+    evidence_type: third_party
+  note: Leven laut Festivalbilanz am Schlussabend aufgetreten.
+- statement_id: st-e0ad036e222b
+  status_value: announced
+  references:
+  - document: document/2005-03-22-dagsavisen-jackie-leven-med-ian-rankin
+    locator: Dagsavisen, 22.03.2005, S. 24
+    quote: Jackie Leven med Ian Rankin
+    evidence_type: third_party
+  - document: document/2005-04-30-bygdeposten-working-class-hero-vorbericht
+    locator: Bygdeposten, 30.04.2005, S. 16
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
+took_place_at:
+- statement_id: st-09e1e002dae9
+  entity_value: place/union-scene-drammen
+  references:
+  - document: document/2005-04-30-bygdeposten-working-class-hero-vorbericht
+    locator: Bygdeposten, 30.04.2005, S. 16
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

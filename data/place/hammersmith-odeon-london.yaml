@@ -1,0 +1,16 @@
+id: place/hammersmith-odeon-london
+type: Place
+label: Hammersmith Odeon
+place_type: venue
+located_in:
+- statement_id: st-01aaf6996f7d
+  entity_value: place/london
+  references:
+  - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
+    locator: Record Mirror, 08.12.1979
+    evidence_type: third_party
+    scope: Trennung von der Hawkwind-Tour nach dem Auftritt am Sonntag im Hammersmith Odeon.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

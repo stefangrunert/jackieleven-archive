@@ -1,0 +1,7 @@
+id: person/ralph-mctell
+type: Person
+label: Ralph McTell
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

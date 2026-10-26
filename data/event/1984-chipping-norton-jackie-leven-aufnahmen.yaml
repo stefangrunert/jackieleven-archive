@@ -1,0 +1,57 @@
+id: event/1984-chipping-norton-jackie-leven-aufnahmen
+type: Event
+label: Jackie Leven, Aufnahmen, Chipping Norton Studios (1984)
+event_type: recording_session
+time:
+- statement_id: st-228905934434
+  edtf_value: '1984'
+  note: Arbeit „in diesem Jahr“ laut Meldung vom 21.04.1984, also im ersten Quartal 1984 oder davor.
+  references:
+  - document: document/1984-04-21-music-week-studio-chipping-norton-jackie-leven
+    locator: Music Week, 21.04.1984, Studiorubrik
+    quote: new Charisma signing Jackie Leven with Barry Hammond engineering
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-7fe3b019d53e
+  entity_value: place/chipping-norton-studios
+  references:
+  - document: document/1984-04-21-music-week-studio-chipping-norton-jackie-leven
+    locator: Music Week, 21.04.1984, Studiorubrik
+    quote: new Charisma signing Jackie Leven with Barry Hammond engineering
+    evidence_type: third_party
+participants:
+- statement_id: st-3ec1752bf0fe
+  agent_ref: person/jackie-leven
+  roles:
+  - performer
+  references:
+  - document: document/1984-04-21-music-week-studio-chipping-norton-jackie-leven
+    locator: Music Week, 21.04.1984, Studiorubrik
+    quote: new Charisma signing Jackie Leven with Barry Hammond engineering
+    evidence_type: third_party
+- statement_id: st-5cd077ec0330
+  agent_ref: person/barry-hammond
+  roles:
+  - other
+  note: Toningenieur („engineering“).
+  references:
+  - document: document/1984-04-21-music-week-studio-chipping-norton-jackie-leven
+    locator: Music Week, 21.04.1984, Studiorubrik
+    quote: new Charisma signing Jackie Leven with Barry Hammond engineering
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
+performance_status:
+- statement_id: st-f33498f28181
+  status_value: took_place
+  references:
+  - document: document/1984-04-21-music-week-studio-chipping-norton-jackie-leven
+    locator: Music Week, 21.04.1984, Studiorubrik
+    quote: new Charisma signing Jackie Leven with Barry Hammond engineering
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

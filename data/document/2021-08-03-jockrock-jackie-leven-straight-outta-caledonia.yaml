@@ -1,0 +1,25 @@
+id: document/2021-08-03-jockrock-jackie-leven-straight-outta-caledonia
+type: Document
+label: 'jockrock, 03.08.2021: Jackie Leven – Legendary Fife singer-songwriter celebrated in new compilation
+  album'
+document_type: news
+language: en
+url: https://www.jockrock.org/this-week/jackie-leven/
+archive_url: https://web.archive.org/web/20250512020711/https://www.jockrock.org/this-week/jackie-leven/
+access: live
+note: 'Kopf: News Team (kein Klarname). Laut Quelldatei weitgehend aus einer Pressemitteilung des Labels
+  übernommen; Vorlage nicht benannt. Keine Konzertangaben.'
+about:
+- person/jackie-leven
+published:
+- statement_id: st-bbcba6ef1fc0
+  edtf_value: '2021-08-03'
+  references: []
+published_in:
+- statement_id: st-9a63873b34b0
+  entity_value: publication/jockrock
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

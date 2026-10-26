@@ -10,12 +10,18 @@ time:
   - document: document/2005-10-01-lofotposten-bla-leven
     locator: Lofotposten, 01.10.2005
     evidence_type: third_party
+  - document: document/2005-09-28-lofotposten-vorbericht-kabelvag
+    locator: Lofotposten, 28.09.2005, S. 31
+    evidence_type: third_party
 took_place_at:
 - statement_id: st-126c95606885
   entity_value: place/praestengbrygga-kabelvag
   references:
   - document: document/2005-10-01-lofotposten-bla-leven
     locator: Lofotposten, 01.10.2005
+    evidence_type: third_party
+  - document: document/2005-09-28-lofotposten-vorbericht-kabelvag
+    locator: Lofotposten, 28.09.2005, S. 31
     evidence_type: third_party
 participants:
 - statement_id: st-f71356b1c6d9
@@ -27,6 +33,9 @@ participants:
   - document: document/2005-10-01-lofotposten-bla-leven
     locator: Lofotposten, 01.10.2005
     evidence_type: third_party
+  - document: document/2005-09-28-lofotposten-vorbericht-kabelvag
+    locator: Lofotposten, 28.09.2005, S. 31
+    evidence_type: third_party
 - statement_id: st-98b0c2fbc57b
   agent_ref: group/hot-club-de-norvege
   roles:
@@ -34,6 +43,9 @@ participants:
   references:
   - document: document/2005-10-01-lofotposten-bla-leven
     locator: Lofotposten, 01.10.2005
+    evidence_type: third_party
+  - document: document/2005-09-28-lofotposten-vorbericht-kabelvag
+    locator: Lofotposten, 28.09.2005, S. 31
     evidence_type: third_party
 performance_status:
 - statement_id: st-dc38575f4ba1
@@ -43,6 +55,16 @@ performance_status:
     locator: Lofotposten, 01.10.2005
     quote: kanskje var Leven i blåeste laget torsdag kveld
     evidence_type: third_party
+- statement_id: st-fc1539472b99
+  status_value: announced
+  references:
+  - document: document/2005-09-28-lofotposten-vorbericht-kabelvag
+    locator: Lofotposten, 28.09.2005, S. 31
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

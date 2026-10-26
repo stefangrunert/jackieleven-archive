@@ -1,0 +1,45 @@
+id: event/1998-09-03-oslo-cafe-tamara
+type: Event
+label: Jackie Leven, Café Tamara, Oslo (1998-09-03)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-6c6a7e4396ec
+  edtf_value: '1998-09-03'
+  note: Do 03.09.1998 laut Meldung.
+  references:
+  - document: document/1998-09-02-dagsavisen-arbeiderbladet-leven-pa-tamara
+    locator: Dagsavisen Arbeiderbladet, 02.09.1998, S. 30
+    quote: Leven på Tamara
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-847692cfdbf9
+  entity_value: place/cafe-tamara-oslo
+  references:
+  - document: document/1998-09-02-dagsavisen-arbeiderbladet-leven-pa-tamara
+    locator: Dagsavisen Arbeiderbladet, 02.09.1998, S. 30
+    quote: Leven på Tamara
+    evidence_type: third_party
+participants:
+- statement_id: st-d9ba1c4b348e
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/1998-09-02-dagsavisen-arbeiderbladet-leven-pa-tamara
+    locator: Dagsavisen Arbeiderbladet, 02.09.1998, S. 30
+    quote: Leven på Tamara
+    evidence_type: third_party
+performance_status:
+- statement_id: st-5f689e9ba364
+  status_value: announced
+  references:
+  - document: document/1998-09-02-dagsavisen-arbeiderbladet-leven-pa-tamara
+    locator: Dagsavisen Arbeiderbladet, 02.09.1998, S. 30
+    quote: Leven på Tamara
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

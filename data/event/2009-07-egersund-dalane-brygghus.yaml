@@ -16,6 +16,9 @@ time:
   - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
     locator: Dalane Tidende, 21.04.2010 (Rückblick des Festivalleiters)
     evidence_type: third_party
+  - document: document/2009-07-01-dalane-tidende-visefestival-vorschau-kvassheim
+    locator: Dalane Tidende, 01.07.2009, S. 12
+    evidence_type: third_party
 took_place_at:
 - statement_id: st-b60d88ea7a12
   entity_value: place/dalane-brygghus-egersund
@@ -28,6 +31,9 @@ took_place_at:
     evidence_type: third_party
   - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
     locator: Dalane Tidende, 21.04.2010 (Rückblick des Festivalleiters)
+    evidence_type: third_party
+  - document: document/2009-03-23-dalane-tidende-visefestival-leven-dalane-brygghus
+    locator: Dalane Tidende, 23.03.2009, S. 3
     evidence_type: third_party
 participants:
 - statement_id: st-823609613aee
@@ -45,6 +51,30 @@ participants:
   - document: document/2010-04-21-dalane-tidende-jackie-leven-tilbake-i-egersund
     locator: Dalane Tidende, 21.04.2010 (Rückblick des Festivalleiters)
     evidence_type: third_party
+  - document: document/2009-03-23-dalane-tidende-visefestival-leven-dalane-brygghus
+    locator: Dalane Tidende, 23.03.2009, S. 3
+    evidence_type: third_party
+  - document: document/2009-04-24-dalane-tidende-visefestival-programmausblick
+    locator: Dalane Tidende, 24.04.2009, S. 12
+    evidence_type: third_party
+  - document: document/2009-06-19-dalane-tidende-visefestival-vorschau
+    locator: Dalane Tidende, 19.06.2009, S. 90, 91
+    evidence_type: third_party
+  - document: document/2009-07-01-dalane-tidende-visefestival-vorschau-kvassheim
+    locator: Dalane Tidende, 01.07.2009, S. 12
+    evidence_type: third_party
+- statement_id: st-ae3b4443111e
+  agent_ref: person/henning-feyling
+  roles:
+  - promoter
+  references:
+  - document: document/2009-03-23-dalane-tidende-visefestival-leven-dalane-brygghus
+    locator: Dalane Tidende, 23.03.2009, S. 3
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 performance_status:
 - statement_id: st-1333ca4f828c
   status_value: announced
@@ -52,6 +82,18 @@ performance_status:
   - document: document/2009-07-03-dalane-tidende-jackie-leven-dalane-brygghus
     locator: Dalane Tidende, 03.07.2009
     quote: En spesiell mann med en spesiell stemme og en høyst spesiell livshistorie.
+    evidence_type: third_party
+  - document: document/2009-03-23-dalane-tidende-visefestival-leven-dalane-brygghus
+    locator: Dalane Tidende, 23.03.2009, S. 3
+    evidence_type: third_party
+  - document: document/2009-04-24-dalane-tidende-visefestival-programmausblick
+    locator: Dalane Tidende, 24.04.2009, S. 12
+    evidence_type: third_party
+  - document: document/2009-06-19-dalane-tidende-visefestival-vorschau
+    locator: Dalane Tidende, 19.06.2009, S. 90, 91
+    evidence_type: third_party
+  - document: document/2009-07-01-dalane-tidende-visefestival-vorschau-kvassheim
+    locator: Dalane Tidende, 01.07.2009, S. 12
     evidence_type: third_party
 - statement_id: st-ee89f994dc55
   status_value: took_place

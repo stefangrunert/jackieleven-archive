@@ -1,0 +1,16 @@
+id: place/logo-hamburg
+type: Place
+label: Logo
+place_type: venue
+located_in:
+- statement_id: st-f895fb713142
+  entity_value: place/hamburg
+  references:
+  - document: document/1998-11-09-taz-soundcheck-taraf-de-haidouks-jackie-leven
+    locator: taz, 09.11.1998, Soundcheck
+    quote: Schwere Jahre hat der Mann hinter sich
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

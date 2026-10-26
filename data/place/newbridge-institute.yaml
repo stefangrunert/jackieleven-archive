@@ -1,0 +1,9 @@
+id: place/newbridge-institute
+type: Place
+label: Newbridge Institute
+place_type: venue
+note: Gwent; Ort nicht genannt.
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

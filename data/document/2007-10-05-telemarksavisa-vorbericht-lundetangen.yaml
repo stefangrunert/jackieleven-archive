@@ -1,0 +1,23 @@
+id: document/2007-10-05-telemarksavisa-vorbericht-lundetangen
+type: Document
+label: 'Telemarksavisa, 05.10.2007: Vorbericht Lundetangen Pub, Samstagscafé 06.10.2007'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_telemarksavisa_null_null_20071005_85_232_1
+access: live
+note: Pressetext, laut Sammeldatei wie im Varden-Vorbericht vom selben Tag. Inhalt nach der Fundstellenliste
+  der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2007-10-06-skien-lundetangen-pub
+published:
+- statement_id: st-166f448da9db
+  edtf_value: '2007-10-05'
+  references: []
+published_in:
+- statement_id: st-ed8b6c79969c
+  entity_value: publication/telemarksavisa
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

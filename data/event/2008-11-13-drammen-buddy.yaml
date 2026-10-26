@@ -10,12 +10,20 @@ time:
   - document: document/2008-11-14-drammens-tidende-en-bamseklem-av-en-konsert
     locator: Drammens Tidende, 14.11.2008
     evidence_type: third_party
+  - document: document/2008-11-13-drammens-tidende-lyttekonsert-pa-buddy
+    locator: Drammens Tidende, 13.11.2008, S. 38
+    quote: Lyttekonsert på Buddy
+    evidence_type: third_party
 took_place_at:
 - statement_id: st-e60ab082d966
   entity_value: place/buddy-drammen
   references:
   - document: document/2008-11-14-drammens-tidende-en-bamseklem-av-en-konsert
     locator: Drammens Tidende, 14.11.2008
+    evidence_type: third_party
+  - document: document/2008-11-13-drammens-tidende-lyttekonsert-pa-buddy
+    locator: Drammens Tidende, 13.11.2008, S. 38
+    quote: Lyttekonsert på Buddy
     evidence_type: third_party
 participants:
 - statement_id: st-9279bb8ee476
@@ -27,6 +35,10 @@ participants:
   - document: document/2008-11-14-drammens-tidende-en-bamseklem-av-en-konsert
     locator: Drammens Tidende, 14.11.2008
     evidence_type: third_party
+  - document: document/2008-11-13-drammens-tidende-lyttekonsert-pa-buddy
+    locator: Drammens Tidende, 13.11.2008, S. 38
+    quote: Lyttekonsert på Buddy
+    evidence_type: third_party
 performance_status:
 - statement_id: st-3a1f16cc924a
   status_value: took_place
@@ -36,6 +48,17 @@ performance_status:
     quote: «Another man's rain» fra fjorårets album «Oh what a blow that phantom dealt me» starter konserten
       på en glimrende måte.
     evidence_type: third_party
+- statement_id: st-5bd9bf6e11c6
+  status_value: announced
+  references:
+  - document: document/2008-11-13-drammens-tidende-lyttekonsert-pa-buddy
+    locator: Drammens Tidende, 13.11.2008, S. 38
+    quote: Lyttekonsert på Buddy
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

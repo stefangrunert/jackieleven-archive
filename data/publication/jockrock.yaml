@@ -1,0 +1,7 @@
+id: publication/jockrock
+type: Publication
+label: jockrock.org
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

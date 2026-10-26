@@ -1,0 +1,20 @@
+id: document/1996-under-dusken-konzertvorschau-veita-scene
+type: Document
+label: 'Under Dusken, 1996 Nr. 6: Konzertvorschau Veita Scene, Trondheim'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digitidsskrift_2023050880037_006
+access: live
+note: Heft ohne Tagesdatum (1996 Nr. 6). Studentenzeitung Trondheim.
+published:
+- statement_id: st-1386dd1d398d
+  edtf_value: '1996'
+  references: []
+published_in:
+- statement_id: st-7832a359e538
+  entity_value: publication/under-dusken
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

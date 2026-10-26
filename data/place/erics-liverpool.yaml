@@ -1,0 +1,15 @@
+id: place/erics-liverpool
+type: Place
+label: Eric's
+place_type: venue
+located_in:
+- statement_id: st-a7064c705ee2
+  entity_value: place/liverpool
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

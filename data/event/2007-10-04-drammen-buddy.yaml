@@ -10,12 +10,18 @@ time:
   - document: document/2007-09-24-drammens-tidende-jackie-pa-buddy
     locator: Drammens Tidende, 24.09.2007
     evidence_type: third_party
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
 took_place_at:
 - statement_id: st-859d6799964b
   entity_value: place/buddy-drammen
   references:
   - document: document/2007-09-24-drammens-tidende-jackie-pa-buddy
     locator: Drammens Tidende, 24.09.2007
+    evidence_type: third_party
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
     evidence_type: third_party
 participants:
 - statement_id: st-d9f9df4c5e9a
@@ -27,6 +33,9 @@ participants:
   - document: document/2007-09-24-drammens-tidende-jackie-pa-buddy
     locator: Drammens Tidende, 24.09.2007
     evidence_type: third_party
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
 performance_status:
 - statement_id: st-3dbcffe33586
   status_value: announced
@@ -34,7 +43,22 @@ performance_status:
   - document: document/2007-09-24-drammens-tidende-jackie-pa-buddy
     locator: Drammens Tidende, 24.09.2007
     evidence_type: third_party
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  note: Nur angekündigt; Durchführung nicht belegt.
 note: Nur angekündigt; Durchführung nicht belegt.
+part_of:
+- statement_id: st-502b712ba418
+  entity_value: event/2007-09-norwegen-tournee
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007, Terminliste
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

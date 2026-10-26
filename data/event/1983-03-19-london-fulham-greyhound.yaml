@@ -1,0 +1,52 @@
+id: event/1983-03-19-london-fulham-greyhound
+type: Event
+label: Jackie Leven, Fulham Greyhound, London (1983-03-19)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-7c3d8a7c5e4a
+  edtf_value: '1983-03-19'
+  note: 'Meldung: „this Saturday (19)“; Benefizveranstaltung für Muskeldystrophie-Forschung.'
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Forthcoming Visitors
+    quote: this Saturday (19)
+    evidence_type: third_party
+- statement_id: st-c55a00688778
+  edtf_value: '1983-03-20'
+  note: Anzeige im selben Heft nennt Sonntag, den 20. März, mit Ukraine, Eintritt zwei Pfund.
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Anzeige
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-3d378da0571d
+  entity_value: place/fulham-greyhound-london
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Forthcoming Visitors
+    quote: this Saturday (19)
+    evidence_type: third_party
+participants:
+- statement_id: st-ca55181ea820
+  agent_ref: group/jackie-leven-band-1983
+  roles:
+  - performer
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Forthcoming Visitors
+    quote: this Saturday (19)
+    evidence_type: third_party
+performance_status:
+- statement_id: st-8083ffd0739a
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1983-03-19-nme-bred-by-leven
+    locator: NME, 19.03.1983, Forthcoming Visitors
+    quote: this Saturday (19)
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

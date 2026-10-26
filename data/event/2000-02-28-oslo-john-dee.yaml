@@ -1,0 +1,65 @@
+id: event/2000-02-28-oslo-john-dee
+type: Event
+label: Jackie Leven, John Dee, Oslo (2000-02-28)
+event_type: concert
+note: 'Zusammengelegt mit dem früheren Monatsereignis „2000-02“ (nur aus dem Puls-Rückblick vom 28.11.2000
+  belegt: „im Februar schon im John Dee“); Ort und Zeitraum sind vereinbar. Die Monatsangabe bleibt als
+  eigene Zeitaussage. Der Tag 28.02. stammt aus der Ankündigung im Lofotposten vom 09.02.2000.'
+time:
+- statement_id: st-dab1bc9647e3
+  edtf_value: '2000-02-28'
+  references:
+  - document: document/2000-02-09-lofotposten-konsert-john-dee-oslo
+    locator: Lofotposten, 09.02.2000, S. 31
+    evidence_type: third_party
+    scope: Meldung zum Konzert am 28.02.2000
+- statement_id: st-e5ae82ab80ed
+  edtf_value: 2000-02
+  note: Nur als frühere Station erwähnt („im Februar schon im John Dee“); Tag nicht genannt.
+  references:
+  - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
+    locator: Puls, 28.11.2000 (Rückblick)
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-cde15a96cb97
+  entity_value: place/john-dee-oslo
+  references:
+  - document: document/2000-02-09-lofotposten-konsert-john-dee-oslo
+    locator: Lofotposten, 09.02.2000, S. 31
+    evidence_type: third_party
+    scope: Meldung zum Konzert am 28.02.2000
+  - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
+    locator: Puls, 28.11.2000 (Rückblick)
+    evidence_type: third_party
+participants:
+- statement_id: st-f71a5476e288
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2000-02-09-lofotposten-konsert-john-dee-oslo
+    locator: Lofotposten, 09.02.2000, S. 31
+    evidence_type: third_party
+    scope: Meldung zum Konzert am 28.02.2000
+  - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
+    locator: Puls, 28.11.2000 (Rückblick)
+    evidence_type: third_party
+performance_status:
+- statement_id: st-8835cc6f1ce6
+  status_value: announced
+  references:
+  - document: document/2000-02-09-lofotposten-konsert-john-dee-oslo
+    locator: Lofotposten, 09.02.2000, S. 31
+    evidence_type: third_party
+    scope: Meldung zum Konzert am 28.02.2000
+- statement_id: st-75e9091604bf
+  status_value: took_place
+  references:
+  - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
+    locator: Puls, 28.11.2000 (Rückblick)
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

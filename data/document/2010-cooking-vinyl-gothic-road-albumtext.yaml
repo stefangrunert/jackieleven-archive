@@ -1,0 +1,25 @@
+id: document/2010-cooking-vinyl-gothic-road-albumtext
+type: Document
+label: 'Cooking Vinyl, 2010: Künstlerseite mit Albumtext Gothic Road und Tourplan Oktober 2011'
+document_type: press_release
+language: en
+url: http://cookingvinyl.com/artists/jackie-leven/
+archive_url: https://web.archive.org/web/20110719121333/http://cookingvinyl.com/artists/jackie-leven/
+access: archive
+note: 'Labeltext ohne Zeichnung. Unter dem Text steht ein Tourplan für Oktober 2011 (genannte Orte: Manchester,
+  Hebden Bridge, York, Wavendon, Bristol, Derby, Birmingham, später Glasgow); Termine und Spielstätten
+  stehen in der Quelldatei nicht.'
+about:
+- person/jackie-leven
+published:
+- statement_id: st-0fc3b39fae20
+  edtf_value: '2010'
+  references: []
+published_in:
+- statement_id: st-5fb620d3e9b1
+  entity_value: publication/cooking-vinyl
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

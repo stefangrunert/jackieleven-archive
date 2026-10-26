@@ -1,0 +1,7 @@
+id: publication/the-list
+type: Publication
+label: The List
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

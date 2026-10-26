@@ -1,0 +1,23 @@
+id: document/2009-04-24-dalane-tidende-visefestival-programmausblick
+type: Document
+label: 'Dalane Tidende, 24.04.2009: Visefestival-Programmausblick mit Leven'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_dalanetidende_null_null_20090424_125_47_1
+access: live
+note: Der Autor sah Leven nach eigener Angabe „sju-åtte ganger“ live. Inhalt nach der Fundstellenliste
+  der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2009-07-egersund-dalane-brygghus
+published:
+- statement_id: st-7b75c6116110
+  edtf_value: '2009-04-24'
+  references: []
+published_in:
+- statement_id: st-075f42f997df
+  entity_value: publication/dalane-tidende
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

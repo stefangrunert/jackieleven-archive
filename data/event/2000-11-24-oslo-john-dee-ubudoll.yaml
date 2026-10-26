@@ -10,6 +10,10 @@ time:
   - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
     locator: Puls, 28.11.2000
     evidence_type: inferred
+  - document: document/2000-10-10-dagsavisen-dobbel-kult-ubudoll
+    locator: Dagsavisen, 10.10.2000, S. 24
+    evidence_type: third_party
+    scope: 'Kurzmeldung: Thomas/Leven in Oslo am 24.11.2000 (Lokal in der Auswertung nicht genannt)'
 took_place_at:
 - statement_id: st-31021727ef39
   entity_value: place/john-dee-oslo
@@ -35,6 +39,10 @@ participants:
   - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
     locator: Puls, 28.11.2000
     evidence_type: third_party
+  - document: document/2000-10-10-dagsavisen-dobbel-kult-ubudoll
+    locator: Dagsavisen, 10.10.2000, S. 24
+    evidence_type: third_party
+    scope: 'Kurzmeldung: Thomas/Leven in Oslo am 24.11.2000 (Lokal in der Auswertung nicht genannt)'
 - statement_id: st-d721d588d569
   agent_ref: person/david-thomas
   roles:
@@ -44,6 +52,10 @@ participants:
   - document: document/2000-11-28-puls-ubudoll-nerve-humor-og-enkelhet
     locator: Puls, 28.11.2000
     evidence_type: third_party
+  - document: document/2000-10-10-dagsavisen-dobbel-kult-ubudoll
+    locator: Dagsavisen, 10.10.2000, S. 24
+    evidence_type: third_party
+    scope: 'Kurzmeldung: Thomas/Leven in Oslo am 24.11.2000 (Lokal in der Auswertung nicht genannt)'
 performance_status:
 - statement_id: st-8e4dceeb4f2e
   status_value: took_place
@@ -52,6 +64,17 @@ performance_status:
     locator: Puls, 28.11.2000
     quote: Fellesnevnere for konserten var nerve, humor og enkelhet.
     evidence_type: third_party
+- statement_id: st-d384ac89f718
+  status_value: announced
+  references:
+  - document: document/2000-10-10-dagsavisen-dobbel-kult-ubudoll
+    locator: Dagsavisen, 10.10.2000, S. 24
+    evidence_type: third_party
+    scope: 'Kurzmeldung: Thomas/Leven in Oslo am 24.11.2000 (Lokal in der Auswertung nicht genannt)'
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

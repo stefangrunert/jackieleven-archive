@@ -1,0 +1,24 @@
+id: document/1981-10-03-record-mirror-tour-by-doll-line-up-change
+type: Document
+label: 'Record Mirror, 03.10.1981: Tour by Doll (Besetzungswechsel)'
+document_type: news
+language: en
+url: https://www.worldradiohistory.com/UK/Record-Mirror/80s/81/Record-Mirror-1981-10-03.pdf
+access: live
+note: OCR sehr fehlerhaft; der Bassist ist als „John Read“ geschrieben (anderweitig John Reid).
+about:
+- group/doll-by-doll
+- person/andy-anderson
+- person/john-read
+published:
+- statement_id: st-4c3e9d2a6309
+  edtf_value: '1981-10-03'
+  references: []
+published_in:
+- statement_id: st-e8dd02e809b7
+  entity_value: publication/record-mirror
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

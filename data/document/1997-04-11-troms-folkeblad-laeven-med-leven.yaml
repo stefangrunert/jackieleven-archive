@@ -1,0 +1,25 @@
+id: document/1997-04-11-troms-folkeblad-laeven-med-leven
+type: Document
+label: 'Troms Folkeblad, 11.04.1997: Vorbericht „«Læven» med Leven“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromsfolkeblad_null_null_19970411_33_80_1
+access: live
+participants:
+- statement_id: st-6ac849347edd
+  agent_ref: person/ronny-traelvik
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-fea0a6199284
+  edtf_value: '1997-04-11'
+  references: []
+published_in:
+- statement_id: st-2831838b41a4
+  entity_value: publication/troms-folkeblad
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

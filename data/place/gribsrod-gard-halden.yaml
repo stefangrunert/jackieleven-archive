@@ -1,0 +1,17 @@
+id: place/gribsrod-gard-halden
+type: Place
+label: Gribsrød gård
+place_type: venue
+note: Ortszuordnung nach der Sammeldatei (Gribsrød gård bei Halden, Enningdalen); der Wortlaut der Fundstelle
+  wurde nicht geprüft.
+located_in:
+- statement_id: st-6fbd2f16f294
+  entity_value: place/halden
+  references:
+  - document: document/2007-07-16-halden-arbeiderblad-down-on-the-farm-campfire-stage
+    locator: Halden Arbeiderblad, 16.07.2007, S. 26
+    evidence_type: inferred
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

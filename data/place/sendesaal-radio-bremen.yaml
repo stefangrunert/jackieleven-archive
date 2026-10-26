@@ -1,0 +1,15 @@
+id: place/sendesaal-radio-bremen
+type: Place
+label: Sendesaal Radio Bremen
+place_type: venue
+located_in:
+- statement_id: st-aa924a2b1bb9
+  entity_value: place/bremen
+  references:
+  - document: document/undatiert-glitterhouse-mailorder-jackie-leven-katalogtexte
+    locator: Artikel Live Or Die (Katalogtext)
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

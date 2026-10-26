@@ -1,0 +1,37 @@
+id: event/1979-03-tour-fruehjahr-doll-by-doll
+type: Event
+label: Doll by Doll, Tour Frühjahr 1979
+event_type: tour
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-9b7bb1b3cb1e
+  edtf_value: 1979-03-30/1979-04-21
+  note: Termine vom 30. März bis 21. April 1979 laut Meldung.
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    quote: begin an extensive tour this month
+    evidence_type: third_party
+participants:
+- statement_id: st-d0e4535b0cec
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    quote: begin an extensive tour this month
+    evidence_type: third_party
+performance_status:
+- statement_id: st-bcd9dcc4bb47
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1979-03-31-record-mirror-doll-by-doll-tour-fruehjahr-1979
+    locator: Record Mirror, 31.03.1979, Tourmeldung
+    quote: begin an extensive tour this month
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

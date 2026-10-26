@@ -11,12 +11,25 @@ time:
   - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
+  - document: document/1997-08-28-bergensavisen-lager-plate-i-bergen
+    locator: Bergensavisen, 28.08.1997
+    evidence_type: third_party
+    scope: Konzert „am nächsten Abend“ angekündigt.
+  - document: document/1997-08-29-bergensavisen-tagestipp-doll-by-doll-garage
+    locator: Bergensavisen, 29.08.1997, S. 38
+    evidence_type: third_party
 took_place_at:
 - statement_id: st-eb99b120422b
   entity_value: place/garage-bergen
   references:
   - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
     locator: Bergensavisen, 31.08.1997
+    evidence_type: third_party
+  - document: document/1997-08-28-bergensavisen-lager-plate-i-bergen
+    locator: Bergensavisen, 28.08.1997
+    evidence_type: third_party
+  - document: document/1997-08-29-bergensavisen-tagestipp-doll-by-doll-garage
+    locator: Bergensavisen, 29.08.1997, S. 38
     evidence_type: third_party
 participants:
 - statement_id: st-ab12541b3c67
@@ -27,6 +40,13 @@ participants:
   - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
+  - document: document/1997-08-28-bergensavisen-lager-plate-i-bergen
+    locator: Bergensavisen, 28.08.1997
+    quote: Konserten på Garage blir deres første sammen på nesten 15 år
+    evidence_type: third_party
+  - document: document/1997-08-29-bergensavisen-tagestipp-doll-by-doll-garage
+    locator: Bergensavisen, 29.08.1997, S. 38
+    evidence_type: third_party
 - statement_id: st-5d3175014592
   agent_ref: person/jackie-leven
   roles:
@@ -35,6 +55,9 @@ participants:
   references:
   - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
     locator: Bergensavisen, 31.08.1997
+    evidence_type: third_party
+  - document: document/1997-08-28-bergensavisen-lager-plate-i-bergen
+    locator: Bergensavisen, 28.08.1997
     evidence_type: third_party
 - statement_id: st-9d184b74afae
   agent_ref: person/jo-shaw
@@ -46,6 +69,9 @@ participants:
   - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
+  - document: document/1997-08-28-bergensavisen-lager-plate-i-bergen
+    locator: Bergensavisen, 28.08.1997
+    evidence_type: third_party
 - statement_id: st-6f24a003aa85
   agent_ref: person/kevin-foster
   roles:
@@ -54,6 +80,9 @@ participants:
   references:
   - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
     locator: Bergensavisen, 31.08.1997
+    evidence_type: third_party
+  - document: document/1997-08-28-bergensavisen-lager-plate-i-bergen
+    locator: Bergensavisen, 28.08.1997
     evidence_type: third_party
 - statement_id: st-1d544751f78e
   agent_ref: person/dave-mcintosh
@@ -65,6 +94,23 @@ participants:
   - document: document/1997-08-31-bergensavisen-dukker-i-fint-driv
     locator: Bergensavisen, 31.08.1997
     evidence_type: third_party
+  - document: document/1997-08-28-bergensavisen-lager-plate-i-bergen
+    locator: Bergensavisen, 28.08.1997
+    evidence_type: third_party
+- statement_id: st-8c6be61ec0d6
+  agent_ref: person/pytten
+  roles:
+  - producer
+  credited_as: Pytten
+  references:
+  - document: document/1997-08-28-bergensavisen-lager-plate-i-bergen
+    locator: Bergensavisen, 28.08.1997
+    evidence_type: third_party
+    scope: Produzent des geplanten Mitschnitts für eine Live-CD.
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 performance_status:
 - statement_id: st-aa143fd3c2a6
   status_value: took_place
@@ -74,6 +120,17 @@ performance_status:
     quote: Vi er fire «living dolls», fleipet Jackie Leven da Doll By Doll holdt sin første konsert på
       15 år på Garage i går.
     evidence_type: third_party
+- statement_id: st-6dc465952906
+  status_value: announced
+  references:
+  - document: document/1997-08-28-bergensavisen-lager-plate-i-bergen
+    locator: Bergensavisen, 28.08.1997
+    quote: Konserten på Garage blir deres første sammen på nesten 15 år
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 recorded_by:
   agent: claude-code
   model: claude-sonnet-5-5

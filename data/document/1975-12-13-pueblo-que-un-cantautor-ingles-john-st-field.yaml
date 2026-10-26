@@ -1,0 +1,22 @@
+id: document/1975-12-13-pueblo-que-un-cantautor-ingles-john-st-field
+type: Document
+label: 'Pueblo, 13.12.1975: Musikkolumne mit Glosse zu John St. Field'
+document_type: column
+language: es
+url: https://prensahistorica.mcu.es/es/catalogo_imagenes/grupo.do?path=711259&idImagen=2012563022
+access: live
+note: Glosse in einer Musikseite (Heft Nr. 11284, S. 29); nennt keine Plattenfirma.
+about:
+- persona/john-st-field
+published:
+- statement_id: st-dc4deed9156a
+  edtf_value: '1975-12-13'
+  references: []
+published_in:
+- statement_id: st-f561b06198c1
+  entity_value: publication/pueblo
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

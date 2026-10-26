@@ -1,0 +1,50 @@
+id: event/1980-us-tour-doll-by-doll
+type: Event
+label: Doll by Doll, USA-Tour 1980
+event_type: tour
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-ea22d3eb7fbe
+  edtf_value: 1980-06
+  note: Anfang Juni geplant laut Sounds; Record Mirror (28.06.1980) nennt August.
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+    scope: Reise in die USA für Anfang Juni angekündigt.
+- statement_id: st-ab8188810194
+  edtf_value: 1980-08
+  note: Laut Record Mirror im August.
+  references:
+  - document: document/1980-06-28-record-mirror-doll-by-doll-new-record-deal
+    locator: Record Mirror, 28.06.1980, Tourdaten
+    quote: a lengthy Stateside tour in August
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
+participants:
+- statement_id: st-4f8d495e19ef
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+performance_status:
+- statement_id: st-b41fadced017
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+  - document: document/1980-06-28-record-mirror-doll-by-doll-new-record-deal
+    locator: Record Mirror, 28.06.1980, Tourdaten
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

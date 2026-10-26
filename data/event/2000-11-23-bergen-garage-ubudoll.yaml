@@ -12,6 +12,10 @@ time:
   - document: document/2000-11-25-bergensavisen-trivelig-pa-garage
     locator: Bergensavisen, 25.11.2000
     evidence_type: third_party
+  - document: document/2000-10-10-dagsavisen-dobbel-kult-ubudoll
+    locator: Dagsavisen, 10.10.2000, S. 24
+    evidence_type: third_party
+    scope: 'Kurzmeldung: Thomas/Leven in Bergen am 23.11.2000 (Lokal in der Auswertung nicht genannt)'
 took_place_at:
 - statement_id: st-1dec6e70fc5a
   entity_value: place/garage-bergen
@@ -46,6 +50,10 @@ participants:
   - document: document/2000-11-25-bergensavisen-trivelig-pa-garage
     locator: Bergensavisen, 25.11.2000
     evidence_type: third_party
+  - document: document/2000-10-10-dagsavisen-dobbel-kult-ubudoll
+    locator: Dagsavisen, 10.10.2000, S. 24
+    evidence_type: third_party
+    scope: 'Kurzmeldung: Thomas/Leven in Bergen am 23.11.2000 (Lokal in der Auswertung nicht genannt)'
 - statement_id: st-37f0a7bec7ca
   agent_ref: person/david-thomas
   roles:
@@ -59,6 +67,10 @@ participants:
   - document: document/2000-11-25-bergensavisen-trivelig-pa-garage
     locator: Bergensavisen, 25.11.2000
     evidence_type: third_party
+  - document: document/2000-10-10-dagsavisen-dobbel-kult-ubudoll
+    locator: Dagsavisen, 10.10.2000, S. 24
+    evidence_type: third_party
+    scope: 'Kurzmeldung: Thomas/Leven in Bergen am 23.11.2000 (Lokal in der Auswertung nicht genannt)'
 performance_status:
 - statement_id: st-b572c11eda8c
   status_value: announced
@@ -67,6 +79,10 @@ performance_status:
     locator: Bergensavisen, 29.09.2000
     quote: en happening med vokal, gitarer og trekkspill
     evidence_type: third_party
+  - document: document/2000-10-10-dagsavisen-dobbel-kult-ubudoll
+    locator: Dagsavisen, 10.10.2000, S. 24
+    evidence_type: third_party
+    scope: 'Kurzmeldung: Thomas/Leven in Bergen am 23.11.2000 (Lokal in der Auswertung nicht genannt)'
 - statement_id: st-0be2683644ba
   status_value: took_place
   references:

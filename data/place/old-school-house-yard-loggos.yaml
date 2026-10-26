@@ -1,0 +1,16 @@
+id: place/old-school-house-yard-loggos
+type: Place
+label: Old School House Yard, Loggos
+place_type: venue
+located_in:
+- statement_id: st-c30f40732770
+  entity_value: place/paxos
+  references:
+  - document: document/2022-06-23-paxos-festival-the-songs-of-jackie-leven
+    locator: Ankündigungstext
+    quote: The Songs of Jackie Leven
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,19 @@
+id: document/1997-04-01-rogalands-avis-jackie-leven-til-sting
+type: Document
+label: 'Rogalands Avis, 01.04.1997: Vorbericht „Jackie Leven til Sting“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_rogalandsavis_null_null_19970401_99_74_1
+access: live
+published:
+- statement_id: st-0d1e29d826cd
+  edtf_value: '1997-04-01'
+  references: []
+published_in:
+- statement_id: st-5ce99241a235
+  entity_value: publication/rogalands-avis
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

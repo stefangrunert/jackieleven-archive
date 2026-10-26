@@ -1,0 +1,25 @@
+id: document/1997-04-08-troms-folkeblad-leven-pa-sumaloftet
+type: Document
+label: 'Troms Folkeblad, 08.04.1997: Vorbericht „Leven på Sumaloftet“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_tromsfolkeblad_null_null_19970408_33_77_1
+access: live
+participants:
+- statement_id: st-04c919bcddff
+  agent_ref: person/svein-kare-pettersen
+  roles:
+  - author
+  references: []
+published:
+- statement_id: st-c038b2e88dd3
+  edtf_value: '1997-04-08'
+  references: []
+published_in:
+- statement_id: st-4759a14160a0
+  entity_value: publication/troms-folkeblad
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,30 @@
+id: document/2024-04-18-rocktimes-jackie-leven-live-in-bremen-angekuendigt
+type: Document
+label: 'RockTimes, 18.04.2024: Jackie Leven live in Bremen 1994 & 2004 (angekündigt)'
+document_type: news
+language: de
+url: https://www.rocktimes.info/jackie-leven-live-in-bremen-1994-2004/
+access: live
+note: Autorkürzel „mk“; Klarname (Markus Kerren) laut Quelldatei. Jahreszahlen schwanken im Text (1994/1995/1999);
+  der Fließtext nennt 1999 und 2004.
+about:
+- person/jackie-leven
+participants:
+- statement_id: st-9a2af7cbcbde
+  agent_ref: person/markus-kerren
+  roles:
+  - author
+  credited_as: mk
+  references: []
+published:
+- statement_id: st-044d62e0861d
+  edtf_value: '2024-04-18'
+  references: []
+published_in:
+- statement_id: st-1afae4eff2ff
+  entity_value: publication/rocktimes
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

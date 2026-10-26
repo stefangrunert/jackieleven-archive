@@ -1,0 +1,24 @@
+id: document/2005-03-22-dagsavisen-jackie-leven-med-ian-rankin
+type: Document
+label: 'Dagsavisen, 22.03.2005: Kurzmeldung Jackie Leven med Ian Rankin'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_dagsavisen_null_null_20050322_121_80_1
+access: live
+note: Meldung zu Jackie Leven Said; nennt Konzerttermine in Drammen (1.5.) und Bergen (6.5., mit David
+  Thomas).
+about:
+- event/2005-05-01-working-class-hero-festival
+- event/2005-05-06-bergen-bergenfest
+published:
+- statement_id: st-801082ac75c5
+  edtf_value: '2005-03-22'
+  references: []
+published_in:
+- statement_id: st-a457ed8a53b0
+  entity_value: publication/dagsavisen
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

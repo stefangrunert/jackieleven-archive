@@ -1,0 +1,15 @@
+id: place/trinity-college-dublin
+type: Place
+label: Trinity College
+place_type: venue
+located_in:
+- statement_id: st-f89192c35c1b
+  entity_value: place/dublin
+  references:
+  - document: document/1980-02-02-record-mirror-doll-dates
+    locator: Record Mirror, 02.02.1980, Tourmeldung
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

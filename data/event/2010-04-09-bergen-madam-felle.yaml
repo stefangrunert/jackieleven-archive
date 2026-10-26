@@ -1,0 +1,45 @@
+id: event/2010-04-09-bergen-madam-felle
+type: Event
+label: Jackie Leven, Madam Felle, Bergen (2010-04-09)
+event_type: concert
+time:
+- statement_id: st-79f4f0252f45
+  edtf_value: '2010-04-09'
+  certainty: probable
+  note: Jahr aus Wochentag (Freitag) und Album Gothic Road erschlossen; die Seite selbst ist falsch datiert.
+  references:
+  - document: document/2010-03-bergen-sentrum-jackie-leven-pa-madam-felle-9-april
+    locator: Überschrift
+    quote: Jackie Leven på Madam Felle 9. april
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-cf0b999d41d2
+  entity_value: place/madam-felle-bergen
+  references:
+  - document: document/2010-03-bergen-sentrum-jackie-leven-pa-madam-felle-9-april
+    locator: Überschrift
+    quote: Jackie Leven på Madam Felle 9. april
+    evidence_type: third_party
+participants:
+- statement_id: st-cb0947a73837
+  agent_ref: person/jackie-leven
+  roles:
+  - performer
+  references:
+  - document: document/2010-03-bergen-sentrum-jackie-leven-pa-madam-felle-9-april
+    locator: Überschrift
+    quote: Jackie Leven på Madam Felle 9. april
+    evidence_type: third_party
+performance_status:
+- statement_id: st-f59e23d85acd
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2010-03-bergen-sentrum-jackie-leven-pa-madam-felle-9-april
+    locator: Überschrift
+    quote: Jackie Leven på Madam Felle 9. april
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

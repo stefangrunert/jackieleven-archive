@@ -1,0 +1,23 @@
+id: document/1980-05-10-sounds-doll-by-doll-without-label
+type: Document
+label: 'Sounds, 10.05.1980: Doll by Doll ohne Plattenfirma, Tourdaten Mai 1980'
+document_type: news
+language: en
+url: https://www.worldradiohistory.com/UK/Sounds/80s/80/Sounds-1980-05-10.pdf
+access: live
+about:
+- group/doll-by-doll
+- organization/automatic-records
+- person/nick-mobbs
+published:
+- statement_id: st-194338ce4453
+  edtf_value: '1980-05-10'
+  references: []
+published_in:
+- statement_id: st-0fd1c3615a41
+  entity_value: publication/sounds
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

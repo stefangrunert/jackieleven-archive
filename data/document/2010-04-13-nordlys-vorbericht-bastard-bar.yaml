@@ -1,0 +1,24 @@
+id: document/2010-04-13-nordlys-vorbericht-bastard-bar
+type: Document
+label: 'Nordlys, 13.04.2010: Vorbericht Bastard Bar Tromsø, 14.04.2010'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlys_null_null_20100413_109_84_1
+access: live
+note: Veranstalter Egon Holstad; erwähnt laut Sammeldatei den Madrugada-Support, bei dem Sivert Høyem
+  Leven ausgewählt habe (Jahr 2009 laut Sammeldatei). Inhalt nach der Fundstellenliste der Sammeldatei;
+  Volltext nicht gesichtet.
+about:
+- event/2010-04-14-tromso-bastard-bar
+published:
+- statement_id: st-b8b07c3e340e
+  edtf_value: '2010-04-13'
+  references: []
+published_in:
+- statement_id: st-13ee5037a482
+  entity_value: publication/nordlys
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

@@ -1,0 +1,31 @@
+id: document/2011-11-jackie-leven-com-jackie-leven-1950-2011-memorial
+type: Document
+label: 'jackie-leven.com, 2011-11: Jackie Leven, 1950-2011 (Gedenk- und Spendenseite)'
+document_type: obituary
+language: en
+url: http://www.jackie-leven.com/
+archive_url: https://web.archive.org/web/20111120145457/http://www.jackie-leven.com:80/
+access: archive
+note: Spendenaufruf für ein kleines Denkmal. Unterzeichnet nur mit „Deborah“; die Gleichsetzung mit Deborah
+  Greenwood folgt dem Kopf der Quelldatei. Spätestens 17.11.2011 (gleicher Aufruf bei Cooking Vinyl).
+about:
+- person/jackie-leven
+participants:
+- statement_id: st-bd540d761db6
+  agent_ref: person/deborah-greenwood
+  roles:
+  - author
+  credited_as: Deborah
+  references: []
+published:
+- statement_id: st-1e5974eacab2
+  edtf_value: 2011-11
+  references: []
+published_in:
+- statement_id: st-2dde57bcb9d0
+  entity_value: publication/jackie-leven-com
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

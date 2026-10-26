@@ -1,0 +1,22 @@
+id: document/2007-09-28-rogalands-avis-anzeige-cementen
+type: Document
+label: 'Rogalands Avis, 28.09.2007: Anzeige Cementen Scene, Stavanger, Freitag 05.10.2007, 22.00'
+document_type: calendar
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_rogalandsavis_null_null_20070928_109_263_1
+access: live
+note: Inhalt nach der Fundstellenliste der Sammeldatei; Volltext nicht gesichtet.
+about:
+- event/2007-10-05-stavanger-cementen
+published:
+- statement_id: st-e03ec48d9b8b
+  edtf_value: '2007-09-28'
+  references: []
+published_in:
+- statement_id: st-6f6523fd8666
+  entity_value: publication/rogalands-avis
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

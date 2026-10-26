@@ -1,0 +1,15 @@
+id: place/bonn-harmonie
+type: Place
+label: Harmonie
+place_type: venue
+located_in:
+- statement_id: st-3ac64143951a
+  entity_value: place/bonn
+  references:
+  - document: document/undatiert-glitterhouse-mailorder-jackie-leven-katalogtexte
+    locator: Artikel Live At Rockpalast 2004 (Katalogtext)
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

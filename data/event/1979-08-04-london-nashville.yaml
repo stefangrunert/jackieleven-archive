@@ -1,0 +1,53 @@
+id: event/1979-08-04-london-nashville
+type: Event
+label: Doll by Doll, Nashville, London (1979-08-04)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-1f9f93166fb3
+  edtf_value: '1979-08-04'
+  references:
+  - document: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
+    locator: Record Mirror, 28.07.1979, S. 4
+    quote: plays his debut with the band at the Nashville on August 4
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-a3199cc4c6a1
+  entity_value: place/nashville-london
+  references:
+  - document: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
+    locator: Record Mirror, 28.07.1979, S. 4
+    quote: plays his debut with the band at the Nashville on August 4
+    evidence_type: third_party
+participants:
+- statement_id: st-a7b6a98124b0
+  agent_ref: group/doll-by-doll
+  roles:
+  - performer
+  references:
+  - document: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
+    locator: Record Mirror, 28.07.1979, S. 4
+    quote: plays his debut with the band at the Nashville on August 4
+    evidence_type: third_party
+- statement_id: st-4fcb5b67808b
+  agent_ref: person/nick-whiffen
+  roles:
+  - bass
+  references:
+  - document: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
+    locator: Record Mirror, 28.07.1979, S. 4
+    quote: plays his debut with the band at the Nashville on August 4
+    evidence_type: third_party
+performance_status:
+- statement_id: st-c0a6454dd7c0
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
+    locator: Record Mirror, 28.07.1979, S. 4
+    quote: plays his debut with the band at the Nashville on August 4
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

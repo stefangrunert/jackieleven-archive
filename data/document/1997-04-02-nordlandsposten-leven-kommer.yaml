@@ -1,0 +1,20 @@
+id: document/1997-04-02-nordlandsposten-leven-kommer
+type: Document
+label: 'Nordlandsposten, 02.04.1997: Meldung „Leven kommer“'
+document_type: news
+language: 'no'
+url: https://urn.nb.no/URN:NBN:no-nb_digavis_nordlandsposten_null_null_19970402_135_74_1
+access: live
+note: Den Siste Glæde, So 13.04.1997, solo.
+published:
+- statement_id: st-15b2a006abb3
+  edtf_value: '1997-04-02'
+  references: []
+published_in:
+- statement_id: st-b354f8f1ba06
+  entity_value: publication/nordlandsposten
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

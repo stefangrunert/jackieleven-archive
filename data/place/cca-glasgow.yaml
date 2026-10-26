@@ -1,0 +1,15 @@
+id: place/cca-glasgow
+type: Place
+label: CCA Glasgow (Centre for Contemporary Arts)
+place_type: venue
+located_in:
+- statement_id: st-85b118075064
+  entity_value: place/glasgow
+  references:
+  - document: document/2019-12-07-cca-glasgow-leventime-a-celebration-of-jackie-leven
+    locator: Programmtext
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

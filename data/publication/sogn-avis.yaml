@@ -1,0 +1,7 @@
+id: publication/sogn-avis
+type: Publication
+label: Sogn Avis
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

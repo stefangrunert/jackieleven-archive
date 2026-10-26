@@ -1,0 +1,26 @@
+id: document/1980-10-13-record-business-doll-by-doll-sign-to-magnet
+type: Document
+label: 'Record Business, 13.10.1980: Doll by Doll unterschreiben bei Magnet Records (Bildmeldung)'
+document_type: news
+language: en
+url: https://www.worldradiohistory.com/UK/Record-Business/1980/Record-Business-1980-10-13.pdf
+access: live
+note: Bildmeldung; abgebildet sind Dave McIntosh, Jo Shaw, Bruce Williamson, Michael Levy (Magnet), Jackie
+  Leven und Tony Waite.
+about:
+- group/doll-by-doll
+- organization/magnet-records
+- person/michael-levy
+- person/bruce-williamson
+published:
+- statement_id: st-8c3f55673c22
+  edtf_value: '1980-10-13'
+  references: []
+published_in:
+- statement_id: st-ded379fc169e
+  entity_value: publication/record-business
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

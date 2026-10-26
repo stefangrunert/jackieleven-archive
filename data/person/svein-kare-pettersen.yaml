@@ -1,0 +1,7 @@
+id: person/svein-kare-pettersen
+type: Person
+label: Svein Kåre Pettersen
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

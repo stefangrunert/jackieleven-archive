@@ -1,0 +1,45 @@
+id: event/2005-09-28-tromso-bla-rock-cafe
+type: Event
+label: Jackie Leven, Blå Rock Café, Tromsø (2005-09-28)
+event_type: concert
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-e0061203235b
+  edtf_value: '2005-09-28'
+  references:
+  - document: document/2005-09-28-bladet-tromso-leven-pa-bla-rock
+    locator: Bladet Tromsø, 28.09.2005
+    quote: En kveld med Jackie Leven på scenen er en stor opplevelse
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-bdfd7232efc6
+  entity_value: place/bla-rock-cafe-tromso
+  references:
+  - document: document/2005-09-28-bladet-tromso-leven-pa-bla-rock
+    locator: Bladet Tromsø, 28.09.2005
+    quote: En kveld med Jackie Leven på scenen er en stor opplevelse
+    evidence_type: third_party
+participants:
+- statement_id: st-a57c988e2dcd
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2005-09-28-bladet-tromso-leven-pa-bla-rock
+    locator: Bladet Tromsø, 28.09.2005
+    quote: En kveld med Jackie Leven på scenen er en stor opplevelse
+    evidence_type: third_party
+performance_status:
+- statement_id: st-daf0c893d8f8
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2005-09-28-bladet-tromso-leven-pa-bla-rock
+    locator: Bladet Tromsø, 28.09.2005
+    quote: En kveld med Jackie Leven på scenen er en stor opplevelse
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

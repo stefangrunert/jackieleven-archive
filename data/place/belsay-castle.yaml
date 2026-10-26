@@ -1,0 +1,15 @@
+id: place/belsay-castle
+type: Place
+label: Belsay Castle
+place_type: venue
+located_in:
+- statement_id: st-347367d36102
+  entity_value: place/belsay
+  references:
+  - document: document/1980-05-10-sounds-doll-by-doll-without-label
+    locator: Sounds, 10.05.1980
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

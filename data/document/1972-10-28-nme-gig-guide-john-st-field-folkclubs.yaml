@@ -1,0 +1,38 @@
+id: document/1972-10-28-nme-gig-guide-john-st-field-folkclubs
+type: Document
+label: 'NME, 28.10.1972: The Nationwide Gig Guide (John St Field in den Folkclubs)'
+document_type: calendar
+language: en
+url: https://www.worldradiohistory.com/UK/New-Musical-Express/1972/NME%201972-10-28.pdf#page=35
+access: live
+note: Gig Guide von John Pidgeon, Folkhinweise von Eric Winter. Druckseiten 24 und 33 entsprechen PDF-Seiten
+  35 und 36.
+about:
+- persona/john-st-field
+- person/alex-atterson
+- person/helen-woodall
+participants:
+- statement_id: st-04cdd11c0265
+  agent_ref: person/john-pidgeon
+  roles:
+  - author
+  credited_as: John Pidgeon
+  references: []
+- statement_id: st-6f739e6eb877
+  agent_ref: person/eric-winter
+  roles:
+  - author
+  credited_as: Eric Winter
+  references: []
+published:
+- statement_id: st-22d811b363b9
+  edtf_value: '1972-10-28'
+  references: []
+published_in:
+- statement_id: st-a7237eeb998e
+  entity_value: publication/nme
+  references: []
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

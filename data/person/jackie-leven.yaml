@@ -9,6 +9,17 @@ performs_as:
     locator: Ya, 28.01.1976, S. 42
     evidence_type: inferred
     scope: Gleichsetzung stammt aus den Notizen der Quellendatei, nicht aus dem Zeitungsbericht
+- statement_id: st-6e807764e292
+  entity_value: persona/sir-vincent-lone
+  references:
+  - document: document/2007-kevin-coyne-home-page-news-coyne-of-the-realm
+    locator: Kevin Coyne Home Page, News 2007
+    quote: has recorded under the name of Sir Vincent Lone
+    evidence_type: third_party
+  recorded_by:
+    agent: claude-code
+    model: claude-sonnet-5-5
+    job: job/meldungen
 note: Die Gleichsetzung mit der Persona John St. Field ist im Bericht der Ya nicht ausgesprochen, sondern
   kommt aus den Recherchenotizen der Quellendatei.
 recorded_by:

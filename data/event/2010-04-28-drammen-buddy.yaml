@@ -1,0 +1,57 @@
+id: event/2010-04-28-drammen-buddy
+type: Event
+label: Jackie Leven und Knut Buen, Buddy, Drammen (2010-04-28)
+event_type: concert
+note: 'Nur angekündigt; Durchführung nicht belegt. Mögliche Identität mit dem Konzert im Buddy am 29.04.2010
+  (Drammens Tidende 29.04., Konzertkalender der Recherche): Der Termin ist zwischen Mittwoch 28. und Donnerstag
+  29.04. offen.'
+time:
+- statement_id: st-408c0f725f70
+  edtf_value: '2010-04-28'
+  certainty: probable
+  note: Meldung vom 28.04.2010 spricht von „i kveld“ (Mittwoch).
+  references:
+  - document: document/2010-04-28-byavisa-drammen-leven-og-buen-pa-buddy
+    locator: Byavisa Drammen, 28.04.2010, S. 39
+    quote: Leven og Buen på Buddy i kveld
+    evidence_type: third_party
+took_place_at:
+- statement_id: st-c52f00fb6707
+  entity_value: place/buddy-drammen
+  references:
+  - document: document/2010-04-28-byavisa-drammen-leven-og-buen-pa-buddy
+    locator: Byavisa Drammen, 28.04.2010, S. 39
+    quote: Leven og Buen på Buddy i kveld
+    evidence_type: third_party
+participants:
+- statement_id: st-023f51b16f5d
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2010-04-28-byavisa-drammen-leven-og-buen-pa-buddy
+    locator: Byavisa Drammen, 28.04.2010, S. 39
+    quote: Leven og Buen på Buddy i kveld
+    evidence_type: third_party
+- statement_id: st-28992a2cdec7
+  agent_ref: person/knut-buen
+  roles:
+  - other
+  references:
+  - document: document/2010-04-28-byavisa-drammen-leven-og-buen-pa-buddy
+    locator: Byavisa Drammen, 28.04.2010, S. 39
+    quote: Leven og Buen på Buddy i kveld
+    evidence_type: third_party
+performance_status:
+- statement_id: st-4da0bef449c6
+  status_value: announced
+  references:
+  - document: document/2010-04-28-byavisa-drammen-leven-og-buen-pa-buddy
+    locator: Byavisa Drammen, 28.04.2010, S. 39
+    quote: Leven og Buen på Buddy i kveld
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

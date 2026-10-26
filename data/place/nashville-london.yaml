@@ -1,0 +1,20 @@
+id: place/nashville-london
+type: Place
+label: Nashville
+place_type: venue
+located_in:
+- statement_id: st-4d0ef9e5834b
+  entity_value: place/london
+  references:
+  - document: document/1979-07-28-record-mirror-dolls-to-split-spreafico-leaves
+    locator: Record Mirror, 28.07.1979, S. 4
+    quote: plays his debut with the band at the Nashville on August 4
+    evidence_type: third_party
+  - document: document/1979-12-08-record-mirror-doll-by-doll-nixed
+    locator: Record Mirror, 08.12.1979
+    evidence_type: third_party
+    scope: Zwei weitere Konzerte vor Weihnachten angekündigt (17.12. Nashville, 21.12. Marquee).
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

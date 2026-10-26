@@ -1,0 +1,38 @@
+id: event/2007-09-norwegen-tournee
+type: Event
+label: Jackie Leven, Norwegen-Tournee Herbst 2007
+event_type: tour
+note: Nur angekündigt; Durchführung nicht belegt.
+time:
+- statement_id: st-cba92ec4aa1c
+  edtf_value: 2007-09-19/2007-10-07
+  note: 14 Konzerte vom 19. September bis 7. Oktober 2007 angekündigt.
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007
+    quote: sin mest omfattende Norgesturné noensinne
+    evidence_type: third_party
+participants:
+- statement_id: st-db8ef5cac27e
+  agent_ref: person/jackie-leven
+  roles:
+  - vocals
+  - guitar
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007
+    quote: sin mest omfattende Norgesturné noensinne
+    evidence_type: third_party
+performance_status:
+- statement_id: st-59d892d475ca
+  status_value: announced
+  note: Nur angekündigt; Durchführung nicht belegt.
+  references:
+  - document: document/2007-09-17-puls-jackie-leven-pa-omfattende-norgesturne
+    locator: Puls, 17.09.2007
+    quote: sin mest omfattende Norgesturné noensinne
+    evidence_type: third_party
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen

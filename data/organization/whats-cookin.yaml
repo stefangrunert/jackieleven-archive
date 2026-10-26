@@ -1,0 +1,8 @@
+id: organization/whats-cookin
+type: Organization
+label: What's Cookin'
+organization_type: promoter
+recorded_by:
+  agent: claude-code
+  model: claude-sonnet-5-5
+  job: job/meldungen
