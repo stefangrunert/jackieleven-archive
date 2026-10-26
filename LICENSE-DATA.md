@@ -1,13 +1,13 @@
-# Lizenz der Daten
+# Data licence
 
-Daten, Schema, Vokabulare und eigene Texte dieses Repositorys stehen unter der
-Lizenz Creative Commons Namensnennung – Nicht kommerziell 4.0 International
-(CC BY-NC 4.0): https://creativecommons.org/licenses/by-nc/4.0/legalcode.de
+The data, schema, vocabularies and original texts in this repository are
+licensed under Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0): https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
-Ausgenommen sind wörtliche Zitate aus Quellen, Texte Jackie Levens und Bilder
-Dritter; sie sind in den Datendateien gekennzeichnet.
+Excluded are verbatim quotations from sources, texts by Jackie Leven and
+third-party images; they are marked as such in the data files.
 
-Angaben, die das Projekt an Wikidata oder MusicBrainz übergibt, stellt es
-zusätzlich unter CC0.
+Statements the project contributes to Wikidata or MusicBrainz are additionally
+released under CC0.
 
-Namensnennung: Jackie-Leven-Archiv, Stefan Grunert, https://jackieleven.com
+Attribution: Jackie Leven Archive, Stefan Grunert, https://jackieleven.com

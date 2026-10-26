@@ -1,34 +1,35 @@
-# Jackie-Leven-Archiv: Daten
+# Jackie Leven Archive: data
 
-Strukturierte Daten über den schottischen Songwriter Jackie Leven (1950–2011): Personen, Orte, Ereignisse, Werke und Dokumente, jede Angabe mit Belegen. Das Repository ist die Datengrundlage der Website jackieleven.com.
+Structured data on the Scottish songwriter Jackie Leven (1950–2011): people, places, events, works and documents, each statement backed by sources. The repository is the data foundation of the website jackieleven.com.
 
-Stand: Schema v0.2 mit den Daten des ersten Erschließungslaufs (89 Konzertberichte, 408 Entitäten). Das Repository ist nicht veröffentlicht.
+Status: schema v0.2 with the data of the first two extraction runs (89 concert reviews, 99 news items; 965 entities). Notes inside the data files, the schema descriptions and the validation messages are in German.
 
-## Aufbau
+## Layout
 
-| Pfad | Inhalt |
+| Path | Content |
 |---|---|
-| `schema/jackieleven.yaml` | Schema in LinkML |
-| `data/<type>/<key>.yaml` | eine Datei je Entität |
-| `jobs/` | Erschließungsaufträge |
-| `coverage/` | Abdeckungsregister: was wo durchgesehen wurde, auch ohne Ergebnis |
-| `agents/AUFTRAG.md` | Vorlage für Erschließungssitzungen |
-| `tools/validate.py` | Validierung, mit `--konflikte` Bericht über widersprüchliche Angaben |
-| `tools/assign_ids.py` | vergibt fehlende Aussagekennungen |
-| `tests/` | Tests der Validierung mit Beispieldaten |
+| `schema/jackieleven.yaml` | schema in LinkML |
+| `data/<type>/<key>.yaml` | one file per entity |
+| `jobs/` | extraction jobs |
+| `coverage/` | coverage register: what was searched where, including searches without results |
+| `agents/AUFTRAG.md` | brief for extraction sessions |
+| `agents/KOORDINATION.md` | instructions for the coordinating session |
+| `tools/validate.py` | validation; `--konflikte` adds a report on conflicting statements |
+| `tools/assign_ids.py` | assigns missing statement IDs |
+| `tests/` | tests of the validation with sample data |
 
-## Werkzeuge
+## Tools
 
 ```sh
 uv sync
-uv run python tools/assign_ids.py   # fehlende Aussagekennungen ergänzen
-uv run python tools/validate.py     # Daten, Aufträge und Register prüfen
-uv run pytest -q                    # Tests der Validierung
+uv run python tools/assign_ids.py   # add missing statement IDs
+uv run python tools/validate.py     # check data, jobs and register
+uv run pytest -q                    # tests of the validation
 ```
 
-Die Validierung prüft das Schema (geschlossen, unbekannte Felder sind Fehler), Kennungen und Dateinamen, auflösbare Verweise, Belege bei belegpflichtigen Eigenschaften, EDTF-Zeitangaben, den Ausschluss der Pastiche als Beleg, bestätigte externe Kennungen auf Eindeutigkeit, das Modell der Aufträge (Sonnet), eindeutige Aussagekennungen, Zyklen in `replaced_by`, `located_in` und `part_of`, Prüfangaben (eine nach der Prüfung geänderte Aussage wird gemeldet), Urheber von Behauptungen und Textstellen gegen `passages/manifest.txt`, sofern vorhanden. Gleiche Bezeichnungen derselben Klasse meldet sie als mögliche Doppelung.
+The validation checks the schema (closed: unknown fields are errors), IDs and file names, resolvable references, sources on properties that require them, EDTF dates, the exclusion of the pastiche as a source, uniqueness of confirmed external IDs, the model of each job (Sonnet), unique statement IDs, cycles in `replaced_by`, `located_in` and `part_of`, review data (a statement changed after review is reported), claimants, and passages against `passages/manifest.txt` where it exists. Identical labels within a class are reported as possible duplicates.
 
-## Lizenzen
+## Licences
 
-- Daten, Schema und eigene Texte: [CC BY-NC 4.0](LICENSE-DATA.md). Wörtliche Zitate aus Quellen, Texte Jackie Levens und Bilder Dritter sind ausgenommen.
-- Werkzeuge (`tools/`, `tests/`): [MIT](LICENSE).
+- Data, schema and original texts: [CC BY-NC 4.0](LICENSE-DATA.md). Verbatim quotations from sources, texts by Jackie Leven and third-party images are excluded.
+- Tools (`tools/`, `tests/`): [MIT](LICENSE).
